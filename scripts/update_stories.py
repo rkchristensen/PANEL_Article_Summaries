@@ -139,6 +139,7 @@ ROWS_PER_QUERY = 40
 USER_AGENT = "nonmarket-ethics-scholarship-feed/1.0 (+https://github.com/rkchristensen/nonmarket_ethics_scholarship_feed)"
 OLLAMA_URL = os.getenv("OLLAMA_URL", "http://localhost:11434/api/generate")
 OLLAMA_MODEL = os.getenv("OLLAMA_MODEL", "qwen2.5:7b-instruct")
+ENABLE_OLLAMA = os.getenv("ENABLE_OLLAMA", "1") != "0"
 MAX_NEW_SUMMARIES_PER_RUN = 20
 
 
@@ -411,7 +412,7 @@ def collect_stories() -> list[Story]:
                 continue
 
             plain_summary = summary_cache.get(key)
-            if plain_summary is None and new_summaries < MAX_NEW_SUMMARIES_PER_RUN:
+            if plain_summary is None and ENABLE_OLLAMA and new_summaries < MAX_NEW_SUMMARIES_PER_RUN:
                 plain_summary = summarize_plain_language(
                     title=item["title"],
                     source=item["source"],
