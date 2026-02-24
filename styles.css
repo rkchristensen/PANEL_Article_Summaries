@@ -73,15 +73,41 @@ body {
   background: var(--negative);
 }
 
-.tile a {
+.tile-header {
+  cursor: pointer;
+  list-style: none;
+}
+
+.tile-header::-webkit-details-marker {
+  display: none;
+}
+
+.tile-title {
   color: var(--link);
-  text-decoration: none;
   font-weight: 600;
   line-height: 1.35;
 }
 
-.tile a:hover,
-.tile a:focus {
+.tile-body {
+  margin-top: 0.55rem;
+  border-top: 1px solid rgba(31, 41, 51, 0.15);
+  padding-top: 0.55rem;
+}
+
+.summary {
+  margin: 0 0 0.45rem;
+  font-size: 0.9rem;
+  line-height: 1.45;
+}
+
+.full-link {
+  color: var(--link);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.full-link:hover,
+.full-link:focus {
   text-decoration: underline;
 }
 

@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import json
+import os
 import re
 import ssl
 import urllib.parse
@@ -16,6 +17,7 @@ from typing import Iterable
 
 ROOT = Path(__file__).resolve().parent.parent
 OUTPUT_PATH = ROOT / "data" / "stories.json"
+SUMMARY_CACHE_PATH = ROOT / "data" / "summaries_cache.json"
 
 ACADEMIC_QUERIES = [
     "government corruption",
@@ -135,6 +137,9 @@ BUSINESS_TERMS = {
 MAX_STORIES_PER_COLUMN = 60
 ROWS_PER_QUERY = 40
 USER_AGENT = "nonmarket-ethics-scholarship-feed/1.0 (+https://github.com/rkchristensen/nonmarket_ethics_scholarship_feed)"
+OLLAMA_URL = os.getenv("OLLAMA_URL", "http://localhost:11434/api/generate")
+OLLAMA_MODEL = os.getenv("OLLAMA_MODEL", "qwen2.5:7b-instruct")
+MAX_NEW_SUMMARIES_PER_RUN = 20
 
 
 @dataclass
@@ -147,6 +152,7 @@ class Story:
     sentiment: str
     government: bool
     nonprofit: bool
+    plain_summary: str | None = None
 
 
 def crossref_works_url(query: str) -> str:
@@ -318,9 +324,77 @@ def normalize_story(raw: dict) -> Story | None:
     )
 
 
+def load_summary_cache() -> dict[str, str]:
+    if not SUMMARY_CACHE_PATH.exists():
+        return {}
+    try:
+        raw = json.loads(SUMMARY_CACHE_PATH.read_text(encoding="utf-8"))
+        if isinstance(raw, dict):
+            return {str(k): str(v) for k, v in raw.items() if isinstance(v, str) and v.strip()}
+    except Exception:
+        pass
+    return {}
+
+
+def save_summary_cache(cache: dict[str, str]) -> None:
+    SUMMARY_CACHE_PATH.parent.mkdir(parents=True, exist_ok=True)
+    SUMMARY_CACHE_PATH.write_text(json.dumps(cache, indent=2), encoding="utf-8")
+
+
+def compress_summary(summary: str) -> str:
+    cleaned = re.sub(r"\s+", " ", summary).strip()
+    if not cleaned:
+        return ""
+    parts = re.split(r"(?<=[.!?])\s+", cleaned)
+    parts = [p.strip() for p in parts if p.strip()]
+    if len(parts) > 4:
+        return " ".join(parts[:4])
+    return cleaned
+
+
+def summarize_plain_language(title: str, source: str, abstract: str) -> str | None:
+    if not abstract.strip():
+        return None
+
+    prompt = (
+        "Write a plain-language summary for practitioners in exactly 3 to 4 sentences. "
+        "Use simple wording, avoid jargon, and explain practical implications. "
+        "Do not use bullets, markdown, or headings.\n\n"
+        f"Title: {title}\n"
+        f"Source: {source}\n"
+        f"Abstract: {abstract}\n"
+    )
+
+    payload = json.dumps(
+        {
+            "model": OLLAMA_MODEL,
+            "prompt": prompt,
+            "stream": False,
+            "options": {"temperature": 0.2},
+        }
+    ).encode("utf-8")
+    request = urllib.request.Request(
+        OLLAMA_URL,
+        data=payload,
+        headers={"Content-Type": "application/json"},
+        method="POST",
+    )
+    try:
+        with urllib.request.urlopen(request, timeout=40) as response:
+            raw = json.loads(response.read().decode("utf-8", errors="replace"))
+            text = str(raw.get("response", "")).strip()
+            text = compress_summary(text)
+            return text or None
+    except Exception:
+        return None
+
+
 def collect_stories() -> list[Story]:
     collected: list[Story] = []
     seen_keys: set[str] = set()
+    summary_cache = load_summary_cache()
+    cache_changed = False
+    new_summaries = 0
 
     for query in ACADEMIC_QUERIES:
         try:
@@ -335,8 +409,25 @@ def collect_stories() -> list[Story]:
             story = normalize_story(item)
             if story is None:
                 continue
+
+            plain_summary = summary_cache.get(key)
+            if plain_summary is None and new_summaries < MAX_NEW_SUMMARIES_PER_RUN:
+                plain_summary = summarize_plain_language(
+                    title=item["title"],
+                    source=item["source"],
+                    abstract=item.get("abstract", ""),
+                )
+                new_summaries += 1
+                if plain_summary:
+                    summary_cache[key] = plain_summary
+                    cache_changed = True
+
+            story.plain_summary = plain_summary
             seen_keys.add(key)
             collected.append(story)
+
+    if cache_changed:
+        save_summary_cache(summary_cache)
 
     return sorted(
         collected,
@@ -357,6 +448,7 @@ def build_output(stories: list[Story]) -> dict:
             "source": story.source,
             "published_at": story.published_at,
             "sentiment": story.sentiment,
+            "plain_summary": story.plain_summary,
         }
 
     return {

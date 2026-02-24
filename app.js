@@ -6,20 +6,42 @@ function formatDate(value) {
 }
 
 function buildTile(story) {
-  const tile = document.createElement("article");
+  const tile = document.createElement("details");
   tile.className = `tile ${story.sentiment || "negative"}`;
+
+  const header = document.createElement("summary");
+  header.className = "tile-header";
+
+  const title = document.createElement("div");
+  title.className = "tile-title";
+  title.textContent = story.short_title || story.title || "Untitled story";
+  header.appendChild(title);
 
   const link = document.createElement("a");
   link.href = story.url;
   link.target = "_blank";
   link.rel = "noopener noreferrer";
-  link.textContent = story.short_title || story.title || "Untitled story";
-  tile.appendChild(link);
+  link.textContent = "Read full article";
+  link.className = "full-link";
 
   const meta = document.createElement("div");
   meta.className = "meta";
   meta.textContent = `${story.source || "Unknown source"} | ${formatDate(story.published_at)}`;
-  tile.appendChild(meta);
+  header.appendChild(meta);
+
+  tile.appendChild(header);
+
+  const body = document.createElement("div");
+  body.className = "tile-body";
+
+  const summary = document.createElement("p");
+  summary.className = "summary";
+  summary.textContent =
+    story.plain_summary ||
+    "Plain-language summary not available yet. Open the full article for details.";
+  body.appendChild(summary);
+  body.appendChild(link);
+  tile.appendChild(body);
 
   return tile;
 }
