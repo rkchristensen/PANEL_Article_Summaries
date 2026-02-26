@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-24T18:58:08.800390+00:00",
+  "updated_at": "2026-02-26T16:07:35.669547+00:00",
   "government": [
     {
       "title": "Review of Risk Based Financial Governance Literature Shaping Institutional Investment Decision Practices",
@@ -47,21 +47,21 @@
       "plain_summary": "This article explores the concept 'light from light' found in early Christian texts like the Nicene Creed. It asks if this metaphor is still relevant for modern Christian ethics, especially considering new ways of thinking about Jesus and his divinity. The author suggests that understanding this ancient metaphor can help create a broader vision of what it means to be human and how we should act ethically today. They argue that by examining the historical context and biblical perspectives, we can find ways to apply these ideas in practical ways for modern ethical discussions."
     },
     {
+      "title": "Aviation accident investigation analysis methodologies used by 12 government Safety Investigation Authorities",
+      "short_title": "Aviation accident investigation analysis methodologies used by 12 government Safety Investigat\u2026",
+      "url": "https://doi.org/10.1016/j.jsr.2026.02.001",
+      "source": "Journal of Safety Research",
+      "published_at": "2026-06-01T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": null
+    },
+    {
       "title": "Governing Ethics for the Digital Transformation: Developing, Testing, and Validating a Framework",
       "short_title": "Governing Ethics for the Digital Transformation: Developing, Testing, and Validating a Framewo\u2026",
       "url": "https://doi.org/10.1016/j.giq.2026.102117",
       "source": "Government Information Quarterly",
       "published_at": "2026-06-01T00:00:00+00:00",
       "sentiment": "negative",
-      "plain_summary": null
-    },
-    {
-      "title": "Rapid review: Three ways local government could improve inequality, public health and wellbeing outcomes in supported housing in England",
-      "short_title": "Rapid review: Three ways local government could improve inequality, public health and wellbein\u2026",
-      "url": "https://doi.org/10.1016/j.puhip.2025.100692",
-      "source": "Public Health in Practice",
-      "published_at": "2026-06-01T00:00:00+00:00",
-      "sentiment": "positive",
       "plain_summary": null
     },
     {
@@ -114,7 +114,7 @@
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-02-24T18:57:50.054201+00:00",
+      "published_at": "2026-02-26T16:07:25.081122+00:00",
       "sentiment": "negative",
       "plain_summary": "This research focuses on understanding the emotional risks in police work and how they manage their emotions to improve job satisfaction. It was conducted by observing various police units like forensic science, digital investigation, financial division, criminal division, anti-terrorism unit, and more over 26 days. The study found two key emotions that are hard for them to express: interest and frustration. These emotions make it difficult for officers to discuss their work-related feelings openly, leading to invisible or undiscussed labor."
     },
@@ -123,7 +123,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-02-24T18:57:47.799871+00:00",
+      "published_at": "2026-02-26T16:07:24.180685+00:00",
       "sentiment": "positive",
       "plain_summary": "Data science has become crucial as we generate vast amounts of information daily. It helps transform this data into useful insights for better decision-making across various sectors. For audit institutions, integrating data science can enhance their ability to manage public funds more effectively and improve accountability. By using data science, audits can provide clearer and more accurate reports that recommend improvements faster, which benefits the overall administration and improves citizens' quality of life."
     },
@@ -132,7 +132,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-02-24T18:57:47.799690+00:00",
+      "published_at": "2026-02-26T16:07:24.180565+00:00",
       "sentiment": "positive",
       "plain_summary": null
     },
@@ -141,7 +141,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-02-24T18:57:47.799616+00:00",
+      "published_at": "2026-02-26T16:07:24.180533+00:00",
       "sentiment": "positive",
       "plain_summary": "This paper discusses a scenario where autonomous killer robots are used in warfare without human intervention. These robots can make decisions about who to target based on AI algorithms trained to recognize certain uniforms. If one of these drones targets and kills an enemy soldier who is surrendering, it would violate international laws. Another concern is if the robot makes a mistake by attacking another similar system, leading to unintended conflicts."
     },
@@ -150,7 +150,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-02-24T18:57:47.799074+00:00",
+      "published_at": "2026-02-26T16:07:24.180351+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how public service motivation can lead to noble cause corruption in Lebanon, where there's a lot of social and economic hardship. The research found that feelings like compassion and selflessness often push people into doing good deeds for noble causes, but these actions sometimes involve corrupt practices. This leads to internal conflicts as the person feels both guilty and supported by their work environment. Factors like physical exchanges, personal space in the workplace, and close relationships with users can make it easier for this type of corruption to happen."
     },
@@ -159,7 +159,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-02-24T18:57:47.798758+00:00",
+      "published_at": "2026-02-26T16:07:24.180254+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how public service motivation can lead to corruption for a noble cause in Lebanon, where corruption is prevalent and social issues are challenging. Based on interviews with 32 Lebanese public servants, the research explores how feelings of compassion and self-sacrifice related to public service motivation might encourage them to engage in corrupt behavior for what they see as a good cause. The study highlights that these motivations can lead to behaviors like providing extra support or shielding users from punishment. This can create internal conflicts within the public servant due to their emotional connection with those affected."
     },
@@ -168,9 +168,27 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-02-24T18:57:47.798399+00:00",
+      "published_at": "2026-02-26T16:07:24.180072+00:00",
       "sentiment": "negative",
       "plain_summary": null
+    },
+    {
+      "title": "Perceptions of Political Corruption in State Government",
+      "short_title": "Perceptions of Political Corruption in State Government",
+      "url": "https://doi.org/10.1177/1532673x261420826",
+      "source": "American Politics Research",
+      "published_at": "2026-02-25T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study looks at how people feel about corruption happening in different states of the US. It found that people can sometimes connect what they think with what's really happening. People also tend to see more corruption when the governor from their party isn't in power. The research shows that knowing a lot about politics doesn't change these perceptions much."
+    },
+    {
+      "title": "CORRUPTION IN KAZAKHSTAN: SOCIO-ECONOMIC CONSEQUENCES AND IMPLICATIONS FOR PUBLIC ADMINISTRATION",
+      "short_title": "CORRUPTION IN KAZAKHSTAN: SOCIO-ECONOMIC CONSEQUENCES AND IMPLICATIONS FOR PUBLIC ADMINISTRATI\u2026",
+      "url": "https://doi.org/10.47649/vau.25.v79.i4.36",
+      "source": "Bulletin of the Khalel Dosmukhamedov Atyrau University",
+      "published_at": "2026-02-25T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "Corruption is a major issue affecting Kazakhstan's economy and society. It leads to poor public services like healthcare and education, which makes life harder for people. Corruption also hurts investment by making it risky for businesses. This causes problems in infrastructure and innovation."
     },
     {
       "title": "Effect of Corruption on Human Development Across the Globe: Does Government Budget Transparency Play a Role?",
@@ -191,7 +209,7 @@
       "plain_summary": "This study looks at how environmental damage caused by corruption is treated under Indonesian laws. It found that when environmental offenses are seen as part of corruption, it can be considered a financial loss for the government. This means they have more rights to recover from those responsible and restore the environment. The research suggests changing law enforcement practices so that not only fines but also seized assets can go towards restoring the environment directly, rather than just preventing future damage."
     },
     {
-      "title": "Prosecution Authority of the Corruption Eradication Commission Prosecutor: What is Dualism in Prosecution",
+      "title": "Prosecution Authority of the Corruption Eradication Commission Prosecutor: What is Dualism in Prosecution?",
       "short_title": "Prosecution Authority of the Corruption Eradication Commission Prosecutor: What is Dualism in\u2026",
       "url": "https://doi.org/10.62264/ijccj.v2i2.248",
       "source": "Indonesian Journal of Crime and Criminal Justice",
@@ -207,33 +225,6 @@
       "published_at": "2026-02-22T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "This study looks at how Indonesia's prosecutor's office is trying to speed up important national projects while also fighting corruption. The current policies focus too much on punishing people who might be corrupt, which isn't fair or effective. To fix this, the researchers suggest making new rules that balance stopping bad behavior with helping prevent it from happening in the first place. They propose creating a team within the prosecutor's office to protect these important projects and include more measures that don\u2019t involve punishment but still help stop corruption."
-    },
-    {
-      "title": "Investigation of the Alleged Corruption Case in the Rp 9.9 Trillion Education Laptop Procurement Budget: An Analysis of the Rp 10 Million Per-Unit Laptop Acquisition During Nadiem Makarim\u2019s Tenure",
-      "short_title": "Investigation of the Alleged Corruption Case in the Rp 9.9 Trillion Education Laptop Procureme\u2026",
-      "url": "https://doi.org/10.59188/eduvest.v6i2.52486",
-      "source": "Eduvest - Journal of Universal Studies",
-      "published_at": "2026-02-20T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This study examines a case where there were suspicions of corruption involving the purchase of laptops worth over 9.9 trillion Indonesian Rupiah for educational purposes at the Ministry of Education, Culture, Research, and Technology. The research looked into how these laptops were bought, if anything was amiss in the process, what might have caused such issues, and how it affected things like budget efficiency and education quality. It found that there seemed to be problems with how the laptops were procured, including possibly inflated prices or unfair deals. The findings are meant to help prevent similar situations from happening again and suggest ways to improve procurement processes for better governance."
-    },
-    {
-      "title": "Understanding The Quality of Democracy in Mongolia: The Role of Corruption, Resource Capture, And Media Freedom",
-      "short_title": "Understanding The Quality of Democracy in Mongolia: The Role of Corruption, Resource Capture,\u2026",
-      "url": "https://doi.org/10.23958/ijssei/vol12-i02/440",
-      "source": "International Journal of Social Science and Economics Invention",
-      "published_at": "2026-02-20T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This study examines how corruption, resource capture by elites, and media freedom impact the quality of democracy in Mongolia. It found that perceived corruption and control over resources negatively affect democracy's quality, while a free press positively influences it. Additionally, higher democracy quality leads to greater trust in democracy and more political participation among citizens. Practically, these findings suggest that fighting corruption, limiting elite resource control, and protecting media freedom are crucial for improving Mongolia\u2019s democratic environment and boosting citizen engagement."
-    },
-    {
-      "title": "Understanding The Quality of Democracy in Mongolia: The Role of Corruption, Resource Capture, And Media Freedom",
-      "short_title": "Understanding The Quality of Democracy in Mongolia: The Role of Corruption, Resource Capture,\u2026",
-      "url": "https://doi.org/10.23958/ijssei/vol12-i01/440",
-      "source": "International Journal of Social Science and Economics Invention",
-      "published_at": "2026-02-20T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "The study examines how corruption, resource capture, and media freedom impact the quality of democracy in Mongolia. It found that perceptions of corruption and control over resources negatively affect democracy's quality, while having a free press positively influences it. Additionally, higher democracy quality leads to greater trust in democracy and more political participation by citizens. Practically, this means focusing on reducing corruption, limiting elite access to public resources, and protecting media freedom can improve Mongolia\u2019s democratic system and boost citizen engagement."
     }
   ],
   "nonprofit": [
