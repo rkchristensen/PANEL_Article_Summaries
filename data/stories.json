@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-26T16:32:41.230967+00:00",
+  "updated_at": "2026-02-27T16:47:51.287501+00:00",
   "government": [
     {
       "title": "Review of Risk Based Financial Governance Literature Shaping Institutional Investment Decision Practices",
@@ -83,6 +83,15 @@
       "plain_summary": null
     },
     {
+      "title": "Perceived inequality and tax compliance in Ghana: the moderating roles of trust in governance, governance quality and corruption",
+      "short_title": "Perceived inequality and tax compliance in Ghana: the moderating roles of trust in governance,\u2026",
+      "url": "https://doi.org/10.1108/ajems-07-2025-0531",
+      "source": "African Journal of Economic and Management Studies",
+      "published_at": "2026-03-02T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This research looks at how people feel about unfairness in Ghana and whether they pay their taxes. It found that when people think things are not fair, especially economically or socially, they are less likely to pay their taxes. The study also found that having trust in the government makes this effect stronger. However, good governance or fighting corruption did not have a big impact on how much unfairness affects tax compliance."
+    },
+    {
       "title": "The Colfax County War: Violence and Corruption in Territorial New Mexico by Corey Recko (review)",
       "short_title": "The Colfax County War: Violence and Corruption in Territorial New Mexico by Corey Recko (revie\u2026",
       "url": "https://doi.org/10.1353/cwe.2026.a982930",
@@ -110,11 +119,20 @@
       "plain_summary": null
     },
     {
+      "title": "The Role of Investigators in the Handling of Corruption Cases",
+      "short_title": "The Role of Investigators in the Handling of Corruption Cases",
+      "url": "https://doi.org/10.30574/wjarr.2026.29.2.0446",
+      "source": "World Journal of Advanced Research and Reviews",
+      "published_at": "2026-02-28T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "Corruption can severely affect a country's economy and trust in its government. This study focuses on how prosecutors' investigators handle corruption cases in Maluku region. Investigators have strong legal grounds to conduct investigations according to laws. They follow steps like issuing warrants and collecting evidence."
+    },
+    {
       "title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bilan d\u2019une recherche immersive en Police Judiciaire fran\u00e7aise",
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-02-26T16:32:33.589300+00:00",
+      "published_at": "2026-02-27T16:47:39.876744+00:00",
       "sentiment": "negative",
       "plain_summary": "This research focuses on understanding the emotional risks in police work and how they manage their emotions to improve job satisfaction. It was conducted by observing various police units like forensic science, digital investigation, financial division, criminal division, anti-terrorism unit, and more over 26 days. The study found two key emotions that are hard for them to express: interest and frustration. These emotions make it difficult for officers to discuss their work-related feelings openly, leading to invisible or undiscussed labor."
     },
@@ -123,7 +141,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-02-26T16:32:32.659254+00:00",
+      "published_at": "2026-02-27T16:47:39.157225+00:00",
       "sentiment": "positive",
       "plain_summary": "Data science has become crucial as we generate vast amounts of information daily. It helps transform this data into useful insights for better decision-making across various sectors. For audit institutions, integrating data science can enhance their ability to manage public funds more effectively and improve accountability. By using data science, audits can provide clearer and more accurate reports that recommend improvements faster, which benefits the overall administration and improves citizens' quality of life."
     },
@@ -132,7 +150,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-02-26T16:32:32.659140+00:00",
+      "published_at": "2026-02-27T16:47:39.157036+00:00",
       "sentiment": "positive",
       "plain_summary": null
     },
@@ -141,7 +159,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-02-26T16:32:32.659102+00:00",
+      "published_at": "2026-02-27T16:47:39.156980+00:00",
       "sentiment": "positive",
       "plain_summary": "This paper discusses a scenario where autonomous killer robots are used in warfare without human intervention. These robots can make decisions about who to target based on AI algorithms trained to recognize certain uniforms. If one of these drones targets and kills an enemy soldier who is surrendering, it would violate international laws. Another concern is if the robot makes a mistake by attacking another similar system, leading to unintended conflicts."
     },
@@ -150,7 +168,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-02-26T16:32:32.658550+00:00",
+      "published_at": "2026-02-27T16:47:39.156688+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how public service motivation can lead to noble cause corruption in Lebanon, where there's a lot of social and economic hardship. The research found that feelings like compassion and selflessness often push people into doing good deeds for noble causes, but these actions sometimes involve corrupt practices. This leads to internal conflicts as the person feels both guilty and supported by their work environment. Factors like physical exchanges, personal space in the workplace, and close relationships with users can make it easier for this type of corruption to happen."
     },
@@ -159,7 +177,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-02-26T16:32:32.658465+00:00",
+      "published_at": "2026-02-27T16:47:39.156471+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how public service motivation can lead to corruption for a noble cause in Lebanon, where corruption is prevalent and social issues are challenging. Based on interviews with 32 Lebanese public servants, the research explores how feelings of compassion and self-sacrifice related to public service motivation might encourage them to engage in corrupt behavior for what they see as a good cause. The study highlights that these motivations can lead to behaviors like providing extra support or shielding users from punishment. This can create internal conflicts within the public servant due to their emotional connection with those affected."
     },
@@ -168,7 +186,7 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-02-26T16:32:32.658322+00:00",
+      "published_at": "2026-02-27T16:47:39.156138+00:00",
       "sentiment": "negative",
       "plain_summary": null
     },
@@ -189,42 +207,6 @@
       "published_at": "2026-02-25T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "Corruption is a major issue affecting Kazakhstan's economy and society. It leads to poor public services like healthcare and education, which makes life harder for people. Corruption also hurts investment by making it risky for businesses. This causes problems in infrastructure and innovation."
-    },
-    {
-      "title": "Effect of Corruption on Human Development Across the Globe: Does Government Budget Transparency Play a Role?",
-      "short_title": "Effect of Corruption on Human Development Across the Globe: Does Government Budget Transparenc\u2026",
-      "url": "https://doi.org/10.55482/jcim.2025.35767",
-      "source": "Journal of Comparative International Management",
-      "published_at": "2026-02-23T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This research looks at how much corruption affects a country's progress and well-being for its people over time. It found that more corruption leads to worse outcomes in areas like health, education, and income. However, when governments are transparent about their spending\u2014letting citizens see where the money goes\u2014it helps improve these negative effects even in places with high levels of corruption. This study shows how keeping government finances open can make a big difference in improving people's lives despite corruption being present."
-    },
-    {
-      "title": "Constitutional Guarantee of Ecological Damage Restoration within the Environmental Corruption Nexus",
-      "short_title": "Constitutional Guarantee of Ecological Damage Restoration within the Environmental Corruption\u2026",
-      "url": "https://doi.org/10.62264/ijccj.v2i2.258",
-      "source": "Indonesian Journal of Crime and Criminal Justice",
-      "published_at": "2026-02-22T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This study looks at how environmental damage caused by corruption is treated under Indonesian laws. It found that when environmental offenses are seen as part of corruption, it can be considered a financial loss for the government. This means they have more rights to recover from those responsible and restore the environment. The research suggests changing law enforcement practices so that not only fines but also seized assets can go towards restoring the environment directly, rather than just preventing future damage."
-    },
-    {
-      "title": "Prosecution Authority of the Corruption Eradication Commission Prosecutor: What is Dualism in Prosecution?",
-      "short_title": "Prosecution Authority of the Corruption Eradication Commission Prosecutor: What is Dualism in\u2026",
-      "url": "https://doi.org/10.62264/ijccj.v2i2.248",
-      "source": "Indonesian Journal of Crime and Criminal Justice",
-      "published_at": "2026-02-22T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "In Indonesia, there is usually one prosecutor for all cases, but for corruption specifically, a special body called KPK has its own authority to start investigations and trials. This dual system means that even though the Attorney General leads prosecutions in general, KPK can handle corruption cases independently without needing permission from them. This allows KPK to focus on fighting corruption more effectively while still following the overall rule of having only one prosecutor for most crimes."
-    },
-    {
-      "title": "Reconstruction of Criminal Law Policy in Countering Corruption by the Prosecutor\u2019s Office in the Program to Accelerate the Implementation of National Strategic Projects",
-      "short_title": "Reconstruction of Criminal Law Policy in Countering Corruption by the Prosecutor\u2019s Office in t\u2026",
-      "url": "https://doi.org/10.26623/jic.v11i1.13137",
-      "source": "Jurnal Ius Constituendum",
-      "published_at": "2026-02-22T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This study looks at how Indonesia's prosecutor's office is trying to speed up important national projects while also fighting corruption. The current policies focus too much on punishing people who might be corrupt, which isn't fair or effective. To fix this, the researchers suggest making new rules that balance stopping bad behavior with helping prevent it from happening in the first place. They propose creating a team within the prosecutor's office to protect these important projects and include more measures that don\u2019t involve punishment but still help stop corruption."
     }
   ],
   "nonprofit": [
