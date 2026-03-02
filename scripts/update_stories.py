@@ -32,6 +32,53 @@ ACADEMIC_QUERIES = [
     "anti-graft institutions",
 ]
 
+TARGET_JOURNALS = [
+    "Public Integrity",
+    "Administrative Science Quarterly",
+    "Journal of Public Administration Research and Theory",
+    "Public Administration Review",
+    "Journal of Policy Analysis and Management",
+    "Public Administration",
+    "Public Management Review",
+    "Government and Opposition",
+    "Policy Studies Journal",
+    "Journal of European Public Policy",
+    "Criminology and Public Policy",
+    "Educational Administration Quarterly",
+    "Review of Public Personnel Administration",
+    "Human Resources for Health",
+    "Policy and Society",
+    "Policy and Internet",
+    "Information Technology for Development",
+    "Governance",
+    "Policy and Politics",
+    "Regulation and Governance",
+    "Journal of Public Relations Research",
+    "Nonprofit Policy Forum",
+    "Journal of Public and Nonprofit Affairs",
+    "Canadian Journal of Nonprofit and Social Economy Research",
+    "Nonprofit and Voluntary Sector Quarterly",
+    "Nonprofit Management and Leadership",
+    "International Review on Public and Nonprofit Marketing",
+    "Journal of Nonprofit and Public Sector Marketing",
+    "China Nonprofit Review",
+    "Journal of Nonprofit Education and Leadership",
+    "Journal of Nonprofit & Public Sector Marketing",
+]
+
+JOURNAL_FOCUS_QUERY = (
+    "government nonprofit public sector charity ngo ethics corruption graft greed "
+    "anti-corruption anti-graft anti-fraud transparency integrity accountability"
+)
+
+
+def normalize_journal_name(value: str) -> str:
+    lowered = value.lower().replace("&", "and")
+    return re.sub(r"[^a-z0-9]+", " ", lowered).strip()
+
+
+TARGET_JOURNAL_NORMALIZED = {normalize_journal_name(j) for j in TARGET_JOURNALS}
+
 POSITIVE_KEYWORDS = {
     "anti-corruption",
     "anti corruption",
@@ -136,6 +183,7 @@ BUSINESS_TERMS = {
 
 MAX_STORIES_PER_COLUMN = 60
 ROWS_PER_QUERY = 40
+JOURNAL_ROWS_PER_QUERY = 20
 USER_AGENT = "nonmarket-ethics-scholarship-feed/1.0 (+https://github.com/rkchristensen/nonmarket_ethics_scholarship_feed)"
 OLLAMA_URL = os.getenv("OLLAMA_URL", "http://localhost:11434/api/generate")
 OLLAMA_MODEL = os.getenv("OLLAMA_MODEL", "qwen2.5:7b-instruct")
@@ -153,6 +201,7 @@ class Story:
     sentiment: str
     government: bool
     nonprofit: bool
+    is_target_journal: bool = False
     plain_summary: str | None = None
 
 
@@ -161,6 +210,21 @@ def crossref_works_url(query: str) -> str:
         {
             "query.bibliographic": query,
             "rows": str(ROWS_PER_QUERY),
+            "sort": "published",
+            "order": "desc",
+            "filter": "type:journal-article",
+            "select": "DOI,title,URL,published,published-online,published-print,created,container-title,publisher,abstract",
+        }
+    )
+    return f"https://api.crossref.org/works?{params}"
+
+
+def crossref_journal_works_url(journal: str, query: str) -> str:
+    params = urllib.parse.urlencode(
+        {
+            "query.container-title": journal,
+            "query.bibliographic": query,
+            "rows": str(JOURNAL_ROWS_PER_QUERY),
             "sort": "published",
             "order": "desc",
             "filter": "type:journal-article",
@@ -313,6 +377,9 @@ def normalize_story(raw: dict) -> Story | None:
     if not is_government and not is_nonprofit:
         return None
 
+    source_normalized = normalize_journal_name(raw["source"])
+    is_target_journal = source_normalized in TARGET_JOURNAL_NORMALIZED
+
     return Story(
         title=raw["title"],
         short_title=short_title(raw["title"]),
@@ -322,6 +389,7 @@ def normalize_story(raw: dict) -> Story | None:
         sentiment=sentiment,
         government=is_government,
         nonprofit=is_nonprofit,
+        is_target_journal=is_target_journal,
     )
 
 
@@ -397,9 +465,14 @@ def collect_stories() -> list[Story]:
     cache_changed = False
     new_summaries = 0
 
-    for query in ACADEMIC_QUERIES:
+    request_urls = [crossref_works_url(query) for query in ACADEMIC_QUERIES]
+    request_urls.extend(
+        crossref_journal_works_url(journal, JOURNAL_FOCUS_QUERY) for journal in TARGET_JOURNALS
+    )
+
+    for request_url in request_urls:
         try:
-            response = fetch(crossref_works_url(query))
+            response = fetch(request_url)
         except Exception:
             continue
 
@@ -432,7 +505,7 @@ def collect_stories() -> list[Story]:
 
     return sorted(
         collected,
-        key=lambda s: s.published_at,
+        key=lambda s: (s.is_target_journal, s.published_at),
         reverse=True,
     )
 
