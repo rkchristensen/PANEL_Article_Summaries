@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-02T23:28:27.446354+00:00",
+  "updated_at": "2026-03-03T15:57:59.373769+00:00",
   "government": [
     {
       "title": "Are Public Officials More Risk-averse than Private Sector Employees in Decision-making? Interest and Accountability Matter",
@@ -74,15 +74,6 @@
       "plain_summary": "This article looks at how new technology like AI is changing international laws for wars. As weapons get more automated, it raises questions about who should be held responsible when they make decisions. The main idea is that current rules are still useful but need updating to fit with these new types of weapons. It suggests ways to improve the existing laws so that people in war zones can continue to rely on protections like not harming civilians unnecessarily."
     },
     {
-      "title": "Working Behavior Of Government Officials In Public Services In Dutuno Village, Paleleh District, Buol Regency",
-      "short_title": "Working Behavior Of Government Officials In Public Services In Dutuno Village, Paleleh Distric\u2026",
-      "url": "https://doi.org/10.37905/ppj.v6i2.2985",
-      "source": "Public Policy Journal",
-      "published_at": "2026-08-31T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This research looked at how government workers provide services in a village setting. They found that while the officials are polite to people, there are problems like being late or not responding quickly which affect how well they serve others. Showing care by helping with paperwork is good, but sometimes it takes too long and doesn't happen often enough. The biggest issue is following rules and showing up for work on time."
-    },
-    {
       "title": "Mars\u2013Venus marriage: State-owned shareholders and corporate fraud in private firms",
       "short_title": "Mars\u2013Venus marriage: State-owned shareholders and corporate fraud in private firms",
       "url": "https://doi.org/10.1016/j.jcae.2026.100544",
@@ -141,16 +132,25 @@
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-03-02T23:27:27.091708+00:00",
+      "published_at": "2026-03-03T12:49:27.254402+00:00",
       "sentiment": "negative",
       "plain_summary": "This research focuses on understanding the emotional risks in police work and how they manage their emotions to improve job satisfaction. It was conducted by observing various police units like forensic science, digital investigation, financial division, criminal division, anti-terrorism unit, and more over 26 days. The study found two key emotions that are hard for them to express: interest and frustration. These emotions make it difficult for officers to discuss their work-related feelings openly, leading to invisible or undiscussed labor."
+    },
+    {
+      "title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause noble \u00e0 partir du cas libanais",
+      "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
+      "url": "https://doi.org/10.3917/gmp.pr1.0018",
+      "source": "Gestion et management public",
+      "published_at": "2026-03-03T12:49:27.251885+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study examines how public service motivation can lead to corruption for a noble cause in Lebanon, where corruption is prevalent and social issues are challenging. Based on interviews with 32 Lebanese public servants, the research explores how feelings of compassion and self-sacrifice related to public service motivation might encourage them to engage in corrupt behavior for what they see as a good cause. The study highlights that these motivations can lead to behaviors like providing extra support or shielding users from punishment. This can create internal conflicts within the public servant due to their emotional connection with those affected."
     },
     {
       "title": "Data Science as a Catalyst for Audit Transformation",
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-02T23:27:25.782298+00:00",
+      "published_at": "2026-03-03T12:49:20.961408+00:00",
       "sentiment": "positive",
       "plain_summary": "Data science has become crucial as we generate vast amounts of information daily. It helps transform this data into useful insights for better decision-making across various sectors. For audit institutions, integrating data science can enhance their ability to manage public funds more effectively and improve accountability. By using data science, audits can provide clearer and more accurate reports that recommend improvements faster, which benefits the overall administration and improves citizens' quality of life."
     },
@@ -159,7 +159,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-02T23:27:25.782200+00:00",
+      "published_at": "2026-03-03T12:49:20.961153+00:00",
       "sentiment": "positive",
       "plain_summary": null
     },
@@ -168,7 +168,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-02T23:27:25.782176+00:00",
+      "published_at": "2026-03-03T12:49:20.961085+00:00",
       "sentiment": "positive",
       "plain_summary": "This paper discusses a scenario where autonomous killer robots are used in warfare without human intervention. These robots can make decisions about who to target based on AI algorithms trained to recognize certain uniforms. If one of these drones targets and kills an enemy soldier who is surrendering, it would violate international laws. Another concern is if the robot makes a mistake by attacking another similar system, leading to unintended conflicts."
     },
@@ -177,25 +177,16 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-03-02T23:27:25.782017+00:00",
+      "published_at": "2026-03-03T12:49:20.960682+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how public service motivation can lead to noble cause corruption in Lebanon, where there's a lot of social and economic hardship. The research found that feelings like compassion and selflessness often push people into doing good deeds for noble causes, but these actions sometimes involve corrupt practices. This leads to internal conflicts as the person feels both guilty and supported by their work environment. Factors like physical exchanges, personal space in the workplace, and close relationships with users can make it easier for this type of corruption to happen."
-    },
-    {
-      "title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause noble \u00e0 partir du cas libanais",
-      "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
-      "url": "https://doi.org/10.3917/gmp.pr1.0018",
-      "source": "Gestion et management public",
-      "published_at": "2026-03-02T23:27:25.781920+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This study examines how public service motivation can lead to corruption for a noble cause in Lebanon, where corruption is prevalent and social issues are challenging. Based on interviews with 32 Lebanese public servants, the research explores how feelings of compassion and self-sacrifice related to public service motivation might encourage them to engage in corrupt behavior for what they see as a good cause. The study highlights that these motivations can lead to behaviors like providing extra support or shielding users from punishment. This can create internal conflicts within the public servant due to their emotional connection with those affected."
     },
     {
       "title": "Market Failure or Government Failure? A Response to Jaworski",
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-03-02T23:27:25.781648+00:00",
+      "published_at": "2026-03-03T12:49:20.960344+00:00",
       "sentiment": "negative",
       "plain_summary": null
     },
@@ -224,7 +215,7 @@
       "source": "Global Social Sciences Review",
       "published_at": "2026-03-02T00:00:00+00:00",
       "sentiment": "negative",
-      "plain_summary": null
+      "plain_summary": "Good governance is crucial for effective public service delivery in Pakistan. While reforms have been introduced to enhance transparency and accountability, these efforts often face challenges like corruption within bureaucracies. Despite having formal mechanisms in place, their implementation can be hindered by political interference and weak accountability systems. This means that even though policies exist to improve governance, they may not always work as intended due to various bureaucratic issues and lack of trust in government institutions."
     },
     {
       "title": "The Colfax County War: Violence and Corruption in Territorial New Mexico by Corey Recko (review)",
@@ -279,15 +270,6 @@
       "published_at": "2026-02-28T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": null
-    },
-    {
-      "title": "Re-assessing governmental corruption of religion: Where political theory meets empirical evidence",
-      "short_title": "Re-assessing governmental corruption of religion: Where political theory meets empirical evide\u2026",
-      "url": "https://doi.org/10.1177/14687968261424659",
-      "source": "Ethnicities",
-      "published_at": "2026-02-28T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This study revisits the idea that when governments get involved with religious institutions, it often leads to corruption. It uses theories from thinkers like Locke and Jefferson along with modern scholars' ideas. The researchers looked at data from many countries over time to see how public trust in religious groups changes based on government support. They found that having exclusive state funding for religion can decrease people's confidence in religious organizations, especially among the majority believers."
     },
     {
       "title": "Perceptions of Political Corruption in State Government",
@@ -422,7 +404,7 @@
       "source": "Moccasin Journal De Public Perspective",
       "published_at": "2026-02-10T00:00:00+00:00",
       "sentiment": "positive",
-      "plain_summary": null
+      "plain_summary": "This study examines how governments use digital platforms for better service delivery, increased transparency, and improved efficiency. By looking at previous studies, it suggests that effective e-government requires strong communication strategies, technological capabilities, and political support. However, there are still many challenges like digital divides and outdated practices that hinder progress. Digitalization often benefits those already connected but doesn't always lead to broader improvements in access or transparency."
     },
     {
       "title": "Rethinking government transparency: a meta-analytic review of its effect on citizen satisfaction",
@@ -434,19 +416,19 @@
       "plain_summary": null
     },
     {
-      "title": "Hunting Tigers or Swatting Flies? The Impact of Anti-corruption Information in China",
-      "short_title": "Hunting Tigers or Swatting Flies? The Impact of Anti-corruption Information in China",
-      "url": "https://doi.org/10.1017/s0305741025101811",
-      "source": "The China Quarterly",
+      "title": "Measuring and assessing corruption in public health systems in low- and middle-income countries: a scoping review of methods",
+      "short_title": "Measuring and assessing corruption in public health systems in low- and middle-income countrie\u2026",
+      "url": "https://doi.org/10.1093/heapol/czaf113",
+      "source": "Health Policy and Planning",
       "published_at": "2026-02-03T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": null
     },
     {
-      "title": "Measuring and assessing corruption in public health systems in low- and middle-income countries: a scoping review of methods",
-      "short_title": "Measuring and assessing corruption in public health systems in low- and middle-income countrie\u2026",
-      "url": "https://doi.org/10.1093/heapol/czaf113",
-      "source": "Health Policy and Planning",
+      "title": "Hunting Tigers or Swatting Flies? The Impact of Anti-corruption Information in China",
+      "short_title": "Hunting Tigers or Swatting Flies? The Impact of Anti-corruption Information in China",
+      "url": "https://doi.org/10.1017/s0305741025101811",
+      "source": "The China Quarterly",
       "published_at": "2026-02-03T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": null
@@ -479,42 +461,6 @@
       "plain_summary": null
     },
     {
-      "title": "Public reporting guidelines for outbreak data: Enabling accountability for effective outbreak response by developing standards for transparency and uniformity",
-      "short_title": "Public reporting guidelines for outbreak data: Enabling accountability for effective outbreak\u2026",
-      "url": "https://doi.org/10.1016/j.puhe.2025.106102",
-      "source": "Public Health",
-      "published_at": "2026-02-01T00:00:00+00:00",
-      "sentiment": "positive",
-      "plain_summary": null
-    },
-    {
-      "title": "Fostering Women's Political Leadership Through Government Accountability: Evidence From OECD Countries",
-      "short_title": "Fostering Women's Political Leadership Through Government Accountability: Evidence From OECD C\u2026",
-      "url": "https://doi.org/10.1002/pad.70053",
-      "source": "Public Administration and Development",
-      "published_at": "2026-01-31T00:00:00+00:00",
-      "sentiment": "positive",
-      "plain_summary": null
-    },
-    {
-      "title": "E-GOVERNMENT AS A TOOL FOR COMBATING CORRUPTION IN UKRAINE: ANALYSIS OF GLOBAL EXPERIENCE AND NATIONAL BARRIERS",
-      "short_title": "E-GOVERNMENT AS A TOOL FOR COMBATING CORRUPTION IN UKRAINE: ANALYSIS OF GLOBAL EXPERIENCE AND\u2026",
-      "url": "https://doi.org/10.62664/cpa.2025.02.11",
-      "source": "Coordinates of Public Administration",
-      "published_at": "2026-01-27T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": null
-    },
-    {
-      "title": "CORRUPTION AS AN INSTITUTIONAL THREAT TO THE FORMATION AND DEVELOPMENT OF THE HUMAN RESOURCES OF PUBLIC ADMINISTRATION BODIES",
-      "short_title": "CORRUPTION AS AN INSTITUTIONAL THREAT TO THE FORMATION AND DEVELOPMENT OF THE HUMAN RESOURCES\u2026",
-      "url": "https://doi.org/10.62664/cpa.2025.02.13",
-      "source": "Coordinates of Public Administration",
-      "published_at": "2026-01-27T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": null
-    },
-    {
       "title": "The Challenges of Implementing E-government in the Public Sector: A Case Study on The Gambia",
       "short_title": "The Challenges of Implementing E-government in the Public Sector: A Case Study on The Gambia",
       "url": "https://doi.org/10.36636/jogiv.v7i2.7197",
@@ -539,6 +485,60 @@
       "source": "Open Forum Infectious Diseases",
       "published_at": "2026-01-11T00:00:00+00:00",
       "sentiment": "negative",
+      "plain_summary": null
+    },
+    {
+      "title": "AI-ENABLED PUBLIC GOVERNANCE IN DEVELOPING STATES: SERVICE DELIVERY GAINS, ACCOUNTABILITY RISKS, AND A PRACTICAL RISK-BASED REGULATORY MODEL",
+      "short_title": "AI-ENABLED PUBLIC GOVERNANCE IN DEVELOPING STATES: SERVICE DELIVERY GAINS, ACCOUNTABILITY RISK\u2026",
+      "url": "https://doi.org/10.52152/wja5db40",
+      "source": "Lex localis - Journal of Local Self-Government",
+      "published_at": "2026-01-10T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": null
+    },
+    {
+      "title": "Beyond Compliance: A Systematic Review of Ethics, Accountability, And Transparency in Indonesian Governance",
+      "short_title": "Beyond Compliance: A Systematic Review of Ethics, Accountability, And Transparency in Indonesi\u2026",
+      "url": "https://doi.org/10.30589/pgr.v10i1.1361",
+      "source": "Policy &amp; Governance Review",
+      "published_at": "2026-01-08T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": null
+    },
+    {
+      "title": "COERCIVE PRESSURE FOR THE IMPLEMENTATION OF THE INDONESIAN VILLAGE E-GOVERNMENT FOR PUBLIC ACCOUNTABILITY",
+      "short_title": "COERCIVE PRESSURE FOR THE IMPLEMENTATION OF THE INDONESIAN VILLAGE E-GOVERNMENT FOR PUBLIC ACC\u2026",
+      "url": "https://doi.org/10.13165/vpa-25-24-4-03",
+      "source": "Public Policy and Administration",
+      "published_at": "2026-01-06T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": null
+    },
+    {
+      "title": "International Anti-Corruption Commissions: Explaining Institutional Design and Autonomy",
+      "short_title": "International Anti-Corruption Commissions: Explaining Institutional Design and Autonomy",
+      "url": "https://doi.org/10.5129/001041526x17686834944182",
+      "source": "Comparative Politics",
+      "published_at": "2026-01-01T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": null
+    },
+    {
+      "title": "Beyond watchdogs: the role of NGOs in enhancing transparency and accountability in public sector procurement",
+      "short_title": "Beyond watchdogs: the role of NGOs in enhancing transparency and accountability in public sect\u2026",
+      "url": "https://doi.org/10.1504/ijpspm.2026.10075519",
+      "source": "International Journal of Public Sector Performance Management",
+      "published_at": "2026-01-01T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": null
+    },
+    {
+      "title": "Social accountability, the quality of government and its impact on service delivery",
+      "short_title": "Social accountability, the quality of government and its impact on service delivery",
+      "url": "https://doi.org/10.1504/ijpspm.2026.10075635",
+      "source": "International Journal of Public Sector Performance Management",
+      "published_at": "2026-01-01T00:00:00+00:00",
+      "sentiment": "positive",
       "plain_summary": null
     }
   ],
@@ -589,6 +589,15 @@
       "plain_summary": "This study looks at what helps non-profits run better, focusing on four key areas: using digital tools effectively, being flexible with strategies, having strong relationships, and continuously learning. It found that all these elements are important for good governance in non-profits. By integrating technology, adapting quickly to changes, building trust among partners, and always seeking new knowledge, organizations can improve their performance significantly. This research provides practical advice for leaders on how to enhance their organization's governance and overall success."
     },
     {
+      "title": "Corruption and economic growth: the role of country-level governance",
+      "short_title": "Corruption and economic growth: the role of country-level governance",
+      "url": "https://doi.org/10.1007/s10644-026-09985-5",
+      "source": "Economic Change and Restructuring",
+      "published_at": "2026-03-03T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study looks at how corruption affects economic growth in different countries and finds that good governance is crucial. In developed nations, reducing corruption helps strengthen institutions which leads to better economic performance. However, in developing countries, corruption can temporarily boost growth by easing some of the rigid rules and inefficiencies. But over time, persistent corruption weakens governance structures, ultimately hurting economic growth."
+    },
+    {
       "title": "Self-starters and lone rangers: Municipal government and nonprofit PR practitioners\u2019 approaches to AI training, ethics, and policy-making",
       "short_title": "Self-starters and lone rangers: Municipal government and nonprofit PR practitioners\u2019 approache\u2026",
       "url": "https://doi.org/10.1016/j.pubrev.2025.102664",
@@ -613,15 +622,6 @@
       "source": "Journal of management economics and technology",
       "published_at": "2026-02-19T00:00:00+00:00",
       "sentiment": "negative",
-      "plain_summary": null
-    },
-    {
-      "title": "Fostering Women's Political Leadership Through Government Accountability: Evidence From OECD Countries",
-      "short_title": "Fostering Women's Political Leadership Through Government Accountability: Evidence From OECD C\u2026",
-      "url": "https://doi.org/10.1002/pad.70053",
-      "source": "Public Administration and Development",
-      "published_at": "2026-01-31T00:00:00+00:00",
-      "sentiment": "positive",
       "plain_summary": null
     },
     {
