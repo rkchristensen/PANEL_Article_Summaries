@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-07T16:00:50.066515+00:00",
+  "updated_at": "2026-03-08T15:00:39.866106+00:00",
   "government": [
     {
       "title": "The Ethical Buffer: Moral Reasoning as a Mediator Between Perceived Government Inefficiency and Tax Compliance Intentions Among Taxation Students",
@@ -56,6 +56,15 @@
       "plain_summary": "Risk-based financial governance is becoming crucial for how institutions make investment decisions in today's markets. It involves assessing risks explicitly within oversight to align with organizational goals and responsibilities. This approach extends beyond traditional compliance by integrating risk into decision-making processes, using tools like scenario analysis and dynamic portfolio management. The literature shows that institutions with strong risk-based governance are better at anticipating market changes, optimizing performance, and ensuring sustainable value creation while staying compliant."
     },
     {
+      "title": "The Impact of Digital Technology on International Humanitarian Law: Ethical and Legal Implications of Autonomous Weapons Systems",
+      "short_title": "The Impact of Digital Technology on International Humanitarian Law: Ethical and Legal Implicat\u2026",
+      "url": "https://doi.org/10.24018/ejpolitics.2025.4.4.182",
+      "source": "European Journal of Law and Political Science",
+      "published_at": "2026-09-18T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": "This article looks at how new technology like AI is changing international laws for wars. As weapons get more automated, it raises questions about who should be held responsible when they make decisions. The main idea is that current rules are still useful but need updating to fit with these new types of weapons. It suggests ways to improve the existing laws so that people in war zones can continue to rely on protections like not harming civilians unnecessarily."
+    },
+    {
       "title": "Working Behavior Of Government Officials In Public Services In Dutuno Village, Paleleh District, Buol Regency",
       "short_title": "Working Behavior Of Government Officials In Public Services In Dutuno Village, Paleleh Distric\u2026",
       "url": "https://doi.org/10.37905/ppj.v6i2.2985",
@@ -92,19 +101,19 @@
       "plain_summary": null
     },
     {
-      "title": "Governing Ethics for the Digital Transformation: Developing, Testing, and Validating a Framework",
-      "short_title": "Governing Ethics for the Digital Transformation: Developing, Testing, and Validating a Framewo\u2026",
-      "url": "https://doi.org/10.1016/j.giq.2026.102117",
-      "source": "Government Information Quarterly",
+      "title": "Corruption risk indicators in public procurement: Definition and evaluation with organised crime data",
+      "short_title": "Corruption risk indicators in public procurement: Definition and evaluation with organised cri\u2026",
+      "url": "https://doi.org/10.1016/j.seps.2026.102429",
+      "source": "Socio-Economic Planning Sciences",
       "published_at": "2026-06-01T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": null
     },
     {
-      "title": "Corruption risk indicators in public procurement: Definition and evaluation with organised crime data",
-      "short_title": "Corruption risk indicators in public procurement: Definition and evaluation with organised cri\u2026",
-      "url": "https://doi.org/10.1016/j.seps.2026.102429",
-      "source": "Socio-Economic Planning Sciences",
+      "title": "Governing Ethics for the Digital Transformation: Developing, Testing, and Validating a Framework",
+      "short_title": "Governing Ethics for the Digital Transformation: Developing, Testing, and Validating a Framewo\u2026",
+      "url": "https://doi.org/10.1016/j.giq.2026.102117",
+      "source": "Government Information Quarterly",
       "published_at": "2026-06-01T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": null
@@ -141,7 +150,7 @@
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-03-07T11:49:21.066471+00:00",
+      "published_at": "2026-03-08T13:09:06.113006+00:00",
       "sentiment": "negative",
       "plain_summary": "This research focuses on understanding the emotional risks in police work and how they manage their emotions to improve job satisfaction. It was conducted by observing various police units like forensic science, digital investigation, financial division, criminal division, anti-terrorism unit, and more over 26 days. The study found two key emotions that are hard for them to express: interest and frustration. These emotions make it difficult for officers to discuss their work-related feelings openly, leading to invisible or undiscussed labor."
     },
@@ -150,7 +159,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-07T11:49:20.326207+00:00",
+      "published_at": "2026-03-08T13:09:05.011443+00:00",
       "sentiment": "positive",
       "plain_summary": "Data science has become crucial as we generate vast amounts of information daily. It helps transform this data into useful insights for better decision-making across various sectors. For audit institutions, integrating data science can enhance their ability to manage public funds more effectively and improve accountability. By using data science, audits can provide clearer and more accurate reports that recommend improvements faster, which benefits the overall administration and improves citizens' quality of life."
     },
@@ -159,7 +168,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-07T11:49:20.326110+00:00",
+      "published_at": "2026-03-08T13:09:05.011346+00:00",
       "sentiment": "positive",
       "plain_summary": null
     },
@@ -168,7 +177,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-07T11:49:20.326083+00:00",
+      "published_at": "2026-03-08T13:09:05.011319+00:00",
       "sentiment": "positive",
       "plain_summary": "This paper discusses a scenario where autonomous killer robots are used in warfare without human intervention. These robots can make decisions about who to target based on AI algorithms trained to recognize certain uniforms. If one of these drones targets and kills an enemy soldier who is surrendering, it would violate international laws. Another concern is if the robot makes a mistake by attacking another similar system, leading to unintended conflicts."
     },
@@ -177,7 +186,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-03-07T11:49:20.325921+00:00",
+      "published_at": "2026-03-08T13:09:05.011161+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how public service motivation can lead to noble cause corruption in Lebanon, where there's a lot of social and economic hardship. The research found that feelings like compassion and selflessness often push people into doing good deeds for noble causes, but these actions sometimes involve corrupt practices. This leads to internal conflicts as the person feels both guilty and supported by their work environment. Factors like physical exchanges, personal space in the workplace, and close relationships with users can make it easier for this type of corruption to happen."
     },
@@ -186,7 +195,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-03-07T11:49:20.325843+00:00",
+      "published_at": "2026-03-08T13:09:05.011075+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how public service motivation can lead to corruption for a noble cause in Lebanon, where corruption is prevalent and social issues are challenging. Based on interviews with 32 Lebanese public servants, the research explores how feelings of compassion and self-sacrifice related to public service motivation might encourage them to engage in corrupt behavior for what they see as a good cause. The study highlights that these motivations can lead to behaviors like providing extra support or shielding users from punishment. This can create internal conflicts within the public servant due to their emotional connection with those affected."
     },
@@ -195,7 +204,7 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-03-07T11:49:20.325701+00:00",
+      "published_at": "2026-03-08T13:09:05.010893+00:00",
       "sentiment": "negative",
       "plain_summary": null
     },
@@ -234,6 +243,15 @@
       "published_at": "2026-03-06T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": null
+    },
+    {
+      "title": "TRANSPARENCY AND ACCOUNTABILITY IN LOCAL GOVERNMENT FINANCE IN NIGERIA: PROSPECTS AND CONSTRAINTS",
+      "short_title": "TRANSPARENCY AND ACCOUNTABILITY IN LOCAL GOVERNMENT FINANCE IN NIGERIA: PROSPECTS AND CONSTRAI\u2026",
+      "url": "https://doi.org/10.70382/tijfrms.v11i7.047",
+      "source": "International Journal of Financial Research and Management Science",
+      "published_at": "2026-03-06T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study looked at how local governments in Nigeria manage their finances and stay honest. It found that corruption and political interference can make it hard for local governments to be transparent and accountable. The research suggests that having a strong internal control system, regular audits, and training for local government officials can help improve transparency and accountability. It recommends creating better systems to prevent corruption and interference, and providing ongoing training to help officials understand the importance of being accountable."
     },
     {
       "title": "An overview of the lifestyle audit as a strategy to combat corruption",
@@ -279,15 +297,6 @@
       "published_at": "2026-03-04T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "In Indonesia, there is usually one prosecutor for all cases, but for corruption specifically, a special body called KPK has its own authority to start investigations and trials. This dual system means that even though the Attorney General leads prosecutions in general, KPK can handle corruption cases independently without needing permission from them. This allows KPK to focus on fighting corruption more effectively while still following the overall rule of having only one prosecutor for most crimes."
-    },
-    {
-      "title": "Public Sector Ethics and Fight against Corruption: Lessons from Nigeria\u2019s Anti-Corruption Institutions",
-      "short_title": "Public Sector Ethics and Fight against Corruption: Lessons from Nigeria\u2019s Anti-Corruption Inst\u2026",
-      "url": "https://doi.org/10.52589/bjce-ilmurgqn",
-      "source": "British Journal of Contemporary Education",
-      "published_at": "2026-03-04T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "Corruption is a significant issue in many African countries, affecting public service delivery and trust among citizens. Nigeria provides an important example for understanding how anti-corruption efforts work within its government institutions. The study looks at four main bodies: EFCC, ICPC, CCB, and judiciary. It found that while these institutions have made some progress like recovering assets and prosecuting corrupt officials, corruption persists due to factors like political interference and weak enforcement."
     },
     {
       "title": "How Does Accountability Enhance Local Government Crisis Learning? \u2013 A Qualitative Comparative Analysis Based on 57 Serious Safety Accidents in China 2004\u20132019",
@@ -339,24 +348,6 @@
       "short_title": "Fiscal Transparency Ranking and Corruption: Theory and New Evidence from China",
       "url": "https://doi.org/10.1080/01900692.2026.2618682",
       "source": "International Journal of Public Administration",
-      "published_at": "2026-02-27T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": null
-    },
-    {
-      "title": "Navigating Compliance: Higher Education Leadership Strategies Amid Federal Government DEI Mandates",
-      "short_title": "Navigating Compliance: Higher Education Leadership Strategies Amid Federal Government DEI Mand\u2026",
-      "url": "https://doi.org/10.33423/raymn112",
-      "source": "Journal of Leadership, Accountability and Ethics",
-      "published_at": "2026-02-27T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": null
-    },
-    {
-      "title": "Nonprofit Fraud and Organizational Demise: The Role of Governance in Times of Crisis",
-      "short_title": "Nonprofit Fraud and Organizational Demise: The Role of Governance in Times of Crisis",
-      "url": "https://doi.org/10.24193/tras.77e.3",
-      "source": "Transylvanian Review of Administrative Sciences",
       "published_at": "2026-02-27T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": null
@@ -414,15 +405,6 @@
       "published_at": "2026-02-22T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "This study looks at how financial information systems, internal audits, and investigative audits help keep government finances fair and honest. Financial systems need to be well-designed but also require people who know how to use them effectively. Internal audits play a key role by checking if the money is being handled correctly and reporting any issues found. Investigative audits are like detectives looking into problems after they happen."
-    },
-    {
-      "title": "Innovative Technologies in Anti-Corruption Audit.",
-      "short_title": "Innovative Technologies in Anti-Corruption Audit.",
-      "url": "https://doi.org/10.69803/3083-6034-2025-4-135",
-      "source": "Journal of management economics and technology",
-      "published_at": "2026-02-19T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": null
     },
     {
       "title": "New development: E-government, transparency, and corruption in environmental sustainability policies\u2014evidence from urbanized and energy-intensive economies",
@@ -540,6 +522,24 @@
       "published_at": "2026-01-27T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": null
+    },
+    {
+      "title": "CORRUPTION AS AN INSTITUTIONAL THREAT TO THE FORMATION AND DEVELOPMENT OF THE HUMAN RESOURCES OF PUBLIC ADMINISTRATION BODIES",
+      "short_title": "CORRUPTION AS AN INSTITUTIONAL THREAT TO THE FORMATION AND DEVELOPMENT OF THE HUMAN RESOURCES\u2026",
+      "url": "https://doi.org/10.62664/cpa.2025.02.13",
+      "source": "Coordinates of Public Administration",
+      "published_at": "2026-01-27T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": null
+    },
+    {
+      "title": "The Challenges of Implementing E-government in the Public Sector: A Case Study on The Gambia",
+      "short_title": "The Challenges of Implementing E-government in the Public Sector: A Case Study on The Gambia",
+      "url": "https://doi.org/10.36636/jogiv.v7i2.7197",
+      "source": "Journal of Governance Innovation",
+      "published_at": "2026-01-18T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": null
     }
   ],
   "nonprofit": [
@@ -589,29 +589,11 @@
       "plain_summary": "This study looks at what helps non-profits run better, focusing on four key areas: using digital tools effectively, being flexible with strategies, having strong relationships, and continuously learning. It found that all these elements are important for good governance in non-profits. By integrating technology, adapting quickly to changes, building trust among partners, and always seeking new knowledge, organizations can improve their performance significantly. This research provides practical advice for leaders on how to enhance their organization's governance and overall success."
     },
     {
-      "title": "Corruption and economic growth: the role of country-level governance",
-      "short_title": "Corruption and economic growth: the role of country-level governance",
-      "url": "https://doi.org/10.1007/s10644-026-09985-5",
-      "source": "Economic Change and Restructuring",
-      "published_at": "2026-03-03T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This study looks at how corruption affects economic growth in different countries and finds that good governance is crucial. In developed nations, reducing corruption helps strengthen institutions which leads to better economic performance. However, in developing countries, corruption can temporarily boost growth by easing some of the rigid rules and inefficiencies. But over time, persistent corruption weakens governance structures, ultimately hurting economic growth."
-    },
-    {
       "title": "Self-starters and lone rangers: Municipal government and nonprofit PR practitioners\u2019 approaches to AI training, ethics, and policy-making",
       "short_title": "Self-starters and lone rangers: Municipal government and nonprofit PR practitioners\u2019 approache\u2026",
       "url": "https://doi.org/10.1016/j.pubrev.2025.102664",
       "source": "Public Relations Review",
       "published_at": "2026-03-01T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": null
-    },
-    {
-      "title": "Nonprofit Fraud and Organizational Demise: The Role of Governance in Times of Crisis",
-      "short_title": "Nonprofit Fraud and Organizational Demise: The Role of Governance in Times of Crisis",
-      "url": "https://doi.org/10.24193/tras.77e.3",
-      "source": "Transylvanian Review of Administrative Sciences",
-      "published_at": "2026-02-27T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": null
     },
@@ -623,15 +605,6 @@
       "published_at": "2026-02-22T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "This study looks at how financial information systems, internal audits, and investigative audits help keep government finances fair and honest. Financial systems need to be well-designed but also require people who know how to use them effectively. Internal audits play a key role by checking if the money is being handled correctly and reporting any issues found. Investigative audits are like detectives looking into problems after they happen."
-    },
-    {
-      "title": "Anti-corruption audit of the company as a key imperative for the post-war reconstruction of Ukraine.",
-      "short_title": "Anti-corruption audit of the company as a key imperative for the post-war reconstruction of Uk\u2026",
-      "url": "https://doi.org/10.69803/3083-6034-2025-3-306",
-      "source": "Journal of management economics and technology",
-      "published_at": "2026-02-19T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "The article emphasizes that conducting an anti-corruption audit is crucial for Ukraine\u2019s recovery after war. With a massive $588 billion reconstruction project, corruption risks threaten both financial resources and democratic progress. Key areas of risk include misusing aid funds, fraud in procurement processes, conflicts of interest, and lack of transparency. To mitigate these risks, the study suggests using methods like third-party verification, vulnerability mapping in accounting records, automated monitoring systems, and anonymous reporting for violations."
     },
     {
       "title": "Fostering Women's Political Leadership Through Government Accountability: Evidence From OECD Countries",
