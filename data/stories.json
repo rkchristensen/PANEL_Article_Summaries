@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-10T14:29:48.249781+00:00",
+  "updated_at": "2026-03-11T08:28:20.602468+00:00",
   "government": [
     {
       "title": "The Impact of Municipally Owned Enterprises on Corruption Risk in Local Governments",
@@ -141,7 +141,7 @@
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-03-10T14:28:45.172905+00:00",
+      "published_at": "2026-03-11T08:10:51.848442+00:00",
       "sentiment": "negative",
       "plain_summary": "This research focuses on understanding the emotional risks in police work and how they manage their emotions to improve job satisfaction. It was conducted by observing various police units like forensic science, digital investigation, financial division, criminal division, anti-terrorism unit, and more over 26 days. The study found two key emotions that are hard for them to express: interest and frustration. These emotions make it difficult for officers to discuss their work-related feelings openly, leading to invisible or undiscussed labor."
     },
@@ -150,7 +150,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-10T14:28:43.467337+00:00",
+      "published_at": "2026-03-11T08:10:51.315873+00:00",
       "sentiment": "positive",
       "plain_summary": "Data science has become crucial as we generate vast amounts of information daily. It helps transform this data into useful insights for better decision-making across various sectors. For audit institutions, integrating data science can enhance their ability to manage public funds more effectively and improve accountability. By using data science, audits can provide clearer and more accurate reports that recommend improvements faster, which benefits the overall administration and improves citizens' quality of life."
     },
@@ -159,7 +159,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-10T14:28:43.467209+00:00",
+      "published_at": "2026-03-11T08:10:51.315632+00:00",
       "sentiment": "positive",
       "plain_summary": null
     },
@@ -168,7 +168,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-10T14:28:43.467175+00:00",
+      "published_at": "2026-03-11T08:10:51.315564+00:00",
       "sentiment": "positive",
       "plain_summary": "This paper discusses a scenario where autonomous killer robots are used in warfare without human intervention. These robots can make decisions about who to target based on AI algorithms trained to recognize certain uniforms. If one of these drones targets and kills an enemy soldier who is surrendering, it would violate international laws. Another concern is if the robot makes a mistake by attacking another similar system, leading to unintended conflicts."
     },
@@ -177,7 +177,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-03-10T14:28:43.466978+00:00",
+      "published_at": "2026-03-11T08:10:51.315182+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how public service motivation can lead to noble cause corruption in Lebanon, where there's a lot of social and economic hardship. The research found that feelings like compassion and selflessness often push people into doing good deeds for noble causes, but these actions sometimes involve corrupt practices. This leads to internal conflicts as the person feels both guilty and supported by their work environment. Factors like physical exchanges, personal space in the workplace, and close relationships with users can make it easier for this type of corruption to happen."
     },
@@ -186,7 +186,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-03-10T14:28:43.466878+00:00",
+      "published_at": "2026-03-11T08:10:51.314983+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how public service motivation can lead to corruption for a noble cause in Lebanon, where corruption is prevalent and social issues are challenging. Based on interviews with 32 Lebanese public servants, the research explores how feelings of compassion and self-sacrifice related to public service motivation might encourage them to engage in corrupt behavior for what they see as a good cause. The study highlights that these motivations can lead to behaviors like providing extra support or shielding users from punishment. This can create internal conflicts within the public servant due to their emotional connection with those affected."
     },
@@ -195,9 +195,18 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-03-10T14:28:43.466577+00:00",
+      "published_at": "2026-03-11T08:10:51.314679+00:00",
       "sentiment": "negative",
       "plain_summary": null
+    },
+    {
+      "title": "Legal Loopholes in the Regulation of Corruption Eradication in the Management of State-Owned Enterprise Investment Funds in the Tourism Sector",
+      "short_title": "Legal Loopholes in the Regulation of Corruption Eradication in the Management of State-Owned E\u2026",
+      "url": "https://doi.org/10.38035/jlph.v4i6.3108",
+      "source": "Journal of Law, Politic and Humanities",
+      "published_at": "2026-03-10T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study looks at how corruption is managed in state-owned enterprises (SOEs) that invest in tourism. Despite having laws to prevent corruption, there are no specific rules for SOEs in the tourism sector. This leads to unclear guidelines for what constitutes corruption and weak oversight. The result is often overlapping responsibilities among different agencies, lack of transparency in financial reports, and unclear ways to identify corruption."
     },
     {
       "title": "Media freedom and government budget transparency in Africa",
@@ -261,15 +270,6 @@
       "published_at": "2026-03-06T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "This study looked at how local governments in Nigeria manage their finances and stay honest. It found that corruption and political interference can make it hard for local governments to be transparent and accountable. The research suggests that having a strong internal control system, regular audits, and training for local government officials can help improve transparency and accountability. It recommends creating better systems to prevent corruption and interference, and providing ongoing training to help officials understand the importance of being accountable."
-    },
-    {
-      "title": "An overview of the lifestyle audit as a strategy to combat corruption",
-      "short_title": "An overview of the lifestyle audit as a strategy to combat corruption",
-      "url": "https://doi.org/10.20525/ijrbs.v15i1.4553",
-      "source": "International Journal of Research in Business and Social Science (2147- 4478)",
-      "published_at": "2026-03-05T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "Lifestyle audits can be a powerful tool to detect corruption, especially among high-ranking officials in both private and public sectors. When there's an unusual change in someone\u2019s lifestyle, it might indicate they're involved in corrupt activities. This paper discusses how these audits work by looking at changes in people's lifestyles as red flags for potential corruption. It also mentions that proper legal procedures are needed to conduct these audits without making mistakes."
     },
     {
       "title": "Climate (in)justice: decolonizing public sector climate accountability and accounting in and for the majority world",
@@ -369,15 +369,6 @@
       "published_at": "2026-02-25T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": null
-    },
-    {
-      "title": "Perceptions of Political Corruption in State Government",
-      "short_title": "Perceptions of Political Corruption in State Government",
-      "url": "https://doi.org/10.1177/1532673x261420826",
-      "source": "American Politics Research",
-      "published_at": "2026-02-25T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This study looks at how people feel about corruption happening in different states of the US. It found that people can sometimes connect what they think with what's really happening. People also tend to see more corruption when the governor from their party isn't in power. The research shows that knowing a lot about politics doesn't change these perceptions much."
     },
     {
       "title": "The Dilemma and Optimization of Commercial Data Protection under the Anti-Unfair Competition Law",
@@ -538,6 +529,15 @@
       "url": "https://doi.org/10.62664/cpa.2025.02.13",
       "source": "Coordinates of Public Administration",
       "published_at": "2026-01-27T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": null
+    },
+    {
+      "title": "The Challenges of Implementing E-government in the Public Sector: A Case Study on The Gambia",
+      "short_title": "The Challenges of Implementing E-government in the Public Sector: A Case Study on The Gambia",
+      "url": "https://doi.org/10.36636/jogiv.v7i2.7197",
+      "source": "Journal of Governance Innovation",
+      "published_at": "2026-01-18T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": null
     }
