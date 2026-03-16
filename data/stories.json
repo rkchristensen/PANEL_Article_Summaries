@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-03-15T06:11:15.562030+00:00",
+  "updated_at": "2026-03-16T14:06:12.950035+00:00",
   "government": [
+    {
+      "title": "Regulating Political Microtargeting in India: Legal Imperatives for Democratic Accountability and Data Privacy",
+      "short_title": "Regulating Political Microtargeting in India: Legal Imperatives for Democratic Accountability\u2026",
+      "url": "https://doi.org/10.1080/10999922.2026.2644826",
+      "source": "Public Integrity",
+      "published_at": "2026-03-16T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": null
+    },
     {
       "title": "Executive Non-Divestment, Systemic Corruption, and Democratic Accountability",
       "short_title": "Executive Non-Divestment, Systemic Corruption, and Democratic Accountability",
@@ -65,24 +74,6 @@
       "plain_summary": "Risk-based financial governance is becoming crucial for how institutions make investment decisions in today's markets. It involves assessing risks explicitly within oversight to align with organizational goals and responsibilities. This approach extends beyond traditional compliance by integrating risk into decision-making processes, using tools like scenario analysis and dynamic portfolio management. The literature shows that institutions with strong risk-based governance are better at anticipating market changes, optimizing performance, and ensuring sustainable value creation while staying compliant."
     },
     {
-      "title": "The Impact of Digital Technology on International Humanitarian Law: Ethical and Legal Implications of Autonomous Weapons Systems",
-      "short_title": "The Impact of Digital Technology on International Humanitarian Law: Ethical and Legal Implicat\u2026",
-      "url": "https://doi.org/10.24018/ejpolitics.2025.4.4.182",
-      "source": "European Journal of Law and Political Science",
-      "published_at": "2026-09-18T00:00:00+00:00",
-      "sentiment": "positive",
-      "plain_summary": "This article looks at how new technology like AI is changing international laws for wars. As weapons get more automated, it raises questions about who should be held responsible when they make decisions. The main idea is that current rules are still useful but need updating to fit with these new types of weapons. It suggests ways to improve the existing laws so that people in war zones can continue to rely on protections like not harming civilians unnecessarily."
-    },
-    {
-      "title": "Working Behavior Of Government Officials In Public Services In Dutuno Village, Paleleh District, Buol Regency",
-      "short_title": "Working Behavior Of Government Officials In Public Services In Dutuno Village, Paleleh Distric\u2026",
-      "url": "https://doi.org/10.37905/ppj.v6i2.2985",
-      "source": "Public Policy Journal",
-      "published_at": "2026-08-31T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This research looked at how government workers provide services in a village setting. They found that while the officials are polite to people, there are problems like being late or not responding quickly which affect how well they serve others. Showing care by helping with paperwork is good, but sometimes it takes too long and doesn't happen often enough. The biggest issue is following rules and showing up for work on time."
-    },
-    {
       "title": "Mars\u2013Venus marriage: State-owned shareholders and corporate fraud in private firms",
       "short_title": "Mars\u2013Venus marriage: State-owned shareholders and corporate fraud in private firms",
       "url": "https://doi.org/10.1016/j.jcae.2026.100544",
@@ -90,6 +81,15 @@
       "published_at": "2026-08-01T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": null
+    },
+    {
+      "title": "Youth Leadership as an Ethical Imperative in Cybersecurity Governance",
+      "short_title": "Youth Leadership as an Ethical Imperative in Cybersecurity Governance",
+      "url": "https://doi.org/10.52823/djom2823",
+      "source": "Journal of Governance, Security &amp; Development",
+      "published_at": "2026-07-01T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study emphasizes the importance of involving young people in cybersecurity efforts. It argues that cybersecurity is a complex issue requiring ethical and adaptive governance, not just technical fixes. By integrating youth leadership, the paper suggests we can create more inclusive and effective cybersecurity systems. This approach challenges the idea that young people are only users of the internet and instead sees them as active participants who can contribute to creating safer digital environments."
     },
     {
       "title": "The concept \u2018light from light\u2019 in the Nicene creed: Is the metaphor still appropriate for Christian ethics today?",
@@ -137,56 +137,29 @@
       "plain_summary": null
     },
     {
-      "title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bilan d\u2019une recherche immersive en Police Judiciaire fran\u00e7aise",
-      "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
-      "url": "https://doi.org/10.3917/gmp.pr1.0009",
-      "source": "Gestion et management public",
-      "published_at": "2026-03-15T06:10:48.345097+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This research focuses on understanding the emotional risks in police work and how they manage their emotions to improve job satisfaction. It was conducted by observing various police units like forensic science, digital investigation, financial division, criminal division, anti-terrorism unit, and more over 26 days. The study found two key emotions that are hard for them to express: interest and frustration. These emotions make it difficult for officers to discuss their work-related feelings openly, leading to invisible or undiscussed labor."
-    },
-    {
-      "title": "Data Science as a Catalyst for Audit Transformation",
-      "short_title": "Data Science as a Catalyst for Audit Transformation",
-      "url": "https://doi.org/10.56251/clyp9463",
-      "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-15T06:10:47.637562+00:00",
-      "sentiment": "positive",
-      "plain_summary": "Data science has become crucial as we generate vast amounts of information daily. It helps transform this data into useful insights for better decision-making across various sectors. For audit institutions, integrating data science can enhance their ability to manage public funds more effectively and improve accountability. By using data science, audits can provide clearer and more accurate reports that recommend improvements faster, which benefits the overall administration and improves citizens' quality of life."
-    },
-    {
-      "title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
-      "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
-      "url": "https://doi.org/10.56251/tydf1981",
-      "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-15T06:10:47.637307+00:00",
-      "sentiment": "positive",
-      "plain_summary": null
-    },
-    {
-      "title": "Killer Robots \u2013 A Case for SAIs",
-      "short_title": "Killer Robots \u2013 A Case for SAIs",
-      "url": "https://doi.org/10.56251/ojyp9121",
-      "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-15T06:10:47.637235+00:00",
-      "sentiment": "positive",
-      "plain_summary": "This paper discusses a scenario where autonomous killer robots are used in warfare without human intervention. These robots can make decisions about who to target based on AI algorithms trained to recognize certain uniforms. If one of these drones targets and kills an enemy soldier who is surrendering, it would violate international laws. Another concern is if the robot makes a mistake by attacking another similar system, leading to unintended conflicts."
-    },
-    {
       "title": "The dark side of public service motivation : Analysis of noble cause corruption based on the Lebanese case",
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-03-15T06:10:47.636839+00:00",
+      "published_at": "2026-03-16T08:06:43.633272+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how public service motivation can lead to noble cause corruption in Lebanon, where there's a lot of social and economic hardship. The research found that feelings like compassion and selflessness often push people into doing good deeds for noble causes, but these actions sometimes involve corrupt practices. This leads to internal conflicts as the person feels both guilty and supported by their work environment. Factors like physical exchanges, personal space in the workplace, and close relationships with users can make it easier for this type of corruption to happen."
+    },
+    {
+      "title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bilan d\u2019une recherche immersive en Police Judiciaire fran\u00e7aise",
+      "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
+      "url": "https://doi.org/10.3917/gmp.pr1.0009",
+      "source": "Gestion et management public",
+      "published_at": "2026-03-16T08:06:41.945937+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This research focuses on understanding the emotional risks in police work and how they manage their emotions to improve job satisfaction. It was conducted by observing various police units like forensic science, digital investigation, financial division, criminal division, anti-terrorism unit, and more over 26 days. The study found two key emotions that are hard for them to express: interest and frustration. These emotions make it difficult for officers to discuss their work-related feelings openly, leading to invisible or undiscussed labor."
     },
     {
       "title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause noble \u00e0 partir du cas libanais",
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-03-15T06:10:47.636639+00:00",
+      "published_at": "2026-03-16T08:06:41.943477+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how public service motivation can lead to corruption for a noble cause in Lebanon, where corruption is prevalent and social issues are challenging. Based on interviews with 32 Lebanese public servants, the research explores how feelings of compassion and self-sacrifice related to public service motivation might encourage them to engage in corrupt behavior for what they see as a good cause. The study highlights that these motivations can lead to behaviors like providing extra support or shielding users from punishment. This can create internal conflicts within the public servant due to their emotional connection with those affected."
     },
@@ -195,9 +168,27 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-03-15T06:10:47.636318+00:00",
+      "published_at": "2026-03-16T08:06:41.940909+00:00",
       "sentiment": "negative",
       "plain_summary": null
+    },
+    {
+      "title": "Reframing State Loss Policy in Price-Related Corruption Cases: A Future Agenda",
+      "short_title": "Reframing State Loss Policy in Price-Related Corruption Cases: A Future Agenda",
+      "url": "https://doi.org/10.53955/contrarius.v2i2.274",
+      "source": "Contrarius",
+      "published_at": "2026-03-16T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study looks at how Indonesia handles corruption cases where the state loses money. Often, people only see this as a financial loss, but corruption affects many other areas like economy, society, and environment. The research suggests that Indonesia needs to change how it defines and measures these losses in court. It also looks at how Singapore handles corruption differently, focusing on the intent behind the act rather than the financial loss."
+    },
+    {
+      "title": "Inter-Temporal Growth Dynamics in Nigeria: Leveraging on Domestic Investment, Domestic Savings, Foreign Portfolio Investment, Economic Freedom, and Corruption",
+      "short_title": "Inter-Temporal Growth Dynamics in Nigeria: Leveraging on Domestic Investment, Domestic Savings\u2026",
+      "url": "https://doi.org/10.59653/jbmed.v4i01.2144",
+      "source": "Journal of Business Management and Economic Development",
+      "published_at": "2026-03-15T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study examines how different factors affect Nigeria's economic growth over the past 25 years. Key findings include that domestic investment, savings, and economic freedom positively impact growth, while corruption and foreign portfolio investment (FPI) have negative effects. The study suggests that to boost the economy, investments should be used for productive purposes, savings rates should be maintained, and more foreign capital should be encouraged. These insights can help policymakers and investors make better decisions to improve Nigeria's economic performance."
     },
     {
       "title": "SUSTAINABILITY GOVERNANCE, REGULATORY QUALITY, AND ANTI-CORRUPTION CONTROLS ON GREEN FINANCE DEVELOPMENT: THE MEDIATING ROLE OF SUSTAINABILITY REPORTING QUALITY",
@@ -449,7 +440,7 @@
       "source": "World Research of Business Administration Journal",
       "published_at": "2026-02-06T00:00:00+00:00",
       "sentiment": "negative",
-      "plain_summary": null
+      "plain_summary": "This study focuses on how AI applications can be used to build a better accounting system for government. It looks at tools like expert systems, neural networks, and genetic algorithms to improve how governments manage their finances. By using these AI tools, governments can better control their operations and prevent corruption. This can help them run more efficiently and fairly."
     },
     {
       "title": "Hunting Tigers or Swatting Flies? The Impact of Anti-corruption Information in China",
@@ -458,7 +449,7 @@
       "source": "The China Quarterly",
       "published_at": "2026-02-03T00:00:00+00:00",
       "sentiment": "negative",
-      "plain_summary": null
+      "plain_summary": "This study examines how different types of anti-corruption information affect public perceptions of corruption across different levels of government in China. It found that information about local anti-corruption efforts, like \"swatting flies,\" reduces perceptions of corruption at lower levels but doesn't have a clear effect at higher levels. On the other hand, information about high-profile cases like \"hunting tigers\" impacts people who are more sensitive to corruption. The study suggests that anti-corruption campaigns should be tailored to different levels of government and individual attitudes towards corruption for better effectiveness."
     },
     {
       "title": "Measuring and assessing corruption in public health systems in low- and middle-income countries: a scoping review of methods",
@@ -503,7 +494,7 @@
       "source": "Public Administration and Development",
       "published_at": "2026-01-31T00:00:00+00:00",
       "sentiment": "positive",
-      "plain_summary": null
+      "plain_summary": "This study looks at how different ways governments keep themselves honest can help more women become leaders. It found four key ways\u2014good elections, free press, strong civil society groups, and independent oversight bodies\u2014that are essential for increasing women in politics. Other ways also help, but these four are crucial. By understanding these connections, policymakers can create better policies to encourage more women to run for political office."
     },
     {
       "title": "E-GOVERNMENT AS A TOOL FOR COMBATING CORRUPTION IN UKRAINE: ANALYSIS OF GLOBAL EXPERIENCE AND NATIONAL BARRIERS",
@@ -512,7 +503,7 @@
       "source": "Coordinates of Public Administration",
       "published_at": "2026-01-27T00:00:00+00:00",
       "sentiment": "negative",
-      "plain_summary": null
+      "plain_summary": "This article discusses how e-government can be a powerful tool to fight corruption in Ukraine, especially during times of martial law. It shows that by developing digital services, open registers, and using analytics, Ukraine can create a more transparent and accountable system. This aligns with global trends showing that more digitally advanced countries have lower corruption risks and higher public trust. Despite some challenges like fragmented regulations and uneven infrastructure, Ukraine has made progress since 2018."
     },
     {
       "title": "CORRUPTION AS AN INSTITUTIONAL THREAT TO THE FORMATION AND DEVELOPMENT OF THE HUMAN RESOURCES OF PUBLIC ADMINISTRATION BODIES",
@@ -533,12 +524,21 @@
       "plain_summary": null
     },
     {
-      "title": "Does government transparency really matter for citizens\u2019 satisfaction to public service? Empirical evidence from China",
-      "short_title": "Does government transparency really matter for citizens\u2019 satisfaction to public service? Empir\u2026",
-      "url": "https://doi.org/10.1080/03003930.2026.2614031",
-      "source": "Local Government Studies",
-      "published_at": "2026-01-11T00:00:00+00:00",
-      "sentiment": "positive",
+      "title": "Beyond Compliance: A Systematic Review of Ethics, Accountability, And Transparency in Indonesian Governance",
+      "short_title": "Beyond Compliance: A Systematic Review of Ethics, Accountability, And Transparency in Indonesi\u2026",
+      "url": "https://doi.org/10.30589/pgr.v10i1.1361",
+      "source": "Policy &amp; Governance Review",
+      "published_at": "2026-01-08T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": null
+    },
+    {
+      "title": "Unethical leadership in the South African public sector tender processes through the lens of game theory",
+      "short_title": "Unethical leadership in the South African public sector tender processes through the lens of g\u2026",
+      "url": "https://doi.org/10.1504/ijbge.2026.151978",
+      "source": "International Journal of Business Governance and Ethics",
+      "published_at": "2026-01-01T00:00:00+00:00",
+      "sentiment": "negative",
       "plain_summary": null
     }
   ],
@@ -571,24 +571,6 @@
       "plain_summary": "Risk-based financial governance is becoming crucial for how institutions make investment decisions in today's markets. It involves assessing risks explicitly within oversight to align with organizational goals and responsibilities. This approach extends beyond traditional compliance by integrating risk into decision-making processes, using tools like scenario analysis and dynamic portfolio management. The literature shows that institutions with strong risk-based governance are better at anticipating market changes, optimizing performance, and ensuring sustainable value creation while staying compliant."
     },
     {
-      "title": "Recent Expansions in Anti-Microbial Profile of Quinoline Analogues: A Review",
-      "short_title": "Recent Expansions in Anti-Microbial Profile of Quinoline Analogues: A Review",
-      "url": "https://doi.org/10.2174/0113852728367743250520191343",
-      "source": "Current Organic Chemistry",
-      "published_at": "2026-11-01T00:00:00+00:00",
-      "sentiment": "positive",
-      "plain_summary": "Recent research has shown that adding different parts called heterocyclic systems to quinoline molecules can create compounds with many useful properties. These modified quinoline-based drugs are effective against a wide range of harmful bacteria, including those causing serious infections. They also show promise in treating cancer and other conditions like seizures, pain, inflammation, and heart problems. By combining quinoline with other parts, scientists can make new medicines that work better than existing ones."
-    },
-    {
-      "title": "Driving Governance Excellence in Non-Profit Organizations through Digital and Strategic Transformation",
-      "short_title": "Driving Governance Excellence in Non-Profit Organizations through Digital and Strategic Transf\u2026",
-      "url": "https://doi.org/10.70122/ajbsp.v3i1.3",
-      "source": "American Journal of Business Science Philosophy",
-      "published_at": "2026-06-30T00:00:00+00:00",
-      "sentiment": "positive",
-      "plain_summary": "This study looks at what helps non-profits run better, focusing on four key areas: using digital tools effectively, being flexible with strategies, having strong relationships, and continuously learning. It found that all these elements are important for good governance in non-profits. By integrating technology, adapting quickly to changes, building trust among partners, and always seeking new knowledge, organizations can improve their performance significantly. This research provides practical advice for leaders on how to enhance their organization's governance and overall success."
-    },
-    {
       "title": "Self-starters and lone rangers: Municipal government and nonprofit PR practitioners\u2019 approaches to AI training, ethics, and policy-making",
       "short_title": "Self-starters and lone rangers: Municipal government and nonprofit PR practitioners\u2019 approache\u2026",
       "url": "https://doi.org/10.1016/j.pubrev.2025.102664",
@@ -604,7 +586,7 @@
       "source": "Public Administration and Development",
       "published_at": "2026-01-31T00:00:00+00:00",
       "sentiment": "positive",
-      "plain_summary": null
+      "plain_summary": "This study looks at how different ways governments keep themselves honest can help more women become leaders. It found four key ways\u2014good elections, free press, strong civil society groups, and independent oversight bodies\u2014that are essential for increasing women in politics. Other ways also help, but these four are crucial. By understanding these connections, policymakers can create better policies to encourage more women to run for political office."
     },
     {
       "title": "Beyond Compliance: A Systematic Review of Ethics, Accountability, And Transparency in Indonesian Governance",
@@ -621,15 +603,6 @@
       "url": "https://doi.org/10.70651/3041-248x/2025.12.05",
       "source": "Philosophy and Governance",
       "published_at": "2025-12-13T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": null
-    },
-    {
-      "title": "Ethical Mechanisms in Preventing Bureaucratic Corruption: A Comparative Study across Indonesian Government Institutions",
-      "short_title": "Ethical Mechanisms in Preventing Bureaucratic Corruption: A Comparative Study across Indonesia\u2026",
-      "url": "https://doi.org/10.31000/jgcs.v9i2.14541",
-      "source": "Journal of Government and Civil Society",
-      "published_at": "2025-10-30T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": null
     },
