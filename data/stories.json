@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-19T14:07:16.693974+00:00",
+  "updated_at": "2026-03-20T07:05:41.568099+00:00",
   "government": [
     {
       "title": "Professional Data Use Among Nonprofits and Public Organizations in Collaborative Networks: The Influence of Partners, Coalitions, and Technical Assistance Organizations",
@@ -168,7 +168,7 @@
       "short_title": "AI Regulation and Its Social Impacts on Public Policy",
       "url": "https://doi.org/10.55737/rl.v5i1.26181",
       "source": "Regional Lens",
-      "published_at": "2026-03-19T14:06:29.782942+00:00",
+      "published_at": "2026-03-20T07:05:24.507074+00:00",
       "sentiment": "positive",
       "plain_summary": "AI is now a key part of how governments make decisions in many areas like healthcare, policing, and welfare. As more AI systems are used, it's important to have rules to make sure they work fairly and don't cause problems. These rules help ensure that AI doesn't lead to unfair treatment or less democracy. By carefully watching how AI is used, we can make sure it helps people and doesn't hurt them."
     },
@@ -177,7 +177,7 @@
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-03-19T14:06:10.420045+00:00",
+      "published_at": "2026-03-20T06:31:12.869293+00:00",
       "sentiment": "negative",
       "plain_summary": "This research focuses on understanding the emotional risks in police work and how they manage their emotions to improve job satisfaction. It was conducted by observing various police units like forensic science, digital investigation, financial division, criminal division, anti-terrorism unit, and more over 26 days. The study found two key emotions that are hard for them to express: interest and frustration. These emotions make it difficult for officers to discuss their work-related feelings openly, leading to invisible or undiscussed labor."
     },
@@ -186,7 +186,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-19T14:06:08.450276+00:00",
+      "published_at": "2026-03-20T06:31:12.198524+00:00",
       "sentiment": "positive",
       "plain_summary": "Data science has become crucial as we generate vast amounts of information daily. It helps transform this data into useful insights for better decision-making across various sectors. For audit institutions, integrating data science can enhance their ability to manage public funds more effectively and improve accountability. By using data science, audits can provide clearer and more accurate reports that recommend improvements faster, which benefits the overall administration and improves citizens' quality of life."
     },
@@ -195,7 +195,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-19T14:06:08.450187+00:00",
+      "published_at": "2026-03-20T06:31:12.198419+00:00",
       "sentiment": "positive",
       "plain_summary": null
     },
@@ -204,7 +204,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-19T14:06:08.450165+00:00",
+      "published_at": "2026-03-20T06:31:12.198388+00:00",
       "sentiment": "positive",
       "plain_summary": "This paper discusses a scenario where autonomous killer robots are used in warfare without human intervention. These robots can make decisions about who to target based on AI algorithms trained to recognize certain uniforms. If one of these drones targets and kills an enemy soldier who is surrendering, it would violate international laws. Another concern is if the robot makes a mistake by attacking another similar system, leading to unintended conflicts."
     },
@@ -213,7 +213,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-03-19T14:06:08.450020+00:00",
+      "published_at": "2026-03-20T06:31:12.198207+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how public service motivation can lead to noble cause corruption in Lebanon, where there's a lot of social and economic hardship. The research found that feelings like compassion and selflessness often push people into doing good deeds for noble causes, but these actions sometimes involve corrupt practices. This leads to internal conflicts as the person feels both guilty and supported by their work environment. Factors like physical exchanges, personal space in the workplace, and close relationships with users can make it easier for this type of corruption to happen."
     },
@@ -222,7 +222,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-03-19T14:06:08.449947+00:00",
+      "published_at": "2026-03-20T06:31:12.198119+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how public service motivation can lead to corruption for a noble cause in Lebanon, where corruption is prevalent and social issues are challenging. Based on interviews with 32 Lebanese public servants, the research explores how feelings of compassion and self-sacrifice related to public service motivation might encourage them to engage in corrupt behavior for what they see as a good cause. The study highlights that these motivations can lead to behaviors like providing extra support or shielding users from punishment. This can create internal conflicts within the public servant due to their emotional connection with those affected."
     },
@@ -231,9 +231,18 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-03-19T14:06:08.449813+00:00",
+      "published_at": "2026-03-20T06:31:12.197957+00:00",
       "sentiment": "negative",
       "plain_summary": null
+    },
+    {
+      "title": "Corruption and Public Spending as Predictors of Tax Evasion in Libya: Political Instability as a Moderator",
+      "short_title": "Corruption and Public Spending as Predictors of Tax Evasion in Libya: Political Instability as\u2026",
+      "url": "https://doi.org/10.22610/imbr.v18i1(j).4820",
+      "source": "Information Management and Business Review",
+      "published_at": "2026-03-19T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "Tax evasion is a significant issue for governments trying to collect revenues needed for development projects. In Libya, despite efforts to improve tax collection, many self-employed individuals still evade taxes. This research found that corruption and public spending levels affect how taxpayers behave. Higher perceived corruption leads to more tax evasion, while higher public spending reduces the likelihood of tax evasion."
     },
     {
       "title": "The Impact of Asset Recovery Regulations on Corruption Cases in Indonesian: A Leap Forward?",
@@ -260,7 +269,7 @@
       "source": "Journal of Economics, Finance And Management Studies",
       "published_at": "2026-03-19T00:00:00+00:00",
       "sentiment": "negative",
-      "plain_summary": null
+      "plain_summary": "The study found that having an effective audit committee helps prevent fraud in public sector entities. This is partly because effective committees also lead to better implementation of risk management practices. Better risk management then further reduces the chances of fraud happening. So, by strengthening how these committees operate and making sure there are strong risk management systems in place, we can improve accountability and reduce fraudulent activities in government organizations."
     },
     {
       "title": "Achieving Efficiency with Justice in the Reform of Anti-Corruption Law Enforcement in State-Owned Enterprises",
@@ -531,15 +540,6 @@
       "published_at": "2026-02-03T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": null
-    },
-    {
-      "title": "EFFECT OF AUDITOR SKILLS ON FINANCIAL ACCOUNTABILITY OF PLATEAU STATE GOVERNMENT MINISTRIES",
-      "short_title": "EFFECT OF AUDITOR SKILLS ON FINANCIAL ACCOUNTABILITY OF PLATEAU STATE GOVERNMENT MINISTRIES",
-      "url": "https://doi.org/10.65922/hs5sbz59",
-      "source": "ANUK College of Private Sector Accounting Journal",
-      "published_at": "2026-02-03T00:00:00+00:00",
-      "sentiment": "positive",
-      "plain_summary": null
     }
   ],
   "nonprofit": [
@@ -639,15 +639,6 @@
       "url": "https://doi.org/10.70651/3041-248x/2025.12.05",
       "source": "Philosophy and Governance",
       "published_at": "2025-12-13T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": null
-    },
-    {
-      "title": "Ethical Mechanisms in Preventing Bureaucratic Corruption: A Comparative Study across Indonesian Government Institutions",
-      "short_title": "Ethical Mechanisms in Preventing Bureaucratic Corruption: A Comparative Study across Indonesia\u2026",
-      "url": "https://doi.org/10.31000/jgcs.v9i2.14541",
-      "source": "Journal of Government and Civil Society",
-      "published_at": "2025-10-30T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": null
     },
