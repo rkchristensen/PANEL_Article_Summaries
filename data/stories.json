@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-20T07:05:41.568099+00:00",
+  "updated_at": "2026-03-21T14:15:53.035024+00:00",
   "government": [
     {
       "title": "Professional Data Use Among Nonprofits and Public Organizations in Collaborative Networks: The Influence of Partners, Coalitions, and Technical Assistance Organizations",
@@ -9,15 +9,6 @@
       "published_at": "2026-03-18T00:00:00+00:00",
       "sentiment": "positive",
       "plain_summary": "This study found that nonprofits and public organizations can improve their programs and decisions by using data from evaluations, especially when they work closely with similar organizations in partnerships. The research shows that the more an organization interacts with other similar groups within its own network of partnerships, the better it uses evaluation data for improvement. This means these organizations should focus on strengthening relationships within their specific networks to enhance how they use performance evaluation results."
-    },
-    {
-      "title": "Philanthropic Foundations Strategizing Towards Sustainable Development Goals: Systematic Review, Framework Proposal and Policy Implications",
-      "short_title": "Philanthropic Foundations Strategizing Towards Sustainable Development Goals: Systematic Revie\u2026",
-      "url": "https://doi.org/10.1515/npf-2025-0005",
-      "source": "Nonprofit Policy Forum",
-      "published_at": "2026-03-17T00:00:00+00:00",
-      "sentiment": "positive",
-      "plain_summary": "This study looks at how philanthropic foundations use the United Nations' Sustainable Development Goals as a way to guide their work towards solving big problems like poverty and climate change. While many foundations already align with these goals, more research is needed on what this means for how they operate and make decisions. The researchers studied Canadian foundations that are trying new ways of working towards these goals. They found that when foundations use innovative strategies, it can affect both their own operations and the policies made by governments."
     },
     {
       "title": "Regulating Political Microtargeting in India: Legal Imperatives for Democratic Accountability and Data Privacy",
@@ -168,7 +159,7 @@
       "short_title": "AI Regulation and Its Social Impacts on Public Policy",
       "url": "https://doi.org/10.55737/rl.v5i1.26181",
       "source": "Regional Lens",
-      "published_at": "2026-03-20T07:05:24.507074+00:00",
+      "published_at": "2026-03-21T14:15:38.074057+00:00",
       "sentiment": "positive",
       "plain_summary": "AI is now a key part of how governments make decisions in many areas like healthcare, policing, and welfare. As more AI systems are used, it's important to have rules to make sure they work fairly and don't cause problems. These rules help ensure that AI doesn't lead to unfair treatment or less democracy. By carefully watching how AI is used, we can make sure it helps people and doesn't hurt them."
     },
@@ -177,7 +168,7 @@
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-03-20T06:31:12.869293+00:00",
+      "published_at": "2026-03-21T14:15:31.245287+00:00",
       "sentiment": "negative",
       "plain_summary": "This research focuses on understanding the emotional risks in police work and how they manage their emotions to improve job satisfaction. It was conducted by observing various police units like forensic science, digital investigation, financial division, criminal division, anti-terrorism unit, and more over 26 days. The study found two key emotions that are hard for them to express: interest and frustration. These emotions make it difficult for officers to discuss their work-related feelings openly, leading to invisible or undiscussed labor."
     },
@@ -186,7 +177,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-20T06:31:12.198524+00:00",
+      "published_at": "2026-03-21T14:15:30.651791+00:00",
       "sentiment": "positive",
       "plain_summary": "Data science has become crucial as we generate vast amounts of information daily. It helps transform this data into useful insights for better decision-making across various sectors. For audit institutions, integrating data science can enhance their ability to manage public funds more effectively and improve accountability. By using data science, audits can provide clearer and more accurate reports that recommend improvements faster, which benefits the overall administration and improves citizens' quality of life."
     },
@@ -195,7 +186,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-20T06:31:12.198419+00:00",
+      "published_at": "2026-03-21T14:15:30.651547+00:00",
       "sentiment": "positive",
       "plain_summary": null
     },
@@ -204,7 +195,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-20T06:31:12.198388+00:00",
+      "published_at": "2026-03-21T14:15:30.651265+00:00",
       "sentiment": "positive",
       "plain_summary": "This paper discusses a scenario where autonomous killer robots are used in warfare without human intervention. These robots can make decisions about who to target based on AI algorithms trained to recognize certain uniforms. If one of these drones targets and kills an enemy soldier who is surrendering, it would violate international laws. Another concern is if the robot makes a mistake by attacking another similar system, leading to unintended conflicts."
     },
@@ -213,7 +204,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-03-20T06:31:12.198207+00:00",
+      "published_at": "2026-03-21T14:15:30.651045+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how public service motivation can lead to noble cause corruption in Lebanon, where there's a lot of social and economic hardship. The research found that feelings like compassion and selflessness often push people into doing good deeds for noble causes, but these actions sometimes involve corrupt practices. This leads to internal conflicts as the person feels both guilty and supported by their work environment. Factors like physical exchanges, personal space in the workplace, and close relationships with users can make it easier for this type of corruption to happen."
     },
@@ -222,7 +213,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-03-20T06:31:12.198119+00:00",
+      "published_at": "2026-03-21T14:15:30.650942+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how public service motivation can lead to corruption for a noble cause in Lebanon, where corruption is prevalent and social issues are challenging. Based on interviews with 32 Lebanese public servants, the research explores how feelings of compassion and self-sacrifice related to public service motivation might encourage them to engage in corrupt behavior for what they see as a good cause. The study highlights that these motivations can lead to behaviors like providing extra support or shielding users from punishment. This can create internal conflicts within the public servant due to their emotional connection with those affected."
     },
@@ -231,9 +222,18 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-03-20T06:31:12.197957+00:00",
+      "published_at": "2026-03-21T14:15:30.650749+00:00",
       "sentiment": "negative",
       "plain_summary": null
+    },
+    {
+      "title": "Migration, Remittances, and Petty Corruption in Africa",
+      "short_title": "Migration, Remittances, and Petty Corruption in Africa",
+      "url": "https://doi.org/10.1093/isq/sqag015",
+      "source": "International Studies Quarterly",
+      "published_at": "2026-03-20T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study examines how remittances affect people in Africa by looking at how they use this money for personal needs like paying bills or buying things. With more access to mobile payments, families can send money easily to relatives back home. However, since the government services are often not available or reliable, people sometimes use their extra cash to try and get special treatment from officials who have power over these services. This leads to more corruption as people might need to pay bribes to get what they want."
     },
     {
       "title": "Corruption and Public Spending as Predictors of Tax Evasion in Libya: Political Instability as a Moderator",
@@ -287,7 +287,7 @@
       "source": "Journal of Health and Allied Sciences NU",
       "published_at": "2026-03-18T00:00:00+00:00",
       "sentiment": "negative",
-      "plain_summary": null
+      "plain_summary": "This study looked at why people with high blood pressure take their medicine regularly or not. It found several reasons like how much money they have, if they have other health problems, and whether they get support from friends and family. The study showed that only about half of patients took their medication as prescribed. This means healthcare providers need to use different methods to help people remember to take their medicine so they can stay healthy."
     },
     {
       "title": "Community Participation and Village Financial Accountability: A Behavioral Approach to Public Fund Supervision Village Government in Deliserdang",
@@ -470,15 +470,6 @@
       "plain_summary": "This study looks at how people feel about corruption happening in different states of the US. It found that people can sometimes connect what they think with what's really happening. People also tend to see more corruption when the governor from their party isn't in power. The research shows that knowing a lot about politics doesn't change these perceptions much."
     },
     {
-      "title": "The Dilemma and Optimization of Commercial Data Protection under the Anti-Unfair Competition Law",
-      "short_title": "The Dilemma and Optimization of Commercial Data Protection under the Anti-Unfair Competition L\u2026",
-      "url": "https://doi.org/10.54254/2753-7048/2026.ht31853",
-      "source": "Lecture Notes in Education Psychology and Public Media",
-      "published_at": "2026-02-24T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "In today's digital economy, protecting business intelligence is crucial for companies. However, there are issues with current laws like the Anti-Unfair Competition Law where judgments about unfair practices aren't always clear. This leads to confusion over what is ethical and unethical in business. To solve these problems, we need clearer rules on how to protect trade secrets online and ensure companies can safeguard their confidential information effectively."
-    },
-    {
       "title": "Navigating the public sector: a quantitative investigation of organisational factors influencing ERP implementation in New Zealand",
       "short_title": "Navigating the public sector: a quantitative investigation of organisational factors influenci\u2026",
       "url": "https://doi.org/10.1108/tg-12-2025-0430",
@@ -540,6 +531,15 @@
       "published_at": "2026-02-03T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": null
+    },
+    {
+      "title": "EFFECT OF AUDITOR SKILLS ON FINANCIAL ACCOUNTABILITY OF PLATEAU STATE GOVERNMENT MINISTRIES",
+      "short_title": "EFFECT OF AUDITOR SKILLS ON FINANCIAL ACCOUNTABILITY OF PLATEAU STATE GOVERNMENT MINISTRIES",
+      "url": "https://doi.org/10.65922/hs5sbz59",
+      "source": "ANUK College of Private Sector Accounting Journal",
+      "published_at": "2026-02-03T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": null
     }
   ],
   "nonprofit": [
@@ -551,15 +551,6 @@
       "published_at": "2026-03-18T00:00:00+00:00",
       "sentiment": "positive",
       "plain_summary": "This study found that nonprofits and public organizations can improve their programs and decisions by using data from evaluations, especially when they work closely with similar organizations in partnerships. The research shows that the more an organization interacts with other similar groups within its own network of partnerships, the better it uses evaluation data for improvement. This means these organizations should focus on strengthening relationships within their specific networks to enhance how they use performance evaluation results."
-    },
-    {
-      "title": "Philanthropic Foundations Strategizing Towards Sustainable Development Goals: Systematic Review, Framework Proposal and Policy Implications",
-      "short_title": "Philanthropic Foundations Strategizing Towards Sustainable Development Goals: Systematic Revie\u2026",
-      "url": "https://doi.org/10.1515/npf-2025-0005",
-      "source": "Nonprofit Policy Forum",
-      "published_at": "2026-03-17T00:00:00+00:00",
-      "sentiment": "positive",
-      "plain_summary": "This study looks at how philanthropic foundations use the United Nations' Sustainable Development Goals as a way to guide their work towards solving big problems like poverty and climate change. While many foundations already align with these goals, more research is needed on what this means for how they operate and make decisions. The researchers studied Canadian foundations that are trying new ways of working towards these goals. They found that when foundations use innovative strategies, it can affect both their own operations and the policies made by governments."
     },
     {
       "title": "Call Me Maybe?An Experimental Analysis of Donor Backlash to Voluntary Nonprofit Fraud Disclosure",
