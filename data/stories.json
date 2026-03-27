@@ -1,5 +1,628 @@
 {
-  "updated_at": "2026-03-26T07:00:44.163243+00:00",
-  "government": [],
-  "nonprofit": []
+  "updated_at": "2026-03-27T12:20:04.424589+00:00",
+  "government": [
+    {
+      "title": "Professional Data Use Among Nonprofits and Public Organizations in Collaborative Networks: The Influence of Partners, Coalitions, and Technical Assistance Organizations",
+      "short_title": "Professional Data Use Among Nonprofits and Public Organizations in Collaborative Networks: The\u2026",
+      "url": "https://doi.org/10.1177/08997640261426888",
+      "source": "Nonprofit and Voluntary Sector Quarterly",
+      "published_at": "2026-03-18T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": "This study found that nonprofits and public organizations can improve their programs and decisions by using data from evaluations, especially when they work closely with similar organizations in partnerships. The research shows that the more an organization interacts with other similar groups within its own network of partnerships, the better it uses evaluation data for improvement. This means these organizations should focus on strengthening relationships within their specific networks to enhance how they use performance evaluation results."
+    },
+    {
+      "title": "Regulating Political Microtargeting in India: Legal Imperatives for Democratic Accountability and Data Privacy",
+      "short_title": "Regulating Political Microtargeting in India: Legal Imperatives for Democratic Accountability\u2026",
+      "url": "https://doi.org/10.1080/10999922.2026.2644826",
+      "source": "Public Integrity",
+      "published_at": "2026-03-16T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": null
+    },
+    {
+      "title": "Understanding Accountability in AI Use Within the Public Sector: Insights From State Governments in the United States",
+      "short_title": "Understanding Accountability in AI Use Within the Public Sector: Insights From State Governmen\u2026",
+      "url": "https://doi.org/10.1111/padm.70051",
+      "source": "Public Administration",
+      "published_at": "2026-03-11T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": "This study examines how the public sector manages accountability in AI systems used by state governments. It found that accountability is crucial because it helps ensure AI systems are used fairly and transparently. The research also showed who is held accountable, what standards are used, and what the consequences are. It identified areas where more research is needed to connect theory with practice."
+    },
+    {
+      "title": "Executive Non-Divestment, Systemic Corruption, and Democratic Accountability",
+      "short_title": "Executive Non-Divestment, Systemic Corruption, and Democratic Accountability",
+      "url": "https://doi.org/10.1080/10999922.2026.2641953",
+      "source": "Public Integrity",
+      "published_at": "2026-03-11T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": null
+    },
+    {
+      "title": "The Impact of Municipally Owned Enterprises on Corruption Risk in Local Governments",
+      "short_title": "The Impact of Municipally Owned Enterprises on Corruption Risk in Local Governments",
+      "url": "https://doi.org/10.1080/10999922.2026.2632987",
+      "source": "Public Integrity",
+      "published_at": "2026-03-09T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": null
+    },
+    {
+      "title": "Are public officials more risk-averse than private sector employees in decision-making? Interest and accountability matter",
+      "short_title": "Are public officials more risk-averse than private sector employees in decision-making? Intere\u2026",
+      "url": "https://doi.org/10.1093/jopart/muag006",
+      "source": "Journal Of Public Administration Research And Theory",
+      "published_at": "2026-02-19T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": "This study looked at how public officials make decisions compared to people working in the private sector. It found that when it comes to making choices about things affecting everyone (public interest), public officials are more cautious or risk-averse than those in the private sector. The research suggests accountability plays a big role here - if someone is held responsible for something bad happening, public officials become even more careful with their decisions. This means creating systems where people can be punished when they make mistakes could help keep public officials from taking unnecessary risks."
+    },
+    {
+      "title": "Blame Avoidance and Corruption: How Politicians' Denials Shape Citizen Perceptions and Political Accountability",
+      "short_title": "Blame Avoidance and Corruption: How Politicians' Denials Shape Citizen Perceptions and Politic\u2026",
+      "url": "https://doi.org/10.1111/gove.70109",
+      "source": "Governance",
+      "published_at": "2026-01-10T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": null
+    },
+    {
+      "title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy Implications",
+      "short_title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy I\u2026",
+      "url": "https://doi.org/10.47259/ijrebs.2026.711",
+      "source": "International Journal of Research in Entrepreneurship &amp; Business Studies",
+      "published_at": "2027-01-11T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": "This study analyzed how airlines handle airfare refunds and the challenges customers face during this process. It found that communication issues are a major problem, especially in understanding airline rules. Despite most customers being satisfied with their refund after receiving one, they felt the process was complex and inefficient. The research suggests clearer policies and better coordination between airlines, intermediaries, and customers could improve trust and service quality."
+    },
+    {
+      "title": "Review of Risk Based Financial Governance Literature Shaping Institutional Investment Decision Practices",
+      "short_title": "Review of Risk Based Financial Governance Literature Shaping Institutional Investment Decision\u2026",
+      "url": "https://doi.org/10.47191/etj/v11i02.27",
+      "source": "Engineering and Technology Journal",
+      "published_at": "2026-11-02T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": "Risk-based financial governance is becoming crucial for how institutions make investment decisions in today's markets. It involves assessing risks explicitly within oversight to align with organizational goals and responsibilities. This approach extends beyond traditional compliance by integrating risk into decision-making processes, using tools like scenario analysis and dynamic portfolio management. The literature shows that institutions with strong risk-based governance are better at anticipating market changes, optimizing performance, and ensuring sustainable value creation while staying compliant."
+    },
+    {
+      "title": "The Impact of Digital Technology on International Humanitarian Law: Ethical and Legal Implications of Autonomous Weapons Systems",
+      "short_title": "The Impact of Digital Technology on International Humanitarian Law: Ethical and Legal Implicat\u2026",
+      "url": "https://doi.org/10.24018/ejpolitics.2025.4.4.182",
+      "source": "European Journal of Law and Political Science",
+      "published_at": "2026-09-18T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": "This article looks at how new technology like AI is changing international laws for wars. As weapons get more automated, it raises questions about who should be held responsible when they make decisions. The main idea is that current rules are still useful but need updating to fit with these new types of weapons. It suggests ways to improve the existing laws so that people in war zones can continue to rely on protections like not harming civilians unnecessarily."
+    },
+    {
+      "title": "Working Behavior Of Government Officials In Public Services In Dutuno Village, Paleleh District, Buol Regency",
+      "short_title": "Working Behavior Of Government Officials In Public Services In Dutuno Village, Paleleh Distric\u2026",
+      "url": "https://doi.org/10.37905/ppj.v6i2.2985",
+      "source": "Public Policy Journal",
+      "published_at": "2026-08-31T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This research looked at how government workers provide services in a village setting. They found that while the officials are polite to people, there are problems like being late or not responding quickly which affect how well they serve others. Showing care by helping with paperwork is good, but sometimes it takes too long and doesn't happen often enough. The biggest issue is following rules and showing up for work on time."
+    },
+    {
+      "title": "Mars\u2013Venus marriage: State-owned shareholders and corporate fraud in private firms",
+      "short_title": "Mars\u2013Venus marriage: State-owned shareholders and corporate fraud in private firms",
+      "url": "https://doi.org/10.1016/j.jcae.2026.100544",
+      "source": "Journal of Contemporary Accounting &amp; Economics",
+      "published_at": "2026-08-01T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": null
+    },
+    {
+      "title": "The concept \u2018light from light\u2019 in the Nicene creed: Is the metaphor still appropriate for Christian ethics today?",
+      "short_title": "The concept \u2018light from light\u2019 in the Nicene creed: Is the metaphor still appropriate for Chri\u2026",
+      "url": "https://doi.org/10.4102/ids.v60i2.3197",
+      "source": "In die Skriflig/In Luce Verbi",
+      "published_at": "2026-06-30T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This article explores the concept 'light from light' found in early Christian texts like the Nicene Creed. It asks if this metaphor is still relevant for modern Christian ethics, especially considering new ways of thinking about Jesus and his divinity. The author suggests that understanding this ancient metaphor can help create a broader vision of what it means to be human and how we should act ethically today. They argue that by examining the historical context and biblical perspectives, we can find ways to apply these ideas in practical ways for modern ethical discussions."
+    },
+    {
+      "title": "Corruption risk indicators in public procurement: Definition and evaluation with organised crime data",
+      "short_title": "Corruption risk indicators in public procurement: Definition and evaluation with organised cri\u2026",
+      "url": "https://doi.org/10.1016/j.seps.2026.102429",
+      "source": "Socio-Economic Planning Sciences",
+      "published_at": "2026-06-01T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": null
+    },
+    {
+      "title": "Governing Ethics for the Digital Transformation: Developing, Testing, and Validating a Framework",
+      "short_title": "Governing Ethics for the Digital Transformation: Developing, Testing, and Validating a Framewo\u2026",
+      "url": "https://doi.org/10.1016/j.giq.2026.102117",
+      "source": "Government Information Quarterly",
+      "published_at": "2026-06-01T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": null
+    },
+    {
+      "title": "Implementation of Anti-Corruption Villages Based on Local Wisdom: A Study in Banyubiru Village, Semarang Regency",
+      "short_title": "Implementation of Anti-Corruption Villages Based on Local Wisdom: A Study in Banyubiru Village\u2026",
+      "url": "https://doi.org/10.15294/jpp.v43i1.42766",
+      "source": "Jurnal Penelitian Pendidikan",
+      "published_at": "2026-04-30T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study looked at how an anti-corruption program was implemented in Banyubiru Village near Semarang Regency using local customs and values like honesty, cooperation, and deliberation. The program worked well because it aligned with what people already believed in their community. Community members were actively involved in planning and overseeing the village budget. Local leaders also played a role by providing oversight and making sure things ran smoothly."
+    },
+    {
+      "title": "Raising grievances to the state: The political economic effects of anti-corruption crackdowns on labor activism in China",
+      "short_title": "Raising grievances to the state: The political economic effects of anti-corruption crackdowns\u2026",
+      "url": "https://doi.org/10.1016/j.jdeveco.2026.103758",
+      "source": "Journal of Development Economics",
+      "published_at": "2026-04-01T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": null
+    },
+    {
+      "title": "Financial accountability and governance in nonprofit organizations: Strengthening transparency and public trust",
+      "short_title": "Financial accountability and governance in nonprofit organizations: Strengthening transparency\u2026",
+      "url": "https://doi.org/10.30574/wjarr.2026.29.3.0710",
+      "source": "World Journal of Advanced Research and Reviews",
+      "published_at": "2026-03-31T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "Nonprofit organizations play a crucial role in society by contributing significantly to the economy through donations. However, they often lack the same level of financial oversight as for-profit companies. This can lead to issues like financial misconduct that affects not just individual nonprofits but also donors, communities, and beneficiaries who rely on them. To address these challenges, it's important for organizations to have strong governance structures, robust internal controls, and transparent reporting processes."
+    },
+    {
+      "title": "AI Regulation and Its Social Impacts on Public Policy",
+      "short_title": "AI Regulation and Its Social Impacts on Public Policy",
+      "url": "https://doi.org/10.55737/rl.v5i1.26181",
+      "source": "Regional Lens",
+      "published_at": "2026-03-27T12:17:59.916472+00:00",
+      "sentiment": "positive",
+      "plain_summary": "AI is now a key part of how governments make decisions in many areas like healthcare, policing, and welfare. As more AI systems are used, it's important to have rules to make sure they work fairly and don't cause problems. These rules help ensure that AI doesn't lead to unfair treatment or less democracy. By carefully watching how AI is used, we can make sure it helps people and doesn't hurt them."
+    },
+    {
+      "title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bilan d\u2019une recherche immersive en Police Judiciaire fran\u00e7aise",
+      "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
+      "url": "https://doi.org/10.3917/gmp.pr1.0009",
+      "source": "Gestion et management public",
+      "published_at": "2026-03-27T12:17:01.524076+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This research focuses on understanding the emotional risks in police work and how they manage their emotions to improve job satisfaction. It was conducted by observing various police units like forensic science, digital investigation, financial division, criminal division, anti-terrorism unit, and more over 26 days. The study found two key emotions that are hard for them to express: interest and frustration. These emotions make it difficult for officers to discuss their work-related feelings openly, leading to invisible or undiscussed labor."
+    },
+    {
+      "title": "Data Science as a Catalyst for Audit Transformation",
+      "short_title": "Data Science as a Catalyst for Audit Transformation",
+      "url": "https://doi.org/10.56251/clyp9463",
+      "source": "International Journal of Government Auditing",
+      "published_at": "2026-03-27T12:16:54.242751+00:00",
+      "sentiment": "positive",
+      "plain_summary": "Data science has become crucial as we generate vast amounts of information daily. It helps transform this data into useful insights for better decision-making across various sectors. For audit institutions, integrating data science can enhance their ability to manage public funds more effectively and improve accountability. By using data science, audits can provide clearer and more accurate reports that recommend improvements faster, which benefits the overall administration and improves citizens' quality of life."
+    },
+    {
+      "title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
+      "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
+      "url": "https://doi.org/10.56251/tydf1981",
+      "source": "International Journal of Government Auditing",
+      "published_at": "2026-03-27T12:16:54.242623+00:00",
+      "sentiment": "positive",
+      "plain_summary": null
+    },
+    {
+      "title": "Killer Robots \u2013 A Case for SAIs",
+      "short_title": "Killer Robots \u2013 A Case for SAIs",
+      "url": "https://doi.org/10.56251/ojyp9121",
+      "source": "International Journal of Government Auditing",
+      "published_at": "2026-03-27T12:16:54.242593+00:00",
+      "sentiment": "positive",
+      "plain_summary": "This paper discusses a scenario where autonomous killer robots are used in warfare without human intervention. These robots can make decisions about who to target based on AI algorithms trained to recognize certain uniforms. If one of these drones targets and kills an enemy soldier who is surrendering, it would violate international laws. Another concern is if the robot makes a mistake by attacking another similar system, leading to unintended conflicts."
+    },
+    {
+      "title": "The dark side of public service motivation : Analysis of noble cause corruption based on the Lebanese case",
+      "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
+      "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
+      "source": "Gestion et management public",
+      "published_at": "2026-03-27T12:16:54.242127+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study examines how public service motivation can lead to noble cause corruption in Lebanon, where there's a lot of social and economic hardship. The research found that feelings like compassion and selflessness often push people into doing good deeds for noble causes, but these actions sometimes involve corrupt practices. This leads to internal conflicts as the person feels both guilty and supported by their work environment. Factors like physical exchanges, personal space in the workplace, and close relationships with users can make it easier for this type of corruption to happen."
+    },
+    {
+      "title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause noble \u00e0 partir du cas libanais",
+      "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
+      "url": "https://doi.org/10.3917/gmp.pr1.0018",
+      "source": "Gestion et management public",
+      "published_at": "2026-03-27T12:16:54.242012+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study examines how public service motivation can lead to corruption for a noble cause in Lebanon, where corruption is prevalent and social issues are challenging. Based on interviews with 32 Lebanese public servants, the research explores how feelings of compassion and self-sacrifice related to public service motivation might encourage them to engage in corrupt behavior for what they see as a good cause. The study highlights that these motivations can lead to behaviors like providing extra support or shielding users from punishment. This can create internal conflicts within the public servant due to their emotional connection with those affected."
+    },
+    {
+      "title": "Market Failure or Government Failure? A Response to Jaworski",
+      "short_title": "Market Failure or Government Failure? A Response to Jaworski",
+      "url": "https://doi.org/10.12747/bejr2013.01.08",
+      "source": "Business Ethics Journal Review",
+      "published_at": "2026-03-27T12:16:54.241879+00:00",
+      "sentiment": "negative",
+      "plain_summary": null
+    },
+    {
+      "title": "Profitable Offices: Corruption, Anticorruption, and the Formation of Venezuela\u2019s Neopatrimonial State, 1908\u20131948. By Doug Yarrington. Pittsburgh: University of Pittsburgh Press, 2025. Pp. 296. $19.01 cloth; $20.10 Kindle; $58.99 Hardcover.",
+      "short_title": "Profitable Offices: Corruption, Anticorruption, and the Formation of Venezuela\u2019s Neopatrimonia\u2026",
+      "url": "https://doi.org/10.1017/tam.2026.10167",
+      "source": "The Americas: A Quarterly Review of Latin American History",
+      "published_at": "2026-03-27T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": null
+    },
+    {
+      "title": "Corruption and accountability mechanisms within Igbo Eze South Local Government Area, Enugu State",
+      "short_title": "Corruption and accountability mechanisms within Igbo Eze South Local Government Area, Enugu St\u2026",
+      "url": "https://doi.org/10.31039/bjir.v3i11.121",
+      "source": "British Journal of Interdisciplinary Research",
+      "published_at": "2026-03-26T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study looked at how corruption and accountability work within the Igbo Eze South Local Government Area in Enugu State. It found that corruption often happens through things like inflated contracts, favoritism, bribery, and having too many workers who aren't needed. The systems meant to hold people accountable are not very effective because they don\u2019t enforce rules well or show how money is used. Traditional leaders sometimes try to keep an eye on these issues."
+    },
+    {
+      "title": "Effectiveness of a comprehensive bystander anti-racism intervention for healthcare staff in Australia",
+      "short_title": "Effectiveness of a comprehensive bystander anti-racism intervention for healthcare staff in Au\u2026",
+      "url": "https://doi.org/10.1071/pu25046",
+      "source": "Public Health Research and Practice",
+      "published_at": "2026-03-26T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": "This study looked at how training healthcare workers on recognizing and responding to racism worked over time. It found that after participating, staff understood more about racism's effects and felt better equipped to handle racist incidents. They also reported feeling supported by their workplace in dealing with such situations. The training was well-received by most participants who thought it useful and would recommend it to others."
+    },
+    {
+      "title": "The Challenges of Backsourcing",
+      "short_title": "The Challenges of Backsourcing",
+      "url": "https://doi.org/10.1111/faam.70033",
+      "source": "Financial Accountability &amp; Management",
+      "published_at": "2026-03-26T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": null
+    },
+    {
+      "title": "Articles \"Harnessing Spirituality to Combat Workplace Stress\" Ritu Saxena, Vibhor Jain DOI 10.52783/jier.v6i1.4117 357 PDF: 402 PDF The Algorithmic Customer: An In-Depth Analysis of the Impact of Artificial Intelligence and Machine Learning on Personalized Marketing Sonal Sharma, Karishma Agarwal, Gourav Kamboj, Esha Mehta, Meenakshi Sharma, Seema Phogat, Sonam Singh 268 PDF: 292 PDF A study on Attitudinal and Emotional loyalty of Tourists towards Ayurvedic Tourism to build Kerala as an international Ayurvedic Tourism Brand Bijoy K P, Mrinmoy Battacharjee 149 PDF: 116 PDF Online Classroom Models and Learning Outcomes in Professional Education: A Quantitative Study of MBA Students Venkatachalam Ramakrishnan, N. Manikandan 123 PDF: 148 PDF Consumer Buying Behavior towards Luxury Branded Durable Goods in Patna City, Bihar, India Anumeha Singh, Anisa Khanam 151 PDF: 155 PDF A Study Of Emotional Intelligence Of Taekwondo Players Mr. Vipin Kumar Gautam, Dr. Madhusudan Chakraborty 132 PDF: 91 PDF A Descriptive Study On Personality Traits And Demographic Profile Of Individuals Using The Big Five Model S. K. Udhaya Jothi, Dr. M. Punitham 112 PDF: 89 PDF Climbing The Ladder: Digital Skills, Mentorship, And Career Growth Of Young Professionals Mrs.G.Vanitha, Dr.R.Ashokkumar2 112 PDF: 60 PDF The Role of Neuromarketing in Enhancing Digital Marketing Effectiveness Dr.V.Mythili, Dr.M.Aruna, Dr Poornima B, Dr. P. Preetha, Ms. Kanidha P 248 PDF: 124 PDF Role Of Brand Equity In Higher Education Ashish Tambe, Dr. Prerna Kumar 135 PDF: 118 PDF From Habermasian Hegemony of the Public Sphere to the Plurality of Digital Spaces: A Critical Sociological Study of the Reproduction of Collective Identities and Social Relations Under the Influence of Communication Technologies Arzazi Mohammad, Housny Hamra 109 PDF: 92 PDF Contribution of Modern Information and Communication Technology in Enhancing the Quality of Accounting Information: A Field Study Salah Haddad, Maamar Riahi 116 PDF: 75 PDF Cultural Roots and Culinary Revival: Integrating Indigenous Practices Into Sustainable Hospitality and Architecture Design Mr. Prashant Singh, Ms. Neha Mishra, Ms. Shrusti Sonker, Mr. Ashutosh Pathak, Mr. Shivansu Sachan, Mr. Ankit Kumar, Mr. Vanshika Srivastava DOI 10.52783/jier.v6i1.4154 125 PDF: 67 PDF Typography Without A Typographer: Reframing Authorship And Creative Agency In Ai-Driven Packaging Design In India Arjita Singh, Tanisha Wadhawan, Dr. Jyoti Agnihotri, Mr. Shivansu Sachan, Mr. Ankit Kumar, Ms. Aishwarya Arya, Ms. Vanshika Srivastava DOI 10.52783/jier.v6i1.4155 135 PDF: 106 PDF Depiction of Id, Ego and Superego in \u2018Wuthering Heights\u2019 by Emile Bronte Dr Kiran Mamgain, Ms Lajwanti M., Ms Aakshi Chhetri DOI 10.52783/jier.v6i1.4158 196 PDF: 73 PDF Service Quality and Its Effect on Customer Satisfaction in Digital Banking Mansi Mangla, Akanchha Singh, Sunil Kadyan DOI 10.52783/jier.v6i1.4159 259 PDF: 163 PDF The Role of Education Management Information Systems in Enhancing Academic Performance: A Systematic Review Sunaina Tyagi, Vinod Kumar Jain 221 PDF: 104 PDF Neuromarketing and Consumer Behaviour Mohd Azam, Atul Asthana, Arpit Verma 175 PDF: 117 PDF The Effect of Macroeconomic Factors on the Contribution of Systematic Investment Plans of Mutual Fund Schemes in India Rohini. S, M. Jayanthi DOI 10.52783/jier.v6i1.4162 141 PDF: 67 PDF Greening the Workforce: A Sustainable Human Resources Framework for SMEs through AI and Agile Methodologies Piyush Kumar, Balgopal Singh 98 PDF: 60 PDF Empowering Emotional Well-Being: Generation Z\u2019s Openness to Relationship Support Services Neha Kaushik, Sakshi Kaul 129 PDF: 47 PDF Indian Diaspora and Its Role in Promoting India\u2019s National Interest- An Evaluation Shekhar Choudhary, Parth Sharma 74 PDF: 102 PDF The Rise of Young and First-Time Investors in the Indian Stock Market after the COVID-19 pandemic Manoj Kumar, Deepak Kumar 106 PDF: 151 PDF An Empirical Investigation of Commercial Banks\u2019 Impact on Financial Management, Macroeconomic Factors, And Financial Risks Debendra Shadangi, Sarika, Jalendar Reddy Maligireddy, Nisha K G, L. Vijayakumar, Putti Selvaraj DOI 10.52783/jier.v6i1.4167 125 PDF: 66 PDF The Impact of Digital Marketing Management and Quality of Service on the Sales Performance of Smes in the Digital Age Debendra Shadangi, H. H. Ramesha, Prachita Patil, Naveen Kumar B, L. Vijayakumar, Leelavathi H DOI 10.52783/jier.v6i1.4168 140 PDF: 77 PDF \u201cExamining the Relationship Between Governance Structures and Financial Viability in Health Insurance Companies \u2013 An Empirical Study\u201d Rakesh N, Vishal Srivastava DOI 10.52783/jier.v6i1.4174 96 PDF: 39 PDF A Comparative Study Of Depression Among Athletes And Non-Athletes Lokesh Adhikari, Madhusudan Chakraborty DOI 10.52783/jier.v6i1.4175 149 PDF: 84 PDF \u201cA Study on Explainable Artificial Intelligence (AI) Techniques to Increase Transparency in Predictive Analytics for Education in India: Conceptual Analysis\u201d Abhishek Jain, Shivani Gulati, Shama Rani, Vandana, Divyansh Taneja DOI 10.52783/jier.v6i1.4177 156 PDF: 78 PDF Impact of Regulatory Shocks and Consolidation on the Stock Market Reactions of Previously Merged firms in the Indian Automobile and Banking Sectors Ananya Saha, Deepak Kumar Kedia, Sreekumar, Biswajit Satpathy DOI 10.52783/jier.v6i1.4178 94 PDF: 65 PDF Advancing Global Competence in Higher Education through Education for Sustainable Development (ESD) Sanjay Kumar Singh, Shushant Yadav DOI 10.52783/jier.v6i1.4179 128 PDF: 68 PDF Index Rebalancing and its Valuation Ripple: A Deep Dive into Nifty 500 Companies Devyanshu Garg, Meena Sharma DOI 10.52783/jier.v6i1.4180 144 PDF: 113 PDF Influence of Social Media Marketing on the Brand Image of Higher Education Institutions: A Student Perspective Manisha Pipariya, Deepak Jaroliya, Pragya Jaroliya 109 PDF: 105 PDF HR Analytics Meets Customer Insights: Leveraging Marketing Metrics for Workforce Optimization Kavipragash R, Dinesh Gabhane, Sruthi S DOI 10.52783/jier.v6i1.4188 115 PDF: 55 PDF A Study on Evaluating Psychological Factors Influencing Plant-Based Diet Among Gen Z Ravi Kanji Chavda, Aparna Jain DOI 10.52783/jier.v6i1.4191 90 PDF: 68 PDF Impact of Global Tariff Wars on the Supply Chain of Pharmaceutical Raw Materials: A Study of Api and Fine Chemical Imports in India Kapil Dev Pandey 112 PDF: 61 PDF Achieving Competitive Advantage through Effective Human Resource Management and Sustainability in the Flexible Packaging Industry Parwez Izhar, Vineet Kaushik 56 PDF: 48 PDF Requirements for the Digitalization of Public Institutions and Administrations and Their Role in Modernizing Administrative Activity and Achieving Good Governance Aouane Ali, Menia Laid, Arib Mohamed DOI 10.52783/jier.v6i1.4196 113 PDF: 66 PDF The Effects of Using Artificial Intelligence Technologies on The Growth and Development of Emerging Institutions Bouzekri Achour, Omrane Dalila Batoul Manel DOI 10.52783/jier.v6i1.4197 101 PDF: 57 PDF Legal Governance of Competition in Public Procurement: Economic Implications and International Comparisons Meddah Rima Madjouba DOI 10.52783/jier.v6i1.4198 85 PDF: 48 PDF Newly introduced legal mechanisms for investment development in Algeria under Law 22/18 Moulay Zakaria, Limam cheref DOI 10.52783/jier.v6i1.4199 97 PDF: 33 PDF Impact of Adjustment and Academic Interest of Children of Working Women on their Educational Achievement in Mathematics and Science Mohit Kumar, Pawas Kumar Mandal DOI 10.52783/jier.v6i1.4205 102 PDF: 37 PDF The Role of Cultural Intelligence on Secondary School Students' Behavioral Development Savitri Karayat, Pawas Kumar Mandal DOI 10.52783/jier.v6i1.4206 99 PDF: 61 PDF Investigating the Relationship between Media Ownership and Editorial Content: A Study on the Influence of Corporate Interests on Journalism Ram Sunder Kumar, Ganesh Shankar, Lucky Parashar DOI 10.52783/jier.v6i1.4212 192 PDF: 73 PDF Integrating Classroom Pedagogies with Sustainable Development Goals: Fostering Skills for a Resilient Future Kavita Singh, Komal DOI 10.52783/jier.v6i1.4213 71 PDF: 39 PDF \u201cThe Progression of Anti-Money Laundering Regulations: A Global Perspective\u201d Harminder Chopra, Kunal Shaktawat DOI 10.52783/jier.v6i1.4214 88 PDF: 52 PDF The Impact of Microbreaks on Employee Productivity in Hybrid Work Environments Natasha Parashuram Shroti, Krovvidi Krishna Kumari, Manish Jain DOI 10.52783/jier.v6i1.4216 181 PDF: 59 PDF Retracted DOI 10.52783/jier.v6i1.4222 93 \u201cEthical Artificial Intelligence in University HRM: Implications for Faculty Mental Satisfaction, Commitment and Retention\u201d Neha Tiwari, Aditya Sharma 67 PDF: 47 PDF Challenges in Implementing Artificial Intelligence (AI) in the Research Area of Management Institutes Sandeep Moghe, Shankar Chaudhary 79 PDF: 31 PDF Bridging the Gap of Credit: A Micro-Level Analysis of Kisan Credit Card (KCC) in Prayagraj District Ayaz Ahmad 78 PDF: 44 PDF Assessing the Financial Impact of Covid-19 on Private Educational Institutions: A Study of Raipur Division Sakshi Kahar, Satya Kishan 69 PDF: 44 PDF \"Who Finds Fulfillment at Work? Analyzing Job Satisfaction Disparities by Demographic Groups in Healthcare Settings of Mumbai City\" Rashma Nathani, Seema Pandit DOI 10.52783/jier.v6i1.4230 87 PDF: 40 PDF Breaking the Silence: Laughter Percussion as a Transformative Modality in Counseling Psychology Idi Banamungu 215 PDF: 109 PDF Impact of Effective Teaching Strategies for the Students with Learning Disabilities Braj Kishore Jha, Pawas Kumar Mandal 65 PDF: 47 PDF Artificial Intelligence (Ai) In Human Resource Decision-Making: Opportunities, Risks, And Ethical Challenges Abdul Rahman Noordeen DOI 10.52783/jier.v6i1.4239 142 PDF: 43 PDF The Role of Artificial Intelligence (AI) and Emotional Intelligence in Enhancing Leadership Effectiveness and Team Performance Abdul Rahman Noordeen DOI 10.52783/jier.v6i1.4240 133 PDF: 72 PDF Risk-Adjusted Performance of Sustainable Mutual Funds: Evidence from Emerging and Developed Markets Safia Khan, Tarika Singh Sikarwar DOI 10.52783/jier.v6i1.4241 111 PDF: 62 PDF The literary Text from the Poetics of Genres to Textual Structures Kara Mostefa Noureddine DOI 10.52783/jier.v6i1.4242 60 PDF: 43 PDF Corporate Governance and Fraud Prevention: An Empirical Study of Indian Corporations Khushboo Singh DOI 10.52783/jier.v6i1.4243 119 PDF: 46 PDF Effect of Machine Learning on Human Resources, Marketing, and Financial Aspects of E-Commerce Nagarajan G, Aruna Gudimetla, P.GopinadhRao, G.Henry James, SVN Kumar DOI 10.52783/jier.v6i1.4244 103 PDF: 38 PDF The Impact of Staff Performance with Green Human Resource Management (HRM) Practices in Business Sustainability Ravi M.N, Suman Shetty N DOI 10.52783/jier.v6i1.4245 78 PDF: 44 PDF The Role of Internet of Things Data in Stock Market Forecasting: A New Frontier for Financial Management Jaymin Arvind Shah, Aditya Arvind Sontakke, Kaustubh Sontakke, Surbhi Sharma, Sumeet Gupta, D. Stalin David DOI 10.52783/jier.v6i1.4246 86 PDF: 37 PDF Mediating the Impact of Customer Relationship Management on the Influence of Online Purchase Intent through Digital Marketing Management Gajendra Kumar Gupta, Vivek Kumar Mishra, Pragati Malik, Mohammad Salahuddin Ansari, Mithilesh Kumar Tyagi DOI 10.52783/jier.v6i1.4247 97 PDF: 27 PDF Dharma, Artha and Yogak\u1e63ema: Re\u2011reading Indian Knowledge Systems through \u015a\u0101stra, Up\u0101ya, S\u0101ma and D\u0101na Abhishek Verma, Amarnath Paswan DOI 10.52783/jier.v6i1.4248 78 PDF: 62 PDF Enhancing Financial Performance and Sustainable Growth in Food Processing SMEs through Working Capital Management Optimization: A Systematic Literature Review Gahana G Shanbhag, Ujjawal Mishra, Vishal Singh Rajput, Krovvidi Krishna Kumari, Manish Jain DOI 10.52783/jier.v6i1.4249 99 PDF: 56 PDF Scientific Management in the Era of Artificial Intelligence A Socio-Organizational Interpretation Hadjadj Madani DOI 10.52783/jier.v6i1.4251 64 PDF: 32 PDF Financial Literacy and Investment Decisions: A Systematic Review of Empirical Evidence Sudha Pandey, Manjula Jain 72 PDF: 23 PDF A Study on Effect of Digital Practices on Sales Performance and Business Sustainability of Msmes Guru M C, Asifulla A DOI 10.52783/jier.v6i1.4255 69 PDF: 53 PDF Integration of Green Propellants in Advanced Chemical Propulsion Systems: Challenges and Innovations for Future Rocketry Jamil Mukthar DOI 10.52783/jier.v6i1.4257 79 PDF: 53 PDF Authenticity in Corporate Social Responsibility: Conceptualizing Employee Perceptions of CSR and Greenwashing in Indian Banking Jaimini Yagnik, Alvina Thomas DOI 10.52783/jier.v6i1.4266 72 PDF: 37 PDF The Future of Journalism in the Digital Age: An Indian Perspective Garima Rai, Shanu Jha, Aditya Uttam DOI 10.52783/jier.v6i1.4271 83 PDF: 66 PDF Exploring User Perception and Trust in Astrology Apps: A Study of Digital Astrology Adoption and Engagement Shruti Mishra, Raji Rajan, Himanshu Mathur, Shefali Shukla DOI 10.52783/jier.v6i1.4272 98 PDF: 23 PDF Media Law In the Digital Era: Regulatory Transformations, Judicial Safeguards, And Democratic Concerns in India Ram Sunder Kumar, Richa Chandi, Vikash Singhal DOI 10.52783/jier.v6i1.4273 76 PDF: 39 PDF Associations between Body Composition Indicators and Lower-Limb Explosive Performance in Elite Algerian Basketball Players Seyah Zakaria, larbi Mohammed, Abbache Ayoub 40 PDF: 19 PDF Integrating Smart HR 4.0 Technologies for Sustainable Talent Acquisition in Rural Handicraft Industries Mayank Chauhan, Nainsee Singh, V.K. Singh, Rajan Singh DOI 10.52783/jier.v6i1.4276 72 PDF: 41 PDF Organic Infrastructure vs. Inorganic Expansion: A Comparative Analysis of Capex-Led and Acquisition-Led Growth Strategies in Leading Indian Corporations (FY20\u2013FY25). Aniket Sharma DOI 10.52783/jier.v6i1.4298 39 PDF: 51 PDF A Correlational Study of Triguna Traits and Psychological Well-Being of Indian Adults Nisha Matani, Megha Taragi, Anjana S. Chauhan, Hanshika Deep Mehta DOI 10.52783/jier.v6i1.4299 75 PDF: 43 PDF Intelligent Machine Learning-Based System for Disease Prediction and Drug Recommendation Syeda Maherunnisa, Vishal Walia 40 PDF: 32 PDF Biodegradable Waste Management at Institutional Site: An Overview Prerna Sharma, Anindita Roy Chowdhury DOI 10.52783/jier.v6i1.4305 45 PDF: 33 PDF Machine Learning and Artificial Intelligence Faux News Detection: A Review Analysis Jagriti Singh, Mahesh Chandra Joshi, Preeti Nagar DOI 10.52783/jier.v6i1.4306 72 PDF: 24 PDF Empowering Management: How AI Tools Are Revolutionizing Daily Corporate Tasks for Managers Prerna Sharma, Sheetal Yadav, Hemangi Rudhankar DOI 10.52783/jier.v6i1.4307 41 PDF: 26 PDF The Role of Artificial Intelligence in Enhancing Business Decision-Making: Challenges and Opportunities in Mumbai-Based Enterprises Shashank Khedekar, Samadhan Bundhe DOI 10.52783/jier.v6i1.4308 52 PDF: 30 PDF Performance Management Systems in Marketing: Aligning HRM Practices with Marketing Objectives Putti Selvaraj, Neha Choudhary, Shaurya Pratap Singh, M. Mohanraj, L. Vijayakumar, Deepak Singh Bhadauria DOI 10.52783/jier.v6i1.4309 93 PDF: 28 PDF Globalizing Entrepreneurship: How AI and IoT are Shaping Cross-Border Business Models and Market Strategies Parul Mittal, Shilpa Budhavale, Amit Kansal, Mahesh Soni, Swati Agarwal, D. Stalin David DOI 10.52783/jier.v6i1.4310 49 PDF: 25 PDF Social Media as a Dual HR and Marketing Tool: A Study on Brand Image and Talent Attraction Tushar Batra, Aaron Abhilash Yegudala, Deepak Devgan,Yadvinder Parmar 41 PDF: 21 PDF Structuring Investment Waqf Funds to Support Startups in Algeria: A Proposed Vision Aboubakre Samir Guioua, Saidi Mouloud, Guesseier Ahmed, Pr Chihab Ilimi 44 PDF: 52 PDF Bridging the Digital Literacy Divide: A Comparative Assessment of Financial Fraud Prevention Interventions in Urban and Rural Rajasthan Himanshu Sharma, Kamakshi Mehta, Renuka Kumawat, Subhabaha Pal 39 PDF: 32 PDF Enhancing Digital Retail Through Extended Reality: Consumer Experience and Behavioral Effects Karthikeyan K, D.Prashanth DOI 10.52783/jier.v6i1.4318 58 PDF: 31 PDF Reinventing Media Production: A Study on Modern Infrastructure and Emerging Technologies Surender Paliwal, Kuldeep Siwach DOI 10.52783/jier.v6i1.4319 41 PDF: 25 PDF Adaptive Assessment Engines: Reinforcement Learning in Personalized Academic Evaluation Richa Purohit, Swati Namdevrao Jadhav, Poonam DOI 10.52783/jier.v6i1.4323 91 PDF: 48 PDF From Cash to Connectivity: Digital Financial Inclusion and Market Participation among Zari-Zardozi Artisans Mohit Lohani, Vaniki Joshi Lohani, Pankaj Juneja, Bhupender Singh, Deepti Sharma DOI 10.52783/jier.v6i1.4324 64 PDF: 32 PDF The Use of Relaxation in the Therapy of Stuttering Ismail Hassani, Sakina Saadna, Bairi Rayen 76 PDF: 59 PDF A Study of the Impact of Social Media on the Academic Achievement of Higher Secondary Students Sarita Singh, Anjulata Yadav 191 PDF: 49 PDF The Exercise of National Agency for Tourist the Right of Emption Chafaa Ouankilla Lalla 46 PDF: 32 PDF The Human Security Approach in Confronting Pandemics within the Requirements of International Law: Challenges and Prospects Youssef Kaddour, Ammari Ayoub DOI 10.52783/jier.v6i1.4333 64 PDF: 8 PDF Retracted DOI 10.52783/jier.v6i1.4334 47 Adoption of Fintech Apps for Insurance Purchases: A Study on Consumer Behavior in Mumbai Suburban Manohar Vinod Pathre, Dr Mangesh Vasudeo Panchal 44 PDF: 29 PDF \u201cEvaluating the Alignment of NCHMCT Curriculum with Industry Competency Requirements: A Study of Hospitality Institutions in Delhi NCR.\u201d Yatendra Kumar, Akhil Kumar, Megha Anand, Dinesh Kumar, Nitin Gupta DOI 10.52783/jier.v6i1.4341 43 PDF: 28 PDF Impact of Social Media on Consumer Attitude towards Sustainable Beauty/Personal Care Brands in Mumbai Usha C. Kukreja, Ritu Lund, Soumya Subhash Kutty 57 PDF: 39 PDF Cultural and Digital Transformations and Their Impact on Linguistic Diversity- Towards the Dominance of a Single Language Nasri Zouaoui, Bouzidi Slimane 29 PDF: 24 PDF The History of the Printed Press in Algeria: A Socio-Historical Reading Ben Fatta Mokhtar, Reffas Nour Eddine, Bendida Baghdad, Hadji Rachid, Ailas Mohamed 44 PDF: 31 PDF Green Linguistics: Programming Linguistic Immunity for Artificial Intelligence Assia Sayad 76 PDF: 4 PDF Intuition over Logic? Emotional Branding and Consumer Persuasion in Competitive Markets Ch Siddharth Nanda, Kaushik Mishra 36 PDF: 28 PDF A Study of the Relationship Between Social Maturity and Mental Well-Being of Upper Primary Students Rajeev Kumar Jha, Naheed Bi DOI 10.52783/jier.v6i1.4347 44 PDF: 39 PDF Analysing the Influence of In-Store Technology on Retail Stores Towards Customer Satisfaction K.Vidhyakala DOI 10.52783/jier.v6i1.4353 46 PDF: 21 PDF Navigating Stress and Attitude: Unveiling Performance Drivers in Management Education Professionals Sambhaji Hindurao Kumbhar, Navneesh Tyagi DOI 10.52783/jier.v6i1.4358 43 PDF: 25 PDF Corporate Social Responsibility in Hospitality Dr. Pooja Gianchandani, Dr. Kavita Gupta, Dr. Girish Nandani, Mohd. Sayaid Khurshed Ahmad DOI 10.52783/jier.v6i1.4360 63 PDF: 39 PDF Connecting With Customers: The Impact Of Social Media On Customer Experience In The Telecom Sector Megha G. Bhatt, Dr. Mayuri V.Dhameliya 27 PDF: 21 PDF A Research Study on Women Investors' Attitudes toward Mutual Fund Investments in Rajkot city Kavita Gardharia, Dr. Laveena Dharmwani 49 PDF: 33 PDF Cyber Crime Laws: Adequacy of Existing Legal Frameworks Khoda Meena, Rajeshree Biswas, Nisha Agarwal, Saurab Nag 40 PDF: 30 PDF Status of Unemeployment in Jongksha Village East Kahsi Hills District of Shillong \u2013 An Empirical Study Bharath Narayanan DOI 10.52783/jier.v6i1.4367 45 PDF: 24 PDF Redesigning the Insurance Industry: Exploring Evolving Technologies for Insurance Pratik Priyadarshi, Bhanu Pratap DOI 10.52783/jier.v6i1.4371 56 PDF: 39 PDF A study on the Role of Human Resource Management Practices in Shaping Employee Performance Metrics in the Manufacturing Sector Dinesh Chand Gupta, Tanushri Purohit DOI 10.52783/jier.v6i1.4372 71 PDF: 39 PDF From Digital Infrastructure to Quality of Life: Examining the Role of Digital Welfare in Sustainable Growth Elagag Mustapha, Makhloufi Kenza, Mokaddem Tebra 33 PDF: 15 PDF A Machine Learning Framework for Automated Interview Feedback and Performance Evaluation Savitha G, Abhay Rupesh, Aditi Rao H, Anoushka Saini, Anna Sri Ranga Ganesh Anuraag 59 PDF: 30 PDF Integrating Behavioural Theory and Machine Learning to Predict Life Insurance Purchase Intention in India K. Sanjay DOI 10.52783/jier.v6i1.4378 37 PDF: 25 PDF Guest Experience and Repeat Occupancy: A Review of Literature on Service Quality in Bengaluru's Star Hotels Ramesh P Karturi, Aurobindo Kiriyakere DOI 10.52783/jier.v6i1.4379 34 PDF: 26 PDF Cognitive Distortions and Suicidal Ideation in the Digital Age: A Study of Gaming-Addicted Adolescents in Tripura, India Debanjana Mukherjee, Amrita Banerjee DOI 10.52783/jier.v6i1.4383 51 PDF: 28 PDF A Conceptual Framework for Fintech\u2019s Influence on Banking Services in Emerging Markets Anukriti Mishra, Kranti Singh, Sakshi Raghuvanshi 81 PDF: 24 PDF Analysis of Human Resource Development Schemes for MSMEs in Haryana: A Review of Government and Industry Reports Pardeep Kumar, Manoj Kumar Meet, Sanjeev Kumar, Deepak Dixit 35 PDF: 16 PDF Victimology and Restorative Justice: A Critical Appraisal of Reconciliation in Rape Jurisprudence Manu Sharma, Abhilasha Thakur 41 PDF: 20 PDF Autonomous Compliance Systems: AI, Event Streaming, and the Future of Financial Crime Prevention P S L Narasimharao Davuluri 24 PDF: 10 PDF Autonomous Data Platforms: Converging AI, MLOps, and Cloud Engineering for Digital Velangani Divya Vardhan Kumar Bandi 27 PDF: 5 PDF Impact of Hybrid Work HR Policies on Employee Productivity in IT Sector Naina Salve, Vishal Dilip Chavan 56 PDF: 42 PDF Persistent Privacy and Data Security Concerns in the Context of Applicable Laws Siddharth Baskar, Vaasawa Sharma 22 PDF: 5 PDF Impact of Human Resource Training and Development Programs on Supply Chain Integration and Coordination D. C. Agrawal, Saumya Gupta, Ankit Bhati 35 PDF: 9 PDF Antecedents of Patient Satisfaction and Patient Loyalty in the Medical Tourism sector in Kerala, India. Mercy Toni, Jithina KK, Thomas KV, Tess Toni DOI 10.52783/jier.v6i1.4399 47 PDF: 21 PDF Competency Mapping to assess the Employability Readiness of Engineering Students in the Higher Education Institutions (HEIs) Anant Bhardwaj, Pankhuri Agarwal DOI 10.52783/jier.v6i1.4400 68 PDF: 30 PDF Moving Forward Through a Realistic Method of Constructive Conflict Transformation: Enabling People Through Mapping Their Psychological Capital M.Kousalyadevi 33 PDF: 16 PDF Sustainable Enterprises and Green Marketing Alignment: Pathways to Competitive Advantage Tenzin Choephel, Sumithra Sreenath, Shreya Madali 36 PDF: 13 PDF Blueprint for Derivative Excellence: Frameworks that Reduce Corporate Vulnerability in Market Turbulence Vibhum Bansal, Preeti Sharma, Vijay Kumar Jain 33 PDF: 47 PDF Customers\u2019 Perceptions Toward Organised Retailing: An Analytical Study of Selected Cities in Odisha Pratap Kumar Pati, Umakanta Dash DOI 10.52783/jier.v6i1.4408 37 PDF: 11 PDF Gemini Program and Arabic Language Teaching: An Analytical Study Khadidja Kelatma, Amel May, Abdelkader Makhlouf, Ahmed Makhlouf 28 PDF: 6 PDF Assessment of Executive Functions (Inhibition and Cognitive Flexibility) in Children with Dyslexia Belkadi Nehed 15 PDF: 3 PDF Impact of Competitive Aggressiveness, Autonomy on Business Performance, and Proactiveness in selected MSMEs in Uttar Pradesh Asmita Singh, Raveesh Kumar Maurya DOI 10.52783/jier.v6i1.4412 34 PDF: 12 PDF Designing and Implementing Automated Systems for the Evaluation of Linguistic Competences Bedraoui Noura 19 PDF: 14 PDF Family Electronic Addiction as a Gateway to Family Silence: An Analytical Study Lassoued Manal, Chabbi Amina, Bouti Chahrazad 24 PDF: 10 PDF Artificial Intelligence in Indian- Higher Education in the 21st Century Sidam.Madhuar DOI 10.52783/jier.v6i1.4415 130 PDF: 67 PDF Innovating Sustainability: Transformative Pathways for Inclusive and Resilient Agricultural Development in Telangana State L Narsimlu DOI 10.52783/jier.v6i1.4416 28 PDF: 15 PDF Technological Diffusion And Sustainable Livelihoods In Scheduled Areas Of Telangana: Empirical Insights From Itda Bhadrachalam And Eturnagaram Ravikumar Sandra DOI 10.52783/jier.v6i1.4417 37 PDF: 12 PDF Artificial Intelligence-Driven Innovation In Higher Education System In India Shabana, R. A. Siddique, Rupam Sinha, Shoaib Ansari, Mohammad Shareef DOI 10.52783/jier.v6i1.4418 65 PDF: 34 PDF Monetary Policy and Digital Innovation as Catalysts for Sustainable Economic and Environmental Transformation in Oman\u2019s Vision 2040 Umar Ali Khan, Vipin Jain DOI 10.52783/jier.v6i1.4419 35 PDF: 9 PDF The Mediating Role Of Intellectual Capital Disclosure Between Corporate Governance Attributes And Firm Value Yusaf Harun K, V Kavida, Mohamed Ali Kuniparambil DOI 10.52783/jier.v6i1.4420 41 PDF: 0 PDF Sustainability Between Reality and Illusion: Greenwashing practices in the Case of H&amp;M Merraka Amel, Soltane Karima, Touil Yassemina, Ammari Samir 122 PDF: 82 PDF Examining the Effects of Self-Help Groups on Rural Women in the Context of Empowerment Dynamics and Sustainable Development Sanghamitra Behera, Puspalata Mahapatra DOI 10.52783/jier.v6i1.4426 40 PDF: 20 PDF Role of Forensic Accounting in Fraud Detection: Perception of Chartered Accountants in Ahmedabad Shah Mona Pravin Kumar, Marzun Jokhi 66 PDF: 17 PDF Evaluating the Role of Block chain in Modernizing the Indian Banking Infrastructure Vora Nidhi Shaileshbhai, Shreeda Shah 47 PDF: 20 PDF From Demo to Decision: How Clinical Demonstrations Influence Medical Device Purchase Outcomes in South India R. Prabusankar, H. Premkumar 26 PDF: 12 PDF An Empirical Structural Equation Modeling Approach Integrating FinTech, Artificial Intelligence, Blockchain, and Clean Technology Parul Tandan, Susmita Sarkar, Sunit Lakra, Damanti Mawrie DOI 10.52783/jier.v6i1.4430 62 PDF: 66 PDF A Study of Media Narratives on Odisha\u2019s Role in Revitalizing Indian Hockey Utkalika Priyadarshini, Mehak Jonjua, Shishir Kumar Singh DOI 10.52783/jier.v6i1.4431 74 PDF: 21 PDF A Study of Influencing Factors in Health Insurance Policy Decision Making Among Consumers Deepali Garge DOI 10.52783/jier.v6i1.4432 63 PDF: 27 PDF Impact of Social Media Journalism on Public Opinion during Indian Elections Kanaparthi Pavani, K Rakesh DOI 10.52783/jier.v6i1.4435 99 PDF: 53 PDF An Investigation into the Relationship between Children's Feeding Habits and Their Nutritional Status (6\u201323 Months) In Rajasthan Goutam Sadhu 27 PDF: 11 PDF The Future of Justice: Navigating AI\u2019s Ethical and Legal Maze In India\u2019s Criminal Justice System Kritika Goyal, Shreya 64 PDF: 29 PDF Key Drivers for the Growth and Success of Fintech Companies with Reference to Bangalore Anita Rajendran, Y.Venkata Rangaiah DOI 10.52783/jier.v6i1.4439 46 PDF: 20 PDF Industry 4.0 Technologies In Education: Fostering Lifelong Learning And Addressing Student Diversity Devika S, Bhuwan Gupta, Sunil Jagannath Ghadge, Keshav Chandrakant Arote, Suman Lata, H. L. Khatri DOI 10.52783/jier.v5i4.4442 25 PDF: 18 PDF Sustainable Management and Development of Religious Tourism in Ramayana Circuit of Uttar Pradesh Satyendr Kumar Chaudhari, Anshima Srivastava 40 PDF: 11 PDF Does Emotional Intelligence Shape Team Success? An Empirical Study of Emotional Intelligence, Team Processes, and Academic Performance in Collaborative Learning Environments Mr. Rahul H. , Dr. Anil Dongre 30 PDF: 9 PDF Carbon-Aware Resource Management in Cloud, Edge, and AI Platforms: A Comprehensive Survey Bhavya N, R.K. Bharathi 72 PDF: 22 PDF Building High-Performance Cross-Cultural Teams: Hr Innovation Strategies For Globalized Hotel Operations Muralidharan, Preetha Rajendran DOI 10.52783/jier.v6i1.4452 34 PDF: 12 PDF Human\u2013AI Collaboration in Financial Decision-Making: A Comprehensive Bibliometric Analysis (2015\u20132025) Sharda Kumari DOI 10.52783/jier.v6i1.4453 81 PDF: 23 PDF Between Gods and Ghosts: Gothic Resonances in Kavita Kane\u2019s Mythological Narratives Abhishek Godara, Priyanka Yadav 23 PDF: 13 PDF Understanding Classroom Engagement through Teacher Practices for Learners with ADHD: A study of Indian School Students Manleen Kaur, Rekha Kaushal DOI 10.52783/jier.v6i1.4460 73 PDF: 19 PDF Exploring The Key Antecedents of Burnout in Women Police: An Interpretative Structural Modeling Approach Hiremath V.M.R, H. R. Ganesha DOI 10.52783/jier.v6i1.4461 50 PDF: 19 PDF Examining Hospitality Workforce Job Stress on Work Performance and Job Outcomes mediated by Emotional Labour Srividya Vedasnata, Dr. Sumita Mishra, Dr. Sarat Kumar Mishra DOI 10.52783/jier.v6i1.4462 46 PDF: 10 PDF Investment Behaviour and Financial Decision-Making of Engineering Faculty: A Behavioural and Analytical Approach Naveen Kumar T S, Dr. Sureshramana Mayya DOI 10.52783/jier.v6i1.4464 66 PDF: 15 PDF A Comparative Study of the Effect of Gst Exemption on Health Insurance Penetration and Financial Inclusion in India Devendra D. Singh, Alpesh Mehta DOI 10.52783/jier.v6i1.4465 60 PDF: 18 PDF Role of Hr Policies in Managing Moonlighting and Organisational Commitment in the it Sector in India Ria Rajesh Parwani, Tejashree Deshmukh DOI 10.52783/jier.v6i1.4466 33 PDF: 10 PDF Augmenting Regulatory Intelligence: How Ai-Driven Behavioral Analytics Can Inform Sebi\u2019s Oversight Framework in the Age of Algorithmic Trading and Retail Investor Proliferation Jeevan Thombare DOI 10.52783/jier.v6i1.4467 71 PDF: 17 PDF Faceless Assessment Under the Indian Income-Tax Regime: A Taxpayer-Centric Perspective on Approaches, Challenges and Solutions Umesh Suresh Kolapkar, Tejashree Deshmukh DOI 10.52783/jier.v6i1.4468 86 PDF: 21 PDF Interface of Human Intelligence and Artificial Intelligence: Possibilities and Challenges for the Indian Legal Educational Framework Sukdeo Ingale DOI 10.52783/jier.v6i1.4469 42 PDF: 17 PDF Invisible Battles in the Classroom: How Teachers Identify and Respond to Silent Mental Health Issues in Indian Youth Elizabeth Dias, Kinnarie Singh DOI 10.52783/jier.v6i1.4470 33 PDF: 12 PDF Ludic Narrative Structure and Character Formation in Susanna Clare\u2019s Piranesi K. Priyadharshini, K. Shantichitra DOI 10.52783/jier.v6i1.4471 35 PDF: 14 PDF Generative AI and the Microfoundations of Dynamic Human Resource Capabilities: A Conceptual Framework Integrating HR Analytics and Leadership Agility Yazid Bensaoucha, Youness Haouassi, Mounir Azouz, Fateh Zaiter DOI 10.52783/jier.v6i1.4475 58 PDF: 15 PDF A Comprehensive review of Renewable-Integrated Optimization Models for Sustainable Airport Operations Vasuki G DOI 10.52783/jier.v6i1.4476 15 PDF: 5 PDF Compensation Rights of Crime Victims in Nepal: A Victimological Study of Murder Victims in Morang District KoshrajNeupane, Debarati Halder, Jivesh Jha DOI 10.52783/jier.v6i1.4478 40 PDF: 10 PDF \u201cBRIDGING Vision Realisation Strategic Planning with Employee Optimization Outcomes and Engagement PERSPECTIVE\u201d R. Rangarajan, Neelavathy V DOI 10.52783/jier.v6i1.4479 33 PDF: 7 PDF Neuroimaging and Learning Opportunities: Advancing Sustainable Development Goals for Blind Children Anirudh Chinta DOI 10.52783/jier.v6i1.4480 21 PDF: 10 PDF From Access to Agency: Financial Inclusion as a Catalyst for Socioeconomic Mobility in Emerging Markets Ganesh, Subbarayudu Thunga DOI 10.52783/jier.v6i1.4482 43 PDF: 21 PDF A Study of Engagement Trust and Interaction in the Era of Digital Transformation and Customer Distance in Life Insurance Services Sathya Prakash Urs S N, Mohammed Mansoor Ahmed Pillai 6 PDF: 4 PDF Microfinance and Enterprise Empowerment: A Regional Study of Entrepreneurial Advancement in Chhattisgarh Shilpi Yadav, Priyanka Bagh 4 PDF: 1 PDF Accuracy And Risk: Drivers Of Strategic Trading Decisions Naresh1, Ankur Aggarwal DOI 10.52783/jier.v6i1.4492 8 PDF: 3 PDF Beyond the Loop: A Tripartite typology of human-machine collaboration. Sagar Patil, Suneel Sharma, Mehregan Mahdavi DOI 10.52783/jier.v6i1.4493 15 PDF: 8 PDF Unlocking Digital Financial Inclusion on Economic Growth: Cross-country study using panel data Nigama K, Selvabaskar S, Haritha K, Sekarini S DOI 10.52783/jier.v6i1.4494 10 PDF: 4 PDF Bridging the Last Mile: The Battle Against UPI Fraud in Rural India A Case from Maharashtra Nishikant Jha, Sagar Uttam Shinde, Prashant Nike DOI 10.52783/jier.v6i1.4495 43 PDF: 2 PDF Readiness for Integrating Mental Health Care: Implementation in Contemporary Settings of the Asia-Pacific Mahadev Baniya, Debarati Halder DOI 10.52783/jier.v6i1.4496 12 PDF: 4 PDF Comparative Profitability Analysis of Indian Private and Public Sector Banks Tushar Balkrishna Raut, Piyush Harish Rana, Alwin Jerome Menezes, Irshad WajidAli Shaikh, Macnoble Michael Dcruz DOI 10.52783/jier.v6i1.4497 13 PDF: 10 PDF The Legal Nature of the Intelligent Electronic Agent in Electronic Transactions: Concepts and Challenges Hamza Merabet 55 PDF: 18 PDF Vendor Lock-In and Cloud Portability in Serverless Environments: An Empirical Investigation with Special Reference to the Indian IT Industry Gokul Bodke, Samadhan Bundhe DOI 10.52783/jier.v6i1.4500 31 PDF: 4 PDF Analyzing volatility across 13 Nifty Thematic indices: A Shannon Entropy Approach Muskan Karamchandani, Anmol Pabla 10 PDF: 5 PDF Corporate Fraud and Judicial Review in India: Evaluating the Effectiveness of Legal Remedies for White Collar Crimes Pranav Raval, Foram A. Pandya 14 PDF: 5 PDF Cosmic Finance: Investigating the Influence of Planetary Cycles on Equity Market Behaviour Ashish Patni, Prapti Chopra, Durgesh Kumar 23 PDF: 15 PDF Age Determination under POCSO: Legal and Medical Challenges Adamya Bhardwaj, Archana Vashisht DOI 10.52783/jier.v6i1.4515 6 PDF: 3 PDF AI-Driven Citizen Journalism: Using Free Tools for Visibility and Ethical Content Creation Salman Khan, Shahid Ahmad Paul DOI 10.52783/jier.v6i1.4516 7 PDF: 2 PDF Impact of Continuous Medical Education on Clinical Performance and Career Development of Paramedical Professionals Kiran Kumar Yamalakonda, Vijetha Jadda DOI 10.52783/jier.v6i1.4517 2 PDF: 1 PDF Classic bias-variance trade-off in modern statistical learning context: a position paper and theoretical review Saurabh Rawal DOI 10.52783/jier.v6i1.4518 6 PDF: 2 PDF An Empirical Study on the Impact of Systematic Bookkeeping Practices on Inventory Control Efficiency in Small Grocery Shops Naitika Anand Band, Medha Kanetkar 0 PDF: 3 PDF Pragmatic Terminology in the Arabic Linguistic Heritage Through Mas\u02bf\u016bd \u1e62a\u1e25r\u0101w\u012b\u2019s Pragmatics among Arab Scholars (\u201cIntentionality\u201d as a Case Study) Mohammed BOUILEF DOI 10.52783/jier.v6i1.4524 2 PDF: 1 PDF Neutralizing Gender: A Comparative Analysis of Sexual Offense Laws in India and the UK Parul Lohia, Apoorva Dixit DOI 10.52783/jier.v6i1.4525 4 PDF: 9 PDF From Insurance to Cyber Insurance: A Longitudinal Bibliometric Trend Analysis Using Vosviewer and Biblioshiny Neha Gulati, Isha Negi 1 PDF: 0 PDF Impact of AI on ESG Performance of Firms of Haryana Vikas Chaudhary, Anandajit Goswami DOI 10.52783/jier.v6i1.4529 8 PDF: 3 PDF Artificial Intelligence as a Cognitive Scaffold in First Year Computing Education Eric Howard, Hardique Dasore, Shah Haque, Raddhika Kuttala, Mohamad Mahmoud Al Zein, Hom Nath Dhungana DOI 10.52783/jier.v6i1.4532 11 PDF: 5 PDF CARA 2026 Reforms Efficacy: Digitalization vs. Procedural Delays",
+      "short_title": "Articles \"Harnessing Spirituality to Combat Workplace Stress\" Ritu Saxena, Vibhor Jain DOI 10.\u2026",
+      "url": "https://doi.org/10.52783/jier.v6i1.4539",
+      "source": "Journal of Informatics Education and Research",
+      "published_at": "2026-03-26T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": null
+    },
+    {
+      "title": "The Essence of Corruption and Its Contributing Factors",
+      "short_title": "The Essence of Corruption and Its Contributing Factors",
+      "url": "https://doi.org/10.36073/1512-0996-2026-1-191-196",
+      "source": "Works of Georgian Technical University",
+      "published_at": "2026-03-25T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "Corruption happens when public officials misuse their power for personal gain without proper oversight. This can lead to laws being ineffective and people losing trust in government. Corruption also causes unfair distribution of resources, leading to more inequality among different groups. The main reasons are often greed by officials, low salaries, and instability in the country."
+    },
+    {
+      "title": "The impact of corruption and ethical standards of the civil service on the investment attractiveness of the Republic of Kazakhstan",
+      "short_title": "The impact of corruption and ethical standards of the civil service on the investment attracti\u2026",
+      "url": "https://doi.org/10.46914/1562-2959-2026-1-1-75-87",
+      "source": "Bulletin of \"Turan\" University",
+      "published_at": "2026-03-25T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study looks at how much corruption there is in government workers and their ethics affect whether other countries want to invest money in Kazakhstan. It compares Kazakhstan with places like Singapore, Georgia, and Russia. The findings show that when government workers are more honest and less corrupt, more foreign companies want to do business in the country. The research suggests ways to make government workers even more ethical and helps improve their reputation for being trustworthy."
+    },
+    {
+      "title": "Rethinking Judicial Legitimacy: A Process-Based Perspective from Malaysian Corruption Trials",
+      "short_title": "Rethinking Judicial Legitimacy: A Process-Based Perspective from Malaysian Corruption Trials",
+      "url": "https://doi.org/10.1017/als.2026.10048",
+      "source": "Asian Journal of Law and Society",
+      "published_at": "2026-03-25T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This article looks at how courts gain trust from people who use them for justice. It argues that courts don't create their own trust; instead, they inherit problems from other parts of the legal system like investigating crimes and deciding if someone is guilty. The study uses examples from corruption cases in Malaysia to show how all these stages together affect public confidence in court decisions. To improve trust in courts, it suggests fixing not just one part but the whole process, including how investigations are done, who makes important decisions, and what happens after trials end."
+    },
+    {
+      "title": "The People's Voice is Manipulated through Election Vote Counting: Indications of Structured Fraud and Its Impact on Democratic Integrity",
+      "short_title": "The People's Voice is Manipulated through Election Vote Counting: Indications of Structured Fr\u2026",
+      "url": "https://doi.org/10.56087/jbhcys04",
+      "source": "HORIZON PUBLIC LEGAL STUDIES",
+      "published_at": "2026-03-25T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This research looks at how election results can be tampered with during vote counting, which could make election outcomes unfair. In Indonesia, manipulating votes is against the law and can result in legal consequences. The government has set up a center to handle these issues by combining different agencies like Bawaslu (Election Supervisory Body), Police, and Prosecutor's Office. To prevent this from happening again, it\u2019s important for all involved parties to be professional and honest."
+    },
+    {
+      "title": "Who Acts, and Who is Watched? Differences Between Top-down and Bottom-up AI Anti-Corruption Tool Implementation Methods",
+      "short_title": "Who Acts, and Who is Watched? Differences Between Top-down and Bottom-up AI Anti-Corruption To\u2026",
+      "url": "https://doi.org/10.5755/j01.ppaa.25.1.41828",
+      "source": "Public Policy and Administration",
+      "published_at": "2026-03-24T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This research looks at how governments use artificial intelligence (AI) to fight corruption in two ways: top-down and bottom-up. Top-down methods involve government agencies using AI, which can make the process more efficient but might create a cycle where corruption is harder to detect. Bottom-up approaches let citizens participate more directly through AI tools, but they face challenges like limited access to open data. The study suggests that both methods have pros and cons, and there's a need for better integration of citizen participation with AI technology to effectively combat corruption."
+    },
+    {
+      "title": "Governing Money Laundering as a Collective-Action Problem: The European Anti-Money Laundering Authority (AMLA)",
+      "short_title": "Governing Money Laundering as a Collective-Action Problem: The European Anti-Money Laundering\u2026",
+      "url": "https://doi.org/10.1017/err.2026.10094",
+      "source": "European Journal of Risk Regulation",
+      "published_at": "2026-03-24T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": null
+    },
+    {
+      "title": "Corruption and Public Spending as Predictors of Tax Evasion in Libya: Political Instability as a Moderator",
+      "short_title": "Corruption and Public Spending as Predictors of Tax Evasion in Libya: Political Instability as\u2026",
+      "url": "https://doi.org/10.22610/imbr.v18i1(j).4820",
+      "source": "Information Management and Business Review",
+      "published_at": "2026-03-19T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "Tax evasion is a significant issue for governments trying to collect revenues needed for development projects. In Libya, despite efforts to improve tax collection, many self-employed individuals still evade taxes. This research found that corruption and public spending levels affect how taxpayers behave. Higher perceived corruption leads to more tax evasion, while higher public spending reduces the likelihood of tax evasion."
+    },
+    {
+      "title": "Risk-Based Investigative Auditing as a Strategic Tool for Detecting Procurement Fraud in Public Sector Entities",
+      "short_title": "Risk-Based Investigative Auditing as a Strategic Tool for Detecting Procurement Fraud in Publi\u2026",
+      "url": "https://doi.org/10.47191/jefms/v9-i3-23",
+      "source": "Journal of Economics, Finance And Management Studies",
+      "published_at": "2026-03-19T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "Procurement fraud is a significant issue in public sector organizations causing financial losses and eroding trust in government. Risk-based investigative auditing can be an effective tool to detect this type of fraud by identifying high-risk areas and prioritizing audits. By integrating risk assessments with investigative techniques, auditors can more efficiently spot fraudulent activities like bid rigging or manipulation. This approach helps improve transparency and accountability in public procurement processes."
+    },
+    {
+      "title": "The Impact of Audit Committee Effectiveness on Fraud Prevention in Public Sector Entities: The Mediating Role of Risk Management Implementation",
+      "short_title": "The Impact of Audit Committee Effectiveness on Fraud Prevention in Public Sector Entities: The\u2026",
+      "url": "https://doi.org/10.47191/jefms/v9-i3-22",
+      "source": "Journal of Economics, Finance And Management Studies",
+      "published_at": "2026-03-19T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "The study found that having an effective audit committee helps prevent fraud in public sector entities. This is partly because effective committees also lead to better implementation of risk management practices. Better risk management then further reduces the chances of fraud happening. So, by strengthening how these committees operate and making sure there are strong risk management systems in place, we can improve accountability and reduce fraudulent activities in government organizations."
+    },
+    {
+      "title": "Community Participation and Village Financial Accountability: A Behavioral Approach to Public Fund Supervision Village Government in Deliserdang",
+      "short_title": "Community Participation and Village Financial Accountability: A Behavioral Approach to Public\u2026",
+      "url": "https://doi.org/10.47191/jefms/v9-i3-15",
+      "source": "Journal of Economics, Finance And Management Studies",
+      "published_at": "2026-03-13T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": "This study examines how community participation impacts financial accountability in village governments in Deliserdang, Indonesia. It found that when citizens have access to transparent information and feel encouraged to participate, they are more likely to oversee financial management effectively. Factors like trust in leadership, perceived fairness, and collective norms supporting oversight are crucial. However, participation is often limited by low financial literacy, asymmetric information, and cultural reluctance to challenge authority."
+    },
+    {
+      "title": "SUSTAINABILITY GOVERNANCE, REGULATORY QUALITY, AND ANTI-CORRUPTION CONTROLS ON GREEN FINANCE DEVELOPMENT: THE MEDIATING ROLE OF SUSTAINABILITY REPORTING QUALITY",
+      "short_title": "SUSTAINABILITY GOVERNANCE, REGULATORY QUALITY, AND ANTI-CORRUPTION CONTROLS ON GREEN FINANCE D\u2026",
+      "url": "https://doi.org/10.63878/qrjs881",
+      "source": "Qualitative Research Journal for Social Studies",
+      "published_at": "2026-03-13T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This research looks at how strong governance, regulatory quality, and anti-corruption measures can help develop green finance. It found that government effectiveness and regulatory quality are positively related to green finance development. However, the impact of corruption control is not straightforward; it depends on the level of corruption. The study also found that the quality of sustainability reporting plays a crucial role in this relationship."
+    },
+    {
+      "title": "Impact of perceived corruption on stress: Does social capital serve as an administrative resource?",
+      "short_title": "Impact of perceived corruption on stress: Does social capital serve as an administrative resou\u2026",
+      "url": "https://doi.org/10.1080/23276665.2026.2645559",
+      "source": "Asia Pacific Journal of Public Administration",
+      "published_at": "2026-03-12T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": null
+    },
+    {
+      "title": "Anti-Corruption and Environmental Laws in Liberia: The Need for Regulatory Reform",
+      "short_title": "Anti-Corruption and Environmental Laws in Liberia: The Need for Regulatory Reform",
+      "url": "https://doi.org/10.55041/ijcope.v2i3.054",
+      "source": "International Journal of Creative and Open Research in Engineering and Management",
+      "published_at": "2026-03-12T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "Liberia faces significant challenges in enforcing environmental regulations due to widespread corruption in its natural resource sector. Despite having laws and an agency like the EPA to manage sustainability, corruption often undermines these laws, leading to deforestation, biodiversity loss, and poverty. Efforts by the Liberia Anti-Corruption Commission (LACC) have been made, including the 2022 amendment that gives more autonomy to LACC and the introduction of the Whistleblower Act to encourage reporting of environmental crimes. However, corruption remains a persistent issue, and reforms need to go beyond punitive measures to include preventative, participatory, and transparent mechanisms."
+    },
+    {
+      "title": "Conceptualizing an ethics framework for co-creation in the public sector",
+      "short_title": "Conceptualizing an ethics framework for co-creation in the public sector",
+      "url": "https://doi.org/10.1108/jices-09-2024-0134",
+      "source": "Journal of Information, Communication and Ethics in Society",
+      "published_at": "2026-03-12T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study aims to create a framework that helps ensure ethics are considered when people from different backgrounds collaborate on creating policies or services for the public sector. The research found it's crucial to have an ethical guide at the beginning of such projects, as issues can vary based on what service is being created and where it\u2019s happening. This work is important because current rules don't cover all aspects of public sector co-creation, so having a flexible ethics framework is needed to address these unique situations effectively."
+    },
+    {
+      "title": "Conditions of benefits and risks when algorithmic technology is implemented for public sector policing and fraud detection: a systematic literature review",
+      "short_title": "Conditions of benefits and risks when algorithmic technology is implemented for public sector\u2026",
+      "url": "https://doi.org/10.1007/s00146-026-02967-1",
+      "source": "AI &amp; SOCIETY",
+      "published_at": "2026-03-10T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study examines how artificial intelligence is used in police work and for catching scams, looking at both good things it can do and problems it might cause. Many places are using AI now because they think it will make their jobs better. But sometimes these tools have caused big issues. The research found that while people who build the technology focus on what's good about it, those studying government work look more at the risks."
+    },
+    {
+      "title": "Media freedom and government budget transparency in Africa",
+      "short_title": "Media freedom and government budget transparency in Africa",
+      "url": "https://doi.org/10.1108/jices-09-2025-0264",
+      "source": "Journal of Information, Communication and Ethics in Society",
+      "published_at": "2026-03-09T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This research looks at how much freedom there is for news organizations in African countries and whether this affects how transparent governments are with their spending. The study found that more press freedom leads to better government financial disclosures, but only up to a point\u2014once it reaches about 52 out of 100 on a scale measuring media freedom. Beyond this level, additional press freedom doesn't improve transparency further. For policymakers, the key takeaway is that fostering a certain amount of free press can help governments be more open with their finances, but they need to ensure the press remains relatively independent and not too powerful."
+    },
+    {
+      "title": "When do City Governance Structures Prevent Corruption? a Review of Municipal Corruption: From Policies to People",
+      "short_title": "When do City Governance Structures Prevent Corruption? a Review of Municipal Corruption: From\u2026",
+      "url": "https://doi.org/10.1080/10967494.2026.2629540",
+      "source": "International Public Management Journal",
+      "published_at": "2026-03-06T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": null
+    },
+    {
+      "title": "TRANSPARENCY AND ACCOUNTABILITY IN LOCAL GOVERNMENT FINANCE IN NIGERIA: PROSPECTS AND CONSTRAINTS",
+      "short_title": "TRANSPARENCY AND ACCOUNTABILITY IN LOCAL GOVERNMENT FINANCE IN NIGERIA: PROSPECTS AND CONSTRAI\u2026",
+      "url": "https://doi.org/10.70382/tijfrms.v11i7.047",
+      "source": "International Journal of Financial Research and Management Science",
+      "published_at": "2026-03-06T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study looked at how local governments in Nigeria manage their finances and stay honest. It found that corruption and political interference can make it hard for local governments to be transparent and accountable. The research suggests that having a strong internal control system, regular audits, and training for local government officials can help improve transparency and accountability. It recommends creating better systems to prevent corruption and interference, and providing ongoing training to help officials understand the importance of being accountable."
+    },
+    {
+      "title": "Climate (in)justice: decolonizing public sector climate accountability and accounting in and for the majority world",
+      "short_title": "Climate (in)justice: decolonizing public sector climate accountability and accounting in and f\u2026",
+      "url": "https://doi.org/10.1108/jpbafm-04-2025-0087",
+      "source": "Journal of Public Budgeting, Accounting &amp; Financial Management",
+      "published_at": "2026-03-05T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": "This paper discusses how climate change impacts are not evenly distributed around the world, leading to injustices between different regions. It suggests that current approaches to tracking climate issues and holding governments accountable often overlook these differences. The authors propose a new way of looking at climate accounting and accountability that considers local needs and cultures rather than just global goals. They argue for practices like prioritizing community resilience over big emissions cuts, resisting exploitative economic models, involving Indigenous peoples more in decision-making, avoiding overly technical methods, and creating practical solutions tailored to specific places."
+    },
+    {
+      "title": "&lt;b&gt;The Role of Accounting in Enhancing Transparency and &lt;/b&gt; &lt;b&gt;Accountability in the Public Sector &lt;/b&gt;",
+      "short_title": "&lt;b&gt;The Role of Accounting in Enhancing Transparency and &lt;/b&gt; &lt;b&gt;Accountabili\u2026",
+      "url": "https://doi.org/10.56830/ijams07202505",
+      "source": "International Journal of Accounting and Management Sciences",
+      "published_at": "2026-03-05T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": "Transparency and accountability are crucial for effective governance in the public sector. Transparency helps citizens understand how their money is being used and makes officials accountable for their actions. Public sector accounting plays a key role in ensuring transparency, which in turn supports accountability. Accounting standards like IPSAS and GASB help provide reliable financial reports, while auditing and internal controls ensure that public officials are indeed accountable for their actions."
+    },
+    {
+      "title": "How Does Accountability Enhance Local Government Crisis Learning? \u2013 A Qualitative Comparative Analysis Based on 57 Serious Safety Accidents in China 2004\u20132019",
+      "short_title": "How Does Accountability Enhance Local Government Crisis Learning? \u2013 A Qualitative Comparative\u2026",
+      "url": "https://doi.org/10.1080/15309576.2026.2627919",
+      "source": "Public Performance &amp; Management Review",
+      "published_at": "2026-03-04T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": null
+    },
+    {
+      "title": "Examining Public Sector Professionalism in KwaZulu-Natal: The Role of Accountability and Ethical Leadership in Governance",
+      "short_title": "Examining Public Sector Professionalism in KwaZulu-Natal: The Role of Accountability and Ethic\u2026",
+      "url": "https://doi.org/10.31920/2753-3182/2026/v5n1a16",
+      "source": "African Journal of Public Administration and Environmental Studies",
+      "published_at": "2026-03-01T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": null
+    },
+    {
+      "title": "Fiscal Transparency Ranking and Corruption: Theory and New Evidence from China",
+      "short_title": "Fiscal Transparency Ranking and Corruption: Theory and New Evidence from China",
+      "url": "https://doi.org/10.1080/01900692.2026.2618682",
+      "source": "International Journal of Public Administration",
+      "published_at": "2026-02-27T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": null
+    },
+    {
+      "title": "Perceptions of Political Corruption in State Government",
+      "short_title": "Perceptions of Political Corruption in State Government",
+      "url": "https://doi.org/10.1177/1532673x261420826",
+      "source": "American Politics Research",
+      "published_at": "2026-02-25T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study looks at how people feel about corruption happening in different states of the US. It found that people can sometimes connect what they think with what's really happening. People also tend to see more corruption when the governor from their party isn't in power. The research shows that knowing a lot about politics doesn't change these perceptions much."
+    },
+    {
+      "title": "Navigating the public sector: a quantitative investigation of organisational factors influencing ERP implementation in New Zealand",
+      "short_title": "Navigating the public sector: a quantitative investigation of organisational factors influenci\u2026",
+      "url": "https://doi.org/10.1108/tg-12-2025-0430",
+      "source": "Transforming Government: People, Process and Policy",
+      "published_at": "2026-02-18T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study investigates how certain organizational factors impact the successful implementation of Enterprise Resource Planning (ERP) systems in New Zealand's government agencies. It found that leadership commitment, organizational preparedness, user capability development, and change management readiness are crucial for ERP success. Leadership support was identified as the strongest predictor of ERP deployment success. Interestingly, cultural differences did not significantly affect ERP outcomes."
+    },
+    {
+      "title": "Does municipal ownership ensure accounting quality? The role of corruption in accounting manipulation",
+      "short_title": "Does municipal ownership ensure accounting quality? The role of corruption in accounting manip\u2026",
+      "url": "https://doi.org/10.1108/ijpsm-07-2025-0337",
+      "source": "International Journal of Public Sector Management",
+      "published_at": "2026-02-17T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study examines how municipal ownership affects the quality of financial reporting in Italian municipalities. It found that having more of an enterprise owned by the municipality is linked to lower chances of manipulating financial reports, suggesting stronger oversight from local government. However, if those owning the municipality have a history of corruption, this reduces the effectiveness of municipal ownership in preventing manipulation. Essentially, for municipal ownership to be effective, the people running these municipalities need to act with integrity and not engage in corrupt practices."
+    },
+    {
+      "title": "The Anti\u2010Fraud Lever: China's Strategic Use of the Scam Crackdown to Invigorate the LMLECC Process Against Thailand's Reluctance",
+      "short_title": "The Anti\u2010Fraud Lever: China's Strategic Use of the Scam Crackdown to Invigorate the LMLECC Pro\u2026",
+      "url": "https://doi.org/10.1111/aspp.70064",
+      "source": "Asian Politics &amp; Policy",
+      "published_at": "2026-02-12T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": null
+    },
+    {
+      "title": "Impact of the Use of AI Applications on Building an Accounting Information System for E-government Governance to Combat Corruption and Achieve Management Reform",
+      "short_title": "Impact of the Use of AI Applications on Building an Accounting Information System for E-govern\u2026",
+      "url": "https://doi.org/10.56830/wrba11202402",
+      "source": "World Research of Business Administration Journal",
+      "published_at": "2026-02-06T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study focuses on how AI applications can be used to build a better accounting system for government. It looks at tools like expert systems, neural networks, and genetic algorithms to improve how governments manage their finances. By using these AI tools, governments can better control their operations and prevent corruption. This can help them run more efficiently and fairly."
+    },
+    {
+      "title": "Measuring and assessing corruption in public health systems in low- and middle-income countries: a scoping review of methods",
+      "short_title": "Measuring and assessing corruption in public health systems in low- and middle-income countrie\u2026",
+      "url": "https://doi.org/10.1093/heapol/czaf113",
+      "source": "Health Policy and Planning",
+      "published_at": "2026-02-03T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": null
+    }
+  ],
+  "nonprofit": [
+    {
+      "title": "Professional Data Use Among Nonprofits and Public Organizations in Collaborative Networks: The Influence of Partners, Coalitions, and Technical Assistance Organizations",
+      "short_title": "Professional Data Use Among Nonprofits and Public Organizations in Collaborative Networks: The\u2026",
+      "url": "https://doi.org/10.1177/08997640261426888",
+      "source": "Nonprofit and Voluntary Sector Quarterly",
+      "published_at": "2026-03-18T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": "This study found that nonprofits and public organizations can improve their programs and decisions by using data from evaluations, especially when they work closely with similar organizations in partnerships. The research shows that the more an organization interacts with other similar groups within its own network of partnerships, the better it uses evaluation data for improvement. This means these organizations should focus on strengthening relationships within their specific networks to enhance how they use performance evaluation results."
+    },
+    {
+      "title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy Implications",
+      "short_title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy I\u2026",
+      "url": "https://doi.org/10.47259/ijrebs.2026.711",
+      "source": "International Journal of Research in Entrepreneurship &amp; Business Studies",
+      "published_at": "2027-01-11T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": "This study analyzed how airlines handle airfare refunds and the challenges customers face during this process. It found that communication issues are a major problem, especially in understanding airline rules. Despite most customers being satisfied with their refund after receiving one, they felt the process was complex and inefficient. The research suggests clearer policies and better coordination between airlines, intermediaries, and customers could improve trust and service quality."
+    },
+    {
+      "title": "Review of Risk Based Financial Governance Literature Shaping Institutional Investment Decision Practices",
+      "short_title": "Review of Risk Based Financial Governance Literature Shaping Institutional Investment Decision\u2026",
+      "url": "https://doi.org/10.47191/etj/v11i02.27",
+      "source": "Engineering and Technology Journal",
+      "published_at": "2026-11-02T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": "Risk-based financial governance is becoming crucial for how institutions make investment decisions in today's markets. It involves assessing risks explicitly within oversight to align with organizational goals and responsibilities. This approach extends beyond traditional compliance by integrating risk into decision-making processes, using tools like scenario analysis and dynamic portfolio management. The literature shows that institutions with strong risk-based governance are better at anticipating market changes, optimizing performance, and ensuring sustainable value creation while staying compliant."
+    },
+    {
+      "title": "Recent Expansions in Anti-Microbial Profile of Quinoline Analogues: A Review",
+      "short_title": "Recent Expansions in Anti-Microbial Profile of Quinoline Analogues: A Review",
+      "url": "https://doi.org/10.2174/0113852728367743250520191343",
+      "source": "Current Organic Chemistry",
+      "published_at": "2026-11-01T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": "Recent research has shown that adding different parts called heterocyclic systems to quinoline molecules can create compounds with many useful properties. These modified quinoline-based drugs are effective against a wide range of harmful bacteria, including those causing serious infections. They also show promise in treating cancer and other conditions like seizures, pain, inflammation, and heart problems. By combining quinoline with other parts, scientists can make new medicines that work better than existing ones."
+    },
+    {
+      "title": "Financial accountability and governance in nonprofit organizations: Strengthening transparency and public trust",
+      "short_title": "Financial accountability and governance in nonprofit organizations: Strengthening transparency\u2026",
+      "url": "https://doi.org/10.30574/wjarr.2026.29.3.0710",
+      "source": "World Journal of Advanced Research and Reviews",
+      "published_at": "2026-03-31T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "Nonprofit organizations play a crucial role in society by contributing significantly to the economy through donations. However, they often lack the same level of financial oversight as for-profit companies. This can lead to issues like financial misconduct that affects not just individual nonprofits but also donors, communities, and beneficiaries who rely on them. To address these challenges, it's important for organizations to have strong governance structures, robust internal controls, and transparent reporting processes."
+    },
+    {
+      "title": "Effectiveness of a comprehensive bystander anti-racism intervention for healthcare staff in Australia",
+      "short_title": "Effectiveness of a comprehensive bystander anti-racism intervention for healthcare staff in Au\u2026",
+      "url": "https://doi.org/10.1071/pu25046",
+      "source": "Public Health Research and Practice",
+      "published_at": "2026-03-26T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": "This study looked at how training healthcare workers on recognizing and responding to racism worked over time. It found that after participating, staff understood more about racism's effects and felt better equipped to handle racist incidents. They also reported feeling supported by their workplace in dealing with such situations. The training was well-received by most participants who thought it useful and would recommend it to others."
+    },
+    {
+      "title": "Beyond Compliance: A Systematic Review of Ethics, Accountability, And Transparency in Indonesian Governance",
+      "short_title": "Beyond Compliance: A Systematic Review of Ethics, Accountability, And Transparency in Indonesi\u2026",
+      "url": "https://doi.org/10.30589/pgr.v10i1.1361",
+      "source": "Policy &amp; Governance Review",
+      "published_at": "2026-01-08T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": null
+    },
+    {
+      "title": "CHALLENGES AND DIRECTIONS FOR IMPROVING THE EFFECTIVENESS OF UKRAINE\u2019S STATE ANTI-CORRUPTION BODIES",
+      "short_title": "CHALLENGES AND DIRECTIONS FOR IMPROVING THE EFFECTIVENESS OF UKRAINE\u2019S STATE ANTI-CORRUPTION B\u2026",
+      "url": "https://doi.org/10.70651/3041-248x/2025.12.05",
+      "source": "Philosophy and Governance",
+      "published_at": "2025-12-13T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": null
+    },
+    {
+      "title": "Working Paper 57: Mapping and strengthening the evidence base for anti-corruption Collective Action",
+      "short_title": "Working Paper 57: Mapping and strengthening the evidence base for anti-corruption Collective A\u2026",
+      "url": "https://doi.org/10.12685/bigwp.2025.57.60",
+      "source": "Basel Institute on Governance Working Papers",
+      "published_at": "2025-09-16T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": null
+    }
+  ]
 }
