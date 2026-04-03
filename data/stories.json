@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-04-02T11:38:54.971279+00:00",
+  "updated_at": "2026-04-03T18:48:33.845344+00:00",
   "government": [
+    {
+      "title": "Bridging the Gap: A Qualitative Inquiry Into Misalignments Between Volunteer Management Practices and Volunteer Expectations",
+      "short_title": "Bridging the Gap: A Qualitative Inquiry Into Misalignments Between Volunteer Management Practi\u2026",
+      "url": "https://doi.org/10.1002/nml.70050",
+      "source": "Nonprofit Management and Leadership",
+      "published_at": "2026-04-02T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": "This study explores how nonprofit managers and long-term volunteers have different expectations about their roles and experiences. Managers often focus on structure, standardization, and efficiency, while volunteers seek meaningful participation, emotional support, and autonomy. The research found significant misalignments across areas like onboarding, communication, task clarity, feedback, recognition, learning opportunities, scheduling flexibility, decision-making involvement, and relationships. These differences are not just operational but reflect broader tensions between formal systems and personal values."
+    },
     {
       "title": "Professional Data Use Among Nonprofits and Public Organizations in Collaborative Networks: The Influence of Partners, Coalitions, and Technical Assistance Organizations",
       "short_title": "Professional Data Use Among Nonprofits and Public Organizations in Collaborative Networks: The\u2026",
@@ -27,15 +36,6 @@
       "published_at": "2026-03-11T00:00:00+00:00",
       "sentiment": "positive",
       "plain_summary": "This study examines how the public sector manages accountability in AI systems used by state governments. It found that accountability is crucial because it helps ensure AI systems are used fairly and transparently. The research also showed who is held accountable, what standards are used, and what the consequences are. It identified areas where more research is needed to connect theory with practice."
-    },
-    {
-      "title": "Executive Non-Divestment, Systemic Corruption, and Democratic Accountability",
-      "short_title": "Executive Non-Divestment, Systemic Corruption, and Democratic Accountability",
-      "url": "https://doi.org/10.1080/10999922.2026.2641953",
-      "source": "Public Integrity",
-      "published_at": "2026-03-11T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": null
     },
     {
       "title": "Blame Avoidance and Corruption: How Politicians' Denials Shape Citizen Perceptions and Political Accountability",
@@ -132,7 +132,7 @@
       "short_title": "AI Regulation and Its Social Impacts on Public Policy",
       "url": "https://doi.org/10.55737/rl.v5i1.26181",
       "source": "Regional Lens",
-      "published_at": "2026-04-02T09:57:14.360018+00:00",
+      "published_at": "2026-04-03T18:47:28.513000+00:00",
       "sentiment": "positive",
       "plain_summary": "AI is now a key part of how governments make decisions in many areas like healthcare, policing, and welfare. As more AI systems are used, it's important to have rules to make sure they work fairly and don't cause problems. These rules help ensure that AI doesn't lead to unfair treatment or less democracy. By carefully watching how AI is used, we can make sure it helps people and doesn't hurt them."
     },
@@ -141,7 +141,7 @@
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-04-02T09:41:19.776435+00:00",
+      "published_at": "2026-04-03T18:47:05.087543+00:00",
       "sentiment": "negative",
       "plain_summary": "This research focuses on understanding the emotional risks in police work and how they manage their emotions to improve job satisfaction. It was conducted by observing various police units like forensic science, digital investigation, financial division, criminal division, anti-terrorism unit, and more over 26 days. The study found two key emotions that are hard for them to express: interest and frustration. These emotions make it difficult for officers to discuss their work-related feelings openly, leading to invisible or undiscussed labor."
     },
@@ -150,7 +150,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-04-02T09:24:26.228161+00:00",
+      "published_at": "2026-04-03T18:47:01.747924+00:00",
       "sentiment": "positive",
       "plain_summary": "Data science has become crucial as we generate vast amounts of information daily. It helps transform this data into useful insights for better decision-making across various sectors. For audit institutions, integrating data science can enhance their ability to manage public funds more effectively and improve accountability. By using data science, audits can provide clearer and more accurate reports that recommend improvements faster, which benefits the overall administration and improves citizens' quality of life."
     },
@@ -159,7 +159,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-04-02T09:24:26.227898+00:00",
+      "published_at": "2026-04-03T18:47:01.747673+00:00",
       "sentiment": "positive",
       "plain_summary": null
     },
@@ -168,7 +168,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-04-02T09:24:26.227828+00:00",
+      "published_at": "2026-04-03T18:47:01.747600+00:00",
       "sentiment": "positive",
       "plain_summary": "This paper discusses a scenario where autonomous killer robots are used in warfare without human intervention. These robots can make decisions about who to target based on AI algorithms trained to recognize certain uniforms. If one of these drones targets and kills an enemy soldier who is surrendering, it would violate international laws. Another concern is if the robot makes a mistake by attacking another similar system, leading to unintended conflicts."
     },
@@ -177,7 +177,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-04-02T09:24:26.227407+00:00",
+      "published_at": "2026-04-03T18:47:01.747169+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how public service motivation can lead to noble cause corruption in Lebanon, where there's a lot of social and economic hardship. The research found that feelings like compassion and selflessness often push people into doing good deeds for noble causes, but these actions sometimes involve corrupt practices. This leads to internal conflicts as the person feels both guilty and supported by their work environment. Factors like physical exchanges, personal space in the workplace, and close relationships with users can make it easier for this type of corruption to happen."
     },
@@ -186,7 +186,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-04-02T09:24:26.227201+00:00",
+      "published_at": "2026-04-03T18:47:01.746930+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how public service motivation can lead to corruption for a noble cause in Lebanon, where corruption is prevalent and social issues are challenging. Based on interviews with 32 Lebanese public servants, the research explores how feelings of compassion and self-sacrifice related to public service motivation might encourage them to engage in corrupt behavior for what they see as a good cause. The study highlights that these motivations can lead to behaviors like providing extra support or shielding users from punishment. This can create internal conflicts within the public servant due to their emotional connection with those affected."
     },
@@ -195,9 +195,54 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-04-02T09:24:26.226874+00:00",
+      "published_at": "2026-04-03T18:47:01.746506+00:00",
       "sentiment": "negative",
       "plain_summary": null
+    },
+    {
+      "title": "LEGAL BASIS OF ACQUITTAL IN BANKING CREDIT CORRUPTION: PANGKALPINANG DISTRICT COURT CASE",
+      "short_title": "LEGAL BASIS OF ACQUITTAL IN BANKING CREDIT CORRUPTION: PANGKALPINANG DISTRICT COURT CASE",
+      "url": "https://doi.org/10.56301/awl.v8i3.2071",
+      "source": "Awang Long Law Review",
+      "published_at": "2026-04-03T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This research looks at how judges decided not to convict Ardian Hendri Prasetyo, who was accused of bank credit corruption at Bank Rakyat Indonesia in Pangkalpinang. The study found that while there were suspicions of misuse of power and financial loss, these weren't proven enough legally. This decision shows a preference for letting the person go when evidence is unclear or insufficient. It also emphasizes how important it is to interpret laws correctly in cases like this one involving banking corruption."
+    },
+    {
+      "title": "Instruments and Mechanisms of the European Union for Preventing and Combating Corruption",
+      "short_title": "Instruments and Mechanisms of the European Union for Preventing and Combating Corruption",
+      "url": "https://doi.org/10.37075/isa.2026.1.06",
+      "source": "Economic and social alternatives",
+      "published_at": "2026-04-02T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This article looks at how the European Union stops and fights against corruption. It covers tools like making information transparent and checking for conflicts of interest to prevent misuse of funds. There are special watchdogs like OLAF and the EU Court of Auditors who investigate issues and ensure proper use of money from the EU budget. A new body, EPPO, has been created to look into crimes that affect the EU's financial dealings."
+    },
+    {
+      "title": "Institutional Trust and Sector-Specific Corruption in Greece",
+      "short_title": "Institutional Trust and Sector-Specific Corruption in Greece",
+      "url": "https://doi.org/10.22598/pi-be/2026.1.39036",
+      "source": "Poslovna izvrsnost - Business Excellence",
+      "published_at": "2026-04-02T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study looks at how different types of corruption affect people's trust in institutions in Greece. It found that public sector corruption often involves unclear rules and too much power for officials to make decisions. Private businesses sometimes bribe to get things done faster. The research also shows there are three main areas academics focus on: improving governance, understanding why people might cheat, and using technology like websites to be more transparent."
+    },
+    {
+      "title": "Corruption next door, satisfaction at home: Spillover effects of corruption on political trust in China",
+      "short_title": "Corruption next door, satisfaction at home: Spillover effects of corruption on political trust\u2026",
+      "url": "https://doi.org/10.1177/20531680261440770",
+      "source": "Research &amp; Politics",
+      "published_at": "2026-04-02T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study examines how corruption issues in other parts of China might affect people's views on their own government. It found that when there are investigations into corruption happening nearby, it can make people feel more confident about their local government. This means that seeing other places dealing with corruption positively impacts the trust people have in their home area\u2019s leadership. Understanding this can help improve public perception and support for governance efforts."
+    },
+    {
+      "title": "Assessment of impact of technology innovation on procurement transparency in selected public sector in South-East Nigeria",
+      "short_title": "Assessment of impact of technology innovation on procurement transparency in selected public s\u2026",
+      "url": "https://doi.org/10.58881/jcmts.v5i1.430",
+      "source": "Journal of Commerce, Management, and Tourism Studies",
+      "published_at": "2026-04-02T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": "This research looked at how technology affects the openness of buying things for government work in some areas of South-East Nigeria. They used surveys and picked participants randomly to understand better. The study found that using online ways to buy stuff helps make decisions more openly. So, they suggest governments should use these online methods to keep everything fair."
     },
     {
       "title": "Rethinking Liquidity in Nonprofit Organizations: The Dual Role of Excess Cash in Explaining Financial Vulnerability",
@@ -243,24 +288,6 @@
       "published_at": "2026-04-01T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "This study on the Central Bank of Nigeria (CBN) looks at how transparently they operate under their laws. It found that without proper accountability measures in place, there can be issues like elite capture, misuse of funds, and financial mismanagement. These problems lead to a lack of public trust, higher inflation rates, and fewer foreign investments. The study recommends steps such as phasing out certain interventions, requiring independent audits, using digital methods for procurement, and targeting inflation to improve the CBN's credibility and reduce corruption risks."
-    },
-    {
-      "title": "Procedures of the Commission of Integrity in Combating Corruption in Iraq After 2003: An Analytical and Evaluative Study",
-      "short_title": "Procedures of the Commission of Integrity in Combating Corruption in Iraq After 2003: An Analy\u2026",
-      "url": "https://doi.org/10.61710/4ex5kx73",
-      "source": "Journal of Imam Al-kadhum College",
-      "published_at": "2026-03-31T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This research looks at how a special group called the Commission of Integrity works to stop corruption in Iraq after 2003. They check if public money is used properly and report any misuse. The study finds they've helped create better ways to spot and report corruption, but face challenges like not being fully trusted by politicians or having unclear rules. To work better, the group needs more independence from other government bodies, clearer laws about what it can do, and stronger partnerships with other agencies."
-    },
-    {
-      "title": "Anti-corruption mechanisms in public procurement: international experience and directions of adaptation in Ukraine",
-      "short_title": "Anti-corruption mechanisms in public procurement: international experience and directions of a\u2026",
-      "url": "https://doi.org/10.24144/2307-3322.2026.93.5.44",
-      "source": "Uzhhorod National University Herald. Series: Law",
-      "published_at": "2026-03-31T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This article looks at ways to stop corruption in buying things for government use. It studies how other countries handle this issue well, focusing on tools like open data, digital platforms, and independent watchdogs. The main idea is that stopping corruption isn't just about making rules; it's also important to make sure these rules are followed properly and that people can check what happens easily. The article suggests ways to adapt these international ideas for Ukraine, considering their own legal system and the need to rebuild after a war."
     },
     {
       "title": "Corruption in Public Procurement: From Definition towards a Case Study (Part II)",
@@ -326,15 +353,6 @@
       "plain_summary": "This research looks at how a blockchain-based system can help prevent fraud when governments give out subsidies. Currently, some people cheat by pretending they're getting refunds on subsidized items but don't actually send the money back. The study suggests creating an honest return information system where all transactions are recorded in a transparent ledger. This way, everyone involved\u2014from e-commerce sites to government auditors\u2014can see if returns happen as promised."
     },
     {
-      "title": "&lt;b&gt;Preventing Corruption in Government Bodies Under the Laws of Muslim and European Countries in the Contemporary Era&lt;/b&gt;",
-      "short_title": "&lt;b&gt;Preventing Corruption in Government Bodies Under the Laws of Muslim and European Coun\u2026",
-      "url": "https://doi.org/10.32332/milrev.v5i1.13201",
-      "source": "MILRev: Metro Islamic Law Review",
-      "published_at": "2026-03-28T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": null
-    },
-    {
       "title": "Data Transparency as a Tool for Accountability: Norwegian Municipalities\u2019 Approaches to Elderly Care Information, and Broader Implications",
       "short_title": "Data Transparency as a Tool for Accountability: Norwegian Municipalities\u2019 Approaches to Elderl\u2026",
       "url": "https://doi.org/10.58235/sjpa.33214",
@@ -360,6 +378,15 @@
       "published_at": "2026-03-26T00:00:00+00:00",
       "sentiment": "positive",
       "plain_summary": "This study looked at how training healthcare workers on recognizing and responding to racism worked over time. It found that after participating, staff understood more about racism's effects and felt better equipped to handle racist incidents. They also reported feeling supported by their workplace in dealing with such situations. The training was well-received by most participants who thought it useful and would recommend it to others."
+    },
+    {
+      "title": "Favoritism Practices, Nepotism, and Corruption in Public Administration: Impacts on Employment, Meritocracy, Efficiency, and Institutional Trust. An Institutional and Governance Perspective in Transitional Public Sectors",
+      "short_title": "Favoritism Practices, Nepotism, and Corruption in Public Administration: Impacts on Employment\u2026",
+      "url": "https://doi.org/10.59324/ejmeb.2026.3(2).15",
+      "source": "European Journal of Management, Economics and Business",
+      "published_at": "2026-03-26T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": null
     },
     {
       "title": "The Challenges of Backsourcing",
@@ -434,15 +461,6 @@
       "plain_summary": "The study found that having an effective audit committee helps prevent fraud in public sector entities. This is partly because effective committees also lead to better implementation of risk management practices. Better risk management then further reduces the chances of fraud happening. So, by strengthening how these committees operate and making sure there are strong risk management systems in place, we can improve accountability and reduce fraudulent activities in government organizations."
     },
     {
-      "title": "Community Participation and Village Financial Accountability: A Behavioral Approach to Public Fund Supervision Village Government in Deliserdang",
-      "short_title": "Community Participation and Village Financial Accountability: A Behavioral Approach to Public\u2026",
-      "url": "https://doi.org/10.47191/jefms/v9-i3-15",
-      "source": "Journal of Economics, Finance And Management Studies",
-      "published_at": "2026-03-13T00:00:00+00:00",
-      "sentiment": "positive",
-      "plain_summary": "This study examines how community participation impacts financial accountability in village governments in Deliserdang, Indonesia. It found that when citizens have access to transparent information and feel encouraged to participate, they are more likely to oversee financial management effectively. Factors like trust in leadership, perceived fairness, and collective norms supporting oversight are crucial. However, participation is often limited by low financial literacy, asymmetric information, and cultural reluctance to challenge authority."
-    },
-    {
       "title": "Impact of perceived corruption on stress: Does social capital serve as an administrative resource?",
       "short_title": "Impact of perceived corruption on stress: Does social capital serve as an administrative resou\u2026",
       "url": "https://doi.org/10.1080/23276665.2026.2645559",
@@ -459,15 +477,6 @@
       "published_at": "2026-03-12T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "This study aims to create a framework that helps ensure ethics are considered when people from different backgrounds collaborate on creating policies or services for the public sector. The research found it's crucial to have an ethical guide at the beginning of such projects, as issues can vary based on what service is being created and where it\u2019s happening. This work is important because current rules don't cover all aspects of public sector co-creation, so having a flexible ethics framework is needed to address these unique situations effectively."
-    },
-    {
-      "title": "Anti-Corruption and Environmental Laws in Liberia: The Need for Regulatory Reform",
-      "short_title": "Anti-Corruption and Environmental Laws in Liberia: The Need for Regulatory Reform",
-      "url": "https://doi.org/10.55041/ijcope.v2i3.054",
-      "source": "International Journal of Creative and Open Research in Engineering and Management",
-      "published_at": "2026-03-12T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "Liberia faces significant challenges in enforcing environmental regulations due to widespread corruption in its natural resource sector. Despite having laws and an agency like the EPA to manage sustainability, corruption often undermines these laws, leading to deforestation, biodiversity loss, and poverty. Efforts by the Liberia Anti-Corruption Commission (LACC) have been made, including the 2022 amendment that gives more autonomy to LACC and the introduction of the Whistleblower Act to encourage reporting of environmental crimes. However, corruption remains a persistent issue, and reforms need to go beyond punitive measures to include preventative, participatory, and transparent mechanisms."
     },
     {
       "title": "Conditions of benefits and risks when algorithmic technology is implemented for public sector policing and fraud detection: a systematic literature review",
@@ -506,6 +515,15 @@
       "plain_summary": null
     },
     {
+      "title": "Perceptions of Political Corruption in State Government",
+      "short_title": "Perceptions of Political Corruption in State Government",
+      "url": "https://doi.org/10.1177/1532673x261420826",
+      "source": "American Politics Research",
+      "published_at": "2026-02-25T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study looks at how people feel about corruption happening in different states of the US. It found that people can sometimes connect what they think with what's really happening. People also tend to see more corruption when the governor from their party isn't in power. The research shows that knowing a lot about politics doesn't change these perceptions much."
+    },
+    {
       "title": "Navigating the public sector: a quantitative investigation of organisational factors influencing ERP implementation in New Zealand",
       "short_title": "Navigating the public sector: a quantitative investigation of organisational factors influenci\u2026",
       "url": "https://doi.org/10.1108/tg-12-2025-0430",
@@ -522,27 +540,18 @@
       "published_at": "2026-02-17T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how municipal ownership affects the quality of financial reporting in Italian municipalities. It found that having more of an enterprise owned by the municipality is linked to lower chances of manipulating financial reports, suggesting stronger oversight from local government. However, if those owning the municipality have a history of corruption, this reduces the effectiveness of municipal ownership in preventing manipulation. Essentially, for municipal ownership to be effective, the people running these municipalities need to act with integrity and not engage in corrupt practices."
-    },
-    {
-      "title": "The Anti\u2010Fraud Lever: China's Strategic Use of the Scam Crackdown to Invigorate the LMLECC Process Against Thailand's Reluctance",
-      "short_title": "The Anti\u2010Fraud Lever: China's Strategic Use of the Scam Crackdown to Invigorate the LMLECC Pro\u2026",
-      "url": "https://doi.org/10.1111/aspp.70064",
-      "source": "Asian Politics &amp; Policy",
-      "published_at": "2026-02-12T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": null
-    },
-    {
-      "title": "Measuring and assessing corruption in public health systems in low- and middle-income countries: a scoping review of methods",
-      "short_title": "Measuring and assessing corruption in public health systems in low- and middle-income countrie\u2026",
-      "url": "https://doi.org/10.1093/heapol/czaf113",
-      "source": "Health Policy and Planning",
-      "published_at": "2026-02-03T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": null
     }
   ],
   "nonprofit": [
+    {
+      "title": "Bridging the Gap: A Qualitative Inquiry Into Misalignments Between Volunteer Management Practices and Volunteer Expectations",
+      "short_title": "Bridging the Gap: A Qualitative Inquiry Into Misalignments Between Volunteer Management Practi\u2026",
+      "url": "https://doi.org/10.1002/nml.70050",
+      "source": "Nonprofit Management and Leadership",
+      "published_at": "2026-04-02T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": "This study explores how nonprofit managers and long-term volunteers have different expectations about their roles and experiences. Managers often focus on structure, standardization, and efficiency, while volunteers seek meaningful participation, emotional support, and autonomy. The research found significant misalignments across areas like onboarding, communication, task clarity, feedback, recognition, learning opportunities, scheduling flexibility, decision-making involvement, and relationships. These differences are not just operational but reflect broader tensions between formal systems and personal values."
+    },
     {
       "title": "Professional Data Use Among Nonprofits and Public Organizations in Collaborative Networks: The Influence of Partners, Coalitions, and Technical Assistance Organizations",
       "short_title": "Professional Data Use Among Nonprofits and Public Organizations in Collaborative Networks: The\u2026",
