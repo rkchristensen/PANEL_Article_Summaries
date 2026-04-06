@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-05T08:33:09.561517+00:00",
+  "updated_at": "2026-04-06T11:54:51.050156+00:00",
   "government": [
     {
       "title": "Bridging the Gap: A Qualitative Inquiry Into Misalignments Between Volunteer Management Practices and Volunteer Expectations",
@@ -132,7 +132,7 @@
       "short_title": "AI Regulation and Its Social Impacts on Public Policy",
       "url": "https://doi.org/10.55737/rl.v5i1.26181",
       "source": "Regional Lens",
-      "published_at": "2026-04-05T08:16:11.068467+00:00",
+      "published_at": "2026-04-06T11:35:49.717883+00:00",
       "sentiment": "positive",
       "plain_summary": "AI is now a key part of how governments make decisions in many areas like healthcare, policing, and welfare. As more AI systems are used, it's important to have rules to make sure they work fairly and don't cause problems. These rules help ensure that AI doesn't lead to unfair treatment or less democracy. By carefully watching how AI is used, we can make sure it helps people and doesn't hurt them."
     },
@@ -141,7 +141,7 @@
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-04-05T08:16:07.766508+00:00",
+      "published_at": "2026-04-06T11:35:42.324673+00:00",
       "sentiment": "negative",
       "plain_summary": "This research focuses on understanding the emotional risks in police work and how they manage their emotions to improve job satisfaction. It was conducted by observing various police units like forensic science, digital investigation, financial division, criminal division, anti-terrorism unit, and more over 26 days. The study found two key emotions that are hard for them to express: interest and frustration. These emotions make it difficult for officers to discuss their work-related feelings openly, leading to invisible or undiscussed labor."
     },
@@ -150,7 +150,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-04-05T08:16:07.275849+00:00",
+      "published_at": "2026-04-06T11:35:41.124599+00:00",
       "sentiment": "positive",
       "plain_summary": "Data science has become crucial as we generate vast amounts of information daily. It helps transform this data into useful insights for better decision-making across various sectors. For audit institutions, integrating data science can enhance their ability to manage public funds more effectively and improve accountability. By using data science, audits can provide clearer and more accurate reports that recommend improvements faster, which benefits the overall administration and improves citizens' quality of life."
     },
@@ -159,7 +159,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-04-05T08:16:07.275592+00:00",
+      "published_at": "2026-04-06T11:35:41.124452+00:00",
       "sentiment": "positive",
       "plain_summary": null
     },
@@ -168,7 +168,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-04-05T08:16:07.275523+00:00",
+      "published_at": "2026-04-06T11:35:41.124410+00:00",
       "sentiment": "positive",
       "plain_summary": "This paper discusses a scenario where autonomous killer robots are used in warfare without human intervention. These robots can make decisions about who to target based on AI algorithms trained to recognize certain uniforms. If one of these drones targets and kills an enemy soldier who is surrendering, it would violate international laws. Another concern is if the robot makes a mistake by attacking another similar system, leading to unintended conflicts."
     },
@@ -177,7 +177,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-04-05T08:16:07.275127+00:00",
+      "published_at": "2026-04-06T11:35:41.124171+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how public service motivation can lead to noble cause corruption in Lebanon, where there's a lot of social and economic hardship. The research found that feelings like compassion and selflessness often push people into doing good deeds for noble causes, but these actions sometimes involve corrupt practices. This leads to internal conflicts as the person feels both guilty and supported by their work environment. Factors like physical exchanges, personal space in the workplace, and close relationships with users can make it easier for this type of corruption to happen."
     },
@@ -186,7 +186,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-04-05T08:16:07.274922+00:00",
+      "published_at": "2026-04-06T11:35:41.124040+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how public service motivation can lead to corruption for a noble cause in Lebanon, where corruption is prevalent and social issues are challenging. Based on interviews with 32 Lebanese public servants, the research explores how feelings of compassion and self-sacrifice related to public service motivation might encourage them to engage in corrupt behavior for what they see as a good cause. The study highlights that these motivations can lead to behaviors like providing extra support or shielding users from punishment. This can create internal conflicts within the public servant due to their emotional connection with those affected."
     },
@@ -195,7 +195,7 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-04-05T08:16:07.274601+00:00",
+      "published_at": "2026-04-06T11:35:41.123826+00:00",
       "sentiment": "negative",
       "plain_summary": null
     },
@@ -236,15 +236,6 @@
       "plain_summary": "This study looks at how different types of corruption affect people's trust in institutions in Greece. It found that public sector corruption often involves unclear rules and too much power for officials to make decisions. Private businesses sometimes bribe to get things done faster. The research also shows there are three main areas academics focus on: improving governance, understanding why people might cheat, and using technology like websites to be more transparent."
     },
     {
-      "title": "Corruption next door, satisfaction at home: Spillover effects of corruption on political trust in China",
-      "short_title": "Corruption next door, satisfaction at home: Spillover effects of corruption on political trust\u2026",
-      "url": "https://doi.org/10.1177/20531680261440770",
-      "source": "Research &amp; Politics",
-      "published_at": "2026-04-02T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This study examines how corruption issues in other parts of China might affect people's views on their own government. It found that when there are investigations into corruption happening nearby, it can make people feel more confident about their local government. This means that seeing other places dealing with corruption positively impacts the trust people have in their home area\u2019s leadership. Understanding this can help improve public perception and support for governance efforts."
-    },
-    {
       "title": "Assessment of impact of technology innovation on procurement transparency in selected public sector in South-East Nigeria",
       "short_title": "Assessment of impact of technology innovation on procurement transparency in selected public s\u2026",
       "url": "https://doi.org/10.58881/jcmts.v5i1.430",
@@ -270,24 +261,6 @@
       "published_at": "2026-04-01T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how factors like internal controls, the role of internal audits, institutional size, complexity, and audit opinions affect corruption in Indonesian public sector institutions. It found that stronger internal controls and a bigger organization increase the likelihood of corruption. The role of internal auditors is crucial as they help detect irregularities. However, just looking at formal audit results isn't enough to spot all corruption issues."
-    },
-    {
-      "title": "BENEFICIARIES OF CORRUPTION? THE COMPLICIT ROLE OF SOUTH AFRICAN BANKS IN ILLICIT FINANCIAL FLOWS",
-      "short_title": "BENEFICIARIES OF CORRUPTION? THE COMPLICIT ROLE OF SOUTH AFRICAN BANKS IN ILLICIT FINANCIAL FL\u2026",
-      "url": "https://doi.org/10.69778/2710-0073/2026/7.1/a2",
-      "source": "African and Global Issues Quarterly",
-      "published_at": "2026-04-01T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This research looks at how South African banks helped hide money used for bad purposes like corruption and corporate wrongdoing. Even though banks are supposed to catch this kind of money misuse, the study found that there were weak rules and some bank practices encouraged these illegal activities. The findings suggest that just changing the rules isn't enough; we need bigger changes in who holds people accountable too. This research helps us understand better how to stop bad financial behavior in countries where corruption is common."
-    },
-    {
-      "title": "Raising grievances to the state: The political economic effects of anti-corruption crackdowns on labor activism in China",
-      "short_title": "Raising grievances to the state: The political economic effects of anti-corruption crackdowns\u2026",
-      "url": "https://doi.org/10.1016/j.jdeveco.2026.103758",
-      "source": "Journal of Development Economics",
-      "published_at": "2026-04-01T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": null
     },
     {
       "title": "TRANSPARENCY, ACCOUNTABILITY, AND CORRUPTION RISK ASSESSMENT: CENTRAL BANK OF NIGERIA",
@@ -335,6 +308,15 @@
       "plain_summary": "Public sector accounting often focuses on measuring, controlling, reporting, and managing public value. This article suggests a new way to look at how public sector accounting can be improved by viewing it through the lens of public value. By adopting this perspective, practices might become more aligned with what citizens expect from their government services. This could lead to better decision-making that benefits society as a whole."
     },
     {
+      "title": "ETHICS AND LEGAL FRAMEWORK OF PUBLIC RELATIONS VISUAL COMMUNICATION AS A MEDIA OF PUBLIC EDUCATION IN ENCOURAGING SUSTAINABLE GLOBAL ECONOMIC RECOVERY IN THE ERA OF DIGITAL TRANSFORMATION",
+      "short_title": "ETHICS AND LEGAL FRAMEWORK OF PUBLIC RELATIONS VISUAL COMMUNICATION AS A MEDIA OF PUBLIC EDUCA\u2026",
+      "url": "https://doi.org/10.35631/ijlgc.1143035",
+      "source": "International Journal of Law Government and Communication",
+      "published_at": "2026-03-31T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "Digital transformations have made using visuals an important part of how Public Relations communicates information. This helps educate people about things like sustainable economic recovery. But with more use of digital visuals comes new rules and ethical standards to follow. Our research looked at these issues, finding that following good ethics and staying within legal guidelines is key for effective PR communication."
+    },
+    {
       "title": "AN ECONOMIC ANALYSIS OF OECD ANTI-CORRUPTION INSTRUMENTS AND THEIR INFLUENCE ON PUBLIC SECTOR PERFORMANCE AND REGULATORY QUALITY IN KAZAKHSTAN",
       "short_title": "AN ECONOMIC ANALYSIS OF OECD ANTI-CORRUPTION INSTRUMENTS AND THEIR INFLUENCE ON PUBLIC SECTOR\u2026",
       "url": "https://doi.org/10.52123/1994-2370-2026-1683",
@@ -342,15 +324,6 @@
       "published_at": "2026-03-30T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how implementing OECD anti-corruption standards affects public sector performance and regulatory quality in Kazakhstan. It found that stronger institutions and better regulations are linked with more foreign direct investment, lower transaction costs, and modest economic growth. The research also shows that full implementation of these standards can lead to significant improvements, but partial adoption is a barrier. Understanding this relationship helps policymakers design effective anti-corruption strategies for improving the economy in Kazakhstan."
-    },
-    {
-      "title": "Integrasi Kurikulum Antikorupsi dan Pendidikan Bela Negara dalam Wajib Belajar 12 Tahun: Studi Komparatif Model Denmark dan Singapura",
-      "short_title": "Integrasi Kurikulum Antikorupsi dan Pendidikan Bela Negara dalam Wajib Belajar 12 Tahun: Studi\u2026",
-      "url": "https://doi.org/10.26623/slr.v7i1.13985",
-      "source": "Semarang Law Review (SLR)",
-      "published_at": "2026-03-30T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": null
     },
     {
       "title": "Research on the Impact of Blockchain-Based Credible Return Information Mechanism on the Anti-Fraud Effect of Government Subsidies",
@@ -395,7 +368,7 @@
       "source": "European Journal of Management, Economics and Business",
       "published_at": "2026-03-26T00:00:00+00:00",
       "sentiment": "negative",
-      "plain_summary": null
+      "plain_summary": "This study looks at favoritism, nepotism, and corruption in the public administration of Kosovo. It shows these practices hurt merit-based hiring, reduce efficiency, and decrease trust in government by families and clans influencing decisions. The research also found that this leads to lower employee motivation and performance, unfair recruitment and promotion processes, and less confidence from citizens. These issues can slow economic growth because they discourage foreign investment and innovation."
     },
     {
       "title": "The Challenges of Backsourcing",
@@ -540,6 +513,33 @@
       "published_at": "2026-02-17T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how municipal ownership affects the quality of financial reporting in Italian municipalities. It found that having more of an enterprise owned by the municipality is linked to lower chances of manipulating financial reports, suggesting stronger oversight from local government. However, if those owning the municipality have a history of corruption, this reduces the effectiveness of municipal ownership in preventing manipulation. Essentially, for municipal ownership to be effective, the people running these municipalities need to act with integrity and not engage in corrupt practices."
+    },
+    {
+      "title": "The Anti\u2010Fraud Lever: China's Strategic Use of the Scam Crackdown to Invigorate the LMLECC Process Against Thailand's Reluctance",
+      "short_title": "The Anti\u2010Fraud Lever: China's Strategic Use of the Scam Crackdown to Invigorate the LMLECC Pro\u2026",
+      "url": "https://doi.org/10.1111/aspp.70064",
+      "source": "Asian Politics &amp; Policy",
+      "published_at": "2026-02-12T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "China took strong action against fraud rings targeting Chinese citizens, especially those using telecommunications and the internet. This included joint operations with other countries and high-profile actions by officials like Liu Zhongyi. While this helped reduce major fraud centers, it strained relations between China and Thailand due to how China handled things. This shows that fighting crime can be used as a way for China to exert more influence in the region."
+    },
+    {
+      "title": "Measuring and assessing corruption in public health systems in low- and middle-income countries: a scoping review of methods",
+      "short_title": "Measuring and assessing corruption in public health systems in low- and middle-income countrie\u2026",
+      "url": "https://doi.org/10.1093/heapol/czaf113",
+      "source": "Health Policy and Planning",
+      "published_at": "2026-02-03T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "Corruption in public health systems can severely affect healthcare outcomes and fairness. Different ways exist to measure this corruption, but they haven't been well studied together yet. This review looked at various methods used globally, especially in low- and middle-income countries. Common tools include surveys, interviews, focus groups, and audits."
+    },
+    {
+      "title": "Hunting Tigers or Swatting Flies? The Impact of Anti-corruption Information in China",
+      "short_title": "Hunting Tigers or Swatting Flies? The Impact of Anti-corruption Information in China",
+      "url": "https://doi.org/10.1017/s0305741025101811",
+      "source": "The China Quarterly",
+      "published_at": "2026-02-03T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study examines how different types of anti-corruption information affect public perceptions of corruption across different levels of government in China. It found that information about local anti-corruption efforts, like \"swatting flies,\" reduces perceptions of corruption at lower levels but doesn't have a clear effect at higher levels. On the other hand, information about high-profile cases like \"hunting tigers\" impacts people who are more sensitive to corruption. The study suggests that anti-corruption campaigns should be tailored to different levels of government and individual attitudes towards corruption for better effectiveness."
     }
   ],
   "nonprofit": [
@@ -605,6 +605,15 @@
       "published_at": "2026-04-01T00:00:00+00:00",
       "sentiment": "positive",
       "plain_summary": "This research looks at how extra money a nonprofit organization has (excess cash) affects their ability to manage finances well. From one angle, having more cash acts like a safety net, helping them stay financially strong during tough times. But from another perspective, if they keep too much cash in the wrong places, it can lead to higher costs and make managing money harder. The study found that while extra cash does help prevent financial problems, it also leads to increased overhead costs which slightly increase the risk of financial issues."
+    },
+    {
+      "title": "ETHICS AND LEGAL FRAMEWORK OF PUBLIC RELATIONS VISUAL COMMUNICATION AS A MEDIA OF PUBLIC EDUCATION IN ENCOURAGING SUSTAINABLE GLOBAL ECONOMIC RECOVERY IN THE ERA OF DIGITAL TRANSFORMATION",
+      "short_title": "ETHICS AND LEGAL FRAMEWORK OF PUBLIC RELATIONS VISUAL COMMUNICATION AS A MEDIA OF PUBLIC EDUCA\u2026",
+      "url": "https://doi.org/10.35631/ijlgc.1143035",
+      "source": "International Journal of Law Government and Communication",
+      "published_at": "2026-03-31T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "Digital transformations have made using visuals an important part of how Public Relations communicates information. This helps educate people about things like sustainable economic recovery. But with more use of digital visuals comes new rules and ethical standards to follow. Our research looked at these issues, finding that following good ethics and staying within legal guidelines is key for effective PR communication."
     },
     {
       "title": "Effectiveness of a comprehensive bystander anti-racism intervention for healthcare staff in Australia",
