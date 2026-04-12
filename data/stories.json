@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-11T07:21:23.439855+00:00",
+  "updated_at": "2026-04-12T06:53:57.763601+00:00",
   "government": [
     {
       "title": "Exploring the Role of National Leadership, Education, and Technology in Combating Corruption: Global Evidence",
@@ -128,11 +128,20 @@
       "plain_summary": "This study looked at how an anti-corruption program was implemented in Banyubiru Village near Semarang Regency using local customs and values like honesty, cooperation, and deliberation. The program worked well because it aligned with what people already believed in their community. Community members were actively involved in planning and overseeing the village budget. Local leaders also played a role by providing oversight and making sure things ran smoothly."
     },
     {
+      "title": "AnaajSurakha: Detection of Corruption in GrainScan Supply Chain",
+      "short_title": "AnaajSurakha: Detection of Corruption in GrainScan Supply Chain",
+      "url": "https://doi.org/10.22214/ijraset.2026.79522",
+      "source": "International Journal for Research in Applied Science and Engineering Technology",
+      "published_at": "2026-04-30T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "AnaajSurakha is a practical system designed to detect corruption in the grain supply chain early on. It uses GrainScan technology to take high-quality images of grains and measure their weight with simple image processing techniques that identify issues like color changes, impurities, damage, or variations in quantity. The system also keeps all records secure to prevent any alterations and updates administrators in real-time for transparency. By combining these features, AnaajSurakha improves food security and reduces disruptions in the grain supply chain."
+    },
+    {
       "title": "AI Regulation and Its Social Impacts on Public Policy",
       "short_title": "AI Regulation and Its Social Impacts on Public Policy",
       "url": "https://doi.org/10.55737/rl.v5i1.26181",
       "source": "Regional Lens",
-      "published_at": "2026-04-11T07:06:41.944448+00:00",
+      "published_at": "2026-04-12T06:53:43.259727+00:00",
       "sentiment": "positive",
       "plain_summary": "AI is now a key part of how governments make decisions in many areas like healthcare, policing, and welfare. As more AI systems are used, it's important to have rules to make sure they work fairly and don't cause problems. These rules help ensure that AI doesn't lead to unfair treatment or less democracy. By carefully watching how AI is used, we can make sure it helps people and doesn't hurt them."
     },
@@ -141,7 +150,7 @@
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-04-11T06:50:09.320075+00:00",
+      "published_at": "2026-04-12T06:53:25.575773+00:00",
       "sentiment": "negative",
       "plain_summary": "This research focuses on understanding the emotional risks in police work and how they manage their emotions to improve job satisfaction. It was conducted by observing various police units like forensic science, digital investigation, financial division, criminal division, anti-terrorism unit, and more over 26 days. The study found two key emotions that are hard for them to express: interest and frustration. These emotions make it difficult for officers to discuss their work-related feelings openly, leading to invisible or undiscussed labor."
     },
@@ -150,7 +159,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-04-11T06:50:08.851696+00:00",
+      "published_at": "2026-04-12T06:53:24.736212+00:00",
       "sentiment": "positive",
       "plain_summary": "Data science has become crucial as we generate vast amounts of information daily. It helps transform this data into useful insights for better decision-making across various sectors. For audit institutions, integrating data science can enhance their ability to manage public funds more effectively and improve accountability. By using data science, audits can provide clearer and more accurate reports that recommend improvements faster, which benefits the overall administration and improves citizens' quality of life."
     },
@@ -159,7 +168,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-04-11T06:50:08.851587+00:00",
+      "published_at": "2026-04-12T06:53:24.735959+00:00",
       "sentiment": "positive",
       "plain_summary": null
     },
@@ -168,7 +177,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-04-11T06:50:08.851557+00:00",
+      "published_at": "2026-04-12T06:53:24.735886+00:00",
       "sentiment": "positive",
       "plain_summary": "This paper discusses a scenario where autonomous killer robots are used in warfare without human intervention. These robots can make decisions about who to target based on AI algorithms trained to recognize certain uniforms. If one of these drones targets and kills an enemy soldier who is surrendering, it would violate international laws. Another concern is if the robot makes a mistake by attacking another similar system, leading to unintended conflicts."
     },
@@ -177,7 +186,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-04-11T06:50:08.851385+00:00",
+      "published_at": "2026-04-12T06:53:24.735485+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how public service motivation can lead to noble cause corruption in Lebanon, where there's a lot of social and economic hardship. The research found that feelings like compassion and selflessness often push people into doing good deeds for noble causes, but these actions sometimes involve corrupt practices. This leads to internal conflicts as the person feels both guilty and supported by their work environment. Factors like physical exchanges, personal space in the workplace, and close relationships with users can make it easier for this type of corruption to happen."
     },
@@ -186,7 +195,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-04-11T06:50:08.851299+00:00",
+      "published_at": "2026-04-12T06:53:24.735276+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how public service motivation can lead to corruption for a noble cause in Lebanon, where corruption is prevalent and social issues are challenging. Based on interviews with 32 Lebanese public servants, the research explores how feelings of compassion and self-sacrifice related to public service motivation might encourage them to engage in corrupt behavior for what they see as a good cause. The study highlights that these motivations can lead to behaviors like providing extra support or shielding users from punishment. This can create internal conflicts within the public servant due to their emotional connection with those affected."
     },
@@ -195,7 +204,7 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-04-11T06:50:08.851145+00:00",
+      "published_at": "2026-04-12T06:53:24.734940+00:00",
       "sentiment": "negative",
       "plain_summary": null
     },
@@ -252,24 +261,6 @@
       "published_at": "2026-04-08T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "This research suggests using blockchain technology to help stop corruption in government buying things. It found that having a good understanding of how to use blockchain is still not common among Thai governments. The study recommends creating new systems with blockchain like smart contracts and online training programs to make sure everyone follows rules fairly during the buying process. This can improve trust between buyers, sellers, and officials."
-    },
-    {
-      "title": "The Three Pillars of Communication in Local Culture: Driving Force in Combating Village Fund Corruption",
-      "short_title": "The Three Pillars of Communication in Local Culture: Driving Force in Combating Village Fund C\u2026",
-      "url": "https://doi.org/10.30997/jk.v12i1.23295",
-      "source": "JURNAL KOMUNIKATIO",
-      "published_at": "2026-04-08T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "The article discusses how local culture has strengths that can help fight corruption in village funds. It identifies three key elements: traditional leaders who act as moral guides, teachings passed down through generations about good behavior and harmony with nature, and the use of traditional institutions for enforcing rules. By combining these cultural pillars\u2014traditional figures, ancestral messages, and institutional mechanisms\u2014the community can better prevent misuse of government assistance funds in villages. This approach suggests that incorporating local customs into anti-corruption efforts could be more effective than relying solely on legal measures."
-    },
-    {
-      "title": "Digitalization and Transparency in Efforts to Prevent and Eradicate Corruption",
-      "short_title": "Digitalization and Transparency in Efforts to Prevent and Eradicate Corruption",
-      "url": "https://doi.org/10.47577/tssj.v82i1.13570",
-      "source": "Technium Social Sciences Journal",
-      "published_at": "2026-04-08T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This study looked at how using technology like computers and apps can make government work more open and less likely to be unfair or dishonest. It found that when governments in North Sulawesi started using these tech tools, it helped keep things fairer by making information more visible. However, the main challenge is having enough people who know how to use these new systems effectively. If this issue can be solved, digitalization could greatly improve government operations and reduce dishonest behavior."
     },
     {
       "title": "CORRUPTION AND ACCOUNTABILITY ON THE PERFORMANCE OF LOCAL GOVERNMENT ADMINISTRATION IN NIGERIA: A CASE STUDY OF ILORIN-SOUTH",
@@ -540,9 +531,27 @@
       "published_at": "2026-01-06T00:00:00+00:00",
       "sentiment": "positive",
       "plain_summary": "In Indonesia, there's an effort to use technology like SISKEUDES to manage village funds more transparently. This system is mandated by the central government but faces challenges at the local level. Coercive pressures from higher up include mandates and strict monitoring of how funds are used. These pressures can be effective in promoting accountability but also create difficulties such as lack of technical skills, infrastructure issues, and sometimes conflicting with new regulations."
+    },
+    {
+      "title": "Unethical leadership in the South African public sector tender processes through the lens of game theory",
+      "short_title": "Unethical leadership in the South African public sector tender processes through the lens of g\u2026",
+      "url": "https://doi.org/10.1504/ijbge.2026.151978",
+      "source": "International Journal of Business Governance and Ethics",
+      "published_at": "2026-01-01T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": null
     }
   ],
   "nonprofit": [
+    {
+      "title": "Different Stakeholders, Different Pathways: How Capacity Profiles Shape Managerial Priorities for Beneficiaries and Staff in Decision\u2010Making",
+      "short_title": "Different Stakeholders, Different Pathways: How Capacity Profiles Shape Managerial Priorities\u2026",
+      "url": "https://doi.org/10.1002/nml.70054",
+      "source": "Nonprofit Management and Leadership",
+      "published_at": "2026-04-11T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": "This research looks at how different strengths or capacities within an NGO influence which beneficiaries and staff members get priority attention from the organization\u2019s leaders. It found there are multiple ways to prioritize stakeholders, not just one right way. The most important factor is usually the mission of the organization\u2014what it aims to achieve. In situations with plenty of resources, both having a strong mission and enough resources can help focus on helping staff members more."
+    },
     {
       "title": "Professional Data Use Among Nonprofits and Public Organizations in Collaborative Networks: The Influence of Partners, Coalitions, and Technical Assistance Organizations",
       "short_title": "Professional Data Use Among Nonprofits and Public Organizations in Collaborative Networks: The\u2026",
