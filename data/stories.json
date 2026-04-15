@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T14:52:06.932732+00:00",
+  "updated_at": "2026-04-15T08:49:42.091848+00:00",
   "government": [
     {
       "title": "Exploring the Role of National Leadership, Education, and Technology in Combating Corruption: Global Evidence",
@@ -74,15 +74,6 @@
       "plain_summary": "This article looks at how new technology like AI is changing international laws for wars. As weapons get more automated, it raises questions about who should be held responsible when they make decisions. The main idea is that current rules are still useful but need updating to fit with these new types of weapons. It suggests ways to improve the existing laws so that people in war zones can continue to rely on protections like not harming civilians unnecessarily."
     },
     {
-      "title": "Working Behavior Of Government Officials In Public Services In Dutuno Village, Paleleh District, Buol Regency",
-      "short_title": "Working Behavior Of Government Officials In Public Services In Dutuno Village, Paleleh Distric\u2026",
-      "url": "https://doi.org/10.37905/ppj.v6i2.2985",
-      "source": "Public Policy Journal",
-      "published_at": "2026-08-31T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This research looked at how government workers provide services in a village setting. They found that while the officials are polite to people, there are problems like being late or not responding quickly which affect how well they serve others. Showing care by helping with paperwork is good, but sometimes it takes too long and doesn't happen often enough. The biggest issue is following rules and showing up for work on time."
-    },
-    {
       "title": "The concept \u2018light from light\u2019 in the Nicene creed: Is the metaphor still appropriate for Christian ethics today?",
       "short_title": "The concept \u2018light from light\u2019 in the Nicene creed: Is the metaphor still appropriate for Chri\u2026",
       "url": "https://doi.org/10.4102/ids.v60i2.3197",
@@ -132,61 +123,34 @@
       "short_title": "AI Regulation and Its Social Impacts on Public Policy",
       "url": "https://doi.org/10.55737/rl.v5i1.26181",
       "source": "Regional Lens",
-      "published_at": "2026-04-14T14:38:05.722378+00:00",
+      "published_at": "2026-04-15T08:49:13.830662+00:00",
       "sentiment": "positive",
       "plain_summary": "AI is now a key part of how governments make decisions in many areas like healthcare, policing, and welfare. As more AI systems are used, it's important to have rules to make sure they work fairly and don't cause problems. These rules help ensure that AI doesn't lead to unfair treatment or less democracy. By carefully watching how AI is used, we can make sure it helps people and doesn't hurt them."
-    },
-    {
-      "title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bilan d\u2019une recherche immersive en Police Judiciaire fran\u00e7aise",
-      "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
-      "url": "https://doi.org/10.3917/gmp.pr1.0009",
-      "source": "Gestion et management public",
-      "published_at": "2026-04-14T14:37:52.350271+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This research focuses on understanding the emotional risks in police work and how they manage their emotions to improve job satisfaction. It was conducted by observing various police units like forensic science, digital investigation, financial division, criminal division, anti-terrorism unit, and more over 26 days. The study found two key emotions that are hard for them to express: interest and frustration. These emotions make it difficult for officers to discuss their work-related feelings openly, leading to invisible or undiscussed labor."
-    },
-    {
-      "title": "Data Science as a Catalyst for Audit Transformation",
-      "short_title": "Data Science as a Catalyst for Audit Transformation",
-      "url": "https://doi.org/10.56251/clyp9463",
-      "source": "International Journal of Government Auditing",
-      "published_at": "2026-04-14T14:37:51.548340+00:00",
-      "sentiment": "positive",
-      "plain_summary": "Data science has become crucial as we generate vast amounts of information daily. It helps transform this data into useful insights for better decision-making across various sectors. For audit institutions, integrating data science can enhance their ability to manage public funds more effectively and improve accountability. By using data science, audits can provide clearer and more accurate reports that recommend improvements faster, which benefits the overall administration and improves citizens' quality of life."
-    },
-    {
-      "title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
-      "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
-      "url": "https://doi.org/10.56251/tydf1981",
-      "source": "International Journal of Government Auditing",
-      "published_at": "2026-04-14T14:37:51.548214+00:00",
-      "sentiment": "positive",
-      "plain_summary": null
-    },
-    {
-      "title": "Killer Robots \u2013 A Case for SAIs",
-      "short_title": "Killer Robots \u2013 A Case for SAIs",
-      "url": "https://doi.org/10.56251/ojyp9121",
-      "source": "International Journal of Government Auditing",
-      "published_at": "2026-04-14T14:37:51.548132+00:00",
-      "sentiment": "positive",
-      "plain_summary": "This paper discusses a scenario where autonomous killer robots are used in warfare without human intervention. These robots can make decisions about who to target based on AI algorithms trained to recognize certain uniforms. If one of these drones targets and kills an enemy soldier who is surrendering, it would violate international laws. Another concern is if the robot makes a mistake by attacking another similar system, leading to unintended conflicts."
     },
     {
       "title": "The dark side of public service motivation : Analysis of noble cause corruption based on the Lebanese case",
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-04-14T14:37:51.547925+00:00",
+      "published_at": "2026-04-15T08:49:06.354158+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how public service motivation can lead to noble cause corruption in Lebanon, where there's a lot of social and economic hardship. The research found that feelings like compassion and selflessness often push people into doing good deeds for noble causes, but these actions sometimes involve corrupt practices. This leads to internal conflicts as the person feels both guilty and supported by their work environment. Factors like physical exchanges, personal space in the workplace, and close relationships with users can make it easier for this type of corruption to happen."
+    },
+    {
+      "title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bilan d\u2019une recherche immersive en Police Judiciaire fran\u00e7aise",
+      "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
+      "url": "https://doi.org/10.3917/gmp.pr1.0009",
+      "source": "Gestion et management public",
+      "published_at": "2026-04-15T08:49:04.917829+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This research focuses on understanding the emotional risks in police work and how they manage their emotions to improve job satisfaction. It was conducted by observing various police units like forensic science, digital investigation, financial division, criminal division, anti-terrorism unit, and more over 26 days. The study found two key emotions that are hard for them to express: interest and frustration. These emotions make it difficult for officers to discuss their work-related feelings openly, leading to invisible or undiscussed labor."
     },
     {
       "title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause noble \u00e0 partir du cas libanais",
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-04-14T14:37:51.547724+00:00",
+      "published_at": "2026-04-15T08:49:04.915794+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how public service motivation can lead to corruption for a noble cause in Lebanon, where corruption is prevalent and social issues are challenging. Based on interviews with 32 Lebanese public servants, the research explores how feelings of compassion and self-sacrifice related to public service motivation might encourage them to engage in corrupt behavior for what they see as a good cause. The study highlights that these motivations can lead to behaviors like providing extra support or shielding users from punishment. This can create internal conflicts within the public servant due to their emotional connection with those affected."
     },
@@ -195,7 +159,7 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-04-14T14:37:51.547577+00:00",
+      "published_at": "2026-04-15T08:49:04.913351+00:00",
       "sentiment": "negative",
       "plain_summary": null
     },
@@ -299,6 +263,15 @@
       "plain_summary": null
     },
     {
+      "title": "The Doping Cases of Jannik Sinner and Iga Swiatek: Issues of Balance of Interests and Fair Adjudication in the Modern Anti-Doping System",
+      "short_title": "The Doping Cases of Jannik Sinner and Iga Swiatek: Issues of Balance of Interests and Fair Adj\u2026",
+      "url": "https://doi.org/10.17803/2713-0533.2026.1.35.187-215",
+      "source": "Kutafin Law Review",
+      "published_at": "2026-04-06T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": "The World Anti-Doping Code was adopted in the early 2000s to standardize anti-doping rules internationally. Despite updates, debates persist about fair and impartial decisions regarding doping cases and the appropriateness of sanctions. In 2024, high-profile tennis players Jannik Sinner and Iga Swiatek faced doping charges, highlighting issues in the system. Studies show that the strict liability principle used in anti-doping rules often leads to perceptions of unfair treatment and imbalance between athletes."
+    },
+    {
       "title": "Assessment of impact of technology innovation on procurement transparency in selected public sector in South-East Nigeria",
       "short_title": "Assessment of impact of technology innovation on procurement transparency in selected public s\u2026",
       "url": "https://doi.org/10.58881/jcmts.v5i1.430",
@@ -378,15 +351,6 @@
       "published_at": "2026-03-24T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "Money laundering is a significant threat affecting competitive markets, security, and consumer well-being. The European Anti-Money Laundering Authority (AMLA) was created as part of new EU regulations to improve supervisory standards and coordinate the fight against illicit finance across Europe. AMLA combines classification functions like setting rules and standards with selective enforcement tools such as direct supervision of high-risk groups and escalation mechanisms. By viewing these aspects through a collective-action lens, it helps explain how AMLA can effectively police money laundering while also highlighting its limitations in fully addressing the issue."
-    },
-    {
-      "title": "Impact of perceived corruption on stress: Does social capital serve as an administrative resource?",
-      "short_title": "Impact of perceived corruption on stress: Does social capital serve as an administrative resou\u2026",
-      "url": "https://doi.org/10.1080/23276665.2026.2645559",
-      "source": "Asia Pacific Journal of Public Administration",
-      "published_at": "2026-03-12T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": null
     },
     {
       "title": "Perceptions of Political Corruption in State Government",
@@ -540,6 +504,42 @@
       "published_at": "2025-12-13T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "This article discusses key issues facing Ukraine's anti-corruption bodies and suggests ways to improve their effectiveness. Challenges include fragmented legal support, political instability, lack of coordination among agencies, limited resources, unclear jurisdictional powers, and low public trust. To address these, the Ukrainian government should focus on strengthening institutional independence, optimizing power distribution, improving human resources, enhancing coordination mechanisms, and increasing transparency in sensitive areas like procurement and financial controls. These steps are crucial for building trust with society and aligning anti-corruption efforts with European standards of governance."
+    },
+    {
+      "title": "From capture to colonized governance logic: the emergence of a new form of corruption",
+      "short_title": "From capture to colonized governance logic: the emergence of a new form of corruption",
+      "url": "https://doi.org/10.1108/tg-08-2025-0262",
+      "source": "Transforming Government: People, Process and Policy",
+      "published_at": "2025-12-12T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study introduces a new form of corruption called colonized governance logic, where laws, institutions, and moral norms are co-opted to protect elite power. In Indonesia, standard anti-corruption measures fail because corruption is sustained through three mechanisms: systematic toleration, hostage politics, and colonized mentality. To combat this, anti-corruption strategies need to focus on making governance more resilient, empowering citizens, and protecting whistleblowers. This means designing accountability mechanisms that are context-specific, strengthening civic oversight, and fostering inclusive political participation."
+    },
+    {
+      "title": "The trust trifecta: How transparency, ethics, and benefits shape public confidence in government AI",
+      "short_title": "The trust trifecta: How transparency, ethics, and benefits shape public confidence in governme\u2026",
+      "url": "https://doi.org/10.1016/j.giq.2025.102083",
+      "source": "Government Information Quarterly",
+      "published_at": "2025-12-01T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": null
+    },
+    {
+      "title": "Distinguishing Transparency and Accountability as Separate Pillars of Good Governance",
+      "short_title": "Distinguishing Transparency and Accountability as Separate Pillars of Good Governance",
+      "url": "https://doi.org/10.55390/ajpsdg.2025.8.1.3",
+      "source": "Africa Journal of Public Sector Development and Governance",
+      "published_at": "2025-12-01T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": null
+    },
+    {
+      "title": "Working Paper 60: Understanding the enemy",
+      "short_title": "Working Paper 60: Understanding the enemy",
+      "url": "https://doi.org/10.12685/bigwp.2025.60.1-32",
+      "source": "Basel Institute on Governance Working Papers",
+      "published_at": "2025-11-05T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This working paper discusses how corruption is not just about individual bad behavior but a networked issue involving social, economic, and political interactions. Understanding these networks can help in fighting corruption more effectively by seeing how they function across different levels of society. By looking at the structures and norms that support corrupt activities, we can develop better strategies to combat it. The paper suggests that anti-corruption efforts should learn from informal networks' positive aspects, making them a useful model for new initiatives."
     }
   ],
   "nonprofit": [
