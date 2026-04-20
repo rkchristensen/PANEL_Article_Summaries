@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-04-19T06:06:53.010985+00:00",
+  "updated_at": "2026-04-20T14:28:42.370521+00:00",
   "government": [
+    {
+      "title": "Research Note: Form 990 Data Quality and Reliability",
+      "short_title": "Research Note: Form 990 Data Quality and Reliability",
+      "url": "https://doi.org/10.1177/08997640261434934",
+      "source": "Nonprofit and Voluntary Sector Quarterly",
+      "published_at": "2026-04-20T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": "Nonprofit organizations file IRS Form 990 to provide an overview of their financial status. While this form helps in understanding the finances, it has some limitations as it is not audited and follows tax rules instead of accounting standards like GAAP. Our research found that while major balance sheet items match between Form 990 and audited statements, there are fewer agreements for activity statements and ratios when financials are consolidated but the 990 isn't. This can lead to significant differences in program and fundraising ratios."
+    },
     {
       "title": "Do Performance Budgeting Reforms Reduce Corruption? Evidence From a Quasi\u2010Experimental Study",
       "short_title": "Do Performance Budgeting Reforms Reduce Corruption? Evidence From a Quasi\u2010Experimental Study",
@@ -141,7 +150,7 @@
       "short_title": "AI Regulation and Its Social Impacts on Public Policy",
       "url": "https://doi.org/10.55737/rl.v5i1.26181",
       "source": "Regional Lens",
-      "published_at": "2026-04-19T06:06:31.079010+00:00",
+      "published_at": "2026-04-20T14:27:29.995513+00:00",
       "sentiment": "positive",
       "plain_summary": "AI is now a key part of how governments make decisions in many areas like healthcare, policing, and welfare. As more AI systems are used, it's important to have rules to make sure they work fairly and don't cause problems. These rules help ensure that AI doesn't lead to unfair treatment or less democracy. By carefully watching how AI is used, we can make sure it helps people and doesn't hurt them."
     },
@@ -150,7 +159,7 @@
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-04-19T06:06:18.751151+00:00",
+      "published_at": "2026-04-20T14:26:57.309343+00:00",
       "sentiment": "negative",
       "plain_summary": "This research focuses on understanding the emotional risks in police work and how they manage their emotions to improve job satisfaction. It was conducted by observing various police units like forensic science, digital investigation, financial division, criminal division, anti-terrorism unit, and more over 26 days. The study found two key emotions that are hard for them to express: interest and frustration. These emotions make it difficult for officers to discuss their work-related feelings openly, leading to invisible or undiscussed labor."
     },
@@ -159,7 +168,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-04-19T06:06:17.764667+00:00",
+      "published_at": "2026-04-20T14:26:54.523985+00:00",
       "sentiment": "positive",
       "plain_summary": "Data science has become crucial as we generate vast amounts of information daily. It helps transform this data into useful insights for better decision-making across various sectors. For audit institutions, integrating data science can enhance their ability to manage public funds more effectively and improve accountability. By using data science, audits can provide clearer and more accurate reports that recommend improvements faster, which benefits the overall administration and improves citizens' quality of life."
     },
@@ -168,7 +177,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-04-19T06:06:17.764414+00:00",
+      "published_at": "2026-04-20T14:26:54.523839+00:00",
       "sentiment": "positive",
       "plain_summary": null
     },
@@ -177,7 +186,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-04-19T06:06:17.764345+00:00",
+      "published_at": "2026-04-20T14:26:54.523792+00:00",
       "sentiment": "positive",
       "plain_summary": "This paper discusses a scenario where autonomous killer robots are used in warfare without human intervention. These robots can make decisions about who to target based on AI algorithms trained to recognize certain uniforms. If one of these drones targets and kills an enemy soldier who is surrendering, it would violate international laws. Another concern is if the robot makes a mistake by attacking another similar system, leading to unintended conflicts."
     },
@@ -186,7 +195,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-04-19T06:06:17.763948+00:00",
+      "published_at": "2026-04-20T14:26:54.523618+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how public service motivation can lead to noble cause corruption in Lebanon, where there's a lot of social and economic hardship. The research found that feelings like compassion and selflessness often push people into doing good deeds for noble causes, but these actions sometimes involve corrupt practices. This leads to internal conflicts as the person feels both guilty and supported by their work environment. Factors like physical exchanges, personal space in the workplace, and close relationships with users can make it easier for this type of corruption to happen."
     },
@@ -195,7 +204,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-04-19T06:06:17.763746+00:00",
+      "published_at": "2026-04-20T14:26:54.523532+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how public service motivation can lead to corruption for a noble cause in Lebanon, where corruption is prevalent and social issues are challenging. Based on interviews with 32 Lebanese public servants, the research explores how feelings of compassion and self-sacrifice related to public service motivation might encourage them to engage in corrupt behavior for what they see as a good cause. The study highlights that these motivations can lead to behaviors like providing extra support or shielding users from punishment. This can create internal conflicts within the public servant due to their emotional connection with those affected."
     },
@@ -204,9 +213,18 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-04-19T06:06:17.763445+00:00",
+      "published_at": "2026-04-20T14:26:54.523358+00:00",
       "sentiment": "negative",
       "plain_summary": null
+    },
+    {
+      "title": "MECHANISMS OF FORMATION OF INTEGRITY AND ANTI-CORRUPTION CULTURE IN PENITENTIARY INSTITUTIONS",
+      "short_title": "MECHANISMS OF FORMATION OF INTEGRITY AND ANTI-CORRUPTION CULTURE IN PENITENTIARY INSTITUTIONS",
+      "url": "https://doi.org/10.32755/sjcriminal.2026.01.156",
+      "source": "Scientific journal Criminal and Executive System: Yesterday. Today. Tomorrow",
+      "published_at": "2026-04-19T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This article discusses how to prevent corruption in prisons in Ukraine. Traditional methods have stopped working with European integration and martial law. The study found that low salaries and fear of being exposed are the main reasons for corruption among prison workers. To change this, it suggests creating a new kind of culture where people value integrity over corruption."
     },
     {
       "title": "ORGANIZATIONAL AND MANAGERIAL MEASURES FOR PREVENTING CORRUPTION-RELATED OFFENSES IN THE CRIMINAL-EXECUTIVE SYSTEM OF UKRAINE",
@@ -234,15 +252,6 @@
       "published_at": "2026-04-16T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "Judges make decisions about guilt based on all presented evidence during trials. It\u2019s important for judges to have confidence in their convictions because they need to feel sure the facts support what they decide. Judges may differ in how they rule on cases due to personal backgrounds and approaches like normative, empirical, or a mix of both. As long as decisions are made based on legal evidence and applicable laws, no one can dispute them."
-    },
-    {
-      "title": "When Technology Meets Transparency &amp; Accountability: A Strategy to Prevent Corruption in Local Government",
-      "short_title": "When Technology Meets Transparency &amp; Accountability: A Strategy to Prevent Corruption in L\u2026",
-      "url": "https://doi.org/10.22219/ljih.v34i1.42538",
-      "source": "Legality : Jurnal Ilmiah Hukum",
-      "published_at": "2026-04-16T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This research developed a technology-based system to prevent corruption in local government procurement in Batu City, Indonesia. It found that while the city has implemented various digital applications, there's no integrated system for all agencies involved. This leads to oversight gaps and accountability issues. The study suggests that effective IT systems need more than just data sharing; they also require reliable human resources who are committed to integrity."
     },
     {
       "title": "Tony Penikett and John Calvert, 35 Accords: Re-imagining British Columbia\u2019s Public Sector Labour Relations, Bradford, West Yorkshire, Ethics International Press, 2025, pp. xxxii + 382, ISBN: 978-1-83711-279-1 (paperback), $59.00",
@@ -351,15 +360,6 @@
       "published_at": "2026-04-02T00:00:00+00:00",
       "sentiment": "positive",
       "plain_summary": "This research looked at how technology affects the openness of buying things for government work in some areas of South-East Nigeria. They used surveys and picked participants randomly to understand better. The study found that using online ways to buy stuff helps make decisions more openly. So, they suggest governments should use these online methods to keep everything fair."
-    },
-    {
-      "title": "TRANSPARENCY, ACCOUNTABILITY, AND CORRUPTION RISK ASSESSMENT: CENTRAL BANK OF NIGERIA",
-      "short_title": "TRANSPARENCY, ACCOUNTABILITY, AND CORRUPTION RISK ASSESSMENT: CENTRAL BANK OF NIGERIA",
-      "url": "https://doi.org/10.70382/caijarss.v11i2.037",
-      "source": "International Journal of African Research Sustainability Studies",
-      "published_at": "2026-04-01T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This study on the Central Bank of Nigeria (CBN) looks at how transparently they operate under their laws. It found that without proper accountability measures in place, there can be issues like elite capture, misuse of funds, and financial mismanagement. These problems lead to a lack of public trust, higher inflation rates, and fewer foreign investments. The study recommends steps such as phasing out certain interventions, requiring independent audits, using digital methods for procurement, and targeting inflation to improve the CBN's credibility and reduce corruption risks."
     },
     {
       "title": "ETHICS AND LEGAL FRAMEWORK OF PUBLIC RELATIONS VISUAL COMMUNICATION AS A MEDIA OF PUBLIC EDUCATION IN ENCOURAGING SUSTAINABLE GLOBAL ECONOMIC RECOVERY IN THE ERA OF DIGITAL TRANSFORMATION",
@@ -544,6 +544,15 @@
   ],
   "nonprofit": [
     {
+      "title": "Research Note: Form 990 Data Quality and Reliability",
+      "short_title": "Research Note: Form 990 Data Quality and Reliability",
+      "url": "https://doi.org/10.1177/08997640261434934",
+      "source": "Nonprofit and Voluntary Sector Quarterly",
+      "published_at": "2026-04-20T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": "Nonprofit organizations file IRS Form 990 to provide an overview of their financial status. While this form helps in understanding the finances, it has some limitations as it is not audited and follows tax rules instead of accounting standards like GAAP. Our research found that while major balance sheet items match between Form 990 and audited statements, there are fewer agreements for activity statements and ratios when financials are consolidated but the 990 isn't. This can lead to significant differences in program and fundraising ratios."
+    },
+    {
       "title": "Professional Data Use Among Nonprofits and Public Organizations in Collaborative Networks: The Influence of Partners, Coalitions, and Technical Assistance Organizations",
       "short_title": "Professional Data Use Among Nonprofits and Public Organizations in Collaborative Networks: The\u2026",
       "url": "https://doi.org/10.1177/08997640261426888",
@@ -578,24 +587,6 @@
       "published_at": "2026-11-01T00:00:00+00:00",
       "sentiment": "positive",
       "plain_summary": "Recent research has shown that adding different parts called heterocyclic systems to quinoline molecules can create compounds with many useful properties. These modified quinoline-based drugs are effective against a wide range of harmful bacteria, including those causing serious infections. They also show promise in treating cancer and other conditions like seizures, pain, inflammation, and heart problems. By combining quinoline with other parts, scientists can make new medicines that work better than existing ones."
-    },
-    {
-      "title": "How Board Characteristics Shape Funding Access: Evidence from Saudi Nonprofit Organizations",
-      "short_title": "How Board Characteristics Shape Funding Access: Evidence from Saudi Nonprofit Organizations",
-      "url": "https://doi.org/10.33642/ijbass.v12n4p1",
-      "source": "International Journal of Business and Applied Social Science",
-      "published_at": "2026-04-16T00:00:00+00:00",
-      "sentiment": "positive",
-      "plain_summary": "This study looks at how the people who run nonprofits in Saudi Arabia get more money for their organizations. It found that having bigger boards with members from different political backgrounds helps nonprofits get a wider range of funding, not just from one specific source called Ehsan. Having more women on the board also means they might get less support from Ehsan. The study also showed that larger and older nonprofits generally have better access to money too."
-    },
-    {
-      "title": "Mapping Research on Christian Volunteer Motivation in Church and Civil Society Volunteering: A Scoping Review",
-      "short_title": "Mapping Research on Christian Volunteer Motivation in Church and Civil Society Volunteering: A\u2026",
-      "url": "https://doi.org/10.1017/s0957876526000288",
-      "source": "Voluntas: International Journal of Voluntary and Nonprofit Organizations",
-      "published_at": "2026-04-16T00:00:00+00:00",
-      "sentiment": "positive",
-      "plain_summary": "This scoping review examines 79 studies on motivations of Christian volunteers in church and civil society projects from 1989 to 2026. It found that while there are many studies, they often use different ways to measure motivation and don't consistently report important details like the context or participants involved. This makes it hard to draw clear conclusions about what motivates these volunteers. The review suggests clearer standards for how researchers should collect data so we can better understand and manage Christian volunteer efforts effectively."
     },
     {
       "title": "Multi-Actor Collaboration and NGO Accountability: An NGO Case Study",
