@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-22T17:05:44.417393+00:00",
+  "updated_at": "2026-04-23T09:33:16.439902+00:00",
   "government": [
     {
       "title": "When Do Citizens Support Corrupt Politicians? The Trade\u2010Offs Between Corruption and Competence",
@@ -54,15 +54,6 @@
       "published_at": "2026-01-10T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how politicians accused of corruption respond when they deny their wrongdoing. The research shows that when politicians say they are innocent or blame others for their actions, it can improve their image and chances of winning elections. This is especially true for people who strongly support one political party. Understanding this helps us see how leaders influence public opinion about corruption in politics."
-    },
-    {
-      "title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy Implications",
-      "short_title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy I\u2026",
-      "url": "https://doi.org/10.47259/ijrebs.2026.711",
-      "source": "International Journal of Research in Entrepreneurship &amp; Business Studies",
-      "published_at": "2027-01-11T00:00:00+00:00",
-      "sentiment": "positive",
-      "plain_summary": "This study analyzed how airlines handle airfare refunds and the challenges customers face during this process. It found that communication issues are a major problem, especially in understanding airline rules. Despite most customers being satisfied with their refund after receiving one, they felt the process was complex and inefficient. The research suggests clearer policies and better coordination between airlines, intermediaries, and customers could improve trust and service quality."
     },
     {
       "title": "Review of Risk Based Financial Governance Literature Shaping Institutional Investment Decision Practices",
@@ -137,20 +128,11 @@
       "plain_summary": "AnaajSurakha is a practical system designed to detect corruption in the grain supply chain early on. It uses GrainScan technology to take high-quality images of grains and measure their weight with simple image processing techniques that identify issues like color changes, impurities, damage, or variations in quantity. The system also keeps all records secure to prevent any alterations and updates administrators in real-time for transparency. By combining these features, AnaajSurakha improves food security and reduces disruptions in the grain supply chain."
     },
     {
-      "title": "AI Regulation and Its Social Impacts on Public Policy",
-      "short_title": "AI Regulation and Its Social Impacts on Public Policy",
-      "url": "https://doi.org/10.55737/rl.v5i1.26181",
-      "source": "Regional Lens",
-      "published_at": "2026-04-22T17:05:09.989732+00:00",
-      "sentiment": "positive",
-      "plain_summary": "AI is now a key part of how governments make decisions in many areas like healthcare, policing, and welfare. As more AI systems are used, it's important to have rules to make sure they work fairly and don't cause problems. These rules help ensure that AI doesn't lead to unfair treatment or less democracy. By carefully watching how AI is used, we can make sure it helps people and doesn't hurt them."
-    },
-    {
       "title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bilan d\u2019une recherche immersive en Police Judiciaire fran\u00e7aise",
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-04-22T17:04:56.646298+00:00",
+      "published_at": "2026-04-23T07:08:22.373680+00:00",
       "sentiment": "negative",
       "plain_summary": "This research focuses on understanding the emotional risks in police work and how they manage their emotions to improve job satisfaction. It was conducted by observing various police units like forensic science, digital investigation, financial division, criminal division, anti-terrorism unit, and more over 26 days. The study found two key emotions that are hard for them to express: interest and frustration. These emotions make it difficult for officers to discuss their work-related feelings openly, leading to invisible or undiscussed labor."
     },
@@ -159,7 +141,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-04-22T17:04:55.653476+00:00",
+      "published_at": "2026-04-23T07:08:20.999561+00:00",
       "sentiment": "positive",
       "plain_summary": "Data science has become crucial as we generate vast amounts of information daily. It helps transform this data into useful insights for better decision-making across various sectors. For audit institutions, integrating data science can enhance their ability to manage public funds more effectively and improve accountability. By using data science, audits can provide clearer and more accurate reports that recommend improvements faster, which benefits the overall administration and improves citizens' quality of life."
     },
@@ -168,7 +150,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-04-22T17:04:55.653226+00:00",
+      "published_at": "2026-04-23T07:08:20.999371+00:00",
       "sentiment": "positive",
       "plain_summary": null
     },
@@ -177,7 +159,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-04-22T17:04:55.653154+00:00",
+      "published_at": "2026-04-23T07:08:20.999331+00:00",
       "sentiment": "positive",
       "plain_summary": "This paper discusses a scenario where autonomous killer robots are used in warfare without human intervention. These robots can make decisions about who to target based on AI algorithms trained to recognize certain uniforms. If one of these drones targets and kills an enemy soldier who is surrendering, it would violate international laws. Another concern is if the robot makes a mistake by attacking another similar system, leading to unintended conflicts."
     },
@@ -186,7 +168,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-04-22T17:04:55.652753+00:00",
+      "published_at": "2026-04-23T07:08:20.999099+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how public service motivation can lead to noble cause corruption in Lebanon, where there's a lot of social and economic hardship. The research found that feelings like compassion and selflessness often push people into doing good deeds for noble causes, but these actions sometimes involve corrupt practices. This leads to internal conflicts as the person feels both guilty and supported by their work environment. Factors like physical exchanges, personal space in the workplace, and close relationships with users can make it easier for this type of corruption to happen."
     },
@@ -195,7 +177,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-04-22T17:04:55.652542+00:00",
+      "published_at": "2026-04-23T07:08:20.998982+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how public service motivation can lead to corruption for a noble cause in Lebanon, where corruption is prevalent and social issues are challenging. Based on interviews with 32 Lebanese public servants, the research explores how feelings of compassion and self-sacrifice related to public service motivation might encourage them to engage in corrupt behavior for what they see as a good cause. The study highlights that these motivations can lead to behaviors like providing extra support or shielding users from punishment. This can create internal conflicts within the public servant due to their emotional connection with those affected."
     },
@@ -204,9 +186,36 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-04-22T17:04:55.652211+00:00",
+      "published_at": "2026-04-23T07:08:20.998784+00:00",
       "sentiment": "negative",
       "plain_summary": null
+    },
+    {
+      "title": "Coordination Network Mechanism in Preventing Criminal Acts of Corruption in Teluk Bintuni Regency",
+      "short_title": "Coordination Network Mechanism in Preventing Criminal Acts of Corruption in Teluk Bintuni Rege\u2026",
+      "url": "https://doi.org/10.25258/ijddt.16.16s.57",
+      "source": "International Journal of Drug Delivery Technology",
+      "published_at": "2026-04-23T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This research looks at how different government agencies work together to prevent corruption in a specific area called Teluk Bintuni. It found that these agencies use both formal rules and informal ways to communicate and cooperate. The study suggests that while they have some standardized procedures, they still need more consistent planning across all the agencies involved. What seems to be working best is when everyone communicates directly and adapts their plans as needed in real-time situations."
+    },
+    {
+      "title": "Breaking Systematic Corruption Through a Strategic Intelligence-Based Job Rotation Policy (A Study on Cross-Institutional Government Agencies at the Central Government Level in Indonesia)",
+      "short_title": "Breaking Systematic Corruption Through a Strategic Intelligence-Based Job Rotation Policy (A S\u2026",
+      "url": "https://doi.org/10.59188/eduvest.v6i4.52736",
+      "source": "Eduvest - Journal of Universal Studies",
+      "published_at": "2026-04-23T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "Corruption continues to be a significant issue in Indonesia's government, affecting economic growth and public trust. This study explored how job rotation policies, combined with transparency and strategic intelligence, can help curb corruption among central government agencies. Job rotation was found effective when done consistently based on merit, but it alone isn't enough. Transparency through e-government systems and open procurement also reduces opportunities for corruption by making processes more visible to the public."
+    },
+    {
+      "title": "A quantitatively validated Latin American model for open-data corruption risk detection in public procurement",
+      "short_title": "A quantitatively validated Latin American model for open-data corruption risk detection in pub\u2026",
+      "url": "https://doi.org/10.1590/0034-761220250356x",
+      "source": "Revista de Administra\u00e7\u00e3o P\u00fablica",
+      "published_at": "2026-04-22T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This research introduces a model called LAIRM, which helps identify corruption risks in public procurement processes across Latin America. It uses open data from countries like Mexico, Brazil, and Colombia to create indicators that are then combined using mathematical principles based on theories about how power works between different parties involved in transactions. The model has been tested with real-world data and found to be more accurate than existing methods. This tool can help detect corruption early, which is crucial for preventing waste and misuse of public funds."
     },
     {
       "title": "Preventing corruption risks in the judiciary through the lens of biblical morality and contemporary ethical standards",
@@ -245,15 +254,6 @@
       "plain_summary": "This research looks at how a country's internal watchdogs (APIP) and efforts against corruption can help local governments manage their finances better without needing much money from the central government. The study found that when these watchdogs are effective, they improve how regions control their budgets and reduce their dependence on central funds. It also noted that factors like how long a region has been governed and its location affect how independent it is financially. To make local governments more self-sufficient, it's important to strengthen the role of these watchdogs and improve corruption prevention measures."
     },
     {
-      "title": "Tony Penikett and John Calvert, 35 Accords: Re-imagining British Columbia\u2019s Public Sector Labour Relations, Bradford, West Yorkshire, Ethics International Press, 2025, pp. xxxii + 382, ISBN: 978-1-83711-279-1 (paperback), $59.00",
-      "short_title": "Tony Penikett and John Calvert, 35 Accords: Re-imagining British Columbia\u2019s Public Sector Labo\u2026",
-      "url": "https://doi.org/10.1017/elr.2026.10068",
-      "source": "The Economic and Labour Relations Review",
-      "published_at": "2026-04-16T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": null
-    },
-    {
       "title": "Confronting the \u201c200-Pound Alligator:\u201d Anti-Racist Community-Engaged Research Addressing Police-Inflicted Trauma on the Black Community",
       "short_title": "Confronting the \u201c200-Pound Alligator:\u201d Anti-Racist Community-Engaged Research Addressing Polic\u2026",
       "url": "https://doi.org/10.1177/15570851261443539",
@@ -261,6 +261,15 @@
       "published_at": "2026-04-16T00:00:00+00:00",
       "sentiment": "positive",
       "plain_summary": "This study examines how policing impacts the mental health and overall well-being of African Americans living in a large city with a predominantly Black population. Community groups and police oversight boards worked together to conduct research aimed at understanding these issues better. The researchers found that having a diverse team was crucial for this type of anti-racist work, as it helps ensure all perspectives are considered. This project highlights the importance of involving communities directly in research about their own experiences, especially when dealing with sensitive topics like police brutality and its effects on mental health."
+    },
+    {
+      "title": "Tony Penikett and John Calvert, 35 Accords: Re-imagining British Columbia\u2019s Public Sector Labour Relations, Bradford, West Yorkshire, Ethics International Press, 2025, pp. xxxii + 382, ISBN: 978-1-83711-279-1 (paperback), $59.00",
+      "short_title": "Tony Penikett and John Calvert, 35 Accords: Re-imagining British Columbia\u2019s Public Sector Labo\u2026",
+      "url": "https://doi.org/10.1017/elr.2026.10068",
+      "source": "The Economic and Labour Relations Review",
+      "published_at": "2026-04-16T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": null
     },
     {
       "title": "Multi-Actor Collaboration and NGO Accountability: An NGO Case Study",
@@ -281,15 +290,6 @@
       "plain_summary": "This study examines how accountability works in UK's National Health Service West Midlands region. Many people feel that accountability is important but also seen as punitive and blaming. The research found that trust between employees and management is lacking, which affects safety and fairness. To improve accountability, it suggests seven key areas: raising awareness of expectations, clarifying roles, creating a supportive culture, promoting learning, positioning the right people in jobs, having fair rewards systems, and ensuring inclusivity."
     },
     {
-      "title": "Algorithmic Governance and Public Accountability: Audits, Transparency, and Harm",
-      "short_title": "Algorithmic Governance and Public Accountability: Audits, Transparency, and Harm",
-      "url": "https://doi.org/10.59298/nijciam/2025/71.1019",
-      "source": "NEWPORT INTERNATIONAL JOURNAL OF CURRENT ISSUES IN ARTS AND MANAGEMENT",
-      "published_at": "2026-04-12T00:00:00+00:00",
-      "sentiment": "positive",
-      "plain_summary": "Algorithmic governance is crucial as more decisions are made using AI systems in areas like social services, law enforcement, urban planning, and finance. While these systems promise efficiency, they also raise concerns about fairness, transparency, and accountability. This paper looks at how to manage algorithmic systems through audits, making sure they work well without causing harm. It emphasizes the importance of having independent checks on AI performance and understanding how decisions are made by the system."
-    },
-    {
       "title": "Administrative Corruption and Citizen Trust in Digital Public Services in Local Governments",
       "short_title": "Administrative Corruption and Citizen Trust in Digital Public Services in Local Governments",
       "url": "https://doi.org/10.11114/smc.v14i2.8421",
@@ -297,6 +297,15 @@
       "published_at": "2026-04-12T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "This study found that many people who use digital public services in Arequipa are aware of administrative corruption, which negatively impacts their trust. The research also showed that when people perceive more corruption, they have less trust in these services. A model called SEM helped confirm this relationship; it suggests that users' perception of the government's information and how much they participate can affect their trust too. Combating corruption is key to improving public service efficiency and building better trust among citizens using digital platforms."
+    },
+    {
+      "title": "Algorithmic Governance and Public Accountability: Audits, Transparency, and Harm",
+      "short_title": "Algorithmic Governance and Public Accountability: Audits, Transparency, and Harm",
+      "url": "https://doi.org/10.59298/nijciam/2025/71.1019",
+      "source": "NEWPORT INTERNATIONAL JOURNAL OF CURRENT ISSUES IN ARTS AND MANAGEMENT",
+      "published_at": "2026-04-12T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": "Algorithmic governance is crucial as more decisions are made using AI systems in areas like social services, law enforcement, urban planning, and finance. While these systems promise efficiency, they also raise concerns about fairness, transparency, and accountability. This paper looks at how to manage algorithmic systems through audits, making sure they work well without causing harm. It emphasizes the importance of having independent checks on AI performance and understanding how decisions are made by the system."
     },
     {
       "title": "Exploring the effect of internal audit quality on fraud management: the mediating role of ethical behaviour in public sector institutions",
@@ -531,15 +540,6 @@
       "published_at": "2025-12-18T00:00:00+00:00",
       "sentiment": "positive",
       "plain_summary": "This study from the Ministry of Tourism and Creative Economy in Indonesia outlines a strategy for using big data effectively. It uses a method called SWOT analysis and interviews to understand the challenges and opportunities. The goal is to improve decision-making, service delivery, and innovation in tourism and creative economy sectors. By considering governance, technology, infrastructure, and security, they aim to make government operations more efficient and effective."
-    },
-    {
-      "title": "Governing AI with trust: an adaptive framework for institutional legitimacy in the UK public sector",
-      "short_title": "Governing AI with trust: an adaptive framework for institutional legitimacy in the UK public s\u2026",
-      "url": "https://doi.org/10.1108/tg-05-2025-0125",
-      "source": "Transforming Government: People, Process and Policy",
-      "published_at": "2025-12-18T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This study looks at how artificial intelligence (AI) is used in the UK public sector and finds that current regulations are not strong enough to build trust. The main issue is that these regulations are not well-coordinated and lack transparency, which can make people feel uneasy about AI decisions. The researchers suggest a new way to think about AI governance that focuses on building trust and coordination among different public sector agencies. They propose a framework that includes having different agencies work together, having independent review bodies, and using metrics that show the AI is fair and trustworthy."
     }
   ],
   "nonprofit": [
@@ -551,15 +551,6 @@
       "published_at": "2026-03-18T00:00:00+00:00",
       "sentiment": "positive",
       "plain_summary": "This study found that nonprofits and public organizations can improve their programs and decisions by using data from evaluations, especially when they work closely with similar organizations in partnerships. The research shows that the more an organization interacts with other similar groups within its own network of partnerships, the better it uses evaluation data for improvement. This means these organizations should focus on strengthening relationships within their specific networks to enhance how they use performance evaluation results."
-    },
-    {
-      "title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy Implications",
-      "short_title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy I\u2026",
-      "url": "https://doi.org/10.47259/ijrebs.2026.711",
-      "source": "International Journal of Research in Entrepreneurship &amp; Business Studies",
-      "published_at": "2027-01-11T00:00:00+00:00",
-      "sentiment": "positive",
-      "plain_summary": "This study analyzed how airlines handle airfare refunds and the challenges customers face during this process. It found that communication issues are a major problem, especially in understanding airline rules. Despite most customers being satisfied with their refund after receiving one, they felt the process was complex and inefficient. The research suggests clearer policies and better coordination between airlines, intermediaries, and customers could improve trust and service quality."
     },
     {
       "title": "Review of Risk Based Financial Governance Literature Shaping Institutional Investment Decision Practices",
@@ -578,6 +569,15 @@
       "published_at": "2026-11-01T00:00:00+00:00",
       "sentiment": "positive",
       "plain_summary": "Recent research has shown that adding different parts called heterocyclic systems to quinoline molecules can create compounds with many useful properties. These modified quinoline-based drugs are effective against a wide range of harmful bacteria, including those causing serious infections. They also show promise in treating cancer and other conditions like seizures, pain, inflammation, and heart problems. By combining quinoline with other parts, scientists can make new medicines that work better than existing ones."
+    },
+    {
+      "title": "Coordination Network Mechanism in Preventing Criminal Acts of Corruption in Teluk Bintuni Regency",
+      "short_title": "Coordination Network Mechanism in Preventing Criminal Acts of Corruption in Teluk Bintuni Rege\u2026",
+      "url": "https://doi.org/10.25258/ijddt.16.16s.57",
+      "source": "International Journal of Drug Delivery Technology",
+      "published_at": "2026-04-23T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This research looks at how different government agencies work together to prevent corruption in a specific area called Teluk Bintuni. It found that these agencies use both formal rules and informal ways to communicate and cooperate. The study suggests that while they have some standardized procedures, they still need more consistent planning across all the agencies involved. What seems to be working best is when everyone communicates directly and adapts their plans as needed in real-time situations."
     },
     {
       "title": "Third Space, Hybridity, and the Third Sector: Postcolonial Perspectives on Collective Identity in Global Social Welfare",
