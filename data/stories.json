@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-04-28T05:20:38.722130+00:00",
+  "updated_at": "2026-04-29T18:08:34.308646+00:00",
   "government": [
+    {
+      "title": "Authoritarian Empathy and Public Memory Governance: Media Nostalgia and the Decline of Democratic Accountability in Indonesia",
+      "short_title": "Authoritarian Empathy and Public Memory Governance: Media Nostalgia and the Decline of Democra\u2026",
+      "url": "https://doi.org/10.1080/10999922.2026.2665003",
+      "source": "Public Integrity",
+      "published_at": "2026-04-28T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": null
+    },
     {
       "title": "When Do Citizens Support Corrupt Politicians? The Trade\u2010Offs Between Corruption and Competence",
       "short_title": "When Do Citizens Support Corrupt Politicians? The Trade\u2010Offs Between Corruption and Competence",
@@ -101,11 +110,47 @@
       "plain_summary": null
     },
     {
+      "title": "Corruption, Governance and the Challenges of the Rule of Law - Law Enforcement and Corruption - An Assessment of the Functioning of the Albanian State Police.",
+      "short_title": "Corruption, Governance and the Challenges of the Rule of Law - Law Enforcement and Corruption\u2026",
+      "url": "https://doi.org/10.58944/yayq2724",
+      "source": "JUS &amp; JUSTICIA",
+      "published_at": "2026-06-01T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "Corruption has been a major issue in Albania for over three decades since its transition to democracy. This corruption spread within national security institutions like the State Police, leading to instability and even threatening their collapse. Efforts by governments have aimed at restructuring and purging corrupt elements from the police force, but political interference continues to be problematic. This undermines law enforcement effectiveness and the credibility of the police force, which is crucial for maintaining a functioning rule of law in Albania."
+    },
+    {
+      "title": "Corruption risk indicators in public procurement: Definition and evaluation with organised crime data",
+      "short_title": "Corruption risk indicators in public procurement: Definition and evaluation with organised cri\u2026",
+      "url": "https://doi.org/10.1016/j.seps.2026.102429",
+      "source": "Socio-Economic Planning Sciences",
+      "published_at": "2026-06-01T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": null
+    },
+    {
+      "title": "Implementation of Anti-Corruption Villages Based on Local Wisdom: A Study in Banyubiru Village, Semarang Regency",
+      "short_title": "Implementation of Anti-Corruption Villages Based on Local Wisdom: A Study in Banyubiru Village\u2026",
+      "url": "https://doi.org/10.15294/jpp.v43i1.42766",
+      "source": "Jurnal Penelitian Pendidikan",
+      "published_at": "2026-04-30T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study looked at how an anti-corruption program was implemented in Banyubiru Village near Semarang Regency using local customs and values like honesty, cooperation, and deliberation. The program worked well because it aligned with what people already believed in their community. Community members were actively involved in planning and overseeing the village budget. Local leaders also played a role by providing oversight and making sure things ran smoothly."
+    },
+    {
+      "title": "AnaajSurakha: Detection of Corruption in GrainScan Supply Chain",
+      "short_title": "AnaajSurakha: Detection of Corruption in GrainScan Supply Chain",
+      "url": "https://doi.org/10.22214/ijraset.2026.79522",
+      "source": "International Journal for Research in Applied Science and Engineering Technology",
+      "published_at": "2026-04-30T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "AnaajSurakha is a practical system designed to detect corruption in the grain supply chain early on. It uses GrainScan technology to take high-quality images of grains and measure their weight with simple image processing techniques that identify issues like color changes, impurities, damage, or variations in quantity. The system also keeps all records secure to prevent any alterations and updates administrators in real-time for transparency. By combining these features, AnaajSurakha improves food security and reduces disruptions in the grain supply chain."
+    },
+    {
       "title": "AI Regulation and Its Social Impacts on Public Policy",
       "short_title": "AI Regulation and Its Social Impacts on Public Policy",
       "url": "https://doi.org/10.55737/rl.v5i1.26181",
       "source": "Regional Lens",
-      "published_at": "2026-04-28T05:15:55.461185+00:00",
+      "published_at": "2026-04-29T18:07:42.190326+00:00",
       "sentiment": "positive",
       "plain_summary": "AI is now a key part of how governments make decisions in many areas like healthcare, policing, and welfare. As more AI systems are used, it's important to have rules to make sure they work fairly and don't cause problems. These rules help ensure that AI doesn't lead to unfair treatment or less democracy. By carefully watching how AI is used, we can make sure it helps people and doesn't hurt them."
     },
@@ -114,7 +159,7 @@
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-04-28T05:14:46.471283+00:00",
+      "published_at": "2026-04-29T18:07:27.484407+00:00",
       "sentiment": "negative",
       "plain_summary": "This research focuses on understanding the emotional risks in police work and how they manage their emotions to improve job satisfaction. It was conducted by observing various police units like forensic science, digital investigation, financial division, criminal division, anti-terrorism unit, and more over 26 days. The study found two key emotions that are hard for them to express: interest and frustration. These emotions make it difficult for officers to discuss their work-related feelings openly, leading to invisible or undiscussed labor."
     },
@@ -123,7 +168,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-04-28T05:14:39.168083+00:00",
+      "published_at": "2026-04-29T18:07:25.984186+00:00",
       "sentiment": "positive",
       "plain_summary": "Data science has become crucial as we generate vast amounts of information daily. It helps transform this data into useful insights for better decision-making across various sectors. For audit institutions, integrating data science can enhance their ability to manage public funds more effectively and improve accountability. By using data science, audits can provide clearer and more accurate reports that recommend improvements faster, which benefits the overall administration and improves citizens' quality of life."
     },
@@ -132,7 +177,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-04-28T05:14:39.167830+00:00",
+      "published_at": "2026-04-29T18:07:25.983925+00:00",
       "sentiment": "positive",
       "plain_summary": null
     },
@@ -141,7 +186,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-04-28T05:14:39.167762+00:00",
+      "published_at": "2026-04-29T18:07:25.983851+00:00",
       "sentiment": "positive",
       "plain_summary": "This paper discusses a scenario where autonomous killer robots are used in warfare without human intervention. These robots can make decisions about who to target based on AI algorithms trained to recognize certain uniforms. If one of these drones targets and kills an enemy soldier who is surrendering, it would violate international laws. Another concern is if the robot makes a mistake by attacking another similar system, leading to unintended conflicts."
     },
@@ -150,7 +195,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-04-28T05:14:39.167373+00:00",
+      "published_at": "2026-04-29T18:07:25.983436+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how public service motivation can lead to noble cause corruption in Lebanon, where there's a lot of social and economic hardship. The research found that feelings like compassion and selflessness often push people into doing good deeds for noble causes, but these actions sometimes involve corrupt practices. This leads to internal conflicts as the person feels both guilty and supported by their work environment. Factors like physical exchanges, personal space in the workplace, and close relationships with users can make it easier for this type of corruption to happen."
     },
@@ -159,7 +204,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-04-28T05:14:39.167161+00:00",
+      "published_at": "2026-04-29T18:07:25.983226+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how public service motivation can lead to corruption for a noble cause in Lebanon, where corruption is prevalent and social issues are challenging. Based on interviews with 32 Lebanese public servants, the research explores how feelings of compassion and self-sacrifice related to public service motivation might encourage them to engage in corrupt behavior for what they see as a good cause. The study highlights that these motivations can lead to behaviors like providing extra support or shielding users from punishment. This can create internal conflicts within the public servant due to their emotional connection with those affected."
     },
@@ -168,7 +213,7 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-04-28T05:14:39.166826+00:00",
+      "published_at": "2026-04-29T18:07:25.982901+00:00",
       "sentiment": "negative",
       "plain_summary": null
     },
@@ -182,13 +227,13 @@
       "plain_summary": null
     },
     {
-      "title": "Twenty-Five More Years of CSR? How states are reinforcing private governance in the anti-forced labour governance arena",
-      "short_title": "Twenty-Five More Years of CSR? How states are reinforcing private governance in the anti-force\u2026",
-      "url": "https://doi.org/10.14197/atr.201226262",
-      "source": "Anti-Trafficking Review",
-      "published_at": "2026-04-26T00:00:00+00:00",
+      "title": "The Influence of Public Sector Accounting Digitalization and Financial Apparatus Competence on Social Assistance Fund Accountability with the Role of Bureaucratic Culture as a Moderating Variable",
+      "short_title": "The Influence of Public Sector Accounting Digitalization and Financial Apparatus Competence on\u2026",
+      "url": "https://doi.org/10.37034/jems.v8i3.438",
+      "source": "Journal of Economics and Management Scienties",
+      "published_at": "2026-04-28T00:00:00+00:00",
       "sentiment": "positive",
-      "plain_summary": "In the fight against forced labor, there's been a growing interest from governments taking action. This includes new laws requiring companies to check their supply chains for forced labor, bans on certain products, and international efforts like those by G7 countries. While this shows government involvement, it often relies heavily on private entities like auditing firms, data analytics companies, and certification bodies. The concern is that without stronger government regulations, we might just see another 25 years of ineffective private-led solutions to the problem of forced labor in supply chains."
+      "plain_summary": "This research looks at how using modern accounting tools and having skilled people managing social assistance funds affects how transparent these funds are used. It found that while better technology doesn't necessarily make funds more transparent, having competent staff does help improve transparency. The study also suggests that the culture within government agencies doesn\u2019t play a significant role in this relationship. This means making sure the right people are handling social assistance funds is crucial for ensuring they're used properly and openly."
     },
     {
       "title": "Ethical Leadership and Public Sector Integrity:Governance Frameworks for Combating Corruption and Rebuilding Institutional Trust",
@@ -198,6 +243,15 @@
       "published_at": "2026-04-26T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how ethical leadership can improve the trust in government institutions and reduce corruption. It found that leaders who model good behavior are key to creating an honest culture within organizations. Additionally, having strong systems for handling complaints and ensuring accountability is crucial. The research suggests that simply making information public isn\u2019t enough; what matters more is having effective investigation and enforcement capabilities."
+    },
+    {
+      "title": "Twenty-Five More Years of CSR? How states are reinforcing private governance in the anti-forced labour governance arena",
+      "short_title": "Twenty-Five More Years of CSR? How states are reinforcing private governance in the anti-force\u2026",
+      "url": "https://doi.org/10.14197/atr.201226262",
+      "source": "Anti-Trafficking Review",
+      "published_at": "2026-04-26T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": "In the fight against forced labor, there's been a growing interest from governments taking action. This includes new laws requiring companies to check their supply chains for forced labor, bans on certain products, and international efforts like those by G7 countries. While this shows government involvement, it often relies heavily on private entities like auditing firms, data analytics companies, and certification bodies. The concern is that without stronger government regulations, we might just see another 25 years of ineffective private-led solutions to the problem of forced labor in supply chains."
     },
     {
       "title": "Breaking Systematic Corruption Through a Strategic Intelligence-Based Job Rotation Policy (A Study on Cross-Institutional Government Agencies at the Central Government Level in Indonesia)",
@@ -297,6 +351,15 @@
       "published_at": "2026-03-31T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "Digital transformations have made using visuals an important part of how Public Relations communicates information. This helps educate people about things like sustainable economic recovery. But with more use of digital visuals comes new rules and ethical standards to follow. Our research looked at these issues, finding that following good ethics and staying within legal guidelines is key for effective PR communication."
+    },
+    {
+      "title": "DIGITAL TRANSFORMATION OF ANTI-CORRUPTION POLICY IN THE PUBLIC ADMINISTRATION SYSTEM: THE ROLE OF INNOVATIVE TOOLS AND ARTIFICIAL INTELLIGENCE",
+      "short_title": "DIGITAL TRANSFORMATION OF ANTI-CORRUPTION POLICY IN THE PUBLIC ADMINISTRATION SYSTEM: THE ROLE\u2026",
+      "url": "https://doi.org/10.34132/pard2026.31.07",
+      "source": "Public Administration and Regional Development",
+      "published_at": "2026-03-31T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This article discusses how digital tools and artificial intelligence can improve anti-corruption efforts in public administration. By using innovative technologies like open data platforms and big data analytics, we can detect corruption risks more proactively than before. However, there are also challenges such as potential biases in algorithms and issues with transparency. The key is to find a balance between letting AI do its work and having humans oversee it properly."
     },
     {
       "title": "Corruption in Public Procurement: From Definition towards a Case Study (Part II)",
@@ -477,69 +540,6 @@
       "published_at": "2025-12-17T00:00:00+00:00",
       "sentiment": "positive",
       "plain_summary": null
-    },
-    {
-      "title": "Enhancing Collaboration between Supreme Audit Institution and Anti-Corruption Agencies: Lessons Learnt from Tanzania",
-      "short_title": "Enhancing Collaboration between Supreme Audit Institution and Anti-Corruption Agencies: Lesson\u2026",
-      "url": "https://doi.org/10.56251/phqh3613",
-      "source": "International Journal of Government Auditing",
-      "published_at": "2025-12-17T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "Tanzania is a country with diverse economies including agriculture, mining, and tourism. Despite progress in infrastructure and social services, corruption remains a challenge. Key agencies like the National Audit Office of Tanzania and the Prevention and Combating of Corruption Bureau work together to fight corruption. This collaborative approach has helped improve transparency and accountability."
-    },
-    {
-      "title": "Financial Audits and Mechanisms for Good Governance of Public Funds: Levers in the Accountability Ecosystem for Greater Impact",
-      "short_title": "Financial Audits and Mechanisms for Good Governance of Public Funds: Levers in the Accountabil\u2026",
-      "url": "https://doi.org/10.56251/tnmu4061",
-      "source": "International Journal of Government Auditing",
-      "published_at": "2025-12-17T00:00:00+00:00",
-      "sentiment": "positive",
-      "plain_summary": null
-    },
-    {
-      "title": "CHALLENGES AND DIRECTIONS FOR IMPROVING THE EFFECTIVENESS OF UKRAINE\u2019S STATE ANTI-CORRUPTION BODIES",
-      "short_title": "CHALLENGES AND DIRECTIONS FOR IMPROVING THE EFFECTIVENESS OF UKRAINE\u2019S STATE ANTI-CORRUPTION B\u2026",
-      "url": "https://doi.org/10.70651/3041-248x/2025.12.05",
-      "source": "Philosophy and Governance",
-      "published_at": "2025-12-13T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This article discusses key issues facing Ukraine's anti-corruption bodies and suggests ways to improve their effectiveness. Challenges include fragmented legal support, political instability, lack of coordination among agencies, limited resources, unclear jurisdictional powers, and low public trust. To address these, the Ukrainian government should focus on strengthening institutional independence, optimizing power distribution, improving human resources, enhancing coordination mechanisms, and increasing transparency in sensitive areas like procurement and financial controls. These steps are crucial for building trust with society and aligning anti-corruption efforts with European standards of governance."
-    },
-    {
-      "title": "From capture to colonized governance logic: the emergence of a new form of corruption",
-      "short_title": "From capture to colonized governance logic: the emergence of a new form of corruption",
-      "url": "https://doi.org/10.1108/tg-08-2025-0262",
-      "source": "Transforming Government: People, Process and Policy",
-      "published_at": "2025-12-12T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This study introduces a new form of corruption called colonized governance logic, where laws, institutions, and moral norms are co-opted to protect elite power. In Indonesia, standard anti-corruption measures fail because corruption is sustained through three mechanisms: systematic toleration, hostage politics, and colonized mentality. To combat this, anti-corruption strategies need to focus on making governance more resilient, empowering citizens, and protecting whistleblowers. This means designing accountability mechanisms that are context-specific, strengthening civic oversight, and fostering inclusive political participation."
-    },
-    {
-      "title": "Distinguishing Transparency and Accountability as Separate Pillars of Good Governance",
-      "short_title": "Distinguishing Transparency and Accountability as Separate Pillars of Good Governance",
-      "url": "https://doi.org/10.55390/ajpsdg.2025.8.1.3",
-      "source": "Africa Journal of Public Sector Development and Governance",
-      "published_at": "2025-12-01T00:00:00+00:00",
-      "sentiment": "positive",
-      "plain_summary": null
-    },
-    {
-      "title": "Working Paper 60: Understanding the enemy",
-      "short_title": "Working Paper 60: Understanding the enemy",
-      "url": "https://doi.org/10.12685/bigwp.2025.60.1-32",
-      "source": "Basel Institute on Governance Working Papers",
-      "published_at": "2025-11-05T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This working paper discusses how corruption is not just about individual bad behavior but a networked issue involving social, economic, and political interactions. Understanding these networks can help in fighting corruption more effectively by seeing how they function across different levels of society. By looking at the structures and norms that support corrupt activities, we can develop better strategies to combat it. The paper suggests that anti-corruption efforts should learn from informal networks' positive aspects, making them a useful model for new initiatives."
-    },
-    {
-      "title": "The Impact of Corruption on Biodiversity Conservation in Nigeria: A Review of Some Critical Issues",
-      "short_title": "The Impact of Corruption on Biodiversity Conservation in Nigeria: A Review of Some Critical Is\u2026",
-      "url": "https://doi.org/10.31357/ijgppa.v7i1.8599",
-      "source": "International Journal of Governance and Public Policy Analysis",
-      "published_at": "2025-10-31T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "Corruption has significantly worsened the crisis of biodiversity loss and environmental degradation in Nigeria. It includes theft, bribery, fraud, abuse of power, and other unethical practices that harm natural resources like forests, wildlife habitats, and water bodies. This corruption leads to overexploitation of resources, deforestation, poaching, pollution, and many more issues. To address this crisis, reforms are needed in governance, legal systems, and institutions."
     }
   ],
   "nonprofit": [
