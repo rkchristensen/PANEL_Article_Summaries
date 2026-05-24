@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-23T20:31:27.207395+00:00",
+  "updated_at": "2026-05-24T15:04:03.368718+00:00",
   "government": [
     {
       "title": "Fostering Equity, Engagement, Ethics, and Empathy in Public Service: A Narrative Vignette Study of City Managers",
@@ -92,6 +92,15 @@
       "plain_summary": null
     },
     {
+      "title": "Governance, Democracy &amp; Psychological Wellbeing Psychology of a Corruption",
+      "short_title": "Governance, Democracy &amp; Psychological Wellbeing Psychology of a Corruption",
+      "url": "https://doi.org/10.61440/jbes.2026.v3.123",
+      "source": "Journal of Business and Econometrics Studies",
+      "published_at": "2026-06-30T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This paper looks at corruption in Africa by examining how it affects governance, democracy, and mental health. It suggests that corruption is not just a legal issue but also stems from deep social and moral problems left over from colonial times. The study proposes solutions like strengthening institutions, developing ethical leaders, empowering citizens, and using restorative justice methods. By doing this, they aim to improve people's well-being and strengthen democratic systems in Africa."
+    },
+    {
       "title": "Digital Governance and Anti-Corruption Transformation in Algeria: Evaluating the Role of Fiscal Digitization and E-Procurement Systems in Enhancing Administrative Transparency and Public Sector Integrity",
       "short_title": "Digital Governance and Anti-Corruption Transformation in Algeria: Evaluating the Role of Fisca\u2026",
       "url": "https://doi.org/10.56334/sei/9.7.4",
@@ -99,6 +108,24 @@
       "published_at": "2026-06-11T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "Digital governance in Algeria has been adopted as a strategy to combat corruption, especially in sectors like taxation and procurement. The country is digitizing tax administration and implementing electronic public procurement systems, which have improved transparency and accountability. These digital tools help reduce discretionary practices, enhance traceability, and improve access to information for the public. However, there are still challenges such as incomplete integration of digital systems, cybersecurity issues, and uneven administrative capacity that need addressing."
+    },
+    {
+      "title": "Corruption, Governance and the Challenges of the Rule of Law - Law Enforcement and Corruption - An Assessment of the Functioning of the Albanian State Police.",
+      "short_title": "Corruption, Governance and the Challenges of the Rule of Law - Law Enforcement and Corruption\u2026",
+      "url": "https://doi.org/10.58944/yayq2724",
+      "source": "JUS &amp; JUSTICIA",
+      "published_at": "2026-06-01T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "Corruption has been a major issue in Albania for over three decades since its transition to democracy. This corruption spread within national security institutions like the State Police, leading to instability and even threatening their collapse. Efforts by governments have aimed at restructuring and purging corrupt elements from the police force, but political interference continues to be problematic. This undermines law enforcement effectiveness and the credibility of the police force, which is crucial for maintaining a functioning rule of law in Albania."
+    },
+    {
+      "title": "Corruption risk indicators in public procurement: Definition and evaluation with organised crime data",
+      "short_title": "Corruption risk indicators in public procurement: Definition and evaluation with organised cri\u2026",
+      "url": "https://doi.org/10.1016/j.seps.2026.102429",
+      "source": "Socio-Economic Planning Sciences",
+      "published_at": "2026-06-01T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": null
     },
     {
       "title": "Corrigendum: Editorial: Governance and accountability (Gover-nability) of multiple values of municipal corporations",
@@ -114,7 +141,7 @@
       "short_title": "AI Regulation and Its Social Impacts on Public Policy",
       "url": "https://doi.org/10.55737/rl.v5i1.26181",
       "source": "Regional Lens",
-      "published_at": "2026-05-23T19:29:07.785175+00:00",
+      "published_at": "2026-05-24T15:03:47.070503+00:00",
       "sentiment": "positive",
       "plain_summary": "AI is now a key part of how governments make decisions in many areas like healthcare, policing, and welfare. As more AI systems are used, it's important to have rules to make sure they work fairly and don't cause problems. These rules help ensure that AI doesn't lead to unfair treatment or less democracy. By carefully watching how AI is used, we can make sure it helps people and doesn't hurt them."
     },
@@ -123,7 +150,7 @@
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-05-23T18:15:54.824714+00:00",
+      "published_at": "2026-05-24T15:03:39.497486+00:00",
       "sentiment": "negative",
       "plain_summary": "This research focuses on understanding the emotional risks in police work and how they manage their emotions to improve job satisfaction. It was conducted by observing various police units like forensic science, digital investigation, financial division, criminal division, anti-terrorism unit, and more over 26 days. The study found two key emotions that are hard for them to express: interest and frustration. These emotions make it difficult for officers to discuss their work-related feelings openly, leading to invisible or undiscussed labor."
     },
@@ -132,7 +159,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-05-23T17:56:05.968928+00:00",
+      "published_at": "2026-05-24T15:03:39.053078+00:00",
       "sentiment": "positive",
       "plain_summary": "Data science has become crucial as we generate vast amounts of information daily. It helps transform this data into useful insights for better decision-making across various sectors. For audit institutions, integrating data science can enhance their ability to manage public funds more effectively and improve accountability. By using data science, audits can provide clearer and more accurate reports that recommend improvements faster, which benefits the overall administration and improves citizens' quality of life."
     },
@@ -141,7 +168,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-05-23T17:56:05.968657+00:00",
+      "published_at": "2026-05-24T15:03:39.052930+00:00",
       "sentiment": "positive",
       "plain_summary": null
     },
@@ -150,7 +177,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-05-23T17:56:05.968586+00:00",
+      "published_at": "2026-05-24T15:03:39.052892+00:00",
       "sentiment": "positive",
       "plain_summary": "This paper discusses a scenario where autonomous killer robots are used in warfare without human intervention. These robots can make decisions about who to target based on AI algorithms trained to recognize certain uniforms. If one of these drones targets and kills an enemy soldier who is surrendering, it would violate international laws. Another concern is if the robot makes a mistake by attacking another similar system, leading to unintended conflicts."
     },
@@ -159,7 +186,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-05-23T17:56:05.968162+00:00",
+      "published_at": "2026-05-24T15:03:39.052667+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how public service motivation can lead to noble cause corruption in Lebanon, where there's a lot of social and economic hardship. The research found that feelings like compassion and selflessness often push people into doing good deeds for noble causes, but these actions sometimes involve corrupt practices. This leads to internal conflicts as the person feels both guilty and supported by their work environment. Factors like physical exchanges, personal space in the workplace, and close relationships with users can make it easier for this type of corruption to happen."
     },
@@ -168,7 +195,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-05-23T17:56:05.967858+00:00",
+      "published_at": "2026-05-24T15:03:39.052537+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how public service motivation can lead to corruption for a noble cause in Lebanon, where corruption is prevalent and social issues are challenging. Based on interviews with 32 Lebanese public servants, the research explores how feelings of compassion and self-sacrifice related to public service motivation might encourage them to engage in corrupt behavior for what they see as a good cause. The study highlights that these motivations can lead to behaviors like providing extra support or shielding users from punishment. This can create internal conflicts within the public servant due to their emotional connection with those affected."
     },
@@ -177,9 +204,18 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-05-23T17:56:05.967480+00:00",
+      "published_at": "2026-05-24T15:03:39.052351+00:00",
       "sentiment": "negative",
       "plain_summary": null
+    },
+    {
+      "title": "Revisiting How the Traditional Leaders in Pre- post-1994 Dealt with Anti-Corruption and Violence in KwaZulu Natal, South Africa",
+      "short_title": "Revisiting How the Traditional Leaders in Pre- post-1994 Dealt with Anti-Corruption and Violen\u2026",
+      "url": "https://doi.org/10.64211/oidaijsd190619",
+      "source": "OIDA International Journal of Sustainable Development",
+      "published_at": "2026-05-22T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "The South African economy is facing issues due to corruption and rising criminal activities. Before 1994, crimes were mostly minor offenses like stealing small items, but now they have spread to rural areas too. This article suggests that traditional leaders used methods to prevent crime and violence effectively in the past. After 1994, when South Africa became democratic, people felt safer and didn't fear committing crimes as their rights were protected."
     },
     {
       "title": "Between INTOSAI and society's expectations: standard setting and the audit expectations gap in anti-corruption oversight",
@@ -504,42 +540,6 @@
       "published_at": "2026-02-18T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "This study investigates how certain organizational factors impact the successful implementation of Enterprise Resource Planning (ERP) systems in New Zealand's government agencies. It found that leadership commitment, organizational preparedness, user capability development, and change management readiness are crucial for ERP success. Leadership support was identified as the strongest predictor of ERP deployment success. Interestingly, cultural differences did not significantly affect ERP outcomes."
-    },
-    {
-      "title": "The Anti\u2010Fraud Lever: China's Strategic Use of the Scam Crackdown to Invigorate the LMLECC Process Against Thailand's Reluctance",
-      "short_title": "The Anti\u2010Fraud Lever: China's Strategic Use of the Scam Crackdown to Invigorate the LMLECC Pro\u2026",
-      "url": "https://doi.org/10.1111/aspp.70064",
-      "source": "Asian Politics &amp; Policy",
-      "published_at": "2026-02-12T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "China took strong action against fraud rings targeting Chinese citizens, especially those using telecommunications and the internet. This included joint operations with other countries and high-profile actions by officials like Liu Zhongyi. While this helped reduce major fraud centers, it strained relations between China and Thailand due to how China handled things. This shows that fighting crime can be used as a way for China to exert more influence in the region."
-    },
-    {
-      "title": "The Challenges of Implementing E-government in the Public Sector: A Case Study on The Gambia",
-      "short_title": "The Challenges of Implementing E-government in the Public Sector: A Case Study on The Gambia",
-      "url": "https://doi.org/10.36636/jogiv.v7i2.7197",
-      "source": "Journal of Governance Innovation",
-      "published_at": "2026-01-18T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "E-government has become a way for governments to deliver services more efficiently and make governance transparent. However, implementing it can be challenging, especially in developing countries with limited resources. A case study from The Gambia found that while e-government helps improve service delivery, transparency, accountability, and citizen participation, there are still big hurdles like not having enough IT infrastructure or skilled employees to use digital tools effectively. There's also a lack of collaboration between different government departments and issues related to internet access and trust in government services."
-    },
-    {
-      "title": "Does government transparency really matter for citizens\u2019 satisfaction to public service? Empirical evidence from China",
-      "short_title": "Does government transparency really matter for citizens\u2019 satisfaction to public service? Empir\u2026",
-      "url": "https://doi.org/10.1080/03003930.2026.2614031",
-      "source": "Local Government Studies",
-      "published_at": "2026-01-11T00:00:00+00:00",
-      "sentiment": "positive",
-      "plain_summary": null
-    },
-    {
-      "title": "AI-ENABLED PUBLIC GOVERNANCE IN DEVELOPING STATES: SERVICE DELIVERY GAINS, ACCOUNTABILITY RISKS, AND A PRACTICAL RISK-BASED REGULATORY MODEL",
-      "short_title": "AI-ENABLED PUBLIC GOVERNANCE IN DEVELOPING STATES: SERVICE DELIVERY GAINS, ACCOUNTABILITY RISK\u2026",
-      "url": "https://doi.org/10.52152/wja5db40",
-      "source": "Lex localis - Journal of Local Self-Government",
-      "published_at": "2026-01-10T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "Governments are increasingly using AI to improve services like citizen assistance, compliance checks, fraud detection, and planning. These systems can significantly speed up response times and save time for workers. However, without proper oversight, AI can undermine accountability by making decisions harder to understand or challenge, especially in developing countries where institutions might not be fully developed. To address this, a practical risk-based governance model has been proposed."
     }
   ],
   "nonprofit": [
@@ -569,6 +569,15 @@
       "published_at": "2026-11-01T00:00:00+00:00",
       "sentiment": "positive",
       "plain_summary": "Recent research has shown that adding different parts called heterocyclic systems to quinoline molecules can create compounds with many useful properties. These modified quinoline-based drugs are effective against a wide range of harmful bacteria, including those causing serious infections. They also show promise in treating cancer and other conditions like seizures, pain, inflammation, and heart problems. By combining quinoline with other parts, scientists can make new medicines that work better than existing ones."
+    },
+    {
+      "title": "Measuring Compliance Maturity and Organizational Integrity: A Conceptual Framework for an Integrated Governance and Ethics Model",
+      "short_title": "Measuring Compliance Maturity and Organizational Integrity: A Conceptual Framework for an Inte\u2026",
+      "url": "https://doi.org/10.70147/c283138",
+      "source": "CROSS-CULTURAL MANAGEMENT JOURNAL",
+      "published_at": "2026-07-30T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study looks at how organizations measure their compliance with rules and regulations. Many existing models focus mainly on following the rules, but overlook important aspects like leadership commitment to ethics and overall organization strength. To address this, they propose an integrated model called CGMM that considers both governance (how decisions are made) and ethical practices together. This helps in better understanding how well organizations handle compliance while also ensuring strong values and integrity."
     },
     {
       "title": "CIVIL SOCIETY ORGANIZATIONS AS ACTORS IN ENSURING THE FORMATION OF ANTI-CORRUPTION POLICY: THE INSTITUTIONAL ASPECT IN CONTEMPORARY CONDITIONS",
