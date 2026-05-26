@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-25T14:44:02.440876+00:00",
+  "updated_at": "2026-05-26T15:08:50.828037+00:00",
   "government": [
     {
       "title": "Ethical Issues and Scandals in Australian Federal Politics, 2013-2024: Lessons for Combatting Grey Corruption",
@@ -128,6 +128,78 @@
       "plain_summary": null
     },
     {
+      "title": "AI Regulation and Its Social Impacts on Public Policy",
+      "short_title": "AI Regulation and Its Social Impacts on Public Policy",
+      "url": "https://doi.org/10.55737/rl.v5i1.26181",
+      "source": "Regional Lens",
+      "published_at": "2026-05-26T15:08:20.645414+00:00",
+      "sentiment": "positive",
+      "plain_summary": "AI is now a key part of how governments make decisions in many areas like healthcare, policing, and welfare. As more AI systems are used, it's important to have rules to make sure they work fairly and don't cause problems. These rules help ensure that AI doesn't lead to unfair treatment or less democracy. By carefully watching how AI is used, we can make sure it helps people and doesn't hurt them."
+    },
+    {
+      "title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bilan d\u2019une recherche immersive en Police Judiciaire fran\u00e7aise",
+      "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
+      "url": "https://doi.org/10.3917/gmp.pr1.0009",
+      "source": "Gestion et management public",
+      "published_at": "2026-05-26T15:08:14.114845+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This research focuses on understanding the emotional risks in police work and how they manage their emotions to improve job satisfaction. It was conducted by observing various police units like forensic science, digital investigation, financial division, criminal division, anti-terrorism unit, and more over 26 days. The study found two key emotions that are hard for them to express: interest and frustration. These emotions make it difficult for officers to discuss their work-related feelings openly, leading to invisible or undiscussed labor."
+    },
+    {
+      "title": "Data Science as a Catalyst for Audit Transformation",
+      "short_title": "Data Science as a Catalyst for Audit Transformation",
+      "url": "https://doi.org/10.56251/clyp9463",
+      "source": "International Journal of Government Auditing",
+      "published_at": "2026-05-26T15:08:12.568774+00:00",
+      "sentiment": "positive",
+      "plain_summary": "Data science has become crucial as we generate vast amounts of information daily. It helps transform this data into useful insights for better decision-making across various sectors. For audit institutions, integrating data science can enhance their ability to manage public funds more effectively and improve accountability. By using data science, audits can provide clearer and more accurate reports that recommend improvements faster, which benefits the overall administration and improves citizens' quality of life."
+    },
+    {
+      "title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
+      "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
+      "url": "https://doi.org/10.56251/tydf1981",
+      "source": "International Journal of Government Auditing",
+      "published_at": "2026-05-26T15:08:12.568614+00:00",
+      "sentiment": "positive",
+      "plain_summary": null
+    },
+    {
+      "title": "Killer Robots \u2013 A Case for SAIs",
+      "short_title": "Killer Robots \u2013 A Case for SAIs",
+      "url": "https://doi.org/10.56251/ojyp9121",
+      "source": "International Journal of Government Auditing",
+      "published_at": "2026-05-26T15:08:12.568582+00:00",
+      "sentiment": "positive",
+      "plain_summary": "This paper discusses a scenario where autonomous killer robots are used in warfare without human intervention. These robots can make decisions about who to target based on AI algorithms trained to recognize certain uniforms. If one of these drones targets and kills an enemy soldier who is surrendering, it would violate international laws. Another concern is if the robot makes a mistake by attacking another similar system, leading to unintended conflicts."
+    },
+    {
+      "title": "The dark side of public service motivation : Analysis of noble cause corruption based on the Lebanese case",
+      "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
+      "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
+      "source": "Gestion et management public",
+      "published_at": "2026-05-26T15:08:12.568326+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study examines how public service motivation can lead to noble cause corruption in Lebanon, where there's a lot of social and economic hardship. The research found that feelings like compassion and selflessness often push people into doing good deeds for noble causes, but these actions sometimes involve corrupt practices. This leads to internal conflicts as the person feels both guilty and supported by their work environment. Factors like physical exchanges, personal space in the workplace, and close relationships with users can make it easier for this type of corruption to happen."
+    },
+    {
+      "title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause noble \u00e0 partir du cas libanais",
+      "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
+      "url": "https://doi.org/10.3917/gmp.pr1.0018",
+      "source": "Gestion et management public",
+      "published_at": "2026-05-26T15:08:12.568238+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study examines how public service motivation can lead to corruption for a noble cause in Lebanon, where corruption is prevalent and social issues are challenging. Based on interviews with 32 Lebanese public servants, the research explores how feelings of compassion and self-sacrifice related to public service motivation might encourage them to engage in corrupt behavior for what they see as a good cause. The study highlights that these motivations can lead to behaviors like providing extra support or shielding users from punishment. This can create internal conflicts within the public servant due to their emotional connection with those affected."
+    },
+    {
+      "title": "Market Failure or Government Failure? A Response to Jaworski",
+      "short_title": "Market Failure or Government Failure? A Response to Jaworski",
+      "url": "https://doi.org/10.12747/bejr2013.01.08",
+      "source": "Business Ethics Journal Review",
+      "published_at": "2026-05-26T15:08:12.568033+00:00",
+      "sentiment": "negative",
+      "plain_summary": null
+    },
+    {
       "title": "Corrigendum: Editorial: Governance and accountability (Gover-nability) of multiple values of municipal corporations",
       "short_title": "Corrigendum: Editorial: Governance and accountability (Gover-nability) of multiple values of m\u2026",
       "url": "https://doi.org/10.1108/ijpsm-05-2026-0302",
@@ -137,76 +209,13 @@
       "plain_summary": null
     },
     {
-      "title": "AI Regulation and Its Social Impacts on Public Policy",
-      "short_title": "AI Regulation and Its Social Impacts on Public Policy",
-      "url": "https://doi.org/10.55737/rl.v5i1.26181",
-      "source": "Regional Lens",
-      "published_at": "2026-05-25T14:43:45.752674+00:00",
-      "sentiment": "positive",
-      "plain_summary": "AI is now a key part of how governments make decisions in many areas like healthcare, policing, and welfare. As more AI systems are used, it's important to have rules to make sure they work fairly and don't cause problems. These rules help ensure that AI doesn't lead to unfair treatment or less democracy. By carefully watching how AI is used, we can make sure it helps people and doesn't hurt them."
-    },
-    {
-      "title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bilan d\u2019une recherche immersive en Police Judiciaire fran\u00e7aise",
-      "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
-      "url": "https://doi.org/10.3917/gmp.pr1.0009",
-      "source": "Gestion et management public",
-      "published_at": "2026-05-25T14:43:41.316267+00:00",
+      "title": "The Master\u2019s Tools\u2014Anti-Bullying and Harassment Policy in Higher Education Institutions",
+      "short_title": "The Master\u2019s Tools\u2014Anti-Bullying and Harassment Policy in Higher Education Institutions",
+      "url": "https://doi.org/10.3390/ijerph23060706",
+      "source": "International Journal of Environmental Research and Public Health",
+      "published_at": "2026-05-26T00:00:00+00:00",
       "sentiment": "negative",
-      "plain_summary": "This research focuses on understanding the emotional risks in police work and how they manage their emotions to improve job satisfaction. It was conducted by observing various police units like forensic science, digital investigation, financial division, criminal division, anti-terrorism unit, and more over 26 days. The study found two key emotions that are hard for them to express: interest and frustration. These emotions make it difficult for officers to discuss their work-related feelings openly, leading to invisible or undiscussed labor."
-    },
-    {
-      "title": "Data Science as a Catalyst for Audit Transformation",
-      "short_title": "Data Science as a Catalyst for Audit Transformation",
-      "url": "https://doi.org/10.56251/clyp9463",
-      "source": "International Journal of Government Auditing",
-      "published_at": "2026-05-25T14:43:40.721679+00:00",
-      "sentiment": "positive",
-      "plain_summary": "Data science has become crucial as we generate vast amounts of information daily. It helps transform this data into useful insights for better decision-making across various sectors. For audit institutions, integrating data science can enhance their ability to manage public funds more effectively and improve accountability. By using data science, audits can provide clearer and more accurate reports that recommend improvements faster, which benefits the overall administration and improves citizens' quality of life."
-    },
-    {
-      "title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
-      "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
-      "url": "https://doi.org/10.56251/tydf1981",
-      "source": "International Journal of Government Auditing",
-      "published_at": "2026-05-25T14:43:40.721348+00:00",
-      "sentiment": "positive",
-      "plain_summary": null
-    },
-    {
-      "title": "Killer Robots \u2013 A Case for SAIs",
-      "short_title": "Killer Robots \u2013 A Case for SAIs",
-      "url": "https://doi.org/10.56251/ojyp9121",
-      "source": "International Journal of Government Auditing",
-      "published_at": "2026-05-25T14:43:40.721266+00:00",
-      "sentiment": "positive",
-      "plain_summary": "This paper discusses a scenario where autonomous killer robots are used in warfare without human intervention. These robots can make decisions about who to target based on AI algorithms trained to recognize certain uniforms. If one of these drones targets and kills an enemy soldier who is surrendering, it would violate international laws. Another concern is if the robot makes a mistake by attacking another similar system, leading to unintended conflicts."
-    },
-    {
-      "title": "The dark side of public service motivation : Analysis of noble cause corruption based on the Lebanese case",
-      "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
-      "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
-      "source": "Gestion et management public",
-      "published_at": "2026-05-25T14:43:40.720790+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This study examines how public service motivation can lead to noble cause corruption in Lebanon, where there's a lot of social and economic hardship. The research found that feelings like compassion and selflessness often push people into doing good deeds for noble causes, but these actions sometimes involve corrupt practices. This leads to internal conflicts as the person feels both guilty and supported by their work environment. Factors like physical exchanges, personal space in the workplace, and close relationships with users can make it easier for this type of corruption to happen."
-    },
-    {
-      "title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause noble \u00e0 partir du cas libanais",
-      "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
-      "url": "https://doi.org/10.3917/gmp.pr1.0018",
-      "source": "Gestion et management public",
-      "published_at": "2026-05-25T14:43:40.720520+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This study examines how public service motivation can lead to corruption for a noble cause in Lebanon, where corruption is prevalent and social issues are challenging. Based on interviews with 32 Lebanese public servants, the research explores how feelings of compassion and self-sacrifice related to public service motivation might encourage them to engage in corrupt behavior for what they see as a good cause. The study highlights that these motivations can lead to behaviors like providing extra support or shielding users from punishment. This can create internal conflicts within the public servant due to their emotional connection with those affected."
-    },
-    {
-      "title": "Market Failure or Government Failure? A Response to Jaworski",
-      "short_title": "Market Failure or Government Failure? A Response to Jaworski",
-      "url": "https://doi.org/10.12747/bejr2013.01.08",
-      "source": "Business Ethics Journal Review",
-      "published_at": "2026-05-25T14:43:40.720108+00:00",
-      "sentiment": "negative",
-      "plain_summary": null
+      "plain_summary": "In higher education institutions, there's often a problem with how anti-bullying and harassment policies are written. These documents can make it seem like reporting issues is not really an option or that they're just for show. This makes it harder for people who have been bullied to speak up because the system might trick them into staying quiet. The result is that these institutions keep things as they are, which doesn't help prevent bullying and harassment from happening in the first place."
     },
     {
       "title": "Faith, Fraud, and Fees: Is Vigilant Behavior of Religious Donors in Crowdfunding Sacred or Secular?",
@@ -216,6 +225,15 @@
       "published_at": "2026-05-25T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": null
+    },
+    {
+      "title": "How Settler Colonialism, Capitalist Restructuring, Penal Reform and Anti-Prison Organizing are Shaping Prison Expansion in Eastern Ontario",
+      "short_title": "How Settler Colonialism, Capitalist Restructuring, Penal Reform and Anti-Prison Organizing are\u2026",
+      "url": "https://doi.org/10.26522/ssj.v20i1.4473",
+      "source": "Studies in Social Justice",
+      "published_at": "2026-05-25T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": "The government in Ontario is planning to build a new prison called the Eastern Ontario Correctional Complex, which will have 235 beds. This decision comes from various forces like settler colonialism, capitalist restructuring, penal reform, and anti-prison organizing. These groups are working together to oppose building more prisons because they believe it perpetuates social marginalization. Understanding these influences helps in creating effective strategies against prison expansion."
     },
     {
       "title": "Between INTOSAI and society's expectations: standard setting and the audit expectations gap in anti-corruption oversight",
@@ -254,15 +272,6 @@
       "plain_summary": "The Anti-Unfair Competition Law helps control misuse when someone registers a trademark maliciously. Even though there are rules against such registration, it's hard to deal with afterward because checking for malice is not strict enough. The Anti-Unfair Competition Law offers more ways to handle this issue and has broader applications. However, sometimes judges don't apply these laws correctly, leading to inconsistent rulings."
     },
     {
-      "title": "Exploring the Role of Internal Control Effectiveness, Information Asymmetry, and Individual Morality in Accounting Fraud: Insights from the Public Sector",
-      "short_title": "Exploring the Role of Internal Control Effectiveness, Information Asymmetry, and Individual Mo\u2026",
-      "url": "https://doi.org/10.14414/tiar.v16i1.5606",
-      "source": "The Indonesian Accounting Review",
-      "published_at": "2026-05-18T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "Accounting fraud continues to be a significant problem affecting financial transparency, especially in the public sector. This study found that having strong internal controls and reducing information asymmetry significantly lowers the likelihood of accounting fraud. However, individual morality did not have a substantial impact on preventing fraud. Therefore, for organizations like those in the public sector, improving their internal control systems and ensuring better information transparency are crucial steps to reduce the risk of fraudulent activities."
-    },
-    {
       "title": "Crisis of Public Trust in Government and the Challenges of Political Ethics in Contemporary Indonesia",
       "short_title": "Crisis of Public Trust in Government and the Challenges of Political Ethics in Contemporary In\u2026",
       "url": "https://doi.org/10.64268/jilhs.v1i3.124",
@@ -288,6 +297,15 @@
       "published_at": "2026-05-18T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "The Public Procurement Act in Lesotho was created to reduce corruption in public contracts but has not been fully effective. Despite the new law, there are still many issues with transparency and accountability. The main institutions like the Public Procurement Authority and the Procurement Tribunal have limited power and resources which makes it hard to enforce rules against corrupt practices. To really make a difference, reforms need to focus on strengthening these institutions rather than just changing laws."
+    },
+    {
+      "title": "Exploring the Role of Internal Control Effectiveness, Information Asymmetry, and Individual Morality in Accounting Fraud: Insights from the Public Sector",
+      "short_title": "Exploring the Role of Internal Control Effectiveness, Information Asymmetry, and Individual Mo\u2026",
+      "url": "https://doi.org/10.14414/tiar.v16i1.5606",
+      "source": "The Indonesian Accounting Review",
+      "published_at": "2026-05-18T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "Accounting fraud continues to be a significant problem affecting financial transparency, especially in the public sector. This study found that having strong internal controls and reducing information asymmetry significantly lowers the likelihood of accounting fraud. However, individual morality did not have a substantial impact on preventing fraud. Therefore, for organizations like those in the public sector, improving their internal control systems and ensuring better information transparency are crucial steps to reduce the risk of fraudulent activities."
     },
     {
       "title": "The Effect Of Good Governance And The Implementation Of Integrity Zones On Corruption Prevention (A Study On Skpd Apparatus In North Sumatra Province)",
@@ -326,6 +344,15 @@
       "plain_summary": null
     },
     {
+      "title": "Characteristics of Exposures Presented by Dog Bites and Adherence to Anti-rabies Treatment by Patients Visiting Selected Hospitals in Kisii County, Kenya",
+      "short_title": "Characteristics of Exposures Presented by Dog Bites and Adherence to Anti-rabies Treatment by\u2026",
+      "url": "https://doi.org/10.11648/j.wjph.20261102.18",
+      "source": "World Journal of Public Health",
+      "published_at": "2026-05-13T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "Dog bites are a significant health issue in Kisii County, Kenya, where stray dogs have led to rabies cases. This study looked at how dog bite patients were treated with post-exposure prophylaxis (PEP) and found no link between following PEP instructions and the severity of the bite or which part of the body was bitten. Most bites reported by patients were from dogs, followed by scratches and licks. The findings suggest that adherence to PEP treatment is not influenced by the type or severity of exposure."
+    },
+    {
       "title": "STATE POLICY IN THE FIELD OF PREVENTING AND COMBATING CORRUPTION IN UKRAINE UNDER MARTIAL LAW AND POST-WAR RECONSTRUCTION",
       "short_title": "STATE POLICY IN THE FIELD OF PREVENTING AND COMBATING CORRUPTION IN UKRAINE UNDER MARTIAL LAW\u2026",
       "url": "https://doi.org/10.32782/pma/51.12",
@@ -362,15 +389,6 @@
       "plain_summary": "This study looked at how workplace bullying affects corruption in public universities. It found that when employees are bullied, they're more likely to make unethical decisions and feel less healthy at work. The research also uncovered five main ways bullying leads to corruption: unfair hiring practices, toxic environments, misuse of funds, deception, and discrimination based on race or gender. To prevent this, university leaders need to have strict rules against bullying and must encourage ethical behavior among their staff."
     },
     {
-      "title": "CRIMINOLOGICAL CHARACTERISTICS OF CORRUPTION OFFENCES IN THE CRIMINAL-EXECUTIVE SYSTEM",
-      "short_title": "CRIMINOLOGICAL CHARACTERISTICS OF CORRUPTION OFFENCES IN THE CRIMINAL-EXECUTIVE SYSTEM",
-      "url": "https://doi.org/10.32782/2663-5666.2026.1.18",
-      "source": "Private and Public Law",
-      "published_at": "2026-05-12T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": null
-    },
-    {
       "title": "The Current Situation, Challenges, and Countermeasures of International Cooperation against Corruption",
       "short_title": "The Current Situation, Challenges, and Countermeasures of International Cooperation against Co\u2026",
       "url": "https://doi.org/10.54254/2753-7048/2026.33338",
@@ -385,24 +403,6 @@
       "url": "https://doi.org/10.1080/15309576.2026.2666114",
       "source": "Public Performance &amp; Management Review",
       "published_at": "2026-05-09T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": null
-    },
-    {
-      "title": "Fiscal Transparency Deficits and Accountability Failures in South African Local Government: A Qualitative Analysis of Disclaimed Audit Opinions",
-      "short_title": "Fiscal Transparency Deficits and Accountability Failures in South African Local Government: A\u2026",
-      "url": "https://doi.org/10.64287/jmp.2026.2.2",
-      "source": "Journal of Management Perspectives",
-      "published_at": "2026-05-05T00:00:00+00:00",
-      "sentiment": "positive",
-      "plain_summary": "This research looked at local government in South Africa and found that many municipalities were not transparent about their finances for several years. Specifically, seven out of 247 municipalities had repeated disclaimed audit opinions from the Auditor-General. The study identified three main reasons: problems with how these municipalities are run (like having too few people or weak controls), issues with leaders following rules, and a lack of trust in government. Understanding these issues can help improve financial management and public trust in local governments."
-    },
-    {
-      "title": "The effectiveness of anti-corruption reforms in a region of Europe: the role of social empowerment",
-      "short_title": "The effectiveness of anti-corruption reforms in a region of Europe: the role of social empower\u2026",
-      "url": "https://doi.org/10.1080/10967494.2026.2632362",
-      "source": "International Public Management Journal",
-      "published_at": "2026-05-04T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": null
     },
