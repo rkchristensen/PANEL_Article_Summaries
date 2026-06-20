@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-06-19T14:08:14.162477+00:00",
+  "updated_at": "2026-06-20T15:22:21.271703+00:00",
   "government": [
+    {
+      "title": "The Determinants of Voter Turnout in Croatian Local Government Elections",
+      "short_title": "The Determinants of Voter Turnout in Croatian Local Government Elections",
+      "url": "https://doi.org/10.20899/jpna.gdmpzd87",
+      "source": "Journal of Public and Nonprofit Affairs",
+      "published_at": "2026-06-19T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study looked at why people vote in local government elections in Croatia from 2014 to 2021. It found that if fewer people voted last time, they're likely to vote less again. Issues like whether the city provides good services and benefits also affect how many people show up to vote. The main parties aren't doing a good job of getting their supporters to participate."
+    },
     {
       "title": "Did populist governance change corruption risks during crises across European countries?",
       "short_title": "Did populist governance change corruption risks during crises across European countries?",
@@ -54,15 +63,6 @@
       "published_at": "2026-12-29T00:00:00+00:00",
       "sentiment": "positive",
       "plain_summary": "This study looked at how advanced machine learning techniques could improve job matching and forecasting in e-government systems used by the Tanzanian government. The main challenges identified were poor usability of the system, weak job skill matching, and lack of real-time updates. Machine learning models helped analyze data better for these issues. The research found that integrating ML into these systems can significantly enhance decision-making, increase efficiency, and match workers with available jobs more accurately."
-    },
-    {
-      "title": "The Impact of Digital Technology on International Humanitarian Law: Ethical and Legal Implications of Autonomous Weapons Systems",
-      "short_title": "The Impact of Digital Technology on International Humanitarian Law: Ethical and Legal Implicat\u2026",
-      "url": "https://doi.org/10.24018/ejpolitics.2025.4.4.182",
-      "source": "European Journal of Law and Political Science",
-      "published_at": "2026-09-18T00:00:00+00:00",
-      "sentiment": "positive",
-      "plain_summary": "This article looks at how new technology like AI is changing international laws for wars. As weapons get more automated, it raises questions about who should be held responsible when they make decisions. The main idea is that current rules are still useful but need updating to fit with these new types of weapons. It suggests ways to improve the existing laws so that people in war zones can continue to rely on protections like not harming civilians unnecessarily."
     },
     {
       "title": "AI for integrity: Predicting public servants' susceptibility to corruption via supervised machine learning",
@@ -123,7 +123,7 @@
       "short_title": "AI Regulation and Its Social Impacts on Public Policy",
       "url": "https://doi.org/10.55737/rl.v5i1.26181",
       "source": "Regional Lens",
-      "published_at": "2026-06-19T13:17:41.876189+00:00",
+      "published_at": "2026-06-20T15:22:00.911922+00:00",
       "sentiment": "positive",
       "plain_summary": "AI is now a key part of how governments make decisions in many areas like healthcare, policing, and welfare. As more AI systems are used, it's important to have rules to make sure they work fairly and don't cause problems. These rules help ensure that AI doesn't lead to unfair treatment or less democracy. By carefully watching how AI is used, we can make sure it helps people and doesn't hurt them."
     },
@@ -132,7 +132,7 @@
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-06-19T13:11:29.660435+00:00",
+      "published_at": "2026-06-20T15:15:50.686899+00:00",
       "sentiment": "negative",
       "plain_summary": "This research focuses on understanding the emotional risks in police work and how they manage their emotions to improve job satisfaction. It was conducted by observing various police units like forensic science, digital investigation, financial division, criminal division, anti-terrorism unit, and more over 26 days. The study found two key emotions that are hard for them to express: interest and frustration. These emotions make it difficult for officers to discuss their work-related feelings openly, leading to invisible or undiscussed labor."
     },
@@ -141,7 +141,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-06-19T13:11:17.536947+00:00",
+      "published_at": "2026-06-20T15:15:49.574386+00:00",
       "sentiment": "positive",
       "plain_summary": "Data science has become crucial as we generate vast amounts of information daily. It helps transform this data into useful insights for better decision-making across various sectors. For audit institutions, integrating data science can enhance their ability to manage public funds more effectively and improve accountability. By using data science, audits can provide clearer and more accurate reports that recommend improvements faster, which benefits the overall administration and improves citizens' quality of life."
     },
@@ -150,7 +150,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-06-19T13:11:17.536813+00:00",
+      "published_at": "2026-06-20T15:15:49.574279+00:00",
       "sentiment": "positive",
       "plain_summary": null
     },
@@ -159,7 +159,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-06-19T13:11:17.536569+00:00",
+      "published_at": "2026-06-20T15:15:49.574252+00:00",
       "sentiment": "positive",
       "plain_summary": "This paper discusses a scenario where autonomous killer robots are used in warfare without human intervention. These robots can make decisions about who to target based on AI algorithms trained to recognize certain uniforms. If one of these drones targets and kills an enemy soldier who is surrendering, it would violate international laws. Another concern is if the robot makes a mistake by attacking another similar system, leading to unintended conflicts."
     },
@@ -168,7 +168,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-06-19T13:11:17.535367+00:00",
+      "published_at": "2026-06-20T15:15:49.574093+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how public service motivation can lead to noble cause corruption in Lebanon, where there's a lot of social and economic hardship. The research found that feelings like compassion and selflessness often push people into doing good deeds for noble causes, but these actions sometimes involve corrupt practices. This leads to internal conflicts as the person feels both guilty and supported by their work environment. Factors like physical exchanges, personal space in the workplace, and close relationships with users can make it easier for this type of corruption to happen."
     },
@@ -177,7 +177,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-06-19T13:11:17.535190+00:00",
+      "published_at": "2026-06-20T15:15:49.574007+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how public service motivation can lead to corruption for a noble cause in Lebanon, where corruption is prevalent and social issues are challenging. Based on interviews with 32 Lebanese public servants, the research explores how feelings of compassion and self-sacrifice related to public service motivation might encourage them to engage in corrupt behavior for what they see as a good cause. The study highlights that these motivations can lead to behaviors like providing extra support or shielding users from punishment. This can create internal conflicts within the public servant due to their emotional connection with those affected."
     },
@@ -186,9 +186,18 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-06-19T13:11:17.534981+00:00",
+      "published_at": "2026-06-20T15:15:49.573799+00:00",
       "sentiment": "negative",
       "plain_summary": null
+    },
+    {
+      "title": "Anti\u2010Corruption and Luxury Goods Consumption: Evidence From the Chinese Cigarette Market",
+      "short_title": "Anti\u2010Corruption and Luxury Goods Consumption: Evidence From the Chinese Cigarette Market",
+      "url": "https://doi.org/10.1111/obes.70105",
+      "source": "Oxford Bulletin of Economics and Statistics",
+      "published_at": "2026-06-19T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study examines how anti-corruption measures affect luxury goods consumption, focusing on the cigarette market in China. The researchers developed a theory suggesting that corruption influences people's willingness to buy expensive items like cigarettes. They used data from 2007 to 2014 to see if China\u2019s anti-corruption campaign had an impact. Their findings showed that while the overall sales of cigarettes increased, luxury brands saw less demand compared to cheaper ones."
     },
     {
       "title": "Determinants of corruption control in public sectors in Northwestern Ethiopia",
@@ -198,6 +207,15 @@
       "published_at": "2026-06-19T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "This research examines what helps or hinders efforts to stop corruption in public sector organizations in Northwestern Ethiopia. It found that having strong rules (institutional factors), cultural norms against bribery, fair political systems, ethical guidelines, and people who follow the rules are important for reducing corruption. Economic factors didn't have a big impact. To improve these controls, it suggests strengthening existing laws, making sure anti-corruption bodies operate independently, increasing access to information, educating people about ethics, and providing regular training for leaders in public offices."
+    },
+    {
+      "title": "Negotiating Postcolonial Realities: Corruption, Power, and Resistance in Adamu Kyuka Usman\u2019s Bivan\u2019s House",
+      "short_title": "Negotiating Postcolonial Realities: Corruption, Power, and Resistance in Adamu Kyuka Usman\u2019s B\u2026",
+      "url": "https://doi.org/10.36349/alqajolls.2026.v01i02.020",
+      "source": "AL-QALAMA Journal of Languages and Literary Studies",
+      "published_at": "2026-06-19T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study looks at a novel called \"Bivan's House\" written by Adamu Kyuka Usman. It explores how corruption, power struggles, and resistance are themes in this book set in post-colonial Nigeria. The research shows that even though Nigeria is no longer under colonial rule, old structures from the past still affect governance, social interactions, and cultural beliefs today. By analyzing characters, symbols, and storytelling techniques, it explains how Usman highlights corruption, political opportunism, and institutional decay in the Nigerian government."
     },
     {
       "title": "How ethical leadership reduces corruption in Pakistan\u2019s public sector: job satisfaction as a mediator",
@@ -225,24 +243,6 @@
       "published_at": "2026-06-17T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "This study looks at how AI can help spot fraud in government spending in countries that are just starting to have democratic systems. It suggests that using AI like machine learning could make it easier for people to see if money is being spent unfairly or wasted. However, there are still big challenges like not having enough good data or fair rules. The main idea is that while AI can be useful, it needs to work with human checks and balances to really help stop corruption."
-    },
-    {
-      "title": "A Dual-Track Asset Recovery Model: Optimizing the Posthumous Forfeiture of Corruption Proceeds",
-      "short_title": "A Dual-Track Asset Recovery Model: Optimizing the Posthumous Forfeiture of Corruption Proceeds",
-      "url": "https://doi.org/10.37276/sjh.v8i1.700",
-      "source": "SIGn Jurnal Hukum",
-      "published_at": "2026-06-17T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This study proposes a dual-track system for recovering assets from corrupt individuals who have died. Under this model, legal actions can proceed independently whether or not the person involved is still alive. This bypasses issues where criminal proceedings are halted due to death, which allows corruption proceeds to dissipate over time. By separating these processes, it ensures that law enforcement can quickly recover assets and maintain public trust in their work."
-    },
-    {
-      "title": "Policy Reconstruction in Combating Petty Corruption: Towards Progressive, Economic, and Utilitarian Justice",
-      "short_title": "Policy Reconstruction in Combating Petty Corruption: Towards Progressive, Economic, and Utilit\u2026",
-      "url": "https://doi.org/10.37276/sjh.v8i1.701",
-      "source": "SIGn Jurnal Hukum",
-      "published_at": "2026-06-17T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This study discusses how Indonesia can better handle small-scale corruption cases that don't cause significant financial damage but still harm the government's resources. Currently, these cases often go through formal legal processes which end up costing more than what was lost. The research proposes a new model called Progressive-Economic-Utilitarian Justice to address this issue. This model suggests making changes in how punishments are given and allowing some corruption cases to be handled differently using restorative justice methods."
     },
     {
       "title": "Corruption and the Composition of Business Activity in Brazil",
@@ -297,6 +297,15 @@
       "published_at": "2026-06-11T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "Digital governance in Algeria has been adopted as a strategy to combat corruption, especially in sectors like taxation and procurement. The country is digitizing tax administration and implementing electronic public procurement systems, which have improved transparency and accountability. These digital tools help reduce discretionary practices, enhance traceability, and improve access to information for the public. However, there are still challenges such as incomplete integration of digital systems, cybersecurity issues, and uneven administrative capacity that need addressing."
+    },
+    {
+      "title": "Law Enforcement vs NGOs: How Do the Different Professional Backgrounds of Anti-Trafficking Practitioners Influence Their Views on Human Trafficking in the UK?",
+      "short_title": "Law Enforcement vs NGOs: How Do the Different Professional Backgrounds of Anti-Trafficking Pra\u2026",
+      "url": "https://doi.org/10.1007/s43576-026-00227-2",
+      "source": "International Criminology",
+      "published_at": "2026-06-08T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": "This study examines how different backgrounds of anti-human trafficking professionals\u2014law enforcement officers versus support workers\u2014affect their views on human trafficking in the UK. Law enforcement officials tend to see trafficking through a lens focused on public protection, often leading them to view traffickers as criminals and victims as potential threats. Support workers, however, focus more on understanding victims' needs and traumas, seeing them as vulnerable individuals who need help. These different perspectives can lead to stereotypes that don't fully capture the complexity of human trafficking situations."
     },
     {
       "title": "Effectiveness of School-Based Anti-Drug Clubs in Raising Awareness of the Dangers of Drug Abuse Among Students in Basic Education Schools in Abuja Municipal Area Council, Nigeria",
@@ -531,18 +540,18 @@
       "published_at": "2026-01-08T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "This study looks at how ethics, accountability, and transparency work together in Indonesian government systems. It found that even with digitalization efforts, if there isn't a strong enough foundation of ethics, these measures can fail to prevent corruption and lose public trust. The research suggests integrating ethical practices, making information transparent, and ensuring accountability are all important for effective governance. By combining these elements, Indonesia can improve its government systems and build more trustworthy relationships with the people it serves."
-    },
-    {
-      "title": "Unethical leadership in the South African public sector tender processes through the lens of game theory",
-      "short_title": "Unethical leadership in the South African public sector tender processes through the lens of g\u2026",
-      "url": "https://doi.org/10.1504/ijbge.2026.151978",
-      "source": "International Journal of Business Governance and Ethics",
-      "published_at": "2026-01-01T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": null
     }
   ],
   "nonprofit": [
+    {
+      "title": "The Determinants of Voter Turnout in Croatian Local Government Elections",
+      "short_title": "The Determinants of Voter Turnout in Croatian Local Government Elections",
+      "url": "https://doi.org/10.20899/jpna.gdmpzd87",
+      "source": "Journal of Public and Nonprofit Affairs",
+      "published_at": "2026-06-19T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study looked at why people vote in local government elections in Croatia from 2014 to 2021. It found that if fewer people voted last time, they're likely to vote less again. Issues like whether the city provides good services and benefits also affect how many people show up to vote. The main parties aren't doing a good job of getting their supporters to participate."
+    },
     {
       "title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy Implications",
       "short_title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy I\u2026",
