@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T14:18:52.264631+00:00",
+  "updated_at": "2026-06-24T09:50:12.756615+00:00",
   "government": [
     {
       "title": "The Determinants of Voter Turnout in Croatian Local Government Elections",
@@ -132,36 +132,45 @@
       "short_title": "AI Regulation and Its Social Impacts on Public Policy",
       "url": "https://doi.org/10.55737/rl.v5i1.26181",
       "source": "Regional Lens",
-      "published_at": "2026-06-23T10:55:10.202860+00:00",
+      "published_at": "2026-06-24T07:12:48.865517+00:00",
       "sentiment": "positive",
       "plain_summary": "AI is now a key part of how governments make decisions in many areas like healthcare, policing, and welfare. As more AI systems are used, it's important to have rules to make sure they work fairly and don't cause problems. These rules help ensure that AI doesn't lead to unfair treatment or less democracy. By carefully watching how AI is used, we can make sure it helps people and doesn't hurt them."
-    },
-    {
-      "title": "Market Failure or Government Failure? A Response to Jaworski",
-      "short_title": "Market Failure or Government Failure? A Response to Jaworski",
-      "url": "https://doi.org/10.12747/bejr2013.01.08",
-      "source": "Business Ethics Journal Review",
-      "published_at": "2026-06-23T10:54:54.984165+00:00",
-      "sentiment": "negative",
-      "plain_summary": null
     },
     {
       "title": "The dark side of public service motivation : Analysis of noble cause corruption based on the Lebanese case",
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-06-23T10:43:00.923496+00:00",
+      "published_at": "2026-06-24T06:51:05.428298+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how public service motivation can lead to noble cause corruption in Lebanon, where there's a lot of social and economic hardship. The research found that feelings like compassion and selflessness often push people into doing good deeds for noble causes, but these actions sometimes involve corrupt practices. This leads to internal conflicts as the person feels both guilty and supported by their work environment. Factors like physical exchanges, personal space in the workplace, and close relationships with users can make it easier for this type of corruption to happen."
+    },
+    {
+      "title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bilan d\u2019une recherche immersive en Police Judiciaire fran\u00e7aise",
+      "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
+      "url": "https://doi.org/10.3917/gmp.pr1.0009",
+      "source": "Gestion et management public",
+      "published_at": "2026-06-24T06:50:55.126758+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This research focuses on understanding the emotional risks in police work and how they manage their emotions to improve job satisfaction. It was conducted by observing various police units like forensic science, digital investigation, financial division, criminal division, anti-terrorism unit, and more over 26 days. The study found two key emotions that are hard for them to express: interest and frustration. These emotions make it difficult for officers to discuss their work-related feelings openly, leading to invisible or undiscussed labor."
     },
     {
       "title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause noble \u00e0 partir du cas libanais",
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-06-23T10:43:00.923283+00:00",
+      "published_at": "2026-06-24T06:50:55.125464+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how public service motivation can lead to corruption for a noble cause in Lebanon, where corruption is prevalent and social issues are challenging. Based on interviews with 32 Lebanese public servants, the research explores how feelings of compassion and self-sacrifice related to public service motivation might encourage them to engage in corrupt behavior for what they see as a good cause. The study highlights that these motivations can lead to behaviors like providing extra support or shielding users from punishment. This can create internal conflicts within the public servant due to their emotional connection with those affected."
+    },
+    {
+      "title": "Market Failure or Government Failure? A Response to Jaworski",
+      "short_title": "Market Failure or Government Failure? A Response to Jaworski",
+      "url": "https://doi.org/10.12747/bejr2013.01.08",
+      "source": "Business Ethics Journal Review",
+      "published_at": "2026-06-24T06:50:55.122952+00:00",
+      "sentiment": "negative",
+      "plain_summary": null
     },
     {
       "title": "Simultaneous Model Discovery and State Estimation under High Data Corruption",
@@ -173,6 +182,15 @@
       "plain_summary": null
     },
     {
+      "title": "Finding explanations for low levels of citizens\u2019 happiness in resource-rich African economies: exploring the roles of unchecked corruption and natural resource endowments",
+      "short_title": "Finding explanations for low levels of citizens\u2019 happiness in resource-rich African economies:\u2026",
+      "url": "https://doi.org/10.1007/s13563-026-00668-1",
+      "source": "Mineral Economics",
+      "published_at": "2026-06-23T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This research looks at why people in African countries with lots of natural resources like oil or minerals are less happy than expected. It finds that when leaders don't control corruption well, people's happiness goes up because they find ways to get around unfair rules. But having more resources doesn\u2019t make people happier; it just means there\u2019s a bigger chance for corrupt practices. The study suggests that if governments can stop corruption better, people might be happier and the economy could also improve in the long run."
+    },
+    {
       "title": "Innovation entry as governance filter: shaping exploratory digital innovation in the public sector",
       "short_title": "Innovation entry as governance filter: shaping exploratory digital innovation in the public se\u2026",
       "url": "https://doi.org/10.1108/tg-01-2026-0025",
@@ -180,6 +198,15 @@
       "published_at": "2026-06-23T00:00:00+00:00",
       "sentiment": "positive",
       "plain_summary": "This study looks at how the way government organizations handle new ideas affects their ability to try out innovative technologies and approaches. Many public sector groups are used to solving problems step-by-step, but this can make it hard to explore new ideas freely. The research found that the rules for starting and moving through innovation projects act like filters, often pushing exploratory work towards more traditional ways of working. This means they tend to focus on quick fixes rather than experimenting with different solutions."
+    },
+    {
+      "title": "From denial to accountability: Co-evolution of government communication and public sentiment in a social-mediated crisis in China",
+      "short_title": "From denial to accountability: Co-evolution of government communication and public sentiment i\u2026",
+      "url": "https://doi.org/10.1177/00219096261453084",
+      "source": "Journal of Asian and African Studies",
+      "published_at": "2026-06-23T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": "This research looks at how China's government communicated during a big incident involving a woman in 2022. It found that as the government started admitting mistakes instead of denying them, people\u2019s feelings about it improved slightly but stayed negative overall. The study shows that when the government is honest and transparent, it can help improve public trust over time. This research helps governments understand how to better communicate during crises by considering what people expect from them."
     },
     {
       "title": "Factors Influencing Political Stability in South America: The Roles of Rule of Law, Regulatory Quality, Control of Corruption, and Government Effectiveness",
@@ -191,33 +218,6 @@
       "plain_summary": "Political stability in South American countries varies greatly and is influenced by several factors including rule of law, regulatory quality, control of corruption, and government effectiveness. This research found that all these governance aspects contribute positively to stability but only the rule of law has a significant impact when considered together with other variables. The study suggests that strengthening legal systems and improving law enforcement could be crucial for maintaining long-term political stability in South America."
     },
     {
-      "title": "Enhancing Police and Judicial Accountability in Gender-Based Violence Cases: Addressing Corruption, Inefficiency, and Victim-Blaming in Law Enforcement and the Judiciary",
-      "short_title": "Enhancing Police and Judicial Accountability in Gender-Based Violence Cases: Addressing Corrup\u2026",
-      "url": "https://doi.org/10.64211/oidaijsd190708",
-      "source": "OIDA International Journal of Sustainable Development",
-      "published_at": "2026-06-22T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This research highlights significant issues within law enforcement and the judiciary regarding gender-based violence (GBV) cases in South Africa. Key problems include corruption, inefficiency, and a tendency to blame victims instead of perpetrators. To address these challenges, it suggests strengthening anti-corruption measures, providing specialized training for officers and judges, and adopting survivor-centered justice approaches. These changes are crucial for improving accountability and ensuring fair treatment for GBV survivors while upholding the rule of law."
-    },
-    {
-      "title": "SHADOW ECONOMY AND CORRUPTION RISKS IN THE SYSTEM OF THREATS TO THE ECONOMIC SECURITY OF THE REGION",
-      "short_title": "SHADOW ECONOMY AND CORRUPTION RISKS IN THE SYSTEM OF THREATS TO THE ECONOMIC SECURITY OF THE R\u2026",
-      "url": "https://doi.org/10.31319/2709-2879.2026iss1(12).363692pp35-40",
-      "source": "ECONOMIC BULLETIN OF THE DNIPROVSK STATE TECHNICAL UNIVERSITY",
-      "published_at": "2026-06-22T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This article discusses how the shadow economy and corruption affect the economic security of a region. It shows that the shadow economy can weaken financial stability, reduce tax revenues, and distort competition. Corruption in areas like public procurement and land administration creates opportunities for illegal activities. This leads to inefficiencies in governance, reduces trust in government, and harms investment climates."
-    },
-    {
-      "title": "\u0417\u0410\u0420\u0423\u0411\u0415\u0416\u041d\u042b\u0419 \u041e\u041f\u042b\u0422 \u0411\u041e\u0420\u042c\u0411\u042b \u0421 \u041a\u041e\u0420\u0420\u0423\u041f\u0426\u0418\u0415\u0419 \u0418 \u041f\u041e\u0412\u042b\u0428\u0415\u041d\u0418\u042f \u0410\u041d\u0422\u0418\u041a\u041e\u0420\u0420\u0423\u041f\u0426\u0418\u041e\u041d\u041d\u041e\u0413\u041e \u041f\u0420\u0410\u0412\u041e\u0421\u041e\u0417\u041d\u0410\u041d\u0418\u042f \u0413\u0420\u0410\u0416\u0414\u0410\u041d",
-      "short_title": "\u0417\u0410\u0420\u0423\u0411\u0415\u0416\u041d\u042b\u0419 \u041e\u041f\u042b\u0422 \u0411\u041e\u0420\u042c\u0411\u042b \u0421 \u041a\u041e\u0420\u0420\u0423\u041f\u0426\u0418\u0415\u0419 \u0418 \u041f\u041e\u0412\u042b\u0428\u0415\u041d\u0418\u042f \u0410\u041d\u0422\u0418\u041a\u041e\u0420\u0420\u0423\u041f\u0426\u0418\u041e\u041d\u041d\u041e\u0413\u041e \u041f\u0420\u0410\u0412\u041e\u0421\u041e\u0417\u041d\u0410\u041d\u0418\u042f \u0413\u0420\u0410\u0416\u0414\u0410\u041d",
-      "url": "https://doi.org/10.37523/sui.2026.68.2.016",
-      "source": "Vestnik Samarskogo iuridicheskogo instituta",
-      "published_at": "2026-06-22T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This article looks at how other countries handle corruption and ways to improve anti-corruption efforts. It discusses different models like centralized control in places like Singapore and decentralized systems in the USA. The study covers things like educating people about corruption, making government information public, using technology for transparency, offering incentives to officials, and having a system where citizens can report corrupt behavior. The main point is that effectiveness isn't just about centralizing or decentralizing power; it's also important how well these three parts work together: laws, institutions, and educating people."
-    },
-    {
       "title": "E-Government to Combat Corruption Worldwide: Dominant Factors and a Holistic Model Emerging From Structured Literature Review",
       "short_title": "E-Government to Combat Corruption Worldwide: Dominant Factors and a Holistic Model Emerging Fr\u2026",
       "url": "https://doi.org/10.1080/1097198x.2026.2690887",
@@ -225,24 +225,6 @@
       "published_at": "2026-06-22T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": null
-    },
-    {
-      "title": "Corruption, collective moral harm, and the limits of the non-prosecution agreement as a reparatory mechanism for vulnerable groups",
-      "short_title": "Corruption, collective moral harm, and the limits of the non-prosecution agreement as a repara\u2026",
-      "url": "https://doi.org/10.55905/cuadv18n6-027",
-      "source": "Cuadernos de Educaci\u00f3n y Desarrollo",
-      "published_at": "2026-06-21T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This study examines whether a non-prosecution agreement (NPA) is enough to address corruption's impact on vulnerable groups. The NPA is seen as a way to resolve disputes without going to court but assumes that it can fully compensate for the harm caused by corruption, which affects more than just public funds and official misconduct. However, the study finds this approach insufficient because it doesn't adequately protect communities affected by corruption from moral damage. It argues that while NPA helps in some cases, it lacks provisions specifically designed to address collective harm like deepening inequalities or damaging a community's dignity."
-    },
-    {
-      "title": "Anti\u2010Corruption and Luxury Goods Consumption: Evidence From the Chinese Cigarette Market",
-      "short_title": "Anti\u2010Corruption and Luxury Goods Consumption: Evidence From the Chinese Cigarette Market",
-      "url": "https://doi.org/10.1111/obes.70105",
-      "source": "Oxford Bulletin of Economics and Statistics",
-      "published_at": "2026-06-19T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This study examines how anti-corruption measures affect luxury goods consumption, focusing on the cigarette market in China. The researchers developed a theory suggesting that corruption influences people's willingness to buy expensive items like cigarettes. They used data from 2007 to 2014 to see if China\u2019s anti-corruption campaign had an impact. Their findings showed that while the overall sales of cigarettes increased, luxury brands saw less demand compared to cheaper ones."
     },
     {
       "title": "Determinants of corruption control in public sectors in Northwestern Ethiopia",
@@ -299,15 +281,6 @@
       "plain_summary": "This study examines how transparency affects financial accountability in villages in South Sumatra Province by looking at the roles of commitment and integrity among local government officials. It found that when villagers are more transparent about their finances, it leads to higher levels of commitment and integrity from officials. This, in turn, improves financial accountability within the village. However, there's no direct effect of transparency on financial accountability itself."
     },
     {
-      "title": "Regulating Artificial Intelligence in the Public Sector: Policy Frameworks for Accountability, Ethics, and Human Rights Protection",
-      "short_title": "Regulating Artificial Intelligence in the Public Sector: Policy Frameworks for Accountability,\u2026",
-      "url": "https://doi.org/10.70670/sra.v4i2.2263",
-      "source": "Social Science Review Archives",
-      "published_at": "2026-06-15T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This research examines how governments can manage artificial intelligence effectively while ensuring they're accountable for its decisions, follow ethical guidelines, and protect people's rights. It found that transparency, having someone supervise AI systems, and regular audits are important ways to hold AI accountable. Ethical principles like fairness and avoiding discrimination need to be followed more consistently than what policies promise. To keep privacy safe and ensure everyone has a say in how AI is used, it\u2019s crucial for governments to have independent oversight bodies."
-    },
-    {
       "title": "Digital Governance and Anti-Corruption Transformation in Algeria: Evaluating the Role of Fiscal Digitization and E-Procurement Systems in Enhancing Administrative Transparency and Public Sector Integrity",
       "short_title": "Digital Governance and Anti-Corruption Transformation in Algeria: Evaluating the Role of Fisca\u2026",
       "url": "https://doi.org/10.56334/sei/9.7.4",
@@ -315,6 +288,15 @@
       "published_at": "2026-06-11T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "Digital governance in Algeria has been adopted as a strategy to combat corruption, especially in sectors like taxation and procurement. The country is digitizing tax administration and implementing electronic public procurement systems, which have improved transparency and accountability. These digital tools help reduce discretionary practices, enhance traceability, and improve access to information for the public. However, there are still challenges such as incomplete integration of digital systems, cybersecurity issues, and uneven administrative capacity that need addressing."
+    },
+    {
+      "title": "Law Enforcement vs NGOs: How Do the Different Professional Backgrounds of Anti-Trafficking Practitioners Influence Their Views on Human Trafficking in the UK?",
+      "short_title": "Law Enforcement vs NGOs: How Do the Different Professional Backgrounds of Anti-Trafficking Pra\u2026",
+      "url": "https://doi.org/10.1007/s43576-026-00227-2",
+      "source": "International Criminology",
+      "published_at": "2026-06-08T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": "This study examines how different backgrounds of anti-human trafficking professionals\u2014law enforcement officers versus support workers\u2014affect their views on human trafficking in the UK. Law enforcement officials tend to see trafficking through a lens focused on public protection, often leading them to view traffickers as criminals and victims as potential threats. Support workers, however, focus more on understanding victims' needs and traumas, seeing them as vulnerable individuals who need help. These different perspectives can lead to stereotypes that don't fully capture the complexity of human trafficking situations."
     },
     {
       "title": "Effectiveness of School-Based Anti-Drug Clubs in Raising Awareness of the Dangers of Drug Abuse Among Students in Basic Education Schools in Abuja Municipal Area Council, Nigeria",
@@ -335,15 +317,6 @@
       "plain_summary": null
     },
     {
-      "title": "Exploring the Anti-Inflammatory Potential of Choerospondias axillaris Through Molecular Docking based in silico Pharmacological Investigation",
-      "short_title": "Exploring the Anti-Inflammatory Potential of Choerospondias axillaris Through Molecular Dockin\u2026",
-      "url": "https://doi.org/10.3126/jmmihs.v11i1.94649",
-      "source": "Journal of Manmohan Memorial Institute of Health Sciences",
-      "published_at": "2026-06-05T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This study compared hormone and bone health indicators between women before and after menopause. It found that postmenopausal women had higher thyroid-stimulating hormone (TSH) levels and alkaline phosphatase (ALP), along with lower calcium and phosphate in their blood. The research used various statistical methods to analyze these markers, including multivariate analysis and machine learning models like random forest which showed 81% accuracy in predicting menopausal status based on ALP and calcium levels. Age also influenced calcium levels more than menopause status did."
-    },
-    {
       "title": "Anti-Corruption Compliance Abroad: Best Practices",
       "short_title": "Anti-Corruption Compliance Abroad: Best Practices",
       "url": "https://doi.org/10.18572/1812-3910-2026-2-47-50",
@@ -351,15 +324,6 @@
       "published_at": "2026-06-04T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "This article looks at how different countries handle preventing corruption both in their own laws and internationally. It shows that now companies need to prove they have effective anti-corruption programs rather than just having them. The study found many small businesses in Russia are vulnerable to corruption, which isn't enough protection yet. Countries like Brazil, UK, Portugal, US, and France all agree on the basics of how to do this well, but their rules vary a lot."
-    },
-    {
-      "title": "Unpacking the Emergence of Unqualified Audit Opinions as Quasi\u2010Accountability in Indonesian Public Sector",
-      "short_title": "Unpacking the Emergence of Unqualified Audit Opinions as Quasi\u2010Accountability in Indonesian Pu\u2026",
-      "url": "https://doi.org/10.1111/faam.70041",
-      "source": "Financial Accountability &amp; Management",
-      "published_at": "2026-06-03T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This research looks at how unqualified audit opinions (UAOs) are used in Indonesian local governments. Despite an increase in these opinions, they don't necessarily mean stronger accountability. Instead, their rise shows that audits support claims about government integrity and fighting corruption. Auditors play a key role here, balancing expectations from the environment with their own risks."
     },
     {
       "title": "Political power and wealth distribution: how anti-corruption reforms reshape inequality",
@@ -389,21 +353,21 @@
       "plain_summary": null
     },
     {
+      "title": "Digital transformation of tax administration as a tool for economy definition and fighting corruption",
+      "short_title": "Digital transformation of tax administration as a tool for economy definition and fighting cor\u2026",
+      "url": "https://doi.org/10.32782/2310-9653-2026-2.4",
+      "source": "Public administration and customs administration",
+      "published_at": "2026-05-29T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": null
+    },
+    {
       "title": "REGULATORY AND LEGAL FRAMEWORK OF ANTI-CORRUPTION COMPLIANCE IN THE PUBLIC ADMINISTRATION SYSTEM AS A TOOL FOR ENSURING THE FISCAL SECURITY OF UKRAINE",
       "short_title": "REGULATORY AND LEGAL FRAMEWORK OF ANTI-CORRUPTION COMPLIANCE IN THE PUBLIC ADMINISTRATION SYST\u2026",
       "url": "https://doi.org/10.32782/2414-4436/2026-1-2",
       "source": "Public administration and local government",
       "published_at": "2026-05-28T00:00:00+00:00",
       "sentiment": "negative",
-      "plain_summary": null
-    },
-    {
-      "title": "Corrigendum: Editorial: Governance and accountability (Gover-nability) of multiple values of municipal corporations",
-      "short_title": "Corrigendum: Editorial: Governance and accountability (Gover-nability) of multiple values of m\u2026",
-      "url": "https://doi.org/10.1108/ijpsm-05-2026-0302",
-      "source": "International Journal of Public Sector Management",
-      "published_at": "2026-05-26T00:00:00+00:00",
-      "sentiment": "positive",
       "plain_summary": null
     },
     {
@@ -416,6 +380,24 @@
       "plain_summary": null
     },
     {
+      "title": "E-Government Public Policy Design in Realizing Transparency and Accountability of Government",
+      "short_title": "E-Government Public Policy Design in Realizing Transparency and Accountability of Government",
+      "url": "https://doi.org/10.7176/ppar/16-2-05",
+      "source": "Public Policy and Administration Research",
+      "published_at": "2026-05-01T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": null
+    },
+    {
+      "title": "QUANTITATIVE ASSESSMENT OF THE EFFECTIVENESS OF ANTI-CORRUPTION STRATEGIES IN CANDIDATE COUNTRIES FOR ACCESSION TO THE EUROPEAN UNION",
+      "short_title": "QUANTITATIVE ASSESSMENT OF THE EFFECTIVENESS OF ANTI-CORRUPTION STRATEGIES IN CANDIDATE COUNTR\u2026",
+      "url": "https://doi.org/10.70651/3041-2498/2026.4.06",
+      "source": "Public Management and Policy",
+      "published_at": "2026-04-10T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This research evaluates how well anti-corruption measures work in countries that are trying to join the European Union. It uses different methods like looking at reports from the EU, analyzing data, and comparing countries. The study found that some countries like Albania have strong law enforcement but others like Moldova show good progress over time. Ukraine is in the middle with both positive and negative aspects."
+    },
+    {
       "title": "A Study on the Use of Blockchain Technology to Prevent and Detect Corruption in Thailand's Government Procurement Process",
       "short_title": "A Study on the Use of Blockchain Technology to Prevent and Detect Corruption in Thailand's Gov\u2026",
       "url": "https://doi.org/10.4018/ijegr.406734",
@@ -423,6 +405,15 @@
       "published_at": "2026-04-08T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "This research suggests using blockchain technology to help stop corruption in government buying things. It found that having a good understanding of how to use blockchain is still not common among Thai governments. The study recommends creating new systems with blockchain like smart contracts and online training programs to make sure everyone follows rules fairly during the buying process. This can improve trust between buyers, sellers, and officials."
+    },
+    {
+      "title": "Impact of Corruption on Public Procurement Processes in Nigeria\u2019s Public Sector Organisations",
+      "short_title": "Impact of Corruption on Public Procurement Processes in Nigeria\u2019s Public Sector Organisations",
+      "url": "https://doi.org/10.7176/ppar/16-2-01",
+      "source": "Public Policy and Administration Research",
+      "published_at": "2026-04-01T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": null
     },
     {
       "title": "Governing Algorithmic Fairness in Climate-Health Systems: A Policy Framework for Bias Mitigation in Public Sector Decision-Making",
@@ -540,6 +531,15 @@
       "published_at": "2025-12-01T00:00:00+00:00",
       "sentiment": "positive",
       "plain_summary": null
+    },
+    {
+      "title": "Working Paper 60: Understanding the enemy",
+      "short_title": "Working Paper 60: Understanding the enemy",
+      "url": "https://doi.org/10.12685/bigwp.2025.60.1-32",
+      "source": "Basel Institute on Governance Working Papers",
+      "published_at": "2025-11-05T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This working paper discusses how corruption is not just about individual bad behavior but a networked issue involving social, economic, and political interactions. Understanding these networks can help in fighting corruption more effectively by seeing how they function across different levels of society. By looking at the structures and norms that support corrupt activities, we can develop better strategies to combat it. The paper suggests that anti-corruption efforts should learn from informal networks' positive aspects, making them a useful model for new initiatives."
     }
   ],
   "nonprofit": [
@@ -587,15 +587,6 @@
       "published_at": "2026-06-15T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "This study looks at how different groups like governments, businesses, non-profits, schools, and media work together to fight corruption using something called the Pentahelix framework. It found that for effective anti-corruption efforts, these groups need to collaborate closely rather than working separately. The Pentahelix model shows they can tackle corruption more effectively when they all play a part in it. This collaborative approach is key to creating strong systems against corruption and making sure it doesn't happen anymore."
-    },
-    {
-      "title": "Regulating Artificial Intelligence in the Public Sector: Policy Frameworks for Accountability, Ethics, and Human Rights Protection",
-      "short_title": "Regulating Artificial Intelligence in the Public Sector: Policy Frameworks for Accountability,\u2026",
-      "url": "https://doi.org/10.70670/sra.v4i2.2263",
-      "source": "Social Science Review Archives",
-      "published_at": "2026-06-15T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This research examines how governments can manage artificial intelligence effectively while ensuring they're accountable for its decisions, follow ethical guidelines, and protect people's rights. It found that transparency, having someone supervise AI systems, and regular audits are important ways to hold AI accountable. Ethical principles like fairness and avoiding discrimination need to be followed more consistently than what policies promise. To keep privacy safe and ensure everyone has a say in how AI is used, it\u2019s crucial for governments to have independent oversight bodies."
     },
     {
       "title": "Faith, Fraud, and Fees: Is Vigilant Behavior of Religious Donors in Crowdfunding Sacred or Secular?",
