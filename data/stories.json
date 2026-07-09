@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-07-08T14:36:20.954637+00:00",
+  "updated_at": "2026-07-09T07:49:41.023321+00:00",
   "government": [
+    {
+      "title": "Developmental Humanitarianism: The Rise of Chinese NGOs in Africa and Their Reshaping of the Global Humanitarian Landscape",
+      "short_title": "Developmental Humanitarianism: The Rise of Chinese NGOs in Africa and Their Reshaping of the G\u2026",
+      "url": "https://doi.org/10.1515/npf-2025-0021",
+      "source": "Nonprofit Policy Forum",
+      "published_at": "2026-07-09T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": "This research examines how Chinese non-governmental organizations (NGOs) are operating in Africa, focusing more on development rather than just providing aid during crises. These NGOs often blend emergency assistance with long-term projects like building local capacities and improving livelihoods. This approach helps them stay relevant by balancing their activities against host countries' sovereignty claims while also aligning with international norms. The study found that these organizations tend to cluster in certain regions, using existing infrastructure for aid and diplomacy."
+    },
     {
       "title": "Statistical footprints in corruption measurement: general approach, with application to automobile license plates in Russia",
       "short_title": "Statistical footprints in corruption measurement: general approach, with application to automo\u2026",
@@ -119,6 +128,78 @@
       "plain_summary": null
     },
     {
+      "title": "AI-based functional expense classification for nonprofit financial reporting and form 990 compliance",
+      "short_title": "AI-based functional expense classification for nonprofit financial reporting and form 990 comp\u2026",
+      "url": "https://doi.org/10.30574/ijsra.2026.20.1.1437",
+      "source": "International Journal of Science and Research Archive",
+      "published_at": "2026-07-31T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": "This study introduces an AI system to automate the process of classifying expenses in financial reports for nonprofits. It uses data from accounting records like P&L details or general ledger along with other inputs like vendor information and payroll records. The AI helps classify direct expenses and allocate shared costs, providing confidence scores and explanations for each classification. This draft report is then reviewed by accountants to ensure accuracy."
+    },
+    {
+      "title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bilan d\u2019une recherche immersive en Police Judiciaire fran\u00e7aise",
+      "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
+      "url": "https://doi.org/10.3917/gmp.pr1.0009",
+      "source": "Gestion et management public",
+      "published_at": "2026-07-09T07:15:31.961108+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This research focuses on understanding the emotional risks in police work and how they manage their emotions to improve job satisfaction. It was conducted by observing various police units like forensic science, digital investigation, financial division, criminal division, anti-terrorism unit, and more over 26 days. The study found two key emotions that are hard for them to express: interest and frustration. These emotions make it difficult for officers to discuss their work-related feelings openly, leading to invisible or undiscussed labor."
+    },
+    {
+      "title": "Data Science as a Catalyst for Audit Transformation",
+      "short_title": "Data Science as a Catalyst for Audit Transformation",
+      "url": "https://doi.org/10.56251/clyp9463",
+      "source": "International Journal of Government Auditing",
+      "published_at": "2026-07-09T07:15:31.443284+00:00",
+      "sentiment": "positive",
+      "plain_summary": "Data science has become crucial as we generate vast amounts of information daily. It helps transform this data into useful insights for better decision-making across various sectors. For audit institutions, integrating data science can enhance their ability to manage public funds more effectively and improve accountability. By using data science, audits can provide clearer and more accurate reports that recommend improvements faster, which benefits the overall administration and improves citizens' quality of life."
+    },
+    {
+      "title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
+      "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
+      "url": "https://doi.org/10.56251/tydf1981",
+      "source": "International Journal of Government Auditing",
+      "published_at": "2026-07-09T07:15:31.443029+00:00",
+      "sentiment": "positive",
+      "plain_summary": null
+    },
+    {
+      "title": "Killer Robots \u2013 A Case for SAIs",
+      "short_title": "Killer Robots \u2013 A Case for SAIs",
+      "url": "https://doi.org/10.56251/ojyp9121",
+      "source": "International Journal of Government Auditing",
+      "published_at": "2026-07-09T07:15:31.442960+00:00",
+      "sentiment": "positive",
+      "plain_summary": "This paper discusses a scenario where autonomous killer robots are used in warfare without human intervention. These robots can make decisions about who to target based on AI algorithms trained to recognize certain uniforms. If one of these drones targets and kills an enemy soldier who is surrendering, it would violate international laws. Another concern is if the robot makes a mistake by attacking another similar system, leading to unintended conflicts."
+    },
+    {
+      "title": "The dark side of public service motivation : Analysis of noble cause corruption based on the Lebanese case",
+      "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
+      "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
+      "source": "Gestion et management public",
+      "published_at": "2026-07-09T07:15:31.442572+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study examines how public service motivation can lead to noble cause corruption in Lebanon, where there's a lot of social and economic hardship. The research found that feelings like compassion and selflessness often push people into doing good deeds for noble causes, but these actions sometimes involve corrupt practices. This leads to internal conflicts as the person feels both guilty and supported by their work environment. Factors like physical exchanges, personal space in the workplace, and close relationships with users can make it easier for this type of corruption to happen."
+    },
+    {
+      "title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause noble \u00e0 partir du cas libanais",
+      "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
+      "url": "https://doi.org/10.3917/gmp.pr1.0018",
+      "source": "Gestion et management public",
+      "published_at": "2026-07-09T07:15:31.442360+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study examines how public service motivation can lead to corruption for a noble cause in Lebanon, where corruption is prevalent and social issues are challenging. Based on interviews with 32 Lebanese public servants, the research explores how feelings of compassion and self-sacrifice related to public service motivation might encourage them to engage in corrupt behavior for what they see as a good cause. The study highlights that these motivations can lead to behaviors like providing extra support or shielding users from punishment. This can create internal conflicts within the public servant due to their emotional connection with those affected."
+    },
+    {
+      "title": "Market Failure or Government Failure? A Response to Jaworski",
+      "short_title": "Market Failure or Government Failure? A Response to Jaworski",
+      "url": "https://doi.org/10.12747/bejr2013.01.08",
+      "source": "Business Ethics Journal Review",
+      "published_at": "2026-07-09T07:15:31.442025+00:00",
+      "sentiment": "negative",
+      "plain_summary": null
+    },
+    {
       "title": "Technologization of Anti-Corruption Policy and Changes in the Procedure for income control",
       "short_title": "Technologization of Anti-Corruption Policy and Changes in the Procedure for income control",
       "url": "https://doi.org/10.18572/1813-1247-2026-7-16-20",
@@ -128,85 +209,13 @@
       "plain_summary": "Anti-corruption policies aim to prevent corruption by identifying individuals who might be involved. In Russia, this has changed from annual reports filled out manually to focusing on specific areas like personnel decisions and property transactions. Now, there's a digital platform that monitors these activities in real-time using objective data from various sources. This helps catch any discrepancies or hidden assets quickly."
     },
     {
-      "title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bilan d\u2019une recherche immersive en Police Judiciaire fran\u00e7aise",
-      "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
-      "url": "https://doi.org/10.3917/gmp.pr1.0009",
-      "source": "Gestion et management public",
-      "published_at": "2026-07-08T13:41:47.898921+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This research focuses on understanding the emotional risks in police work and how they manage their emotions to improve job satisfaction. It was conducted by observing various police units like forensic science, digital investigation, financial division, criminal division, anti-terrorism unit, and more over 26 days. The study found two key emotions that are hard for them to express: interest and frustration. These emotions make it difficult for officers to discuss their work-related feelings openly, leading to invisible or undiscussed labor."
-    },
-    {
-      "title": "Data Science as a Catalyst for Audit Transformation",
-      "short_title": "Data Science as a Catalyst for Audit Transformation",
-      "url": "https://doi.org/10.56251/clyp9463",
-      "source": "International Journal of Government Auditing",
-      "published_at": "2026-07-08T13:41:47.115377+00:00",
-      "sentiment": "positive",
-      "plain_summary": "Data science has become crucial as we generate vast amounts of information daily. It helps transform this data into useful insights for better decision-making across various sectors. For audit institutions, integrating data science can enhance their ability to manage public funds more effectively and improve accountability. By using data science, audits can provide clearer and more accurate reports that recommend improvements faster, which benefits the overall administration and improves citizens' quality of life."
-    },
-    {
-      "title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
-      "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
-      "url": "https://doi.org/10.56251/tydf1981",
-      "source": "International Journal of Government Auditing",
-      "published_at": "2026-07-08T13:41:47.115117+00:00",
-      "sentiment": "positive",
-      "plain_summary": null
-    },
-    {
-      "title": "Killer Robots \u2013 A Case for SAIs",
-      "short_title": "Killer Robots \u2013 A Case for SAIs",
-      "url": "https://doi.org/10.56251/ojyp9121",
-      "source": "International Journal of Government Auditing",
-      "published_at": "2026-07-08T13:41:47.115050+00:00",
-      "sentiment": "positive",
-      "plain_summary": "This paper discusses a scenario where autonomous killer robots are used in warfare without human intervention. These robots can make decisions about who to target based on AI algorithms trained to recognize certain uniforms. If one of these drones targets and kills an enemy soldier who is surrendering, it would violate international laws. Another concern is if the robot makes a mistake by attacking another similar system, leading to unintended conflicts."
-    },
-    {
-      "title": "The dark side of public service motivation : Analysis of noble cause corruption based on the Lebanese case",
-      "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
-      "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
-      "source": "Gestion et management public",
-      "published_at": "2026-07-08T13:41:47.114667+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This study examines how public service motivation can lead to noble cause corruption in Lebanon, where there's a lot of social and economic hardship. The research found that feelings like compassion and selflessness often push people into doing good deeds for noble causes, but these actions sometimes involve corrupt practices. This leads to internal conflicts as the person feels both guilty and supported by their work environment. Factors like physical exchanges, personal space in the workplace, and close relationships with users can make it easier for this type of corruption to happen."
-    },
-    {
-      "title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause noble \u00e0 partir du cas libanais",
-      "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
-      "url": "https://doi.org/10.3917/gmp.pr1.0018",
-      "source": "Gestion et management public",
-      "published_at": "2026-07-08T13:41:47.114444+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This study examines how public service motivation can lead to corruption for a noble cause in Lebanon, where corruption is prevalent and social issues are challenging. Based on interviews with 32 Lebanese public servants, the research explores how feelings of compassion and self-sacrifice related to public service motivation might encourage them to engage in corrupt behavior for what they see as a good cause. The study highlights that these motivations can lead to behaviors like providing extra support or shielding users from punishment. This can create internal conflicts within the public servant due to their emotional connection with those affected."
-    },
-    {
-      "title": "Market Failure or Government Failure? A Response to Jaworski",
-      "short_title": "Market Failure or Government Failure? A Response to Jaworski",
-      "url": "https://doi.org/10.12747/bejr2013.01.08",
-      "source": "Business Ethics Journal Review",
-      "published_at": "2026-07-08T13:41:47.114119+00:00",
-      "sentiment": "negative",
-      "plain_summary": null
-    },
-    {
       "title": "The Mystery between Human Capital, Corruption, FDI and Their Impact on Economic and Social Development",
       "short_title": "The Mystery between Human Capital, Corruption, FDI and Their Impact on Economic and Social Dev\u2026",
       "url": "https://doi.org/10.37394/23209.2026.23.41",
       "source": "WSEAS TRANSACTIONS ON INFORMATION SCIENCE AND APPLICATIONS",
       "published_at": "2026-07-08T00:00:00+00:00",
       "sentiment": "negative",
-      "plain_summary": null
-    },
-    {
-      "title": "L26/P-816 Using machine learning (ML), anti-mullerian hormone (AMH) is a key predictor of IVF live birth (LB) outcomes",
-      "short_title": "L26/P-816 Using machine learning (ML), anti-mullerian hormone (AMH) is a key predictor of IVF\u2026",
-      "url": "https://doi.org/10.1093/humrep/deag083.1143",
-      "source": "Human Reproduction",
-      "published_at": "2026-07-08T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This study uses machine learning to analyze data from 189,653 in vitro fertilization (IVF) cycles across 145,680 patients. The key finding is that anti-mullerian hormone (AMH), a measure of ovarian reserve, is an important predictor of IVF live birth outcomes before the start of treatment. The study found that AMH and patient age together are strong predictors of whether a woman will have a successful IVF cycle. However, the importance of AMH varies slightly depending on where in the country the data comes from."
+      "plain_summary": "This research looks at how corruption, government spending, foreign direct investment (FDI), and human capital are connected in several Southeast Asian countries like Indonesia, Thailand, Vietnam, and the Philippines. It uses data from organizations like Transparency International and the World Bank to analyze these factors. The study found that when there's more money spent by governments on health and education, it leads to better health outcomes. There was also a strong link between corruption and health, suggesting that reducing corruption could improve healthcare systems."
     },
     {
       "title": "Business Decisions or Corruption? The Business Judgment Rule in Decision 68/2025",
@@ -225,15 +234,6 @@
       "published_at": "2026-07-06T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "This study looks at how people who take money from village funds can be held legally responsible in Indonesia. It found that most of these cases happen because the village leaders misuse their power over the money meant for villagers. The key to winning a case is proving they took more than was supposed and had bad intentions. The research also noted that not having enough checks on how the money is used makes it easier for people to steal from the village funds."
-    },
-    {
-      "title": "THE INTERNALISATION OF ANTI-CORRUPTION VALUES THROUGH CHARACTER EDUCATION IN HIGHER EDUCATION",
-      "short_title": "THE INTERNALISATION OF ANTI-CORRUPTION VALUES THROUGH CHARACTER EDUCATION IN HIGHER EDUCATION",
-      "url": "https://doi.org/10.61578/jh.5.2.73-80",
-      "source": "Jurnal Honai",
-      "published_at": "2026-07-05T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "Corruption affects national progress and public trust, so universities play a key role in teaching anti-corruption values through character education. This includes courses that promote honesty, responsibility, and academic ethics. Research shows integrating these lessons into the curriculum, along with campus policies and student involvement, helps create an environment where students learn to behave honestly. Using technology can also enhance learning about preventing corruption."
     },
     {
       "title": "Assessing the Effectiveness of E-Governance in Enhancing Transparency and Accountability in Public Secondary Schools in Nairobi County, Kenya",
@@ -544,6 +544,15 @@
   ],
   "nonprofit": [
     {
+      "title": "Developmental Humanitarianism: The Rise of Chinese NGOs in Africa and Their Reshaping of the Global Humanitarian Landscape",
+      "short_title": "Developmental Humanitarianism: The Rise of Chinese NGOs in Africa and Their Reshaping of the G\u2026",
+      "url": "https://doi.org/10.1515/npf-2025-0021",
+      "source": "Nonprofit Policy Forum",
+      "published_at": "2026-07-09T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": "This research examines how Chinese non-governmental organizations (NGOs) are operating in Africa, focusing more on development rather than just providing aid during crises. These NGOs often blend emergency assistance with long-term projects like building local capacities and improving livelihoods. This approach helps them stay relevant by balancing their activities against host countries' sovereignty claims while also aligning with international norms. The study found that these organizations tend to cluster in certain regions, using existing infrastructure for aid and diplomacy."
+    },
+    {
       "title": "The Ethics of Islamic Philanthropy",
       "short_title": "The Ethics of Islamic Philanthropy",
       "url": "https://doi.org/10.1177/08997640261457388",
@@ -569,6 +578,15 @@
       "published_at": "2026-12-15T00:00:00+00:00",
       "sentiment": "positive",
       "plain_summary": "The study proposes a cybernetic diagnostic tool called RAS-VI (Resilience-Adaptability-Synergy-Diversity Index) for evaluating the effectiveness of anti-narcotics policies at different levels. This model uses principles from cybernetics and systems theory to assess how well regional anti-narcotics systems can adapt, work together, and maintain stability. Key indicators like resilience, adaptability, synergy, and diversity are used to measure these aspects. By applying RAS-VI, policymakers can better understand the strengths and weaknesses of their system and improve its overall effectiveness in managing drug issues."
+    },
+    {
+      "title": "AI-based functional expense classification for nonprofit financial reporting and form 990 compliance",
+      "short_title": "AI-based functional expense classification for nonprofit financial reporting and form 990 comp\u2026",
+      "url": "https://doi.org/10.30574/ijsra.2026.20.1.1437",
+      "source": "International Journal of Science and Research Archive",
+      "published_at": "2026-07-31T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": "This study introduces an AI system to automate the process of classifying expenses in financial reports for nonprofits. It uses data from accounting records like P&L details or general ledger along with other inputs like vendor information and payroll records. The AI helps classify direct expenses and allocate shared costs, providing confidence scores and explanations for each classification. This draft report is then reviewed by accountants to ensure accuracy."
     },
     {
       "title": "Formation of Business\u2010Nonprofit Collaborations: A Matching Approach",
