@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T07:49:41.023321+00:00",
+  "updated_at": "2026-07-10T15:03:32.524026+00:00",
   "government": [
     {
       "title": "Developmental Humanitarianism: The Rise of Chinese NGOs in Africa and Their Reshaping of the Global Humanitarian Landscape",
@@ -45,6 +45,15 @@
       "published_at": "2026-01-10T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how politicians accused of corruption respond when they deny their wrongdoing. The research shows that when politicians say they are innocent or blame others for their actions, it can improve their image and chances of winning elections. This is especially true for people who strongly support one political party. Understanding this helps us see how leaders influence public opinion about corruption in politics."
+    },
+    {
+      "title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy Implications",
+      "short_title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy I\u2026",
+      "url": "https://doi.org/10.47259/ijrebs.2026.711",
+      "source": "International Journal of Research in Entrepreneurship &amp; Business Studies",
+      "published_at": "2027-01-11T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": "This study analyzed how airlines handle airfare refunds and the challenges customers face during this process. It found that communication issues are a major problem, especially in understanding airline rules. Despite most customers being satisfied with their refund after receiving one, they felt the process was complex and inefficient. The research suggests clearer policies and better coordination between airlines, intermediaries, and customers could improve trust and service quality."
     },
     {
       "title": "Using Open-Source Intelligence and a Top Down/Bottom up Approach to Improve Supply Chain Risk Management in a Government Agency",
@@ -137,11 +146,20 @@
       "plain_summary": "This study introduces an AI system to automate the process of classifying expenses in financial reports for nonprofits. It uses data from accounting records like P&L details or general ledger along with other inputs like vendor information and payroll records. The AI helps classify direct expenses and allocate shared costs, providing confidence scores and explanations for each classification. This draft report is then reviewed by accountants to ensure accuracy."
     },
     {
+      "title": "AI Regulation and Its Social Impacts on Public Policy",
+      "short_title": "AI Regulation and Its Social Impacts on Public Policy",
+      "url": "https://doi.org/10.55737/rl.v5i1.26181",
+      "source": "Regional Lens",
+      "published_at": "2026-07-10T14:34:13.640355+00:00",
+      "sentiment": "positive",
+      "plain_summary": "AI is now a key part of how governments make decisions in many areas like healthcare, policing, and welfare. As more AI systems are used, it's important to have rules to make sure they work fairly and don't cause problems. These rules help ensure that AI doesn't lead to unfair treatment or less democracy. By carefully watching how AI is used, we can make sure it helps people and doesn't hurt them."
+    },
+    {
       "title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bilan d\u2019une recherche immersive en Police Judiciaire fran\u00e7aise",
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-07-09T07:15:31.961108+00:00",
+      "published_at": "2026-07-10T14:02:24.114456+00:00",
       "sentiment": "negative",
       "plain_summary": "This research focuses on understanding the emotional risks in police work and how they manage their emotions to improve job satisfaction. It was conducted by observing various police units like forensic science, digital investigation, financial division, criminal division, anti-terrorism unit, and more over 26 days. The study found two key emotions that are hard for them to express: interest and frustration. These emotions make it difficult for officers to discuss their work-related feelings openly, leading to invisible or undiscussed labor."
     },
@@ -150,7 +168,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-07-09T07:15:31.443284+00:00",
+      "published_at": "2026-07-10T14:02:22.513189+00:00",
       "sentiment": "positive",
       "plain_summary": "Data science has become crucial as we generate vast amounts of information daily. It helps transform this data into useful insights for better decision-making across various sectors. For audit institutions, integrating data science can enhance their ability to manage public funds more effectively and improve accountability. By using data science, audits can provide clearer and more accurate reports that recommend improvements faster, which benefits the overall administration and improves citizens' quality of life."
     },
@@ -159,7 +177,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-07-09T07:15:31.443029+00:00",
+      "published_at": "2026-07-10T14:02:22.512928+00:00",
       "sentiment": "positive",
       "plain_summary": null
     },
@@ -168,7 +186,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-07-09T07:15:31.442960+00:00",
+      "published_at": "2026-07-10T14:02:22.512859+00:00",
       "sentiment": "positive",
       "plain_summary": "This paper discusses a scenario where autonomous killer robots are used in warfare without human intervention. These robots can make decisions about who to target based on AI algorithms trained to recognize certain uniforms. If one of these drones targets and kills an enemy soldier who is surrendering, it would violate international laws. Another concern is if the robot makes a mistake by attacking another similar system, leading to unintended conflicts."
     },
@@ -177,7 +195,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-07-09T07:15:31.442572+00:00",
+      "published_at": "2026-07-10T14:02:22.512465+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how public service motivation can lead to noble cause corruption in Lebanon, where there's a lot of social and economic hardship. The research found that feelings like compassion and selflessness often push people into doing good deeds for noble causes, but these actions sometimes involve corrupt practices. This leads to internal conflicts as the person feels both guilty and supported by their work environment. Factors like physical exchanges, personal space in the workplace, and close relationships with users can make it easier for this type of corruption to happen."
     },
@@ -186,7 +204,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-07-09T07:15:31.442360+00:00",
+      "published_at": "2026-07-10T14:02:22.512249+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how public service motivation can lead to corruption for a noble cause in Lebanon, where corruption is prevalent and social issues are challenging. Based on interviews with 32 Lebanese public servants, the research explores how feelings of compassion and self-sacrifice related to public service motivation might encourage them to engage in corrupt behavior for what they see as a good cause. The study highlights that these motivations can lead to behaviors like providing extra support or shielding users from punishment. This can create internal conflicts within the public servant due to their emotional connection with those affected."
     },
@@ -195,9 +213,18 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-07-09T07:15:31.442025+00:00",
+      "published_at": "2026-07-10T14:02:22.511904+00:00",
       "sentiment": "negative",
       "plain_summary": null
+    },
+    {
+      "title": "The Boundaries of Criminal Liability of Cooperative Management and Cooperatives as Corporations in Corruption Crimes",
+      "short_title": "The Boundaries of Criminal Liability of Cooperative Management and Cooperatives as Corporation\u2026",
+      "url": "https://doi.org/10.62951/ijsl.v3i3.1009",
+      "source": "International Journal of Sociology and Law",
+      "published_at": "2026-07-10T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study examines how cooperatives can be held responsible for corruption crimes. It shows that while individual managers of cooperatives may face charges if they misuse their power or benefit personally from wrongdoing, cooperatives themselves are only liable when their policies lead to losses, provide benefits to the organization, or indicate failures in internal oversight. The research aims to clarify these responsibilities and improve legal frameworks to better combat corruption within cooperative sectors. This clarity helps ensure that both individuals and organizations can be held accountable appropriately, leading to more effective law enforcement against corruption."
     },
     {
       "title": "Technologization of Anti-Corruption Policy and Changes in the Procedure for income control",
@@ -209,31 +236,31 @@
       "plain_summary": "Anti-corruption policies aim to prevent corruption by identifying individuals who might be involved. In Russia, this has changed from annual reports filled out manually to focusing on specific areas like personnel decisions and property transactions. Now, there's a digital platform that monitors these activities in real-time using objective data from various sources. This helps catch any discrepancies or hidden assets quickly."
     },
     {
-      "title": "The Mystery between Human Capital, Corruption, FDI and Their Impact on Economic and Social Development",
-      "short_title": "The Mystery between Human Capital, Corruption, FDI and Their Impact on Economic and Social Dev\u2026",
-      "url": "https://doi.org/10.37394/23209.2026.23.41",
-      "source": "WSEAS TRANSACTIONS ON INFORMATION SCIENCE AND APPLICATIONS",
-      "published_at": "2026-07-08T00:00:00+00:00",
+      "title": "Rule of Law or Rule of Politics? Understanding Varieties of Judicial Anti-Corruption Campaigns",
+      "short_title": "Rule of Law or Rule of Politics? Understanding Varieties of Judicial Anti-Corruption Campaigns",
+      "url": "https://doi.org/10.1146/annurev-lawsocsci-062124-122349",
+      "source": "Annual Review of Law and Social Science",
+      "published_at": "2026-07-09T00:00:00+00:00",
       "sentiment": "negative",
-      "plain_summary": "This research looks at how corruption, government spending, foreign direct investment (FDI), and human capital are connected in several Southeast Asian countries like Indonesia, Thailand, Vietnam, and the Philippines. It uses data from organizations like Transparency International and the World Bank to analyze these factors. The study found that when there's more money spent by governments on health and education, it leads to better health outcomes. There was also a strong link between corruption and health, suggesting that reducing corruption could improve healthcare systems."
+      "plain_summary": "This study looks at anti-corruption efforts by judges and prosecutors targeting powerful politicians. It finds these campaigns are often political moves rather than purely legal actions. They can either strengthen fair governance or just look good without changing anything real. The effectiveness varies widely depending on how open the process is, what kind of government they're in, and if it leads to less corruption or other problems like people losing trust in leaders."
     },
     {
-      "title": "Business Decisions or Corruption? The Business Judgment Rule in Decision 68/2025",
-      "short_title": "Business Decisions or Corruption? The Business Judgment Rule in Decision 68/2025",
-      "url": "https://doi.org/10.59261/jlsp.v4i3.109",
-      "source": "Journal of Law and Social Politics",
-      "published_at": "2026-07-06T00:00:00+00:00",
+      "title": "Responsibility of the Company's Board of Directors as Perpetrators of Corruption Crimes in Case Decision Number: 17/Pid.Sus-Tpk/2020/Pn.Plk",
+      "short_title": "Responsibility of the Company's Board of Directors as Perpetrators of Corruption Crimes in Cas\u2026",
+      "url": "https://doi.org/10.46799/ijssr.v6i7.1429",
+      "source": "International Journal of Social Service and Research",
+      "published_at": "2026-07-09T00:00:00+00:00",
       "sentiment": "negative",
-      "plain_summary": "This study examines how the Business Judgment Rule (BJR) was applied in a court decision related to corruption charges against former directors. The court ruled that if BJR protections were lost due to negligence, it could no longer shield decisions from being seen as corrupt. There are five key factors used by judges to decide whether a business decision is protected by BJR or considered corrupt: the quality of the decision, level of negligence, integrity of approval documents, amount of loss, and presence of fraud or conflict of interest. Practitioners can use these guidelines to distinguish between legitimate business risks and criminal liability for SOE directors in similar cases."
+      "plain_summary": "This study looks at how Indonesia\u2019s law treats corruption cases involving corporations. A company owner named Didie was found guilty of corruption for a road project. The research shows that even though companies are legal entities, they can still be held responsible if their actions lead to corruption. This means the company itself and not just its owners could be punished."
     },
     {
-      "title": "Criminal Liability of Offenders in Village Fund Corruption Cases under the Indonesian Anti-Corruption Law",
-      "short_title": "Criminal Liability of Offenders in Village Fund Corruption Cases under the Indonesian Anti-Cor\u2026",
-      "url": "https://doi.org/10.35912/jihham.v6i1.6833",
-      "source": "Jurnal Ilmiah Hukum dan Hak Asasi Manusia",
-      "published_at": "2026-07-06T00:00:00+00:00",
+      "title": "Institutional Quality and the Corruption-Growth Nexus: A Panel Data Analysis for Developing Countries",
+      "short_title": "Institutional Quality and the Corruption-Growth Nexus: A Panel Data Analysis for Developing Co\u2026",
+      "url": "https://doi.org/10.66857/091e",
+      "source": "Journal of Innovative Research and Technology",
+      "published_at": "2026-07-09T00:00:00+00:00",
       "sentiment": "negative",
-      "plain_summary": "This study looks at how people who take money from village funds can be held legally responsible in Indonesia. It found that most of these cases happen because the village leaders misuse their power over the money meant for villagers. The key to winning a case is proving they took more than was supposed and had bad intentions. The research also noted that not having enough checks on how the money is used makes it easier for people to steal from the village funds."
+      "plain_summary": "This study looks at how strong institutions in developing countries affect corruption and economic growth. It uses data from 23 Asian countries over many years. The main finding is that when there's less corruption, economies grow better. Stronger institutions help reduce corruption\u2019s negative impact on growth."
     },
     {
       "title": "Assessing the Effectiveness of E-Governance in Enhancing Transparency and Accountability in Public Secondary Schools in Nairobi County, Kenya",
@@ -263,6 +290,15 @@
       "plain_summary": "In Ghana's Upper West Region, there has been a low uptake of anti-rabies vaccinations for dogs and other animals like cats and monkeys. From 2019 to 2023, about 32,874 animals were vaccinated against rabies, with most being dogs (86.9%). The lowest vaccination rate was for monkeys at just 0.1%. Lambussie district had the highest number of vaccinated animals, while Sissala West district had the fewest."
     },
     {
+      "title": "Corruption and public healthcare quality in the European Union: Evidence from Europe\u2019s regions",
+      "short_title": "Corruption and public healthcare quality in the European Union: Evidence from Europe\u2019s regions",
+      "url": "https://doi.org/10.1016/j.healthpol.2026.105693",
+      "source": "Health Policy",
+      "published_at": "2026-07-01T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": null
+    },
+    {
       "title": "International Anti-Corruption Commissions: Explaining Institutional Design and Autonomy",
       "short_title": "International Anti-Corruption Commissions: Explaining Institutional Design and Autonomy",
       "url": "https://doi.org/10.5129/001041526x17686834944182",
@@ -287,15 +323,6 @@
       "source": "Journal of Management in Engineering",
       "published_at": "2026-07-01T00:00:00+00:00",
       "sentiment": "positive",
-      "plain_summary": null
-    },
-    {
-      "title": "Corruption, Anti-Corruption, Vigilance, and State Building from Early to Late Modern Times , ed. Ricard Torra-Prat, Joan Pubill-Brugu\u00e9s and Arndt Brendecke",
-      "short_title": "Corruption, Anti-Corruption, Vigilance, and State Building from Early to Late Modern Times , e\u2026",
-      "url": "https://doi.org/10.1093/ehr/ceag158",
-      "source": "The English Historical Review",
-      "published_at": "2026-07-01T00:00:00+00:00",
-      "sentiment": "negative",
       "plain_summary": null
     },
     {
@@ -332,6 +359,15 @@
       "source": "Korean Policy Studies Review",
       "published_at": "2026-06-30T00:00:00+00:00",
       "sentiment": "positive",
+      "plain_summary": null
+    },
+    {
+      "title": "Exploring the Moderating Effect of Ethical Project Management Practices in the Success of IT Project: Evidence From the Public Sector",
+      "short_title": "Exploring the Moderating Effect of Ethical Project Management Practices in the Success of IT P\u2026",
+      "url": "https://doi.org/10.61093/bel.10(2).393-416.2026",
+      "source": "Business Ethics and Leadership",
+      "published_at": "2026-06-30T00:00:00+00:00",
+      "sentiment": "negative",
       "plain_summary": null
     },
     {
@@ -378,15 +414,6 @@
       "published_at": "2026-06-26T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how the public procurement system in Europe was affected during the pandemic. It found that spending on coronavirus-related projects led to an increase in corruption risks, especially in countries where government controls are not very strict. This happened because new companies without experience dealing with COVID-19 products took advantage of weak regulations to win big contracts. The study also noted that this increased risk spread beyond just healthcare procurement into other areas like general public services."
-    },
-    {
-      "title": "Teacher Engagement in Education for Sustainability: Integrating Anti-Corruption Values into Learning in Remote Areas",
-      "short_title": "Teacher Engagement in Education for Sustainability: Integrating Anti-Corruption Values into Le\u2026",
-      "url": "https://doi.org/10.24036/88514121012026978",
-      "source": "Journal of Moral and Civic Education",
-      "published_at": "2026-06-26T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This research focuses on how teachers can better integrate anti-corruption values into their lessons, especially in remote areas where resources are limited. It found that effective teacher engagement is key, involving readiness to understand anti-corruption concepts, supportive school environments, appropriate teaching methods, and fostering students' integrity development. The study proposes a framework for teachers to help them engage more effectively with these goals, which can be applied to improve education in remote schools. This practical approach helps ensure that even in challenging settings, children learn about important values like honesty and fairness."
     },
     {
       "title": "Nursing students' perceptions of an anti-stigma intervention for schizophrenia: a qualitative focus group study",
@@ -470,15 +497,6 @@
       "plain_summary": null
     },
     {
-      "title": "E-Government Public Policy Design in Realizing Transparency and Accountability of Government",
-      "short_title": "E-Government Public Policy Design in Realizing Transparency and Accountability of Government",
-      "url": "https://doi.org/10.7176/ppar/16-2-05",
-      "source": "Public Policy and Administration Research",
-      "published_at": "2026-05-01T00:00:00+00:00",
-      "sentiment": "positive",
-      "plain_summary": null
-    },
-    {
       "title": "A Study on the Use of Blockchain Technology to Prevent and Detect Corruption in Thailand's Government Procurement Process",
       "short_title": "A Study on the Use of Blockchain Technology to Prevent and Detect Corruption in Thailand's Gov\u2026",
       "url": "https://doi.org/10.4018/ijegr.406734",
@@ -522,24 +540,6 @@
       "published_at": "2026-03-12T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "This article looks at how Russia is making rules for people to declare if they have done anything wrong that could be seen as corrupt. In recent years, it's gotten more complicated how this works. On one hand, there are now better ways for government to check on people who might be doing bad things and use computers more. But on the other hand, fewer people can easily see these declarations because the government says they need to protect everyone from danger."
-    },
-    {
-      "title": "Relevant Issues of Conducting Anti-Corruption Expert Examination of Draft Regulatory Legal Acts by State Authorities of the Subjects of the Russian Federation",
-      "short_title": "Relevant Issues of Conducting Anti-Corruption Expert Examination of Draft Regulatory Legal Act\u2026",
-      "url": "https://doi.org/10.18572/1813-1247-2026-3-33-36",
-      "source": "State power and local self-government",
-      "published_at": "2026-03-12T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This article talks about how state authorities in different parts of Russia can check if new rules they're making are free from corruption. It looks at ways to do this effectively and gives examples from other regions. The main idea is to suggest improvements so these checks work better, helping keep laws clean and fair for everyone."
-    },
-    {
-      "title": "Implementation of Good Governance Principles in the 2024 Election: A Study of Transparency and Accountability in the Central Maluku Regency KPU",
-      "short_title": "Implementation of Good Governance Principles in the 2024 Election: A Study of Transparency and\u2026",
-      "url": "https://doi.org/10.66254/jgssvol5issue1page1-11",
-      "source": "Journal of Government Science Studies",
-      "published_at": "2026-03-08T00:00:00+00:00",
-      "sentiment": "positive",
-      "plain_summary": "This study examines how transparently and accountable the 2024 election in Central Maluku Regency was. It found that while there was good openness of information to the public about voting processes, including updates on voter data and results announcements, improvements are needed in technical aspects like reporting and documentation consistency. Additionally, better coordination between election organizers and oversight bodies is required for smoother operations. Practitioners can use these findings to improve future elections by enhancing transparency, accountability, and coordination among different stakeholders."
     }
   ],
   "nonprofit": [
@@ -571,6 +571,15 @@
       "plain_summary": "This study looked at why people vote in local government elections in Croatia from 2014 to 2021. It found that if fewer people voted last time, they're likely to vote less again. Issues like whether the city provides good services and benefits also affect how many people show up to vote. The main parties aren't doing a good job of getting their supporters to participate."
     },
     {
+      "title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy Implications",
+      "short_title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy I\u2026",
+      "url": "https://doi.org/10.47259/ijrebs.2026.711",
+      "source": "International Journal of Research in Entrepreneurship &amp; Business Studies",
+      "published_at": "2027-01-11T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": "This study analyzed how airlines handle airfare refunds and the challenges customers face during this process. It found that communication issues are a major problem, especially in understanding airline rules. Despite most customers being satisfied with their refund after receiving one, they felt the process was complex and inefficient. The research suggests clearer policies and better coordination between airlines, intermediaries, and customers could improve trust and service quality."
+    },
+    {
       "title": "THE CYBERNETIC DIAGNOSTIC OF ANTI-NARCOTIC SYSTEM: MODEL RAS-VI AS A TOOL OF SYSTEMIC EVALUATION",
       "short_title": "THE CYBERNETIC DIAGNOSTIC OF ANTI-NARCOTIC SYSTEM: MODEL RAS-VI AS A TOOL OF SYSTEMIC EVALUATI\u2026",
       "url": "https://doi.org/10.32687/0869-866x-2026-34-3-592-597",
@@ -587,15 +596,6 @@
       "published_at": "2026-07-31T00:00:00+00:00",
       "sentiment": "positive",
       "plain_summary": "This study introduces an AI system to automate the process of classifying expenses in financial reports for nonprofits. It uses data from accounting records like P&L details or general ledger along with other inputs like vendor information and payroll records. The AI helps classify direct expenses and allocate shared costs, providing confidence scores and explanations for each classification. This draft report is then reviewed by accountants to ensure accuracy."
-    },
-    {
-      "title": "Formation of Business\u2010Nonprofit Collaborations: A Matching Approach",
-      "short_title": "Formation of Business\u2010Nonprofit Collaborations: A Matching Approach",
-      "url": "https://doi.org/10.1111/beer.70127",
-      "source": "Business Ethics, the Environment &amp; Responsibility",
-      "published_at": "2026-07-06T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "Business-nonprofit collaborations are crucial for tackling organizational and societal issues. This research looks at how businesses and nonprofits choose each other as partners and what kind of collaboration they form. It uses data from 24,000 Italian partnerships to show that proximity and similarity between the organizations help them select each other. More intensive collaborations benefit more from resource similarities, while philanthropic collaborations are more likely when partners have different resources."
     },
     {
       "title": "Artificial Intelligence Adoption in Public Administration: Challenges for Accountability, Transparency, and Public Service Delivery",
