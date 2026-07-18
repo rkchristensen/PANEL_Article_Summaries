@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T12:40:52.577368+00:00",
+  "updated_at": "2026-07-18T13:56:02.262446+00:00",
   "government": [
     {
       "title": "Anti-Corruption Efforts and Citizen-Initiated Accountability: Evidence from Administrative Litigation",
@@ -159,7 +159,7 @@
       "short_title": "AI Regulation and Its Social Impacts on Public Policy",
       "url": "https://doi.org/10.55737/rl.v5i1.26181",
       "source": "Regional Lens",
-      "published_at": "2026-07-17T12:38:01.184993+00:00",
+      "published_at": "2026-07-18T13:55:51.122105+00:00",
       "sentiment": "positive",
       "plain_summary": "AI is now a key part of how governments make decisions in many areas like healthcare, policing, and welfare. As more AI systems are used, it's important to have rules to make sure they work fairly and don't cause problems. These rules help ensure that AI doesn't lead to unfair treatment or less democracy. By carefully watching how AI is used, we can make sure it helps people and doesn't hurt them."
     },
@@ -168,7 +168,7 @@
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-07-17T12:37:49.929755+00:00",
+      "published_at": "2026-07-18T13:55:43.094033+00:00",
       "sentiment": "negative",
       "plain_summary": "This research focuses on understanding the emotional risks in police work and how they manage their emotions to improve job satisfaction. It was conducted by observing various police units like forensic science, digital investigation, financial division, criminal division, anti-terrorism unit, and more over 26 days. The study found two key emotions that are hard for them to express: interest and frustration. These emotions make it difficult for officers to discuss their work-related feelings openly, leading to invisible or undiscussed labor."
     },
@@ -177,7 +177,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-07-17T12:37:49.055659+00:00",
+      "published_at": "2026-07-18T13:55:42.665626+00:00",
       "sentiment": "positive",
       "plain_summary": "Data science has become crucial as we generate vast amounts of information daily. It helps transform this data into useful insights for better decision-making across various sectors. For audit institutions, integrating data science can enhance their ability to manage public funds more effectively and improve accountability. By using data science, audits can provide clearer and more accurate reports that recommend improvements faster, which benefits the overall administration and improves citizens' quality of life."
     },
@@ -186,7 +186,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-07-17T12:37:49.055408+00:00",
+      "published_at": "2026-07-18T13:55:42.665444+00:00",
       "sentiment": "positive",
       "plain_summary": null
     },
@@ -195,7 +195,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-07-17T12:37:49.055337+00:00",
+      "published_at": "2026-07-18T13:55:42.665395+00:00",
       "sentiment": "positive",
       "plain_summary": "This paper discusses a scenario where autonomous killer robots are used in warfare without human intervention. These robots can make decisions about who to target based on AI algorithms trained to recognize certain uniforms. If one of these drones targets and kills an enemy soldier who is surrendering, it would violate international laws. Another concern is if the robot makes a mistake by attacking another similar system, leading to unintended conflicts."
     },
@@ -204,7 +204,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-07-17T12:37:49.054936+00:00",
+      "published_at": "2026-07-18T13:55:42.665114+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how public service motivation can lead to noble cause corruption in Lebanon, where there's a lot of social and economic hardship. The research found that feelings like compassion and selflessness often push people into doing good deeds for noble causes, but these actions sometimes involve corrupt practices. This leads to internal conflicts as the person feels both guilty and supported by their work environment. Factors like physical exchanges, personal space in the workplace, and close relationships with users can make it easier for this type of corruption to happen."
     },
@@ -213,7 +213,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-07-17T12:37:49.054726+00:00",
+      "published_at": "2026-07-18T13:55:42.664963+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how public service motivation can lead to corruption for a noble cause in Lebanon, where corruption is prevalent and social issues are challenging. Based on interviews with 32 Lebanese public servants, the research explores how feelings of compassion and self-sacrifice related to public service motivation might encourage them to engage in corrupt behavior for what they see as a good cause. The study highlights that these motivations can lead to behaviors like providing extra support or shielding users from punishment. This can create internal conflicts within the public servant due to their emotional connection with those affected."
     },
@@ -222,9 +222,27 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-07-17T12:37:49.054399+00:00",
+      "published_at": "2026-07-18T13:55:42.664694+00:00",
       "sentiment": "negative",
       "plain_summary": null
+    },
+    {
+      "title": "Anti-Corruption Research Dissemination and Private Sector Sustainability: Evidence from African Anti-Corruption Agencies",
+      "short_title": "Anti-Corruption Research Dissemination and Private Sector Sustainability: Evidence from Africa\u2026",
+      "url": "https://doi.org/10.51583/ijltemas.2026.150600147",
+      "source": "International Journal of Latest Technology in Engineering Management &amp; Applied Science",
+      "published_at": "2026-07-17T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "Corruption is a significant issue affecting many African countries, impacting businesses through unfair competition and distorted markets. Anti-corruption agencies (ACAs) are working with the private sector to combat corruption by using methods like educational campaigns, reward programs, and partnerships between public and private entities. Research shows that these anti-corruption measures can lead to better business performance, including higher profits and market share. However, there's less research on how well ACAs disseminate anti-corruption information to businesses."
+    },
+    {
+      "title": "IMPLEMENTATION OF THE HUMAN RIGHTS FUNCTION OF ANTI-CORRUPTION POLICY IN ENSURING PERSONAL SECURITY FROM CORRUPTION",
+      "short_title": "IMPLEMENTATION OF THE HUMAN RIGHTS FUNCTION OF ANTI-CORRUPTION POLICY IN ENSURING PERSONAL SEC\u2026",
+      "url": "https://doi.org/10.18623/rvd.v23.7544",
+      "source": "Veredas do Direito",
+      "published_at": "2026-07-16T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "The study focuses on how anti-corruption policies can protect citizens from corruption by incorporating human rights protections. By doing this, it aims to enhance overall security not just for the state but also for society and individuals. Practitioners can use these findings to improve their anti-corruption strategies, ensuring that measures are not only effective in stopping corrupt practices but also safeguarding personal freedoms and safety."
     },
     {
       "title": "Beyond Clean Audits: Do Positive Audit Opinions Translate into Improved Service Delivery? Evidence from Anti-Corruption Agencies in the SADC Region",
@@ -254,15 +272,6 @@
       "plain_summary": "This study looked at how artificial intelligence (AI) can help make local government in South Africa more accountable and transparent. It found that AI can be used to spot fraud, monitor services better, and even improve communication with citizens through chatbots. However, there are challenges like poor internet connections and not enough trained staff. The research suggests using AI as a helper rather than solving all problems at once."
     },
     {
-      "title": "Disastrous Corruption",
-      "short_title": "Disastrous Corruption",
-      "url": "https://doi.org/10.1177/10911421261466723",
-      "source": "Public Finance Review",
-      "published_at": "2026-07-14T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This study looked at how politics affects disaster announcements and found that when people get money for disasters, it can lead to corruption. Earlier studies showed this but only looked at a short time period. This new research covers many years from 1979 to 2023 and uses more controls than before. Even with all these improvements, the earlier findings still hold true - politics continues to influence disaster announcements and payments can cause corruption."
-    },
-    {
       "title": "Nutritional deficiencies associated with anti-obesity pharmacotherapy",
       "short_title": "Nutritional deficiencies associated with anti-obesity pharmacotherapy",
       "url": "https://doi.org/10.18203/2394-6040.ijcmph20262346",
@@ -270,6 +279,15 @@
       "published_at": "2026-07-14T00:00:00+00:00",
       "sentiment": "positive",
       "plain_summary": "Obesity is a widespread condition that affects many people worldwide. To manage it, doctors often prescribe medicines alongside lifestyle changes like diet and exercise. Recently developed medications can help people lose more weight and improve other health issues related to obesity. However, these drugs might affect how much food someone eats or what they absorb from their meals, which could lead to deficiencies in important nutrients like vitamins and minerals."
+    },
+    {
+      "title": "Disastrous Corruption",
+      "short_title": "Disastrous Corruption",
+      "url": "https://doi.org/10.1177/10911421261466723",
+      "source": "Public Finance Review",
+      "published_at": "2026-07-14T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study looked at how politics affects disaster announcements and found that when people get money for disasters, it can lead to corruption. Earlier studies showed this but only looked at a short time period. This new research covers many years from 1979 to 2023 and uses more controls than before. Even with all these improvements, the earlier findings still hold true - politics continues to influence disaster announcements and payments can cause corruption."
     },
     {
       "title": "The Effectiveness of Official Development Assistance Within Human Security Framework: A Focus on the Role of Corruption",
@@ -353,15 +371,6 @@
       "plain_summary": "This study looked at a group of 384 people who might have Celiac Disease. They tested these people for two antibodies: one against gliadin (anti-gliadin IgA) and another against tissue transglutaminase (anti-tTG IgA). About 13% had the anti-gliadin antibody, while about 15% had the anti-tTG antibody. When both were positive in some people, it was more common than just one being positive."
     },
     {
-      "title": "The Transparency Paradox: How Digital Accountability Can Inflate Public Costs in Low-Trust Environments",
-      "short_title": "The Transparency Paradox: How Digital Accountability Can Inflate Public Costs in Low-Trust Env\u2026",
-      "url": "https://doi.org/10.1061/jmenea.meeng-7434",
-      "source": "Journal of Management in Engineering",
-      "published_at": "2026-07-01T00:00:00+00:00",
-      "sentiment": "positive",
-      "plain_summary": null
-    },
-    {
       "title": "Artificial Intelligence Adoption in Public Administration: Challenges for Accountability, Transparency, and Public Service Delivery",
       "short_title": "Artificial Intelligence Adoption in Public Administration: Challenges for Accountability, Tran\u2026",
       "url": "https://doi.org/10.67171/2m2a8y96",
@@ -405,15 +414,6 @@
       "published_at": "2026-06-30T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how ethical project management practices affect IT project success in public sector organizations. It found that conventional IT project management alone explains about 57% of project success. When ethical practices are added, this increases to around 61%. The research also showed that when both ethical and conventional practices are used together, the impact on project success is even stronger\u2014about a 20% increase in effectiveness."
-    },
-    {
-      "title": "Anti-Communist Reporting and the Narrative Construction of \u201cEvil\u201d in Daehan News during the 1960s and 1970s",
-      "short_title": "Anti-Communist Reporting and the Narrative Construction of \u201cEvil\u201d in Daehan News during the 19\u2026",
-      "url": "https://doi.org/10.15564/jeju.2026.6.28.2.43",
-      "source": "Research Institute of Education Science, Jeju National University",
-      "published_at": "2026-06-30T00:00:00+00:00",
-      "sentiment": "positive",
-      "plain_summary": "This research looks at how Daehan News, which was produced by the government in South Korea during the 1960s and 70s, portrayed anti-communist enemies. It shows how these enemies were not always clearly defined but changed based on political needs and historical events. Around 1972, when a new government took power, how these enemies were shown also changed significantly. The study suggests that the way these enemies were depicted wasn't just about spreading ideas, but was used as a tool to influence people's emotions and daily lives."
     },
     {
       "title": "From Corruption to Declining Public Trust: Implications for Political Participation in West Aceh Regency",
