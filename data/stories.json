@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T14:47:07.678807+00:00",
+  "updated_at": "2026-07-21T06:51:32.106536+00:00",
   "government": [
     {
       "title": "Anti-Corruption Efforts and Citizen-Initiated Accountability: Evidence from Administrative Litigation",
@@ -168,7 +168,7 @@
       "short_title": "AI Regulation and Its Social Impacts on Public Policy",
       "url": "https://doi.org/10.55737/rl.v5i1.26181",
       "source": "Regional Lens",
-      "published_at": "2026-07-20T14:46:47.321732+00:00",
+      "published_at": "2026-07-21T06:51:12.422490+00:00",
       "sentiment": "positive",
       "plain_summary": "AI is now a key part of how governments make decisions in many areas like healthcare, policing, and welfare. As more AI systems are used, it's important to have rules to make sure they work fairly and don't cause problems. These rules help ensure that AI doesn't lead to unfair treatment or less democracy. By carefully watching how AI is used, we can make sure it helps people and doesn't hurt them."
     },
@@ -177,7 +177,7 @@
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-07-20T14:46:38.028411+00:00",
+      "published_at": "2026-07-21T06:50:55.582972+00:00",
       "sentiment": "negative",
       "plain_summary": "This research focuses on understanding the emotional risks in police work and how they manage their emotions to improve job satisfaction. It was conducted by observing various police units like forensic science, digital investigation, financial division, criminal division, anti-terrorism unit, and more over 26 days. The study found two key emotions that are hard for them to express: interest and frustration. These emotions make it difficult for officers to discuss their work-related feelings openly, leading to invisible or undiscussed labor."
     },
@@ -186,7 +186,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-07-20T14:46:37.041197+00:00",
+      "published_at": "2026-07-21T06:50:54.911952+00:00",
       "sentiment": "positive",
       "plain_summary": "Data science has become crucial as we generate vast amounts of information daily. It helps transform this data into useful insights for better decision-making across various sectors. For audit institutions, integrating data science can enhance their ability to manage public funds more effectively and improve accountability. By using data science, audits can provide clearer and more accurate reports that recommend improvements faster, which benefits the overall administration and improves citizens' quality of life."
     },
@@ -195,7 +195,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-07-20T14:46:37.041057+00:00",
+      "published_at": "2026-07-21T06:50:54.911702+00:00",
       "sentiment": "positive",
       "plain_summary": null
     },
@@ -204,7 +204,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-07-20T14:46:37.040995+00:00",
+      "published_at": "2026-07-21T06:50:54.911634+00:00",
       "sentiment": "positive",
       "plain_summary": "This paper discusses a scenario where autonomous killer robots are used in warfare without human intervention. These robots can make decisions about who to target based on AI algorithms trained to recognize certain uniforms. If one of these drones targets and kills an enemy soldier who is surrendering, it would violate international laws. Another concern is if the robot makes a mistake by attacking another similar system, leading to unintended conflicts."
     },
@@ -213,7 +213,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-07-20T14:46:37.040720+00:00",
+      "published_at": "2026-07-21T06:50:54.911232+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how public service motivation can lead to noble cause corruption in Lebanon, where there's a lot of social and economic hardship. The research found that feelings like compassion and selflessness often push people into doing good deeds for noble causes, but these actions sometimes involve corrupt practices. This leads to internal conflicts as the person feels both guilty and supported by their work environment. Factors like physical exchanges, personal space in the workplace, and close relationships with users can make it easier for this type of corruption to happen."
     },
@@ -222,7 +222,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-07-20T14:46:37.040600+00:00",
+      "published_at": "2026-07-21T06:50:54.911017+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how public service motivation can lead to corruption for a noble cause in Lebanon, where corruption is prevalent and social issues are challenging. Based on interviews with 32 Lebanese public servants, the research explores how feelings of compassion and self-sacrifice related to public service motivation might encourage them to engage in corrupt behavior for what they see as a good cause. The study highlights that these motivations can lead to behaviors like providing extra support or shielding users from punishment. This can create internal conflicts within the public servant due to their emotional connection with those affected."
     },
@@ -231,7 +231,7 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-07-20T14:46:37.040419+00:00",
+      "published_at": "2026-07-21T06:50:54.910674+00:00",
       "sentiment": "negative",
       "plain_summary": null
     },
@@ -263,6 +263,15 @@
       "plain_summary": "Corruption is a significant issue affecting many African countries, impacting businesses through unfair competition and distorted markets. Anti-corruption agencies (ACAs) are working with the private sector to combat corruption by using methods like educational campaigns, reward programs, and partnerships between public and private entities. Research shows that these anti-corruption measures can lead to better business performance, including higher profits and market share. However, there's less research on how well ACAs disseminate anti-corruption information to businesses."
     },
     {
+      "title": "LEGAL POLICY ON HANDLING CORRUPTION BASED ON MASLAHAH: THE PROBLEM OF DISPARITY IN THE IMPLEMENTATION OF ARTICLE 4 OF LAW OF THE REPUBLIC OF INDONESIA NUMBER 31 OF 1999",
+      "short_title": "LEGAL POLICY ON HANDLING CORRUPTION BASED ON MASLAHAH: THE PROBLEM OF DISPARITY IN THE IMPLEME\u2026",
+      "url": "https://doi.org/10.62567/micjo.v3i3.2706",
+      "source": "Multidisciplinary Indonesian Center Journal (MICJO)",
+      "published_at": "2026-07-17T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This research focuses on improving how Indonesia protects witnesses and victims in criminal cases. Despite having laws to protect them, these protections are not fully effective or integrated into the system. The study suggests that legal protection should focus more on restoring dignity and ensuring safety for those involved. To improve this, it recommends strengthening a specific agency that handles witness and victim care, making sure its rules align with new proposed criminal procedures, and providing better support to whistleblowers and collaborators."
+    },
+    {
       "title": "IMPLEMENTATION OF THE HUMAN RIGHTS FUNCTION OF ANTI-CORRUPTION POLICY IN ENSURING PERSONAL SECURITY FROM CORRUPTION",
       "short_title": "IMPLEMENTATION OF THE HUMAN RIGHTS FUNCTION OF ANTI-CORRUPTION POLICY IN ENSURING PERSONAL SEC\u2026",
       "url": "https://doi.org/10.18623/rvd.v23.7544",
@@ -270,15 +279,6 @@
       "published_at": "2026-07-16T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "The study focuses on how anti-corruption policies can protect citizens from corruption by incorporating human rights protections. By doing this, it aims to enhance overall security not just for the state but also for society and individuals. Practitioners can use these findings to improve their anti-corruption strategies, ensuring that measures are not only effective in stopping corrupt practices but also safeguarding personal freedoms and safety."
-    },
-    {
-      "title": "Beyond Clean Audits: Do Positive Audit Opinions Translate into Improved Service Delivery? Evidence from Anti-Corruption Agencies in the SADC Region",
-      "short_title": "Beyond Clean Audits: Do Positive Audit Opinions Translate into Improved Service Delivery? Evid\u2026",
-      "url": "https://doi.org/10.36948/ijfmr.2026.v08i04.83818",
-      "source": "International Journal For Multidisciplinary Research",
-      "published_at": "2026-07-16T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This study looks at whether having a clean audit opinion translates into better services provided by anti-corruption agencies in several countries of Southern Africa. While these agencies often get positive audit opinions that show they follow financial rules well, their actual work delivering services isn't necessarily improved. Even with good audits, issues like slow investigations and lack of public trust persist. The research suggests that while clean audits indicate strong finances and better reputation, they don\u2019t guarantee effective service delivery."
     },
     {
       "title": "Modern Anti-Corruption Policy in the USA, EU, and Ukraine: Medico-Pharmaceutical Law as the Basic of Forensic Pharmaceutical and Criminal Research on the Exclusion of Criminal Actions in Healthcare Institutions",
@@ -596,6 +596,15 @@
       "published_at": "2026-07-31T00:00:00+00:00",
       "sentiment": "positive",
       "plain_summary": "This study introduces an AI system to automate the process of classifying expenses in financial reports for nonprofits. It uses data from accounting records like P&L details or general ledger along with other inputs like vendor information and payroll records. The AI helps classify direct expenses and allocate shared costs, providing confidence scores and explanations for each classification. This draft report is then reviewed by accountants to ensure accuracy."
+    },
+    {
+      "title": "A Revolution of Rules: The Regulatory Reform of India\u2019s Nonprofit Sector",
+      "short_title": "A Revolution of Rules: The Regulatory Reform of India\u2019s Nonprofit Sector",
+      "url": "https://doi.org/10.1080/0030851x.2026.2700142",
+      "source": "Pacific Affairs",
+      "published_at": "2026-07-20T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": null
     },
     {
       "title": "Artificial Intelligence Adoption in Public Administration: Challenges for Accountability, Transparency, and Public Service Delivery",
