@@ -1,15 +1,6 @@
 {
-  "updated_at": "2026-08-10T06:03:51.345594+00:00",
+  "updated_at": "2026-08-11T13:48:45.764519+00:00",
   "government": [
-    {
-      "title": "The Paradox of anti-Corruption Policy-Making in Contexts of Systemic Corruption: A Conceptual Introduction to the Special Issue",
-      "short_title": "The Paradox of anti-Corruption Policy-Making in Contexts of Systemic Corruption: A Conceptual\u2026",
-      "url": "https://doi.org/10.1080/10999922.2026.2654323",
-      "source": "Public Integrity",
-      "published_at": "2026-07-23T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": null
-    },
     {
       "title": "Anti-corruption efforts and citizen-initiated accountability: evidence from administrative litigation",
       "short_title": "Anti-corruption efforts and citizen-initiated accountability: evidence from administrative lit\u2026",
@@ -18,24 +9,6 @@
       "published_at": "2026-07-16T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "This study looks at how when leaders are punished for corruption, it affects citizens' willingness to challenge the government through formal channels. It found that if provincial leaders get convicted of corruption, more citizens start taking action by filing lawsuits against the government. This effect is stronger when there are better ways to handle these cases in court. However, this doesn't happen as much when the area has a lot of corruption problems."
-    },
-    {
-      "title": "The Determinants of Voter Turnout in Croatian Local Government Elections",
-      "short_title": "The Determinants of Voter Turnout in Croatian Local Government Elections",
-      "url": "https://doi.org/10.20899/jpna.gdmpzd87",
-      "source": "Journal of Public and Nonprofit Affairs",
-      "published_at": "2026-06-19T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This study looked at why people vote in local government elections in Croatia from 2014 to 2021. It found that if fewer people voted last time, they're likely to vote less again. Issues like whether the city provides good services and benefits also affect how many people show up to vote. The main parties aren't doing a good job of getting their supporters to participate."
-    },
-    {
-      "title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy Implications",
-      "short_title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy I\u2026",
-      "url": "https://doi.org/10.47259/ijrebs.2026.711",
-      "source": "International Journal of Research in Entrepreneurship &amp; Business Studies",
-      "published_at": "2027-01-11T00:00:00+00:00",
-      "sentiment": "positive",
-      "plain_summary": "This study analyzed how airlines handle airfare refunds and the challenges customers face during this process. It found that communication issues are a major problem, especially in understanding airline rules. Despite most customers being satisfied with their refund after receiving one, they felt the process was complex and inefficient. The research suggests clearer policies and better coordination between airlines, intermediaries, and customers could improve trust and service quality."
     },
     {
       "title": "The Role of Government Structure in the Emergence of Crimes Against Humanity",
@@ -72,15 +45,6 @@
       "published_at": "2027-01-01T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "This study looks at how governments should make their construction contract processes more transparent to prevent inefficiencies and corruption. It covers all stages from deciding what to build to evaluating its success. Transparency isn't just about sharing information; it also means having clear rules, fair procedures, and being able to prove decisions were right. The court's rulings on this matter help enforce transparency as a legal requirement."
-    },
-    {
-      "title": "The Effects of Domestic Policies of Governments Before and After the Revolution in Alignment with the Command Economy Model",
-      "short_title": "The Effects of Domestic Policies of Governments Before and After the Revolution in Alignment w\u2026",
-      "url": "https://doi.org/10.61838/jhrlp.268",
-      "source": "Journal of Historical Research, Law and Policy",
-      "published_at": "2027-01-01T00:00:00+00:00",
-      "sentiment": "positive",
-      "plain_summary": "This study looks at how governments in Iran managed the economy before and after the Islamic Revolution using what's called the command economy model. It found that even though there were big changes in who was running the country, the government still had a strong influence over economic decisions. During earlier times like under the Qajar dynasty, the government didn't do enough to help businesses grow or modernize. Later on after the Revolution, while some reforms tried to balance between state control and market forces, these efforts often faced challenges due to weak institutions and monopolies."
     },
     {
       "title": "Evaluation of Iran's Legislative Criminal Policy on the Smuggling of Goods and Currency via Official Channels: A Critical Analysis of the 2013 Anti\u2011Smuggling Law and Its 2021 Amendments",
@@ -155,20 +119,11 @@
       "plain_summary": null
     },
     {
-      "title": "AI Regulation and Its Social Impacts on Public Policy",
-      "short_title": "AI Regulation and Its Social Impacts on Public Policy",
-      "url": "https://doi.org/10.55737/rl.v5i1.26181",
-      "source": "Regional Lens",
-      "published_at": "2026-08-10T06:03:41.432306+00:00",
-      "sentiment": "positive",
-      "plain_summary": "AI is now a key part of how governments make decisions in many areas like healthcare, policing, and welfare. As more AI systems are used, it's important to have rules to make sure they work fairly and don't cause problems. These rules help ensure that AI doesn't lead to unfair treatment or less democracy. By carefully watching how AI is used, we can make sure it helps people and doesn't hurt them."
-    },
-    {
       "title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bilan d\u2019une recherche immersive en Police Judiciaire fran\u00e7aise",
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-08-10T06:03:39.441492+00:00",
+      "published_at": "2026-08-11T13:48:31.048830+00:00",
       "sentiment": "negative",
       "plain_summary": "This research focuses on understanding the emotional risks in police work and how they manage their emotions to improve job satisfaction. It was conducted by observing various police units like forensic science, digital investigation, financial division, criminal division, anti-terrorism unit, and more over 26 days. The study found two key emotions that are hard for them to express: interest and frustration. These emotions make it difficult for officers to discuss their work-related feelings openly, leading to invisible or undiscussed labor."
     },
@@ -177,7 +132,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-08-10T06:03:38.818741+00:00",
+      "published_at": "2026-08-11T13:48:30.586876+00:00",
       "sentiment": "positive",
       "plain_summary": "Data science has become crucial as we generate vast amounts of information daily. It helps transform this data into useful insights for better decision-making across various sectors. For audit institutions, integrating data science can enhance their ability to manage public funds more effectively and improve accountability. By using data science, audits can provide clearer and more accurate reports that recommend improvements faster, which benefits the overall administration and improves citizens' quality of life."
     },
@@ -186,7 +141,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-08-10T06:03:38.818400+00:00",
+      "published_at": "2026-08-11T13:48:30.586615+00:00",
       "sentiment": "positive",
       "plain_summary": null
     },
@@ -195,7 +150,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-08-10T06:03:38.818369+00:00",
+      "published_at": "2026-08-11T13:48:30.586546+00:00",
       "sentiment": "positive",
       "plain_summary": "This paper discusses a scenario where autonomous killer robots are used in warfare without human intervention. These robots can make decisions about who to target based on AI algorithms trained to recognize certain uniforms. If one of these drones targets and kills an enemy soldier who is surrendering, it would violate international laws. Another concern is if the robot makes a mistake by attacking another similar system, leading to unintended conflicts."
     },
@@ -204,7 +159,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-08-10T06:03:38.817832+00:00",
+      "published_at": "2026-08-11T13:48:30.586143+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how public service motivation can lead to noble cause corruption in Lebanon, where there's a lot of social and economic hardship. The research found that feelings like compassion and selflessness often push people into doing good deeds for noble causes, but these actions sometimes involve corrupt practices. This leads to internal conflicts as the person feels both guilty and supported by their work environment. Factors like physical exchanges, personal space in the workplace, and close relationships with users can make it easier for this type of corruption to happen."
     },
@@ -213,7 +168,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-08-10T06:03:38.817748+00:00",
+      "published_at": "2026-08-11T13:48:30.585932+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how public service motivation can lead to corruption for a noble cause in Lebanon, where corruption is prevalent and social issues are challenging. Based on interviews with 32 Lebanese public servants, the research explores how feelings of compassion and self-sacrifice related to public service motivation might encourage them to engage in corrupt behavior for what they see as a good cause. The study highlights that these motivations can lead to behaviors like providing extra support or shielding users from punishment. This can create internal conflicts within the public servant due to their emotional connection with those affected."
     },
@@ -222,18 +177,18 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-08-10T06:03:38.817581+00:00",
+      "published_at": "2026-08-11T13:48:30.585586+00:00",
       "sentiment": "negative",
       "plain_summary": null
     },
     {
-      "title": "Digital trust and its influence on combating corruption and sustainable ICT: an application of novel bootstrap quantile regression approach",
-      "short_title": "Digital trust and its influence on combating corruption and sustainable ICT: an application of\u2026",
-      "url": "https://doi.org/10.1108/jices-06-2025-0139",
-      "source": "Journal of Information, Communication and Ethics in Society",
-      "published_at": "2026-08-06T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This study examines how digital trust affects corruption and sustainable information and communication technology (ICT) use across 456 OECD countries. It uses a special statistical method called Quantile Regression Bootstrap to analyze data from 2012 to 2023. The findings show that higher levels of digital trust lead to better adoption and responsible use of ICT, which can improve efficiency and access for everyone. However, it also reduces opportunities for corruption by making interactions more transparent and secure."
+      "title": "Communicating a historic shift: Policy transparency and public sentiment on Vietnam's 2025 provincial merger and public sector downsizing",
+      "short_title": "Communicating a historic shift: Policy transparency and public sentiment on Vietnam's 2025 pro\u2026",
+      "url": "https://doi.org/10.1111/1467-8500.70056",
+      "source": "Australian Journal of Public Administration",
+      "published_at": "2026-08-10T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": "This study looked at how transparently Vietnam communicated its plans for merging provinces and downsizing public sector jobs in 2025. It found that overall transparency helped people feel more optimistic about the reform, but when they were told too much detail about specific layoffs and compensation, it made them less supportive of the plan. This means it's important to balance being open with protecting sensitive information like how many jobs will be cut and who gets help. Practitioners should focus on making sure the downsizing process is fair before explaining details, and they should emphasize the big picture goals while giving specific support directly to those affected."
     },
     {
       "title": "Can information backfire? How corruption experience and media information shape anti-corruption willingness",
@@ -250,15 +205,6 @@
       "url": "https://doi.org/10.1080/01900692.2026.2683248",
       "source": "International Journal of Public Administration",
       "published_at": "2026-08-03T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": null
-    },
-    {
-      "title": "Collaborative Governance in Anti-Money Laundering: Inter-Agency Coordination and Money Laundering Control in Indonesia",
-      "short_title": "Collaborative Governance in Anti-Money Laundering: Inter-Agency Coordination and Money Launder\u2026",
-      "url": "https://doi.org/10.1016/j.jeconc.2026.100242",
-      "source": "Journal of Economic Criminology",
-      "published_at": "2026-08-01T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": null
     },
@@ -299,15 +245,6 @@
       "plain_summary": "This study aims to help public sector organizations understand and adopt artificial intelligence effectively. It found that factors like leadership, governance, transparency, and ethical oversight are crucial for successful AI use in government. The research proposes a five-level maturity model showing how an organization can progress from using AI sporadically to integrating it into daily operations in a responsible way. This framework helps public sector leaders plan their AI journey systematically."
     },
     {
-      "title": "The Communalization of Law Enforcement in India: Police Complicity, Impunity, and Anti-Muslim Violence",
-      "short_title": "The Communalization of Law Enforcement in India: Police Complicity, Impunity, and Anti-Muslim\u2026",
-      "url": "https://doi.org/10.33752/tjiss.v7i1.12446",
-      "source": "Tebuireng: Journal of Islamic Studies and Society",
-      "published_at": "2026-07-27T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This research examines how Indian police can become involved in anti-Muslim riots through various means like delayed responses or selective enforcement. It looks at three specific incidents of violence: one in Gujarat in 2002, another in Muzaffarnagar in 2013, and a third in Northeast Delhi in 2020. The study finds common patterns such as police not intervening quickly enough, enforcing laws unevenly, conducting biased investigations after the fact, and failing to hold perpetrators accountable. By using theories from experts like Paul Brass, Veena Das, Michel Foucault, and Deana Heath, it explains why these issues persist in different political situations and places."
-    },
-    {
       "title": "Structured prioritization of stakeholder preferences in digital governance: a comparative AHP framework for public-sector decision alignment",
       "short_title": "Structured prioritization of stakeholder preferences in digital governance: a comparative AHP\u2026",
       "url": "https://doi.org/10.1108/tg-03-2026-0159",
@@ -344,24 +281,6 @@
       "plain_summary": "This article discusses how corruption affects healthcare and pharmaceutical sectors in Europe and Ukraine. It highlights that corruption is widespread, appearing both openly (like bribery) and secretly (like favoritism). The study suggests focusing more on preventing corruption rather than just catching people who do it. To prevent this, educational programs for doctors and pharmacists should be strengthened, along with cooperation between different government agencies."
     },
     {
-      "title": "The Effectiveness of Official Development Assistance Within Human Security Framework: A Focus on the Role of Corruption",
-      "short_title": "The Effectiveness of Official Development Assistance Within Human Security Framework: A Focus\u2026",
-      "url": "https://doi.org/10.1002/pad.70105",
-      "source": "Public Administration and Development",
-      "published_at": "2026-07-14T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This study examines how Official Development Assistance (ODA) can help improve different aspects of human security. It found that ODA is more effective in improving health issues but less so for broader structural problems like corruption or political instability. The level of corruption also plays a big role; where there's better control over corruption, ODA tends to work better across all areas of human security. So, while aid can be helpful, it needs to be used carefully and effectively to make the most impact in places with lower levels of corruption."
-    },
-    {
-      "title": "Epistemic Marginalisation in the Fight Against Systemic Corruption: Explaining the Anti\u2010Corruption Design\u2010Reality Gap in South Africa",
-      "short_title": "Epistemic Marginalisation in the Fight Against Systemic Corruption: Explaining the Anti\u2010Corrup\u2026",
-      "url": "https://doi.org/10.1002/pad.70101",
-      "source": "Public Administration and Development",
-      "published_at": "2026-07-13T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "The study found that anti-corruption reforms often don't match the realities on the ground, especially in countries like South Africa. Researchers looked at how local people's views differ from what was included in a national strategy aimed at fighting corruption. They discovered there is a big difference between what experts think should be done and what actually gets implemented. Local people see corruption as deeply rooted in society\u2019s norms and practices, while the strategy focuses more on traditional ideas about government control over corruption."
-    },
-    {
       "title": "Bibliometric Analysis of Blockchain for E-Government: Historical Institutionalism and Governance of Secure Digital Identity in Public Sector Services",
       "short_title": "Bibliometric Analysis of Blockchain for E-Government: Historical Institutionalism and Governan\u2026",
       "url": "https://doi.org/10.31764/jgop.v8i1.39003",
@@ -389,13 +308,22 @@
       "plain_summary": null
     },
     {
-      "title": "Valuation Methods for Assessing Government-Owned Heritage Buildings in Malaysia",
-      "short_title": "Valuation Methods for Assessing Government-Owned Heritage Buildings in Malaysia",
-      "url": "https://doi.org/10.58458/ipnj.v16.01.02.0124",
-      "source": "IPN Journal of Research and Practice in Public Sector Accounting and Management",
+      "title": "An Analysis of Types and Motivations of Citizen Participation in Online Public Hearings: Focusing on the Analysis of Citizen Opinions from the Anti-Corruption and Civil Rights Commission\u2019s Online Public Hearings",
+      "short_title": "An Analysis of Types and Motivations of Citizen Participation in Online Public Hearings: Focus\u2026",
+      "url": "https://doi.org/10.23036/kapae.2026.36.2.13",
+      "source": "Korean Journal of Policy Analysis and Evaluation",
       "published_at": "2026-06-30T00:00:00+00:00",
-      "sentiment": "positive",
-      "plain_summary": "This study aimed to find suitable methods for valuing government-owned historic buildings in Malaysia. It used focus group discussions with experts from various fields like architecture and conservation. The research concluded that these buildings should be valued using a cost approach, focusing on their reproduction costs rather than assigning them a low value of RM1. This ensures compliance with the Malaysian Public Sector Accounting Standards (MPSAS)."
+      "sentiment": "negative",
+      "plain_summary": null
+    },
+    {
+      "title": "From Corruption to Declining Public Trust: Implications for Political Participation in West Aceh Regency",
+      "short_title": "From Corruption to Declining Public Trust: Implications for Political Participation in West Ac\u2026",
+      "url": "https://doi.org/10.21776/ub.jppol.2026.8.1.6",
+      "source": "Journal of Politics and Policy",
+      "published_at": "2026-06-29T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "Corruption significantly impacts the level of public trust in West Aceh Regency's governance, affecting both elected and non-elected institutions. Citizens view corruption as a lack of accountability and transparency, using public resources unfairly. This perception leads to declining trust in government bodies. To improve this situation, it\u2019s important to strengthen formal accountability, transparency, and oversight mechanisms."
     },
     {
       "title": "Public Procurement's Long COVID : Emergency Responses and Shifting Corruption Risks in Europe",
@@ -472,31 +400,13 @@
   ],
   "nonprofit": [
     {
-      "title": "The Ethics of Islamic Philanthropy",
-      "short_title": "The Ethics of Islamic Philanthropy",
-      "url": "https://doi.org/10.1177/08997640261457388",
-      "source": "Nonprofit and Voluntary Sector Quarterly",
-      "published_at": "2026-06-30T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This study about Islamic philanthropy uses Quranic teachings to understand the ethics behind giving. It identifies four key principles: being responsible (amanah), improving oneself (tazkiyah), sharing with others in cycles (dawr), and giving back as a way of receiving (muk\u0101fa\u2019ah). These principles form a strong moral foundation for Islamic charity, showing it's not just about voluntary acts but also includes duties. This research helps clarify how these ethical guidelines affect the structure and diversity within nonprofit organizations."
-    },
-    {
-      "title": "The Determinants of Voter Turnout in Croatian Local Government Elections",
-      "short_title": "The Determinants of Voter Turnout in Croatian Local Government Elections",
-      "url": "https://doi.org/10.20899/jpna.gdmpzd87",
-      "source": "Journal of Public and Nonprofit Affairs",
-      "published_at": "2026-06-19T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This study looked at why people vote in local government elections in Croatia from 2014 to 2021. It found that if fewer people voted last time, they're likely to vote less again. Issues like whether the city provides good services and benefits also affect how many people show up to vote. The main parties aren't doing a good job of getting their supporters to participate."
-    },
-    {
-      "title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy Implications",
-      "short_title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy I\u2026",
-      "url": "https://doi.org/10.47259/ijrebs.2026.711",
-      "source": "International Journal of Research in Entrepreneurship &amp; Business Studies",
-      "published_at": "2027-01-11T00:00:00+00:00",
+      "title": "The New Middle Class of Iran and the Demand for Reforming Domestic and Foreign Political Relations",
+      "short_title": "The New Middle Class of Iran and the Demand for Reforming Domestic and Foreign Political Relat\u2026",
+      "url": "https://doi.org/10.61838/jhrlp.380",
+      "source": "Journal of Historical Research, Law and Policy",
+      "published_at": "2027-01-01T00:00:00+00:00",
       "sentiment": "positive",
-      "plain_summary": "This study analyzed how airlines handle airfare refunds and the challenges customers face during this process. It found that communication issues are a major problem, especially in understanding airline rules. Despite most customers being satisfied with their refund after receiving one, they felt the process was complex and inefficient. The research suggests clearer policies and better coordination between airlines, intermediaries, and customers could improve trust and service quality."
+      "plain_summary": "The new middle class in Iran grew significantly after the Islamic Revolution and played a key role in pushing for reforms in both domestic and foreign policies. This group became more active in elections over time, aiming to influence how the government handled these areas. Despite their efforts through voting, they haven't been able to fully change the system's approach to politics internationally or domestically. Their success was mainly seen in getting more people involved in electoral processes."
     },
     {
       "title": "THE CYBERNETIC DIAGNOSTIC OF ANTI-NARCOTIC SYSTEM: MODEL RAS-VI AS A TOOL OF SYSTEMIC EVALUATION",
