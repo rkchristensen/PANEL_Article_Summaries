@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T16:25:23.468357+00:00",
+  "updated_at": "2026-08-16T09:13:17.425376+00:00",
   "government": [
     {
       "title": "Blame Avoidance and Corruption: How Politicians' Denials Shape Citizen Perceptions and Political Accountability",
@@ -72,6 +72,15 @@
       "published_at": "2027-01-01T00:00:00+00:00",
       "sentiment": "positive",
       "plain_summary": "Iraq faces significant challenges in managing its environment due to structural, legal, institutional, and security issues that harm public health, resources, and social stability. Despite having laws and international commitments, Iraq's environmental governance system is ineffective. To improve this, reforms are needed on multiple fronts including strengthening legislation, empowering institutions, integrating environmental concerns into economic policies, and enhancing regional and international cooperation. Aligning with sustainable development principles like good governance, stakeholder participation, and accountability can help address these issues and pave the way for Iraq's sustainable future."
+    },
+    {
+      "title": "Identifying Legal Solutions to Resolve Conflicts of Property Rights in the Implementation of Relevant Regulations under the Civil Code",
+      "short_title": "Identifying Legal Solutions to Resolve Conflicts of Property Rights in the Implementation of R\u2026",
+      "url": "https://doi.org/10.61838/jhrlp.308",
+      "source": "Journal of Historical Research, Law and Policy",
+      "published_at": "2027-01-01T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": "This article looks at conflicts between personal property rights and laws that affect public lands like forests or waterways. It finds many issues aren't about not having rules but how different types of law sometimes disagree. The main problem is that private ownership rights are very protected under civil law, while the government has authority to manage resources for everyone's benefit. This leads to conflicts when these areas overlap."
     },
     {
       "title": "Evaluation of Iran's Legislative Criminal Policy on the Smuggling of Goods and Currency via Official Channels: A Critical Analysis of the 2013 Anti\u2011Smuggling Law and Its 2021 Amendments",
@@ -200,6 +209,15 @@
       "plain_summary": null
     },
     {
+      "title": "Public data transparency and capital market stability: How open government data platforms mitigate stock price crash risk in emerging markets",
+      "short_title": "Public data transparency and capital market stability: How open government data platforms miti\u2026",
+      "url": "https://doi.org/10.1016/j.iref.2026.105534",
+      "source": "International Review of Economics &amp; Finance",
+      "published_at": "2026-09-01T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": null
+    },
+    {
       "title": "Trustworthy AI in public administration: The PRO-Trust pipeline for ethical fraud detection in public procurement",
       "short_title": "Trustworthy AI in public administration: The PRO-Trust pipeline for ethical fraud detection in\u2026",
       "url": "https://doi.org/10.1016/j.giq.2026.102157",
@@ -236,20 +254,11 @@
       "plain_summary": "In cross-border civil proceedings, the principle of \"non-acceptance of corruption\" plays a crucial role in ensuring fair and predictable outcomes. This principle helps prevent corrupt practices from undermining international legal systems. However, some experts argue that using the term \"cross-border public policy\" might not fully capture its importance or effectiveness. Practitioners need to be aware of this debate as it affects how they handle cases involving corruption across different countries."
     },
     {
-      "title": "AI Regulation and Its Social Impacts on Public Policy",
-      "short_title": "AI Regulation and Its Social Impacts on Public Policy",
-      "url": "https://doi.org/10.55737/rl.v5i1.26181",
-      "source": "Regional Lens",
-      "published_at": "2026-08-15T14:59:07.888260+00:00",
-      "sentiment": "positive",
-      "plain_summary": "AI is now a key part of how governments make decisions in many areas like healthcare, policing, and welfare. As more AI systems are used, it's important to have rules to make sure they work fairly and don't cause problems. These rules help ensure that AI doesn't lead to unfair treatment or less democracy. By carefully watching how AI is used, we can make sure it helps people and doesn't hurt them."
-    },
-    {
       "title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bilan d\u2019une recherche immersive en Police Judiciaire fran\u00e7aise",
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-08-15T14:43:45.995163+00:00",
+      "published_at": "2026-08-16T08:34:53.702568+00:00",
       "sentiment": "negative",
       "plain_summary": "This research focuses on understanding the emotional risks in police work and how they manage their emotions to improve job satisfaction. It was conducted by observing various police units like forensic science, digital investigation, financial division, criminal division, anti-terrorism unit, and more over 26 days. The study found two key emotions that are hard for them to express: interest and frustration. These emotions make it difficult for officers to discuss their work-related feelings openly, leading to invisible or undiscussed labor."
     },
@@ -258,7 +267,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-08-15T14:43:45.240499+00:00",
+      "published_at": "2026-08-16T08:34:52.960019+00:00",
       "sentiment": "positive",
       "plain_summary": "Data science has become crucial as we generate vast amounts of information daily. It helps transform this data into useful insights for better decision-making across various sectors. For audit institutions, integrating data science can enhance their ability to manage public funds more effectively and improve accountability. By using data science, audits can provide clearer and more accurate reports that recommend improvements faster, which benefits the overall administration and improves citizens' quality of life."
     },
@@ -267,7 +276,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-08-15T14:43:45.240237+00:00",
+      "published_at": "2026-08-16T08:34:52.959754+00:00",
       "sentiment": "positive",
       "plain_summary": null
     },
@@ -276,7 +285,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-08-15T14:43:45.240169+00:00",
+      "published_at": "2026-08-16T08:34:52.959678+00:00",
       "sentiment": "positive",
       "plain_summary": "This paper discusses a scenario where autonomous killer robots are used in warfare without human intervention. These robots can make decisions about who to target based on AI algorithms trained to recognize certain uniforms. If one of these drones targets and kills an enemy soldier who is surrendering, it would violate international laws. Another concern is if the robot makes a mistake by attacking another similar system, leading to unintended conflicts."
     },
@@ -285,7 +294,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-08-15T14:43:45.239764+00:00",
+      "published_at": "2026-08-16T08:34:52.959268+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how public service motivation can lead to noble cause corruption in Lebanon, where there's a lot of social and economic hardship. The research found that feelings like compassion and selflessness often push people into doing good deeds for noble causes, but these actions sometimes involve corrupt practices. This leads to internal conflicts as the person feels both guilty and supported by their work environment. Factors like physical exchanges, personal space in the workplace, and close relationships with users can make it easier for this type of corruption to happen."
     },
@@ -294,7 +303,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-08-15T14:43:45.239555+00:00",
+      "published_at": "2026-08-16T08:34:52.959057+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how public service motivation can lead to corruption for a noble cause in Lebanon, where corruption is prevalent and social issues are challenging. Based on interviews with 32 Lebanese public servants, the research explores how feelings of compassion and self-sacrifice related to public service motivation might encourage them to engage in corrupt behavior for what they see as a good cause. The study highlights that these motivations can lead to behaviors like providing extra support or shielding users from punishment. This can create internal conflicts within the public servant due to their emotional connection with those affected."
     },
@@ -303,7 +312,7 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-08-15T14:43:45.239203+00:00",
+      "published_at": "2026-08-16T08:34:52.958707+00:00",
       "sentiment": "negative",
       "plain_summary": null
     },
@@ -326,15 +335,6 @@
       "plain_summary": "This study looked at how democracy, corruption, and economic problems are connected in Nigeria since 2015. It found that even though Nigeria has had democratic leaders, they haven't been able to fix major issues like corruption and weak government systems. These problems have led to things like high unemployment, rising prices, poor infrastructure, and big debts. The study suggests that if anti-corruption agencies are given more power, resources, and stricter rules for holding people accountable, it could help improve how the government works and make sure public money is used properly."
     },
     {
-      "title": "Genocide by Algorithm in Gaza: Artificial Intelligence, Countervailing Responsibility, and the Corruption of Public Discourse",
-      "short_title": "Genocide by Algorithm in Gaza: Artificial Intelligence, Countervailing Responsibility, and the\u2026",
-      "url": "https://doi.org/10.69755/2995-2212.1432",
-      "source": "The Journal of Social Encounters",
-      "published_at": "2026-08-14T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "The use of artificial intelligence (AI) in military operations raises significant ethical concerns. As AI integration into warfare accelerates, it can lead to biased decisions that prioritize certain lives over others. This is problematic because AI systems often operate with hidden algorithms that can reinforce existing power structures. In Israel's conflict with Gaza, for example, AI was used to automate the identification of targets, including civilians and infrastructure."
-    },
-    {
       "title": "Bankruptcy dynamics as a macro indicator of the organizations' anti-crisis management effectiveness",
       "short_title": "Bankruptcy dynamics as a macro indicator of the organizations' anti-crisis management effectiv\u2026",
       "url": "https://doi.org/10.21869/2223-1552-2026-16-3-10-19",
@@ -351,15 +351,6 @@
       "published_at": "2026-08-13T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "This research looked at how forensic accounting practices can help prevent fraud in the Nigerian government sector. They surveyed 140 staff members from various government agencies, finding that using forensic techniques to investigate potential fraud (investigative accounting) and providing legal support against fraud cases (litigation support) are very effective ways to stop fraud. The study suggests governments should regularly use these methods to spot any signs of fraud early and prevent it from happening. It also recommends hiring forensic accountants to provide legal services, which can further reduce the chances of fraud in government operations."
-    },
-    {
-      "title": "Migrant Settlement Work as Anti-Violence Work: How Intersectionality in Policy Is Not Reflected in Practice",
-      "short_title": "Migrant Settlement Work as Anti-Violence Work: How Intersectionality in Policy Is Not Reflecte\u2026",
-      "url": "https://doi.org/10.1177/15570851261477386",
-      "source": "Feminist Criminology",
-      "published_at": "2026-08-13T00:00:00+00:00",
-      "sentiment": "positive",
-      "plain_summary": null
     },
     {
       "title": "MECHANISMS FOR PREVENTING CORRUPTION WITHIN THE CIVIL SERVICE PERSONNEL POLICY SYSTEM",
@@ -497,31 +488,40 @@
       "plain_summary": "This paper discusses how to better align digital governance decisions by understanding what different stakeholders value. It uses a framework called AHP, which helps identify the most important goals for improving things like quality of life, sustainability, innovation, and competitiveness in cities. By comparing these priorities across various groups, including public officials and citizens, we can see where there might be disagreements or gaps in how policies are made. This model allows city planners to make decisions that better reflect what people want and expect from their government."
     },
     {
-      "title": "Transparency talk among candidates for public office",
-      "short_title": "Transparency talk among candidates for public office",
-      "url": "https://doi.org/10.1080/03003930.2026.2699741",
-      "source": "Local Government Studies",
-      "published_at": "2026-07-14T00:00:00+00:00",
+      "title": "The Impact of Government Perceptions on AI Public Service Acceptance : Differential Moderating Effects of AI Fairness Risk Perception on Agility and Accountability",
+      "short_title": "The Impact of Government Perceptions on AI Public Service Acceptance : Differential Moderating\u2026",
+      "url": "https://doi.org/10.46330/jkps.2026.06.26.2.1",
+      "source": "The Journal of Korean Policy Studies",
+      "published_at": "2026-06-30T00:00:00+00:00",
       "sentiment": "positive",
       "plain_summary": null
     },
     {
-      "title": "Technologization of Anti-Corruption Policy and Changes in the Procedure for income control",
-      "short_title": "Technologization of Anti-Corruption Policy and Changes in the Procedure for income control",
-      "url": "https://doi.org/10.18572/1813-1247-2026-7-16-20",
-      "source": "State power and local self-government",
-      "published_at": "2026-07-09T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "Anti-corruption policies aim to prevent corruption by identifying individuals who might be involved. In Russia, this has changed from annual reports filled out manually to focusing on specific areas like personnel decisions and property transactions. Now, there's a digital platform that monitors these activities in real-time using objective data from various sources. This helps catch any discrepancies or hidden assets quickly."
+      "title": "A Multidimensional Alignment Model of Public Sector AI Governance: Theoretical Integration from a Policy Design Perspective and an Analysis of Korea\u2019s Accountability Structure",
+      "short_title": "A Multidimensional Alignment Model of Public Sector AI Governance: Theoretical Integration fro\u2026",
+      "url": "https://doi.org/10.33900/kaps.2026.35.2.19",
+      "source": "Korean Policy Studies Review",
+      "published_at": "2026-06-30T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": null
     },
     {
-      "title": "Bibliometric Analysis of Blockchain for E-Government: Historical Institutionalism and Governance of Secure Digital Identity in Public Sector Services",
-      "short_title": "Bibliometric Analysis of Blockchain for E-Government: Historical Institutionalism and Governan\u2026",
-      "url": "https://doi.org/10.31764/jgop.v8i1.39003",
-      "source": "Journal of Government and Politics (JGOP)",
-      "published_at": "2026-07-09T00:00:00+00:00",
-      "sentiment": "positive",
-      "plain_summary": "This research looks at how blockchain technology is used in government services like e-government systems that handle digital IDs securely. It found that while many studies focus on the technical benefits of blockchain like security and efficiency, less attention has been given to why governments adopt these technologies. The study analyzed over 1700 documents from 2000 to 2025 and used a method called bibliometric analysis to understand how research trends have developed. It shows that since around 2017, more people are studying blockchain in government services."
+      "title": "An Analysis of Types and Motivations of Citizen Participation in Online Public Hearings: Focusing on the Analysis of Citizen Opinions from the Anti-Corruption and Civil Rights Commission\u2019s Online Public Hearings",
+      "short_title": "An Analysis of Types and Motivations of Citizen Participation in Online Public Hearings: Focus\u2026",
+      "url": "https://doi.org/10.23036/kapae.2026.36.2.13",
+      "source": "Korean Journal of Policy Analysis and Evaluation",
+      "published_at": "2026-06-30T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": null
+    },
+    {
+      "title": "From Corruption to Declining Public Trust: Implications for Political Participation in West Aceh Regency",
+      "short_title": "From Corruption to Declining Public Trust: Implications for Political Participation in West Ac\u2026",
+      "url": "https://doi.org/10.21776/ub.jppol.2026.8.1.6",
+      "source": "Journal of Politics and Policy",
+      "published_at": "2026-06-29T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "Corruption significantly impacts the level of public trust in West Aceh Regency's governance, affecting both elected and non-elected institutions. Citizens view corruption as a lack of accountability and transparency, using public resources unfairly. This perception leads to declining trust in government bodies. To improve this situation, it\u2019s important to strengthen formal accountability, transparency, and oversight mechanisms."
     },
     {
       "title": "Public Procurement's Long COVID : Emergency Responses and Shifting Corruption Risks in Europe",
@@ -551,15 +551,6 @@
       "published_at": "2026-06-30T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "This study about Islamic philanthropy uses Quranic teachings to understand the ethics behind giving. It identifies four key principles: being responsible (amanah), improving oneself (tazkiyah), sharing with others in cycles (dawr), and giving back as a way of receiving (muk\u0101fa\u2019ah). These principles form a strong moral foundation for Islamic charity, showing it's not just about voluntary acts but also includes duties. This research helps clarify how these ethical guidelines affect the structure and diversity within nonprofit organizations."
-    },
-    {
-      "title": "The New Middle Class of Iran and the Demand for Reforming Domestic and Foreign Political Relations",
-      "short_title": "The New Middle Class of Iran and the Demand for Reforming Domestic and Foreign Political Relat\u2026",
-      "url": "https://doi.org/10.61838/jhrlp.380",
-      "source": "Journal of Historical Research, Law and Policy",
-      "published_at": "2027-01-01T00:00:00+00:00",
-      "sentiment": "positive",
-      "plain_summary": "The new middle class in Iran grew significantly after the Islamic Revolution and played a key role in pushing for reforms in both domestic and foreign policies. This group became more active in elections over time, aiming to influence how the government handled these areas. Despite their efforts through voting, they haven't been able to fully change the system's approach to politics internationally or domestically. Their success was mainly seen in getting more people involved in electoral processes."
     },
     {
       "title": "Responsible AI Governance in Iran: A Program-Theory Evaluation of the National Artificial Intelligence Strategy",
@@ -596,6 +587,15 @@
       "published_at": "2026-07-30T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "Corruption is a significant issue in Nigeria that affects democratic governance and public administration. Despite having an anti-corruption body called the Independent Corrupt Practices and Other Related Offenses Commission (ICPC), corruption continues to be prevalent. The ICPC has implemented various programs like prevention initiatives, audits of government departments, monitoring projects, education campaigns, asset recovery, and prosecuting corrupt individuals. However, challenges such as lack of funding, political interference, judicial delays, weak collaboration between agencies, insufficient prosecutorial capacity, and low conviction rates in high-profile cases limit its effectiveness."
+    },
+    {
+      "title": "Indigenous-Specific Anti-Racism as the Foundation for Indigenous Cultural Safety in Health Systems",
+      "short_title": "Indigenous-Specific Anti-Racism as the Foundation for Indigenous Cultural Safety in Health Sys\u2026",
+      "url": "https://doi.org/10.1177/08404704261469772",
+      "source": "Healthcare Management Forum",
+      "published_at": "2026-07-29T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": "This article emphasizes that to truly make healthcare safer for Indigenous people, it's crucial to address specific forms of racism within health systems. Current efforts like Indigenous Cultural Safety are important but limited; they focus too much on individual interactions rather than changing the system itself. To move forward, we need a more comprehensive approach called Indigenous-Specific Anti-Racism. This involves recognizing and challenging settler colonial structures, holding institutions accountable for their actions, and making anti-racist decisions part of everyday operations."
     },
     {
       "title": "PENTAHELIX MODEL COLLABORATION AS A COLLECTIVE EFFORT IN ANTI-CORRUPTION ECOSYSTEMS",
