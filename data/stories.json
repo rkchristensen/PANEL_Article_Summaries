@@ -1,15 +1,6 @@
 {
-  "updated_at": "2026-08-19T15:06:33.356992+00:00",
+  "updated_at": "2026-08-20T10:33:32.190623+00:00",
   "government": [
-    {
-      "title": "Blame Avoidance and Corruption: How Politicians' Denials Shape Citizen Perceptions and Political Accountability",
-      "short_title": "Blame Avoidance and Corruption: How Politicians' Denials Shape Citizen Perceptions and Politic\u2026",
-      "url": "https://doi.org/10.1111/gove.70109",
-      "source": "Governance",
-      "published_at": "2026-01-10T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This study examines how politicians accused of corruption respond when they deny their wrongdoing. The research shows that when politicians say they are innocent or blame others for their actions, it can improve their image and chances of winning elections. This is especially true for people who strongly support one political party. Understanding this helps us see how leaders influence public opinion about corruption in politics."
-    },
     {
       "title": "The Role of Government Structure in the Emergence of Crimes Against Humanity",
       "short_title": "The Role of Government Structure in the Emergence of Crimes Against Humanity",
@@ -72,6 +63,15 @@
       "published_at": "2027-01-01T00:00:00+00:00",
       "sentiment": "positive",
       "plain_summary": "Iraq faces significant challenges in managing its environment due to structural, legal, institutional, and security issues that harm public health, resources, and social stability. Despite having laws and international commitments, Iraq's environmental governance system is ineffective. To improve this, reforms are needed on multiple fronts including strengthening legislation, empowering institutions, integrating environmental concerns into economic policies, and enhancing regional and international cooperation. Aligning with sustainable development principles like good governance, stakeholder participation, and accountability can help address these issues and pave the way for Iraq's sustainable future."
+    },
+    {
+      "title": "Identifying Legal Solutions to Resolve Conflicts of Property Rights in the Implementation of Relevant Regulations under the Civil Code",
+      "short_title": "Identifying Legal Solutions to Resolve Conflicts of Property Rights in the Implementation of R\u2026",
+      "url": "https://doi.org/10.61838/jhrlp.308",
+      "source": "Journal of Historical Research, Law and Policy",
+      "published_at": "2027-01-01T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": "This article looks at conflicts between personal property rights and laws that affect public lands like forests or waterways. It finds many issues aren't about not having rules but how different types of law sometimes disagree. The main problem is that private ownership rights are very protected under civil law, while the government has authority to manage resources for everyone's benefit. This leads to conflicts when these areas overlap."
     },
     {
       "title": "Evaluation of Iran's Legislative Criminal Policy on the Smuggling of Goods and Currency via Official Channels: A Critical Analysis of the 2013 Anti\u2011Smuggling Law and Its 2021 Amendments",
@@ -209,6 +209,87 @@
       "plain_summary": null
     },
     {
+      "title": "Collaborative governance in anti-money laundering: Inter-agency coordination and money laundering control in Indonesia",
+      "short_title": "Collaborative governance in anti-money laundering: Inter-agency coordination and money launder\u2026",
+      "url": "https://doi.org/10.1016/j.jeconc.2026.100242",
+      "source": "Journal of Economic Criminology",
+      "published_at": "2026-09-01T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": null
+    },
+    {
+      "title": "AI Regulation and Its Social Impacts on Public Policy",
+      "short_title": "AI Regulation and Its Social Impacts on Public Policy",
+      "url": "https://doi.org/10.55737/rl.v5i1.26181",
+      "source": "Regional Lens",
+      "published_at": "2026-08-20T09:09:35.738578+00:00",
+      "sentiment": "positive",
+      "plain_summary": "AI is now a key part of how governments make decisions in many areas like healthcare, policing, and welfare. As more AI systems are used, it's important to have rules to make sure they work fairly and don't cause problems. These rules help ensure that AI doesn't lead to unfair treatment or less democracy. By carefully watching how AI is used, we can make sure it helps people and doesn't hurt them."
+    },
+    {
+      "title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bilan d\u2019une recherche immersive en Police Judiciaire fran\u00e7aise",
+      "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
+      "url": "https://doi.org/10.3917/gmp.pr1.0009",
+      "source": "Gestion et management public",
+      "published_at": "2026-08-20T09:09:20.325535+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This research focuses on understanding the emotional risks in police work and how they manage their emotions to improve job satisfaction. It was conducted by observing various police units like forensic science, digital investigation, financial division, criminal division, anti-terrorism unit, and more over 26 days. The study found two key emotions that are hard for them to express: interest and frustration. These emotions make it difficult for officers to discuss their work-related feelings openly, leading to invisible or undiscussed labor."
+    },
+    {
+      "title": "Data Science as a Catalyst for Audit Transformation",
+      "short_title": "Data Science as a Catalyst for Audit Transformation",
+      "url": "https://doi.org/10.56251/clyp9463",
+      "source": "International Journal of Government Auditing",
+      "published_at": "2026-08-20T09:09:19.499080+00:00",
+      "sentiment": "positive",
+      "plain_summary": "Data science has become crucial as we generate vast amounts of information daily. It helps transform this data into useful insights for better decision-making across various sectors. For audit institutions, integrating data science can enhance their ability to manage public funds more effectively and improve accountability. By using data science, audits can provide clearer and more accurate reports that recommend improvements faster, which benefits the overall administration and improves citizens' quality of life."
+    },
+    {
+      "title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
+      "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
+      "url": "https://doi.org/10.56251/tydf1981",
+      "source": "International Journal of Government Auditing",
+      "published_at": "2026-08-20T09:09:19.498819+00:00",
+      "sentiment": "positive",
+      "plain_summary": null
+    },
+    {
+      "title": "Killer Robots \u2013 A Case for SAIs",
+      "short_title": "Killer Robots \u2013 A Case for SAIs",
+      "url": "https://doi.org/10.56251/ojyp9121",
+      "source": "International Journal of Government Auditing",
+      "published_at": "2026-08-20T09:09:19.498748+00:00",
+      "sentiment": "positive",
+      "plain_summary": "This paper discusses a scenario where autonomous killer robots are used in warfare without human intervention. These robots can make decisions about who to target based on AI algorithms trained to recognize certain uniforms. If one of these drones targets and kills an enemy soldier who is surrendering, it would violate international laws. Another concern is if the robot makes a mistake by attacking another similar system, leading to unintended conflicts."
+    },
+    {
+      "title": "The dark side of public service motivation : Analysis of noble cause corruption based on the Lebanese case",
+      "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
+      "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
+      "source": "Gestion et management public",
+      "published_at": "2026-08-20T09:09:19.498334+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study examines how public service motivation can lead to noble cause corruption in Lebanon, where there's a lot of social and economic hardship. The research found that feelings like compassion and selflessness often push people into doing good deeds for noble causes, but these actions sometimes involve corrupt practices. This leads to internal conflicts as the person feels both guilty and supported by their work environment. Factors like physical exchanges, personal space in the workplace, and close relationships with users can make it easier for this type of corruption to happen."
+    },
+    {
+      "title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause noble \u00e0 partir du cas libanais",
+      "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
+      "url": "https://doi.org/10.3917/gmp.pr1.0018",
+      "source": "Gestion et management public",
+      "published_at": "2026-08-20T09:09:19.498102+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study examines how public service motivation can lead to corruption for a noble cause in Lebanon, where corruption is prevalent and social issues are challenging. Based on interviews with 32 Lebanese public servants, the research explores how feelings of compassion and self-sacrifice related to public service motivation might encourage them to engage in corrupt behavior for what they see as a good cause. The study highlights that these motivations can lead to behaviors like providing extra support or shielding users from punishment. This can create internal conflicts within the public servant due to their emotional connection with those affected."
+    },
+    {
+      "title": "Market Failure or Government Failure? A Response to Jaworski",
+      "short_title": "Market Failure or Government Failure? A Response to Jaworski",
+      "url": "https://doi.org/10.12747/bejr2013.01.08",
+      "source": "Business Ethics Journal Review",
+      "published_at": "2026-08-20T09:09:19.497545+00:00",
+      "sentiment": "negative",
+      "plain_summary": null
+    },
+    {
       "title": "Enforceability of Court Judgements in Anti-Corruption Claims: Cross-Border and National Dimensions",
       "short_title": "Enforceability of Court Judgements in Anti-Corruption Claims: Cross-Border and National Dimens\u2026",
       "url": "https://doi.org/10.18572/1812-383x-2026-8-42-45",
@@ -216,6 +297,15 @@
       "published_at": "2026-08-20T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "The article discusses how courts in Russia can enforce judgments against corrupt officials who have hidden their assets abroad. If these officials don't prove they got their wealth legally, Russia might try to seize those assets. However, if other countries won\u2019t help with this, Russia needs a new way to take action on its own. This could involve different rules for dealing with foreign corruption money compared to local cases."
+    },
+    {
+      "title": "Why Comply? Explaining Sectoral Patterns in GRECO 'S Anti\u2010Corruption Recommendations",
+      "short_title": "Why Comply? Explaining Sectoral Patterns in GRECO 'S Anti\u2010Corruption Recommendations",
+      "url": "https://doi.org/10.1111/rego.70198",
+      "source": "Regulation &amp; Governance",
+      "published_at": "2026-08-20T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study looks at how different parts of governments in various countries follow recommendations aimed at fighting corruption. It found that prosecutors are followed most closely, judges second, but members of parliament least. The reasons why vary based on the costs these groups face for changing their ways compared to their influence over changes being made. This research suggests focusing more on specific sectors can help improve anti-corruption efforts rather than just looking at countries as a whole."
     },
     {
       "title": "Some Features of Determining the Proper Defendants in Anti-Corruption Lawsuits",
@@ -236,76 +326,13 @@
       "plain_summary": "In cross-border civil proceedings, the principle of \"non-acceptance of corruption\" plays a crucial role in ensuring fair and predictable outcomes. This principle helps prevent corrupt practices from undermining international legal systems. However, some experts argue that using the term \"cross-border public policy\" might not fully capture its importance or effectiveness. Practitioners need to be aware of this debate as it affects how they handle cases involving corruption across different countries."
     },
     {
-      "title": "AI Regulation and Its Social Impacts on Public Policy",
-      "short_title": "AI Regulation and Its Social Impacts on Public Policy",
-      "url": "https://doi.org/10.55737/rl.v5i1.26181",
-      "source": "Regional Lens",
-      "published_at": "2026-08-19T15:06:16.746256+00:00",
-      "sentiment": "positive",
-      "plain_summary": "AI is now a key part of how governments make decisions in many areas like healthcare, policing, and welfare. As more AI systems are used, it's important to have rules to make sure they work fairly and don't cause problems. These rules help ensure that AI doesn't lead to unfair treatment or less democracy. By carefully watching how AI is used, we can make sure it helps people and doesn't hurt them."
-    },
-    {
-      "title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bilan d\u2019une recherche immersive en Police Judiciaire fran\u00e7aise",
-      "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
-      "url": "https://doi.org/10.3917/gmp.pr1.0009",
-      "source": "Gestion et management public",
-      "published_at": "2026-08-19T15:06:06.612556+00:00",
+      "title": "NAVIGATING BARRIERS AND BREAKTHROUGHS: INSTITUTIONAL RESPONSES TO CORRUPTION DISCLOSURE IN NIGERIA",
+      "short_title": "NAVIGATING BARRIERS AND BREAKTHROUGHS: INSTITUTIONAL RESPONSES TO CORRUPTION DISCLOSURE IN NIG\u2026",
+      "url": "https://doi.org/10.70382/nijefmr.v13i7.053",
+      "source": "International Journal of Entrepreneurship and Forensic Management Research",
+      "published_at": "2026-08-19T00:00:00+00:00",
       "sentiment": "negative",
-      "plain_summary": "This research focuses on understanding the emotional risks in police work and how they manage their emotions to improve job satisfaction. It was conducted by observing various police units like forensic science, digital investigation, financial division, criminal division, anti-terrorism unit, and more over 26 days. The study found two key emotions that are hard for them to express: interest and frustration. These emotions make it difficult for officers to discuss their work-related feelings openly, leading to invisible or undiscussed labor."
-    },
-    {
-      "title": "Data Science as a Catalyst for Audit Transformation",
-      "short_title": "Data Science as a Catalyst for Audit Transformation",
-      "url": "https://doi.org/10.56251/clyp9463",
-      "source": "International Journal of Government Auditing",
-      "published_at": "2026-08-19T15:06:06.115333+00:00",
-      "sentiment": "positive",
-      "plain_summary": "Data science has become crucial as we generate vast amounts of information daily. It helps transform this data into useful insights for better decision-making across various sectors. For audit institutions, integrating data science can enhance their ability to manage public funds more effectively and improve accountability. By using data science, audits can provide clearer and more accurate reports that recommend improvements faster, which benefits the overall administration and improves citizens' quality of life."
-    },
-    {
-      "title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
-      "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
-      "url": "https://doi.org/10.56251/tydf1981",
-      "source": "International Journal of Government Auditing",
-      "published_at": "2026-08-19T15:06:06.115063+00:00",
-      "sentiment": "positive",
-      "plain_summary": null
-    },
-    {
-      "title": "Killer Robots \u2013 A Case for SAIs",
-      "short_title": "Killer Robots \u2013 A Case for SAIs",
-      "url": "https://doi.org/10.56251/ojyp9121",
-      "source": "International Journal of Government Auditing",
-      "published_at": "2026-08-19T15:06:06.114986+00:00",
-      "sentiment": "positive",
-      "plain_summary": "This paper discusses a scenario where autonomous killer robots are used in warfare without human intervention. These robots can make decisions about who to target based on AI algorithms trained to recognize certain uniforms. If one of these drones targets and kills an enemy soldier who is surrendering, it would violate international laws. Another concern is if the robot makes a mistake by attacking another similar system, leading to unintended conflicts."
-    },
-    {
-      "title": "The dark side of public service motivation : Analysis of noble cause corruption based on the Lebanese case",
-      "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
-      "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
-      "source": "Gestion et management public",
-      "published_at": "2026-08-19T15:06:06.114545+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This study examines how public service motivation can lead to noble cause corruption in Lebanon, where there's a lot of social and economic hardship. The research found that feelings like compassion and selflessness often push people into doing good deeds for noble causes, but these actions sometimes involve corrupt practices. This leads to internal conflicts as the person feels both guilty and supported by their work environment. Factors like physical exchanges, personal space in the workplace, and close relationships with users can make it easier for this type of corruption to happen."
-    },
-    {
-      "title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause noble \u00e0 partir du cas libanais",
-      "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
-      "url": "https://doi.org/10.3917/gmp.pr1.0018",
-      "source": "Gestion et management public",
-      "published_at": "2026-08-19T15:06:06.114158+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This study examines how public service motivation can lead to corruption for a noble cause in Lebanon, where corruption is prevalent and social issues are challenging. Based on interviews with 32 Lebanese public servants, the research explores how feelings of compassion and self-sacrifice related to public service motivation might encourage them to engage in corrupt behavior for what they see as a good cause. The study highlights that these motivations can lead to behaviors like providing extra support or shielding users from punishment. This can create internal conflicts within the public servant due to their emotional connection with those affected."
-    },
-    {
-      "title": "Market Failure or Government Failure? A Response to Jaworski",
-      "short_title": "Market Failure or Government Failure? A Response to Jaworski",
-      "url": "https://doi.org/10.12747/bejr2013.01.08",
-      "source": "Business Ethics Journal Review",
-      "published_at": "2026-08-19T15:06:06.113805+00:00",
-      "sentiment": "negative",
-      "plain_summary": null
+      "plain_summary": "This research looked at how Nigeria handles reports of corruption through a national strategy. It found that the system worked well in recovering stolen money, but had some big challenges like people not knowing they could report without fear, leaders not fully supporting anti-corruption efforts, and slow payouts for those who reported issues. To make it better, the study suggests strengthening laws, protecting whistleblowers from getting into trouble, and making sure reports are dealt with quickly. This would help catch more corruption and keep Nigeria fighting against bad practices."
     },
     {
       "title": "Corruption and Financial Crimes in Nigeria: An Examination of Activities of the Economic and Financial Crimes Commission (EFCC), 2015-2023",
@@ -317,22 +344,13 @@
       "plain_summary": "Nigeria has struggled with corruption affecting almost every sector of the economy. This issue leads to economic problems like regression, social unrest, and a lack of accountability. The government tried to address this by creating agencies like the Economic and Financial Crimes Commission (EFCC), but corruption persists due to political interference and an unfavorable environment for these agencies. A study found that despite efforts, EFCC has not been able to effectively combat corruption independently."
     },
     {
-      "title": "Counseling of Anti-Corruption Village Indicators in the Context of Creating Corruption-Free Village Governance",
-      "short_title": "Counseling of Anti-Corruption Village Indicators in the Context of Creating Corruption-Free Vi\u2026",
-      "url": "https://doi.org/10.47268/aiwadthu.v6i2.3509",
-      "source": "AIWADTHU: Jurnal Pengabdian Hukum",
+      "title": "Whistle Blowing Systems Effectiveness, Behavioral Insight for Curbing Bureaucratic Corruption. FOI Act Implement Gaps",
+      "short_title": "Whistle Blowing Systems Effectiveness, Behavioral Insight for Curbing Bureaucratic Corruption.\u2026",
+      "url": "https://doi.org/10.56201/jpaswr.v11.no6.2026.pg35.47",
+      "source": "JOURNAL OF PUBLIC ADMINISTRATION AND SOCIAL WELFARE RESEARCH",
       "published_at": "2026-08-19T00:00:00+00:00",
       "sentiment": "negative",
-      "plain_summary": "This counseling program focuses on educating people involved in village government about anti-corruption measures. It aims to increase their knowledge about preventing corruption in how villages manage funds. The method involves presentations, discussions, and sharing experiences. Initially, participants had limited understanding but after the sessions, they gained more clarity on what corruption is, common ways it happens with village money, and why having clear indicators against corruption is important."
-    },
-    {
-      "title": "Tax Administration, Corruption and its Effect on Revenue Generation in Oyo State Board of Internal Revenue",
-      "short_title": "Tax Administration, Corruption and its Effect on Revenue Generation in Oyo State Board of Inte\u2026",
-      "url": "https://doi.org/10.56201/jafm.vol.11.no10.2025.pg311.336",
-      "source": "Journal of Accounting and Financial Management",
-      "published_at": "2026-08-19T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This study examines how effective tax administration and corruption impact revenue generation in Oyo State's Board of Internal Revenue. It used a survey method with 285 respondents including staff and taxpayers. The findings show that better tax planning, collection effectiveness, compliance levels, and monitoring mechanisms significantly improve revenue generation. Corruption did not moderate this relationship."
+      "plain_summary": "This study looks at how whistleblowing systems can be more effective in fighting corruption. It uses three theories: Institutional Theory, which explains why agencies might use anti-corruption laws even if they don't fully follow them; the Theory of Planned Behavior, which shows that people are less likely to blow when they feel others won\u2019t approve and have little control over their actions; and Protection Motivation Theory, which highlights how fear of retaliation can stop people from reporting wrongdoing. The research also found gaps in implementing freedom of information (FOI) laws, like conflicts with other secrecy laws and lack of funding for digital systems. To make whistleblowing and FOI work better, policies need to focus on changing behaviors rather than just having rules."
     },
     {
       "title": "Public Sector Audit Practices and Accountability in Nigeria",
@@ -344,15 +362,6 @@
       "plain_summary": "This research looks at how audits work in the Nigerian government and how they make sure the government is doing its job properly. It found that even though auditors try hard, their reports don't always show if the government is being transparent or not. The study also says that making sure the financial numbers are correct and following all rules makes a big difference in people trusting the government. To improve how well the government works, it's important to keep audits strong and make sure they follow all the right procedures."
     },
     {
-      "title": "Whistle Blowing Systems Effectiveness, Behavioral Insight for Curbing Bureaucratic Corruption. FOI Act Implement Gaps",
-      "short_title": "Whistle Blowing Systems Effectiveness, Behavioral Insight for Curbing Bureaucratic Corruption.\u2026",
-      "url": "https://doi.org/10.56201/jpaswr.v11.no6.2026.pg35.47",
-      "source": "JOURNAL OF PUBLIC ADMINISTRATION AND SOCIAL WELFARE RESEARCH",
-      "published_at": "2026-08-19T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This study looks at how whistleblowing systems can be more effective in fighting corruption. It uses three theories: Institutional Theory, which explains why agencies might use anti-corruption laws even if they don't fully follow them; the Theory of Planned Behavior, which shows that people are less likely to blow when they feel others won\u2019t approve and have little control over their actions; and Protection Motivation Theory, which highlights how fear of retaliation can stop people from reporting wrongdoing. The research also found gaps in implementing freedom of information (FOI) laws, like conflicts with other secrecy laws and lack of funding for digital systems. To make whistleblowing and FOI work better, policies need to focus on changing behaviors rather than just having rules."
-    },
-    {
       "title": "IPSAS Adoption and Accountability in Nigerian State Governments: Enhancing Transparency, Fiscal Discipline and Public Sector Governance",
       "short_title": "IPSAS Adoption and Accountability in Nigerian State Governments: Enhancing Transparency, Fisca\u2026",
       "url": "https://doi.org/10.56201/jafm.vol.12.no6.2026.p492.501",
@@ -362,15 +371,6 @@
       "plain_summary": "Adopting International Public Sector Accounting Standards (IPSAS) has improved financial transparency and accountability in Nigerian state governments. By adopting cash-based and then accrual-based IPSAS, Nigeria aimed to enhance the quality of public sector financial reports. This led to better disclosure, reduced opportunities for fraud, stronger legislative oversight, more effective audits, and increased trust from citizens. However, challenges like inadequate technical capacity, political interference, weak enforcement, insufficient technology, and delayed reporting still hinder full benefits."
     },
     {
-      "title": "Fuel Subsidy Removal and Fraud Accountability Challenges in the Nigerian Economy: Evidence from Federal, State, and Local Government Areas",
-      "short_title": "Fuel Subsidy Removal and Fraud Accountability Challenges in the Nigerian Economy: Evidence fro\u2026",
-      "url": "https://doi.org/10.56201/jafm.vol.11.no9.2025.pg200.203",
-      "source": "Journal of Accounting and Financial Management",
-      "published_at": "2026-08-18T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "Fuel subsidies in Nigeria were removed controversially, freeing up government money for other uses like building roads and schools. However, many people think this move was not handled well because of fraud and lack of proper checking by governments at different levels. The study found that without clear rules and checks, the saved money often went to wrong places instead of where it should be used. To fix this, they suggest making government spending more transparent, having independent teams review how funds are spent, and giving local areas more control over oil-related money to prevent misuse."
-    },
-    {
       "title": "\u201cWe would be foolish not to use influencers\u201d \u2013 trading off public values in public-sector communication",
       "short_title": "\u201cWe would be foolish not to use influencers\u201d \u2013 trading off public values in public-sector comm\u2026",
       "url": "https://doi.org/10.1108/tg-03-2026-0134",
@@ -378,6 +378,15 @@
       "published_at": "2026-08-18T00:00:00+00:00",
       "sentiment": "positive",
       "plain_summary": "This study looks at how government agencies work with social media influencers. It found that using influencers can help reach more people quickly but also raises concerns about transparency and accountability. To handle this, governments create rules for choosing influencers and ways to keep their messages consistent. These practices don't solve all the problems, but they try to manage them so the government's message stays true while still engaging with its audience effectively."
+    },
+    {
+      "title": "Migrant Settlement Work as Anti-Violence Work: How Intersectionality in Policy Is Not Reflected in Practice",
+      "short_title": "Migrant Settlement Work as Anti-Violence Work: How Intersectionality in Policy Is Not Reflecte\u2026",
+      "url": "https://doi.org/10.1177/15570851261477386",
+      "source": "Feminist Criminology",
+      "published_at": "2026-08-13T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": "This study discusses challenges faced by workers who help migrants dealing with domestic violence. Despite Australia having policies recognizing multiple identities like race and gender, these workers often can't refer women to specialized support services. They feel their efforts are not valued or supported enough due to structural issues that don\u2019t provide adequate funding for migrant services. This means even though the policy acknowledges different aspects of identity, it doesn't translate into practical help for all migrants experiencing violence."
     },
     {
       "title": "MECHANISMS FOR PREVENTING CORRUPTION WITHIN THE CIVIL SERVICE PERSONNEL POLICY SYSTEM",
@@ -414,6 +423,15 @@
       "published_at": "2026-08-10T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "This study looks at a photojournalist named Abdurrahman G\u00f6k who took pictures of police shooting someone in Turkey. Because he was documenting state violence, G\u00f6k was charged under anti-terrorism laws. The author uses a term called me\u00e7hull\u00fck to describe how the legal system treats this kind of case. Me\u00e7hull\u00fck means something is unknowable or unclear legally."
+    },
+    {
+      "title": "Digital trust and its influence on combating corruption and sustainable ICT: an application of novel bootstrap quantile regression approach",
+      "short_title": "Digital trust and its influence on combating corruption and sustainable ICT: an application of\u2026",
+      "url": "https://doi.org/10.1108/jices-06-2025-0139",
+      "source": "Journal of Information, Communication and Ethics in Society",
+      "published_at": "2026-08-06T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study examines how digital trust affects corruption and sustainable information and communication technology (ICT) use across 456 OECD countries. It uses a special statistical method called Quantile Regression Bootstrap to analyze data from 2012 to 2023. The findings show that higher levels of digital trust lead to better adoption and responsible use of ICT, which can improve efficiency and access for everyone. However, it also reduces opportunities for corruption by making interactions more transparent and secure."
     },
     {
       "title": "The Public Procurement Commission Law and Expenditure Control: A Tripartite Analysis of Openness, Accountability, and Transparency in Benue State Ministries in Nigeria",
@@ -497,47 +515,29 @@
       "plain_summary": "This research looks at how blockchain technology is used in government services like e-government systems that handle digital IDs securely. It found that while many studies focus on the technical benefits of blockchain like security and efficiency, less attention has been given to why governments adopt these technologies. The study analyzed over 1700 documents from 2000 to 2025 and used a method called bibliometric analysis to understand how research trends have developed. It shows that since around 2017, more people are studying blockchain in government services."
     },
     {
-      "title": "Public Procurement's Long COVID : Emergency Responses and Shifting Corruption Risks in Europe",
-      "short_title": "Public Procurement's Long COVID : Emergency Responses and Shifting Corruption Risks in Europe",
-      "url": "https://doi.org/10.1111/rego.70177",
-      "source": "Regulation &amp; Governance",
-      "published_at": "2026-06-26T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This study examines how the public procurement system in Europe was affected during the pandemic. It found that spending on coronavirus-related projects led to an increase in corruption risks, especially in countries where government controls are not very strict. This happened because new companies without experience dealing with COVID-19 products took advantage of weak regulations to win big contracts. The study also noted that this increased risk spread beyond just healthcare procurement into other areas like general public services."
-    },
-    {
-      "title": "Methodology for assessing the impact of integration diplomacy on transparency, accountability and the effectiveness of public administration in small states",
-      "short_title": "Methodology for assessing the impact of integration diplomacy on transparency, accountability\u2026",
-      "url": "https://doi.org/10.56318/dg/1.2026.70",
-      "source": "Democratic governance",
-      "published_at": "2026-06-25T00:00:00+00:00",
+      "title": "The Impact of Government Perceptions on AI Public Service Acceptance : Differential Moderating Effects of AI Fairness Risk Perception on Agility and Accountability",
+      "short_title": "The Impact of Government Perceptions on AI Public Service Acceptance : Differential Moderating\u2026",
+      "url": "https://doi.org/10.46330/jkps.2026.06.26.2.1",
+      "source": "The Journal of Korean Policy Studies",
+      "published_at": "2026-06-30T00:00:00+00:00",
       "sentiment": "positive",
-      "plain_summary": "This research looks at how joining international groups can improve how a country runs its government. It uses Kyrgyzstan as an example and found that when countries join these groups, they often see improvements in things like transparency and efficiency. However, it also noted that just being part of these groups isn't enough to make big changes; other reforms within the country are needed too. The study suggests that while joining international groups can help, it doesn\u2019t automatically fix all problems with government work."
+      "plain_summary": null
     },
     {
-      "title": "Innovation entry as governance filter: shaping exploratory digital innovation in the public sector",
-      "short_title": "Innovation entry as governance filter: shaping exploratory digital innovation in the public se\u2026",
-      "url": "https://doi.org/10.1108/tg-01-2026-0025",
-      "source": "Transforming Government: People, Process and Policy",
-      "published_at": "2026-06-23T00:00:00+00:00",
+      "title": "A Multidimensional Alignment Model of Public Sector AI Governance: Theoretical Integration from a Policy Design Perspective and an Analysis of Korea\u2019s Accountability Structure",
+      "short_title": "A Multidimensional Alignment Model of Public Sector AI Governance: Theoretical Integration fro\u2026",
+      "url": "https://doi.org/10.33900/kaps.2026.35.2.19",
+      "source": "Korean Policy Studies Review",
+      "published_at": "2026-06-30T00:00:00+00:00",
       "sentiment": "positive",
-      "plain_summary": "This study looks at how the way government organizations handle new ideas affects their ability to try out innovative technologies and approaches. Many public sector groups are used to solving problems step-by-step, but this can make it hard to explore new ideas freely. The research found that the rules for starting and moving through innovation projects act like filters, often pushing exploratory work towards more traditional ways of working. This means they tend to focus on quick fixes rather than experimenting with different solutions."
+      "plain_summary": null
     },
     {
-      "title": "PENTAHELIX MODEL COLLABORATION AS A COLLECTIVE EFFORT IN ANTI-CORRUPTION ECOSYSTEMS",
-      "short_title": "PENTAHELIX MODEL COLLABORATION AS A COLLECTIVE EFFORT IN ANTI-CORRUPTION ECOSYSTEMS",
-      "url": "https://doi.org/10.24076/sr320t61",
-      "source": "Journal of Social Politics and Governance (JSPG)",
-      "published_at": "2026-06-15T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This study looks at how different groups like governments, businesses, non-profits, schools, and media work together to fight corruption using something called the Pentahelix framework. It found that for effective anti-corruption efforts, these groups need to collaborate closely rather than working separately. The Pentahelix model shows they can tackle corruption more effectively when they all play a part in it. This collaborative approach is key to creating strong systems against corruption and making sure it doesn't happen anymore."
-    },
-    {
-      "title": "Do Majority Shifts Reduce Corruption in Korean Local Council?",
-      "short_title": "Do Majority Shifts Reduce Corruption in Korean Local Council?",
-      "url": "https://doi.org/10.20484/klog.30.1.6",
-      "source": "The Korean Journal of Local Government Studies",
-      "published_at": "2026-05-31T00:00:00+00:00",
+      "title": "An Analysis of Types and Motivations of Citizen Participation in Online Public Hearings: Focusing on the Analysis of Citizen Opinions from the Anti-Corruption and Civil Rights Commission\u2019s Online Public Hearings",
+      "short_title": "An Analysis of Types and Motivations of Citizen Participation in Online Public Hearings: Focus\u2026",
+      "url": "https://doi.org/10.23036/kapae.2026.36.2.13",
+      "source": "Korean Journal of Policy Analysis and Evaluation",
+      "published_at": "2026-06-30T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": null
     }
@@ -596,15 +596,6 @@
       "published_at": "2026-05-13T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "This research looks at how ethical values are practiced in government organizations to prevent corruption. It highlights a gap between what laws say and how people actually behave in their work. To fix this, it suggests that improving individual ethics and creating an environment where transparency is valued more can help. The biggest hurdle is often political pressure and a culture that tolerates some unethical practices."
-    },
-    {
-      "title": "Beyond Compliance: A Systematic Review of Ethics, Accountability, And Transparency in Indonesian Governance",
-      "short_title": "Beyond Compliance: A Systematic Review of Ethics, Accountability, And Transparency in Indonesi\u2026",
-      "url": "https://doi.org/10.30589/pgr.v10i1.1361",
-      "source": "Policy &amp; Governance Review",
-      "published_at": "2026-01-08T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This study looks at how ethics, accountability, and transparency work together in Indonesian government systems. It found that even with digitalization efforts, if there isn't a strong enough foundation of ethics, these measures can fail to prevent corruption and lose public trust. The research suggests integrating ethical practices, making information transparent, and ensuring accountability are all important for effective governance. By combining these elements, Indonesia can improve its government systems and build more trustworthy relationships with the people it serves."
     }
   ]
 }
