@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T14:12:37.286561+00:00",
+  "updated_at": "2026-08-27T13:19:32.872374+00:00",
   "government": [
     {
       "title": "An Examination of Government Methods for Compensating Damage Resulting from Infringement of Public Rights",
@@ -240,7 +240,7 @@
       "short_title": "AI Regulation and Its Social Impacts on Public Policy",
       "url": "https://doi.org/10.55737/rl.v5i1.26181",
       "source": "Regional Lens",
-      "published_at": "2026-08-26T13:57:48.455791+00:00",
+      "published_at": "2026-08-27T13:19:12.902024+00:00",
       "sentiment": "positive",
       "plain_summary": "AI is now a key part of how governments make decisions in many areas like healthcare, policing, and welfare. As more AI systems are used, it's important to have rules to make sure they work fairly and don't cause problems. These rules help ensure that AI doesn't lead to unfair treatment or less democracy. By carefully watching how AI is used, we can make sure it helps people and doesn't hurt them."
     },
@@ -249,7 +249,7 @@
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-08-26T13:40:34.275997+00:00",
+      "published_at": "2026-08-27T13:19:03.326700+00:00",
       "sentiment": "negative",
       "plain_summary": "This research focuses on understanding the emotional risks in police work and how they manage their emotions to improve job satisfaction. It was conducted by observing various police units like forensic science, digital investigation, financial division, criminal division, anti-terrorism unit, and more over 26 days. The study found two key emotions that are hard for them to express: interest and frustration. These emotions make it difficult for officers to discuss their work-related feelings openly, leading to invisible or undiscussed labor."
     },
@@ -258,7 +258,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-08-26T13:40:33.671863+00:00",
+      "published_at": "2026-08-27T13:19:01.945333+00:00",
       "sentiment": "positive",
       "plain_summary": "Data science has become crucial as we generate vast amounts of information daily. It helps transform this data into useful insights for better decision-making across various sectors. For audit institutions, integrating data science can enhance their ability to manage public funds more effectively and improve accountability. By using data science, audits can provide clearer and more accurate reports that recommend improvements faster, which benefits the overall administration and improves citizens' quality of life."
     },
@@ -267,7 +267,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-08-26T13:40:33.671586+00:00",
+      "published_at": "2026-08-27T13:19:01.945064+00:00",
       "sentiment": "positive",
       "plain_summary": null
     },
@@ -276,7 +276,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-08-26T13:40:33.671551+00:00",
+      "published_at": "2026-08-27T13:19:01.945027+00:00",
       "sentiment": "positive",
       "plain_summary": "This paper discusses a scenario where autonomous killer robots are used in warfare without human intervention. These robots can make decisions about who to target based on AI algorithms trained to recognize certain uniforms. If one of these drones targets and kills an enemy soldier who is surrendering, it would violate international laws. Another concern is if the robot makes a mistake by attacking another similar system, leading to unintended conflicts."
     },
@@ -285,7 +285,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-08-26T13:40:33.671163+00:00",
+      "published_at": "2026-08-27T13:19:01.944624+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how public service motivation can lead to noble cause corruption in Lebanon, where there's a lot of social and economic hardship. The research found that feelings like compassion and selflessness often push people into doing good deeds for noble causes, but these actions sometimes involve corrupt practices. This leads to internal conflicts as the person feels both guilty and supported by their work environment. Factors like physical exchanges, personal space in the workplace, and close relationships with users can make it easier for this type of corruption to happen."
     },
@@ -294,7 +294,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-08-26T13:40:33.670963+00:00",
+      "published_at": "2026-08-27T13:19:01.944420+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how public service motivation can lead to corruption for a noble cause in Lebanon, where corruption is prevalent and social issues are challenging. Based on interviews with 32 Lebanese public servants, the research explores how feelings of compassion and self-sacrifice related to public service motivation might encourage them to engage in corrupt behavior for what they see as a good cause. The study highlights that these motivations can lead to behaviors like providing extra support or shielding users from punishment. This can create internal conflicts within the public servant due to their emotional connection with those affected."
     },
@@ -303,9 +303,45 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-08-26T13:40:33.670631+00:00",
+      "published_at": "2026-08-27T13:19:01.944101+00:00",
       "sentiment": "negative",
       "plain_summary": null
+    },
+    {
+      "title": "Not Just Words: Political Rhetorics and the Shrinking Space for Climate Activism",
+      "short_title": "Not Just Words: Political Rhetorics and the Shrinking Space for Climate Activism",
+      "url": "https://doi.org/10.1017/s0957876526000525",
+      "source": "Voluntas: International Journal of Voluntary and Nonprofit Organizations",
+      "published_at": "2026-08-27T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study examines how climate activism faced significant backlash even in countries like Austria that generally support environmental issues. It found that political strategies and media coverage often delegitimized climate activists, leading to reduced public support and less activism overall. The research suggests that when groups are seen as less legitimate or threatening by authorities and the public, they face more restrictions on their activities. This highlights how even in supportive environments, persistent criticism can lead to a shrinking space for effective environmental advocacy."
+    },
+    {
+      "title": "Constructing Resistance: Socially Engaged Architecture and Civic Activism in Croatia",
+      "short_title": "Constructing Resistance: Socially Engaged Architecture and Civic Activism in Croatia",
+      "url": "https://doi.org/10.1017/s0957876526000689",
+      "source": "Voluntas: International Journal of Voluntary and Nonprofit Organizations",
+      "published_at": "2026-08-27T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": "This article discusses socially engaged architectural practices in Croatia that oppose urban changes driven by investors. These architects act like civic experts to critique post-socialist city transformations. They combine public criticism with creating new ways of understanding space through protests and coalition building. More recently, they're working towards changing how decisions are made more openly."
+    },
+    {
+      "title": "Juridical Analysis of the Transformation of KPK Employees into Civil Servants under Perkom Nomor. 1 of 2021 and Its Implications for the Independence of the KPK\u2019s Authority in Combating Corruption in Indonesia (A Study of Decision Nomor 26 P/HUM/2021)",
+      "short_title": "Juridical Analysis of the Transformation of KPK Employees into Civil Servants under Perkom Nom\u2026",
+      "url": "https://doi.org/10.37010/hmr.v4i3.183",
+      "source": "HUMANIORUM",
+      "published_at": "2026-08-27T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study looks at changes made by Perkom Nomor 1 of 2021 that turned KPK employees into civil servants. This change could affect how KPK operates independently to fight corruption. The research suggests this new status might violate workers' rights as outlined in the constitution and human rights law. It aims to explore if changing regulations can align with principles like justice and benefit, especially concerning a Supreme Court decision."
+    },
+    {
+      "title": "ANTI-CORRUPTION POLICIES AND DEMOCRATIC GOVERNANCE IN NIGERIA: AN EVALUATION OF THE INDEPENDENT CORRUPT PRACTICES AND OTHER RELATED OFFENCES COMMISSION (ICPC)",
+      "short_title": "ANTI-CORRUPTION POLICIES AND DEMOCRATIC GOVERNANCE IN NIGERIA: AN EVALUATION OF THE INDEPENDEN\u2026",
+      "url": "https://doi.org/10.66837/ijbmbri01/33/30614",
+      "source": "International Journal of Business, Management, Behavioral Research and Innovations",
+      "published_at": "2026-08-26T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "Corruption is a significant issue in Nigeria that affects democratic governance and public administration. Despite having an anti-corruption body called the Independent Corrupt Practices and Other Related Offenses Commission (ICPC), corruption continues to be prevalent. The ICPC has implemented various measures like prevention programs, audits of government departments, public education campaigns, asset recovery, and prosecuting offenders. However, challenges such as lack of funding, political interference, judicial delays, weak collaboration among agencies, and low conviction rates limit its effectiveness."
     },
     {
       "title": "Legal Corruption in the Government: An Experimental Study on the Role of Civil Servants' Political Ideology",
@@ -324,15 +360,6 @@
       "published_at": "2026-08-26T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "This research looked at how corruption affects service delivery in Lafia, a local government area in Nigeria. It found that factors like lack of transparency, weak institutions, political interference, low salaries, and poor enforcement of anti-corruption laws lead to high levels of corruption. Corruption causes delays in projects, uses cheap materials, stops projects from starting, increases the cost of services, and makes it harder for people who don't have power to get help. To fix this, the government should improve how they run things by being more open about their spending and making sure anti-corruption laws are followed."
-    },
-    {
-      "title": "Nonprofit resilience building in turbulent times: towards a process model",
-      "short_title": "Nonprofit resilience building in turbulent times: towards a process model",
-      "url": "https://doi.org/10.1007/s43508-026-00155-x",
-      "source": "Global Public Policy and Governance",
-      "published_at": "2026-08-26T00:00:00+00:00",
-      "sentiment": "positive",
-      "plain_summary": "In tough times, nonprofits need to be resilient without losing their mission focus. A new model suggests three steps: preparing ahead of time, making smart decisions when things change, and empowering front-line workers to adapt quickly. This model also highlights policies that support these efforts like flexible funding rules and trust-based contracts. By doing this, nonprofits can stay true to their missions while handling unexpected challenges."
     },
     {
       "title": "Evaluation of the Impact of Corruption on Administrative System in Mubi North Local Government Council of Adamawa State",
@@ -359,6 +386,15 @@
       "source": "JOURNAL OF HUMANITIES AND SOCIAL POLICY",
       "published_at": "2026-08-25T00:00:00+00:00",
       "sentiment": "negative",
+      "plain_summary": null
+    },
+    {
+      "title": "Digital governance relates to perceived institutional integrity through government transparency and citizen satisfaction in post conflict Mogadishu Somalia",
+      "short_title": "Digital governance relates to perceived institutional integrity through government transparenc\u2026",
+      "url": "https://doi.org/10.1007/s44282-026-00563-8",
+      "source": "Discover Global Society",
+      "published_at": "2026-08-25T00:00:00+00:00",
+      "sentiment": "positive",
       "plain_summary": null
     },
     {
@@ -405,6 +441,15 @@
       "published_at": "2026-08-19T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "This study looks at how whistleblowing systems can be more effective in fighting corruption. It uses three theories: Institutional Theory, which explains why agencies might use anti-corruption laws even if they don't fully follow them; the Theory of Planned Behavior, which shows that people are less likely to blow when they feel others won\u2019t approve and have little control over their actions; and Protection Motivation Theory, which highlights how fear of retaliation can stop people from reporting wrongdoing. The research also found gaps in implementing freedom of information (FOI) laws, like conflicts with other secrecy laws and lack of funding for digital systems. To make whistleblowing and FOI work better, policies need to focus on changing behaviors rather than just having rules."
+    },
+    {
+      "title": "POLITICAL CORRUPTION AND ITS IMPACT ON PUBLIC GOVERNANCE IN POST-APARTHEID SOUTH AFRICA",
+      "short_title": "POLITICAL CORRUPTION AND ITS IMPACT ON PUBLIC GOVERNANCE IN POST-APARTHEID SOUTH AFRICA",
+      "url": "https://doi.org/10.69778/2664-3022/2026/8.2/a8",
+      "source": "Ayika \u2013 Journal of Environment and Politics in Africa",
+      "published_at": "2026-08-19T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "Political corruption continues to be a major issue in South Africa's governance, affecting various aspects like service delivery, economic growth, and trust in institutions. Despite efforts, the government faces challenges in controlling corruption, especially in areas like public procurement. Understanding these impacts is crucial for improving governance and ensuring that resources are used effectively to benefit citizens. Future research should evaluate what measures work best to reduce political corruption."
     },
     {
       "title": "Public Sector Audit Practices and Accountability in Nigeria",
@@ -479,15 +524,6 @@
       "plain_summary": "Adopting International Public Sector Accounting Standards (IPSAS) has improved financial transparency and accountability in Nigerian state governments. By adopting cash-based and then accrual-based IPSAS, Nigeria aimed to enhance the quality of public sector financial reports. This led to better disclosure, reduced opportunities for fraud, stronger legislative oversight, more effective audits, and increased trust from citizens. However, challenges like inadequate technical capacity, political interference, weak enforcement, insufficient technology, and delayed reporting still hinder full benefits."
     },
     {
-      "title": "Forensic Accounting Techniques and Fraud Reduction in Nigerian Public Sector Institutions (2015\u20132025). An Empirical Panel Data Analysis",
-      "short_title": "Forensic Accounting Techniques and Fraud Reduction in Nigerian Public Sector Institutions (201\u2026",
-      "url": "https://doi.org/10.56201/jafm.vol.12.no6.2026.p235.249",
-      "source": "JOURNAL OF ACCOUNTING AND FINANCIAL MANAGEMENT",
-      "published_at": "2026-08-18T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": null
-    },
-    {
       "title": "MECHANISMS FOR PREVENTING CORRUPTION WITHIN THE CIVIL SERVICE PERSONNEL POLICY SYSTEM",
       "short_title": "MECHANISMS FOR PREVENTING CORRUPTION WITHIN THE CIVIL SERVICE PERSONNEL POLICY SYSTEM",
       "url": "https://doi.org/10.32782/tnu-2663-6468/2026.3/22",
@@ -504,54 +540,9 @@
       "published_at": "2026-08-12T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": null
-    },
-    {
-      "title": "Communicating a historic shift: Policy transparency and public sentiment on Vietnam's 2025 provincial merger and public sector downsizing",
-      "short_title": "Communicating a historic shift: Policy transparency and public sentiment on Vietnam's 2025 pro\u2026",
-      "url": "https://doi.org/10.1111/1467-8500.70056",
-      "source": "Australian Journal of Public Administration",
-      "published_at": "2026-08-10T00:00:00+00:00",
-      "sentiment": "positive",
-      "plain_summary": "This study looked at how transparently Vietnam communicated its plans for merging provinces and downsizing public sector jobs in 2025. It found that overall transparency helped people feel more optimistic about the reform, but when they were told too much detail about specific layoffs and compensation, it made them less supportive of the plan. This means it's important to balance being open with protecting sensitive information like how many jobs will be cut and who gets help. Practitioners should focus on making sure the downsizing process is fair before explaining details, and they should emphasize the big picture goals while giving specific support directly to those affected."
-    },
-    {
-      "title": "Can information backfire? How corruption experience and media information shape anti-corruption willingness",
-      "short_title": "Can information backfire? How corruption experience and media information shape anti-corruptio\u2026",
-      "url": "https://doi.org/10.1080/23276665.2026.2713435",
-      "source": "Asia Pacific Journal of Public Administration",
-      "published_at": "2026-08-04T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": null
-    },
-    {
-      "title": "Developing of an Anti-Fake Service of Educational Purposes for the Analysis of Russian-Language News Texts",
-      "short_title": "Developing of an Anti-Fake Service of Educational Purposes for the Analysis of Russian-Languag\u2026",
-      "url": "https://doi.org/10.21686/6/1818-4243-2026-3-12-22",
-      "source": "Open Education",
-      "published_at": "2026-08-01T00:00:00+00:00",
-      "sentiment": "positive",
-      "plain_summary": "This research focuses on developing an automated system to detect fake news in Russian language texts. The system uses machine learning models, particularly convolutional neural networks (CNNs) for text analysis. It also includes recurrent neural networks (RNNs), like LSTM, for understanding sequences of words. This service is designed as a digital tool that can be used both by professionals and students to learn about how these algorithms work."
-    },
-    {
-      "title": "A framework for AI readiness and strategic adoption: developing a public sector AI maturity model through systematic review and synthesis",
-      "short_title": "A framework for AI readiness and strategic adoption: developing a public sector AI maturity mo\u2026",
-      "url": "https://doi.org/10.1108/tg-01-2026-0019",
-      "source": "Transforming Government: People, Process and Policy",
-      "published_at": "2026-07-28T00:00:00+00:00",
-      "sentiment": "positive",
-      "plain_summary": "This study aims to help public sector organizations understand and adopt artificial intelligence effectively. It found that factors like leadership, governance, transparency, and ethical oversight are crucial for successful AI use in government. The research proposes a five-level maturity model showing how an organization can progress from using AI sporadically to integrating it into daily operations in a responsible way. This framework helps public sector leaders plan their AI journey systematically."
     }
   ],
   "nonprofit": [
-    {
-      "title": "The New Middle Class of Iran and the Demand for Reforming Domestic and Foreign Political Relations",
-      "short_title": "The New Middle Class of Iran and the Demand for Reforming Domestic and Foreign Political Relat\u2026",
-      "url": "https://doi.org/10.61838/jhrlp.380",
-      "source": "Journal of Historical Research, Law and Policy",
-      "published_at": "2027-01-01T00:00:00+00:00",
-      "sentiment": "positive",
-      "plain_summary": "The new middle class in Iran grew significantly after the Islamic Revolution and played a key role in pushing for reforms in both domestic and foreign policies. This group became more active in elections over time, aiming to influence how the government handled these areas. Despite their efforts through voting, they haven't been able to fully change the system's approach to politics internationally or domestically. Their success was mainly seen in getting more people involved in electoral processes."
-    },
     {
       "title": "Responsible AI Governance in Iran: A Program-Theory Evaluation of the National Artificial Intelligence Strategy",
       "short_title": "Responsible AI Governance in Iran: A Program-Theory Evaluation of the National Artificial Inte\u2026",
@@ -580,13 +571,40 @@
       "plain_summary": "This research looks at the difference between maladministration and corruption, using a specific case about buying Chromebooks for schools in Indonesia. It found four key factors to decide if something is corruption: whether someone intended to do wrong, if they got personal benefit from it, if money was lost as a result, and if proper steps were taken afterward. The study also suggests that when all these factors are met, what started as maladministration can be considered corruption. However, the research points out there should be an initial check by a special committee before going to criminal courts."
     },
     {
-      "title": "Nonprofit resilience building in turbulent times: towards a process model",
-      "short_title": "Nonprofit resilience building in turbulent times: towards a process model",
-      "url": "https://doi.org/10.1007/s43508-026-00155-x",
-      "source": "Global Public Policy and Governance",
-      "published_at": "2026-08-26T00:00:00+00:00",
+      "title": "Not Just Words: Political Rhetorics and the Shrinking Space for Climate Activism",
+      "short_title": "Not Just Words: Political Rhetorics and the Shrinking Space for Climate Activism",
+      "url": "https://doi.org/10.1017/s0957876526000525",
+      "source": "Voluntas: International Journal of Voluntary and Nonprofit Organizations",
+      "published_at": "2026-08-27T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study examines how climate activism faced significant backlash even in countries like Austria that generally support environmental issues. It found that political strategies and media coverage often delegitimized climate activists, leading to reduced public support and less activism overall. The research suggests that when groups are seen as less legitimate or threatening by authorities and the public, they face more restrictions on their activities. This highlights how even in supportive environments, persistent criticism can lead to a shrinking space for effective environmental advocacy."
+    },
+    {
+      "title": "Constructing Resistance: Socially Engaged Architecture and Civic Activism in Croatia",
+      "short_title": "Constructing Resistance: Socially Engaged Architecture and Civic Activism in Croatia",
+      "url": "https://doi.org/10.1017/s0957876526000689",
+      "source": "Voluntas: International Journal of Voluntary and Nonprofit Organizations",
+      "published_at": "2026-08-27T00:00:00+00:00",
       "sentiment": "positive",
-      "plain_summary": "In tough times, nonprofits need to be resilient without losing their mission focus. A new model suggests three steps: preparing ahead of time, making smart decisions when things change, and empowering front-line workers to adapt quickly. This model also highlights policies that support these efforts like flexible funding rules and trust-based contracts. By doing this, nonprofits can stay true to their missions while handling unexpected challenges."
+      "plain_summary": "This article discusses socially engaged architectural practices in Croatia that oppose urban changes driven by investors. These architects act like civic experts to critique post-socialist city transformations. They combine public criticism with creating new ways of understanding space through protests and coalition building. More recently, they're working towards changing how decisions are made more openly."
+    },
+    {
+      "title": "Juridical Analysis of the Transformation of KPK Employees into Civil Servants under Perkom Nomor. 1 of 2021 and Its Implications for the Independence of the KPK\u2019s Authority in Combating Corruption in Indonesia (A Study of Decision Nomor 26 P/HUM/2021)",
+      "short_title": "Juridical Analysis of the Transformation of KPK Employees into Civil Servants under Perkom Nom\u2026",
+      "url": "https://doi.org/10.37010/hmr.v4i3.183",
+      "source": "HUMANIORUM",
+      "published_at": "2026-08-27T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study looks at changes made by Perkom Nomor 1 of 2021 that turned KPK employees into civil servants. This change could affect how KPK operates independently to fight corruption. The research suggests this new status might violate workers' rights as outlined in the constitution and human rights law. It aims to explore if changing regulations can align with principles like justice and benefit, especially concerning a Supreme Court decision."
+    },
+    {
+      "title": "ANTI-CORRUPTION POLICIES AND DEMOCRATIC GOVERNANCE IN NIGERIA: AN EVALUATION OF THE INDEPENDENT CORRUPT PRACTICES AND OTHER RELATED OFFENCES COMMISSION (ICPC)",
+      "short_title": "ANTI-CORRUPTION POLICIES AND DEMOCRATIC GOVERNANCE IN NIGERIA: AN EVALUATION OF THE INDEPENDEN\u2026",
+      "url": "https://doi.org/10.66837/ijbmbri01/33/30614",
+      "source": "International Journal of Business, Management, Behavioral Research and Innovations",
+      "published_at": "2026-08-26T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "Corruption is a significant issue in Nigeria that affects democratic governance and public administration. Despite having an anti-corruption body called the Independent Corrupt Practices and Other Related Offenses Commission (ICPC), corruption continues to be prevalent. The ICPC has implemented various measures like prevention programs, audits of government departments, public education campaigns, asset recovery, and prosecuting offenders. However, challenges such as lack of funding, political interference, judicial delays, weak collaboration among agencies, and low conviction rates limit its effectiveness."
     },
     {
       "title": "GOVERNANCE OF SOCIAL ASSISTANCE FUNDS IN NON-PROFIT ORGANIZATIONS: AN ANALYSIS OF ACCOUNTABILITY, TRANSPARENCY, AND COMPLIANCE WITH ISAK 35",
