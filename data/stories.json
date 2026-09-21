@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T09:42:53.310743+00:00",
+  "updated_at": "2026-09-21T08:44:34.972643+00:00",
   "government": [
     {
       "title": "The Determinants of Voter Turnout in Croatian Local Government Elections",
@@ -72,24 +72,6 @@
       "published_at": "2027-01-01T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "During the Republican period in Afghanistan (2004-2021), administrative corruption was a major issue affecting governance. The government worked with international support to create laws, anti-corruption strategies, and institutions. However, despite progress in these areas, corruption did not significantly decrease. The study found that while there were improvements in legislation and institution building, the effectiveness of policies weakened at implementation stages."
-    },
-    {
-      "title": "Responsible AI Governance in Iran: A Program-Theory Evaluation of the National Artificial Intelligence Strategy",
-      "short_title": "Responsible AI Governance in Iran: A Program-Theory Evaluation of the National Artificial Inte\u2026",
-      "url": "https://doi.org/10.61838/jhrlp.389",
-      "source": "Journal of Historical Research, Law and Policy",
-      "published_at": "2027-01-01T00:00:00+00:00",
-      "sentiment": "positive",
-      "plain_summary": "This research evaluates Iran's National Artificial Intelligence Strategy to see how well it supports responsible use of AI. The strategy emphasizes values like human dignity and national priorities, but lacks clear plans for key areas like funding, data access, and regulation. To succeed, the strategy needs more specific details on these aspects. Practitioners should focus not just on ethical principles, but also on practical steps to ensure AI is used responsibly and effectively in Iran."
-    },
-    {
-      "title": "Challenges of Environmental Governance in Iraq and Strategies for Its Strengthening Based on Sustainable Development Standards",
-      "short_title": "Challenges of Environmental Governance in Iraq and Strategies for Its Strengthening Based on S\u2026",
-      "url": "https://doi.org/10.61838/jhrlp.338",
-      "source": "Journal of Historical Research, Law and Policy",
-      "published_at": "2027-01-01T00:00:00+00:00",
-      "sentiment": "positive",
-      "plain_summary": "Iraq faces significant challenges in managing its environment due to structural, legal, institutional, and security issues that harm public health, resources, and social stability. Despite having laws and international commitments, Iraq's environmental governance system is ineffective. To improve this, reforms are needed on multiple fronts including strengthening legislation, empowering institutions, integrating environmental concerns into economic policies, and enhancing regional and international cooperation. Aligning with sustainable development principles like good governance, stakeholder participation, and accountability can help address these issues and pave the way for Iraq's sustainable future."
     },
     {
       "title": "Evaluation of Iran's Legislative Criminal Policy on the Smuggling of Goods and Currency via Official Channels: A Critical Analysis of the 2013 Anti\u2011Smuggling Law and Its 2021 Amendments",
@@ -173,6 +155,15 @@
       "plain_summary": null
     },
     {
+      "title": "Fighting Corruption and Transparency of Political Parties Finances as Prerequisites of the EU\u2019s Accession: The Case of the Republic of Moldova",
+      "short_title": "Fighting Corruption and Transparency of Political Parties Finances as Prerequisites of the EU\u2019\u2026",
+      "url": "https://doi.org/10.58603/ruzg3970",
+      "source": "Analele Universit\u0103\u021bii din Oradea. Seria: Rela\u021bii Interna\u021bionale \u0219i Studii Europene",
+      "published_at": "2026-09-30T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "In Republic of Moldova, corruption continues to be a significant issue affecting democratic governance. Political party financing is a key area where corruption often occurs, leading to clientelism, influence from oligarchs, and state capture. The article looks at how Moldova has improved its laws to make political party funding more transparent, but also highlights ongoing challenges. To meet the requirements for EU accession, it's crucial to enforce these laws better, improve verification systems, and ensure public funding strengthens the link between parties and citizens."
+    },
+    {
       "title": "UNIVERSAL INTERNATIONAL LEGAL MECHANISMS OF ANTI-CORRUPTION POLICY IN THE CONSTRUCTION SECTOR",
       "short_title": "UNIVERSAL INTERNATIONAL LEGAL MECHANISMS OF ANTI-CORRUPTION POLICY IN THE CONSTRUCTION SECTOR",
       "url": "https://doi.org/10.69635/mssl.2026.2.3.57",
@@ -186,7 +177,7 @@
       "short_title": "AI Regulation and Its Social Impacts on Public Policy",
       "url": "https://doi.org/10.55737/rl.v5i1.26181",
       "source": "Regional Lens",
-      "published_at": "2026-09-20T09:10:19.628764+00:00",
+      "published_at": "2026-09-21T08:08:16.233379+00:00",
       "sentiment": "positive",
       "plain_summary": "AI is now a key part of how governments make decisions in many areas like healthcare, policing, and welfare. As more AI systems are used, it's important to have rules to make sure they work fairly and don't cause problems. These rules help ensure that AI doesn't lead to unfair treatment or less democracy. By carefully watching how AI is used, we can make sure it helps people and doesn't hurt them."
     },
@@ -195,7 +186,7 @@
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-09-20T08:53:47.495338+00:00",
+      "published_at": "2026-09-21T07:12:30.605988+00:00",
       "sentiment": "negative",
       "plain_summary": "This research focuses on understanding the emotional risks in police work and how they manage their emotions to improve job satisfaction. It was conducted by observing various police units like forensic science, digital investigation, financial division, criminal division, anti-terrorism unit, and more over 26 days. The study found two key emotions that are hard for them to express: interest and frustration. These emotions make it difficult for officers to discuss their work-related feelings openly, leading to invisible or undiscussed labor."
     },
@@ -204,7 +195,7 @@
       "short_title": "A Policy Analysis of PFAS Regulations in Maine and the US Federal Government",
       "url": "https://doi.org/10.53558/wsmtdy02",
       "source": "Maine Policy Review",
-      "published_at": "2026-09-20T08:53:43.932511+00:00",
+      "published_at": "2026-09-21T07:12:28.710756+00:00",
       "sentiment": "positive",
       "plain_summary": "Per- and polyfluoroalkyl substances (PFAS) are harmful chemicals found in many products that have contaminated the environment. The US government has not uniformly addressed PFAS issues, but some states like Maine have taken strong actions. Maine has implemented various measures such as education, labeling requirements, and bans on certain agricultural practices. They also have unique regulations like banning the use of PFAS in food products like beef, dairy, and eggs."
     },
@@ -213,7 +204,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-09-20T08:53:43.932363+00:00",
+      "published_at": "2026-09-21T07:12:28.710628+00:00",
       "sentiment": "positive",
       "plain_summary": "Data science has become crucial as we generate vast amounts of information daily. It helps transform this data into useful insights for better decision-making across various sectors. For audit institutions, integrating data science can enhance their ability to manage public funds more effectively and improve accountability. By using data science, audits can provide clearer and more accurate reports that recommend improvements faster, which benefits the overall administration and improves citizens' quality of life."
     },
@@ -222,7 +213,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-09-20T08:53:43.932227+00:00",
+      "published_at": "2026-09-21T07:12:28.710515+00:00",
       "sentiment": "positive",
       "plain_summary": null
     },
@@ -231,7 +222,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-09-20T08:53:43.932201+00:00",
+      "published_at": "2026-09-21T07:12:28.710497+00:00",
       "sentiment": "positive",
       "plain_summary": "This paper discusses a scenario where autonomous killer robots are used in warfare without human intervention. These robots can make decisions about who to target based on AI algorithms trained to recognize certain uniforms. If one of these drones targets and kills an enemy soldier who is surrendering, it would violate international laws. Another concern is if the robot makes a mistake by attacking another similar system, leading to unintended conflicts."
     },
@@ -240,7 +231,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-09-20T08:53:43.931941+00:00",
+      "published_at": "2026-09-21T07:12:28.710316+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how public service motivation can lead to noble cause corruption in Lebanon, where there's a lot of social and economic hardship. The research found that feelings like compassion and selflessness often push people into doing good deeds for noble causes, but these actions sometimes involve corrupt practices. This leads to internal conflicts as the person feels both guilty and supported by their work environment. Factors like physical exchanges, personal space in the workplace, and close relationships with users can make it easier for this type of corruption to happen."
     },
@@ -249,7 +240,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-09-20T08:53:43.931837+00:00",
+      "published_at": "2026-09-21T07:12:28.710214+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how public service motivation can lead to corruption for a noble cause in Lebanon, where corruption is prevalent and social issues are challenging. Based on interviews with 32 Lebanese public servants, the research explores how feelings of compassion and self-sacrifice related to public service motivation might encourage them to engage in corrupt behavior for what they see as a good cause. The study highlights that these motivations can lead to behaviors like providing extra support or shielding users from punishment. This can create internal conflicts within the public servant due to their emotional connection with those affected."
     },
@@ -258,9 +249,18 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-09-20T08:53:43.931640+00:00",
+      "published_at": "2026-09-21T07:12:28.710007+00:00",
       "sentiment": "negative",
       "plain_summary": null
+    },
+    {
+      "title": "Assessing the Impact of the Whistleblower Protection Act on Corruption Mitigation and Institutional Accountability in India",
+      "short_title": "Assessing the Impact of the Whistleblower Protection Act on Corruption Mitigation and Institut\u2026",
+      "url": "https://doi.org/10.66629/pj0018",
+      "source": "Pacific Journal of Modern Theories and Research",
+      "published_at": "2026-09-20T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This research looks at how the Whistleblower Protection Act in India has helped reduce corruption and improved how institutions are held accountable. While the act is a step in the right direction, it hasn't been fully effective because of issues like lack of enforcement and changes that weakened some protections. The study found that while whistleblowers have gained some power, there's still a lot of work to be done to make the system more robust. It suggests that for the act to be more effective, there needs to be stronger mechanisms for reporting wrongdoings, quicker resolutions, and support for whistleblowers."
     },
     {
       "title": "Confiscation of Corruptors' Assets: A Strategy for State Financial Recovery and Prevention of Corruption Crimes",
@@ -272,15 +272,6 @@
       "plain_summary": "Corruption leads to financial losses for the state and harms national development. Current laws allow for asset confiscation only after a criminal verdict, which can be delayed or manipulated by corrupt individuals. This study suggests creating a new law that allows for immediate confiscation of assets without needing a final court decision. This would help recover lost state funds faster and make it harder for corrupt people to hide their assets."
     },
     {
-      "title": "Impact of Audit Independence and Accountability in Zamfara State Public Sector",
-      "short_title": "Impact of Audit Independence and Accountability in Zamfara State Public Sector",
-      "url": "https://doi.org/10.56201/jafm.vol.12.no2.2026.pg28.37",
-      "source": "JOURNAL OF ACCOUNTING AND FINANCIAL MANAGEMENT",
-      "published_at": "2026-09-18T00:00:00+00:00",
-      "sentiment": "positive",
-      "plain_summary": "This study looked at how much independence auditors have in Zamfara State's public sector and how that affects their accountability. They used two measures: how much the auditors are paid and how long they stay. Higher pay and longer stays were linked to better financial reporting. The study suggests that the government should use fair bidding processes for hiring auditors and have clear fee structures to avoid overpaying which could compromise the auditors' independence."
-    },
-    {
       "title": "Forensic Auditing and Financial Strength Transparency in Selected Southwest Government Sector of Nigeria",
       "short_title": "Forensic Auditing and Financial Strength Transparency in Selected Southwest Government Sector\u2026",
       "url": "https://doi.org/10.56201/jafm.vol.12.no2.2026.pg54.71",
@@ -288,6 +279,15 @@
       "published_at": "2026-09-18T00:00:00+00:00",
       "sentiment": "positive",
       "plain_summary": "This study looked at how forensic auditing can improve financial transparency in government sectors in Southwest Nigeria. Forensic auditing includes techniques like investigating financial issues, analyzing evidence, and providing support in legal cases. The study found that forensic auditing can make financial information more open, clear, and accessible. Specifically, investigative techniques and evidence analysis help make financial information more open."
+    },
+    {
+      "title": "Impact of Audit Independence and Accountability in Zamfara State Public Sector",
+      "short_title": "Impact of Audit Independence and Accountability in Zamfara State Public Sector",
+      "url": "https://doi.org/10.56201/jafm.vol.12.no2.2026.pg28.37",
+      "source": "JOURNAL OF ACCOUNTING AND FINANCIAL MANAGEMENT",
+      "published_at": "2026-09-18T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": "This study looked at how much independence auditors have in Zamfara State's public sector and how that affects their accountability. They used two measures: how much the auditors are paid and how long they stay. Higher pay and longer stays were linked to better financial reporting. The study suggests that the government should use fair bidding processes for hiring auditors and have clear fee structures to avoid overpaying which could compromise the auditors' independence."
     },
     {
       "title": "How digital portfolios become governable: a venture design research study of public sector digital development",
@@ -306,6 +306,15 @@
       "published_at": "2026-09-18T00:00:00+00:00",
       "sentiment": "positive",
       "plain_summary": "This study examines how public sector organizations manage the use of AI, focusing on how they align everyday practices with governance and accountability requirements. Despite formal structures, employees often use AI in ways that don't align with these structures, leading to a governance-practice gap. To address this, governance evolves through various mechanisms like technical controls, human oversight, and informal guidance. The findings suggest that AI use doesn't replace human judgement but rather intensifies it, requiring more verification and training."
+    },
+    {
+      "title": "Data Spaces - Public Sector Implementation of Sovereign Data Collaboration",
+      "short_title": "Data Spaces - Public Sector Implementation of Sovereign Data Collaboration",
+      "url": "https://doi.org/10.1145/3831597",
+      "source": "Digital Government: Research and Practice",
+      "published_at": "2026-09-18T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": "This article discusses how governments can collaborate securely on data, especially in a world where data ownership is important. It looks at how public sector organizations in Germany are setting up controlled environments for sharing data, like the Gaia-X initiative. The study found that for these data spaces to work well, organizations need to have strong capabilities, be innovative, and trust each other. It's also important to have clear standards and good governance."
     },
     {
       "title": "EFFICIENT AND TRUSTWORTHY ANTI-CORRUPTION AI: LEVERAGING MODEL PRUNING FOR SECURE DEPLOYMENT IN CRITICAL SYSTEMS",
@@ -389,15 +398,6 @@
       "plain_summary": "This study looks at how France's anti-money laundering and counter-terrorism financing (AML/CFT) system changed from 1970 to 2026. It found that the system evolved from focusing mainly on criminal proceeds to becoming more complex and multi-level, involving both government and private sectors. The system now uses a risk-based approach and integrates information from various sources. This change means the government still plays a key role but now works with other levels of government and private entities."
     },
     {
-      "title": "The Implications of Corruption on Indonesia\u2019s Investment Climate Are Reviewed from the Theory of the Legal System and Business Ethics",
-      "short_title": "The Implications of Corruption on Indonesia\u2019s Investment Climate Are Reviewed from the Theory\u2026",
-      "url": "https://doi.org/10.47191/ijsshr/v9-i9-06",
-      "source": "International Journal of Social Science and Human Research",
-      "published_at": "2026-09-12T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This study looks at how corruption affects Indonesia's ability to attract investments. Despite the government implementing reforms like the Job Creation Act and Online Single Submission system, Indonesia still struggles to compete with countries like Singapore. The research suggests that corruption creates uncertainty for investors and violates ethical principles. To improve the investment climate, it's not enough to just add new rules; the focus should also be on improving how laws are enforced and providing better public services."
-    },
-    {
       "title": "Prospects for the development of anti-corruption policy in the Russian Federation.",
       "short_title": "Prospects for the development of anti-corruption policy in the Russian Federation.",
       "url": "https://doi.org/10.26425/2309-3633-2026-14-2-119-129",
@@ -432,6 +432,15 @@
       "published_at": "2026-09-06T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "Transparent budgeting means governments know exactly where public money goes, but citizens often don't. This paper suggests a new way to make spending transparent so citizens can see every penny goes to the right person. It uses special technology like WORM storage and blockchain to connect where money is allocated to where it's actually spent. This makes it harder for people to misuse public funds, like giving favors or stealing money."
+    },
+    {
+      "title": "An Iterative Framework for AI Adoption in the Public Sector: Insights from a Swiss Case Study",
+      "short_title": "An Iterative Framework for AI Adoption in the Public Sector: Insights from a Swiss Case Study",
+      "url": "https://doi.org/10.29379/jedem.v18i1.1158",
+      "source": "JeDEM - eJournal of eDemocracy and Open Government",
+      "published_at": "2026-09-05T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": "This study looked at how to use AI in public sector projects, specifically in a Swiss healthcare cost verification chatbot. The research found that using an iterative framework helped navigate challenges and made the AI system more user-friendly. By doing many small improvements and getting feedback, they could keep the project moving forward even when faced with public sector constraints. This framework helped the team learn and adapt, leading to better AI systems that could be used in government."
     },
     {
       "title": "Real-Time Internal Control Dynamics and Fraud Prevention: A Framework for Strengthening Financial Integrity in Public Sectors",
@@ -488,15 +497,6 @@
       "plain_summary": null
     },
     {
-      "title": "Corruption And Black Economic Empowerment (Bee): Does Bee Influence Corruption?",
-      "short_title": "Corruption And Black Economic Empowerment (Bee): Does Bee Influence Corruption?",
-      "url": "https://doi.org/10.31920/2753-3182/2026/v5n3a3",
-      "source": "African Journal of Public Administration and Environmental Studies",
-      "published_at": "2026-09-01T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": null
-    },
-    {
       "title": "Trustworthy AI in public administration: The PRO-Trust pipeline for ethical fraud detection in public procurement",
       "short_title": "Trustworthy AI in public administration: The PRO-Trust pipeline for ethical fraud detection in\u2026",
       "url": "https://doi.org/10.1016/j.giq.2026.102157",
@@ -512,7 +512,7 @@
       "source": "PanAfrican Journal of Governance and Development (PJGD)",
       "published_at": "2026-08-31T00:00:00+00:00",
       "sentiment": "positive",
-      "plain_summary": null
+      "plain_summary": "This study looked at how Ethiopian public sector organizations prepare and implement strategic plans, and how they hold themselves accountable for achieving their goals. It found that while the overall level of strategic planning is moderate, the implementation and evaluation parts are weaker. The main factors affecting the success of these plans are organizational culture, leadership, and communication. The study suggests that improving accountability and providing necessary resources are key for successful strategic planning."
     },
     {
       "title": "Working Paper 63: Anticipating future corruption",
@@ -544,6 +544,15 @@
   ],
   "nonprofit": [
     {
+      "title": "The Creator Economy's Reckoning with Generative Artificial Intelligence: Why Law Alone Will Not Save Unrepresented Creators",
+      "short_title": "The Creator Economy's Reckoning with Generative Artificial Intelligence: Why Law Alone Will No\u2026",
+      "url": "https://doi.org/10.29173/cjnser917",
+      "source": "Canadian Journal of Nonprofit and Social Economy Research",
+      "published_at": "2026-09-20T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": "This article discusses how Canadian copyright law struggles to keep up with the challenges of generative AI, especially in areas like content creation and intellectual property. It points out issues like AI using training data without permission, cultural misappropriation, and creators losing their work to AI. The study finds gaps in current laws, particularly around AI-generated content and protecting creators. It suggests that changes are needed in copyright law to better safeguard creators' rights and ensure they are fairly compensated, especially as AI technology evolves."
+    },
+    {
       "title": "The Determinants of Voter Turnout in Croatian Local Government Elections",
       "short_title": "The Determinants of Voter Turnout in Croatian Local Government Elections",
       "url": "https://doi.org/10.20899/jpna.gdmpzd87",
@@ -560,15 +569,6 @@
       "published_at": "2027-01-01T00:00:00+00:00",
       "sentiment": "positive",
       "plain_summary": "The new middle class in Iran grew significantly after the Islamic Revolution and played a key role in pushing for reforms in both domestic and foreign policies. This group became more active in elections over time, aiming to influence how the government handled these areas. Despite their efforts through voting, they haven't been able to fully change the system's approach to politics internationally or domestically. Their success was mainly seen in getting more people involved in electoral processes."
-    },
-    {
-      "title": "Responsible AI Governance in Iran: A Program-Theory Evaluation of the National Artificial Intelligence Strategy",
-      "short_title": "Responsible AI Governance in Iran: A Program-Theory Evaluation of the National Artificial Inte\u2026",
-      "url": "https://doi.org/10.61838/jhrlp.389",
-      "source": "Journal of Historical Research, Law and Policy",
-      "published_at": "2027-01-01T00:00:00+00:00",
-      "sentiment": "positive",
-      "plain_summary": "This research evaluates Iran's National Artificial Intelligence Strategy to see how well it supports responsible use of AI. The strategy emphasizes values like human dignity and national priorities, but lacks clear plans for key areas like funding, data access, and regulation. To succeed, the strategy needs more specific details on these aspects. Practitioners should focus not just on ethical principles, but also on practical steps to ensure AI is used responsibly and effectively in Iran."
     },
     {
       "title": "THE CYBERNETIC DIAGNOSTIC OF ANTI-NARCOTIC SYSTEM: MODEL RAS-VI AS A TOOL OF SYSTEMIC EVALUATION",
