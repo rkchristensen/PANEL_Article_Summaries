@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T10:48:23.547531+00:00",
+  "updated_at": "2026-09-24T08:42:28.100397+00:00",
   "government": [
     {
       "title": "The Determinants of Voter Turnout in Croatian Local Government Elections",
@@ -128,6 +128,15 @@
       "plain_summary": null
     },
     {
+      "title": "Perceptions of government and health-sector corruption and inappropriate professional conduct during the COVID-19 pandemic among workers in 13 Latin American countries: a multicountry cross-sectional study",
+      "short_title": "Perceptions of government and health-sector corruption and inappropriate professional conduct\u2026",
+      "url": "https://doi.org/10.1016/j.ssaho.2026.103479",
+      "source": "Social Sciences &amp; Humanities Open",
+      "published_at": "2026-12-01T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": null
+    },
+    {
       "title": "Corporate corruption under local government financial stress: The role of land finance in China",
       "short_title": "Corporate corruption under local government financial stress: The role of land finance in China",
       "url": "https://doi.org/10.1016/j.jcae.2026.100583",
@@ -144,6 +153,15 @@
       "published_at": "2026-10-30T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "This research looks at the difference between maladministration and corruption, using a specific case about buying Chromebooks for schools in Indonesia. It found four key factors to decide if something is corruption: whether someone intended to do wrong, if they got personal benefit from it, if money was lost as a result, and if proper steps were taken afterward. The study also suggests that when all these factors are met, what started as maladministration can be considered corruption. However, the research points out there should be an initial check by a special committee before going to criminal courts."
+    },
+    {
+      "title": "Corrigendum to \u201cThe effects of education on corruption: Evidence from Vietnam\u2019s university expansion\u201d [J. Public Econ. 262 (2026) 105763]",
+      "short_title": "Corrigendum to \u201cThe effects of education on corruption: Evidence from Vietnam\u2019s university exp\u2026",
+      "url": "https://doi.org/10.1016/j.jpubeco.2026.105776",
+      "source": "Journal of Public Economics",
+      "published_at": "2026-10-01T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": null
     },
     {
       "title": "The effects of education on corruption: Evidence from Vietnam\u2019s university expansion",
@@ -195,7 +213,7 @@
       "short_title": "AI Regulation and Its Social Impacts on Public Policy",
       "url": "https://doi.org/10.55737/rl.v5i1.26181",
       "source": "Regional Lens",
-      "published_at": "2026-09-23T09:19:48.780564+00:00",
+      "published_at": "2026-09-24T06:42:51.227564+00:00",
       "sentiment": "positive",
       "plain_summary": "AI is now a key part of how governments make decisions in many areas like healthcare, policing, and welfare. As more AI systems are used, it's important to have rules to make sure they work fairly and don't cause problems. These rules help ensure that AI doesn't lead to unfair treatment or less democracy. By carefully watching how AI is used, we can make sure it helps people and doesn't hurt them."
     },
@@ -204,7 +222,7 @@
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-09-23T09:19:22.248263+00:00",
+      "published_at": "2026-09-24T06:37:58.949539+00:00",
       "sentiment": "negative",
       "plain_summary": "This research focuses on understanding the emotional risks in police work and how they manage their emotions to improve job satisfaction. It was conducted by observing various police units like forensic science, digital investigation, financial division, criminal division, anti-terrorism unit, and more over 26 days. The study found two key emotions that are hard for them to express: interest and frustration. These emotions make it difficult for officers to discuss their work-related feelings openly, leading to invisible or undiscussed labor."
     },
@@ -213,7 +231,7 @@
       "short_title": "A Policy Analysis of PFAS Regulations in Maine and the US Federal Government",
       "url": "https://doi.org/10.53558/wsmtdy02",
       "source": "Maine Policy Review",
-      "published_at": "2026-09-23T09:19:19.304062+00:00",
+      "published_at": "2026-09-24T06:37:57.393117+00:00",
       "sentiment": "positive",
       "plain_summary": "Per- and polyfluoroalkyl substances (PFAS) are harmful chemicals found in many products that have contaminated the environment. The US government has not uniformly addressed PFAS issues, but some states like Maine have taken strong actions. Maine has implemented various measures such as education, labeling requirements, and bans on certain agricultural practices. They also have unique regulations like banning the use of PFAS in food products like beef, dairy, and eggs."
     },
@@ -222,7 +240,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-09-23T09:19:19.303766+00:00",
+      "published_at": "2026-09-24T06:37:57.392815+00:00",
       "sentiment": "positive",
       "plain_summary": "Data science has become crucial as we generate vast amounts of information daily. It helps transform this data into useful insights for better decision-making across various sectors. For audit institutions, integrating data science can enhance their ability to manage public funds more effectively and improve accountability. By using data science, audits can provide clearer and more accurate reports that recommend improvements faster, which benefits the overall administration and improves citizens' quality of life."
     },
@@ -231,7 +249,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-09-23T09:19:19.303505+00:00",
+      "published_at": "2026-09-24T06:37:57.392558+00:00",
       "sentiment": "positive",
       "plain_summary": null
     },
@@ -240,7 +258,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-09-23T09:19:19.303468+00:00",
+      "published_at": "2026-09-24T06:37:57.392521+00:00",
       "sentiment": "positive",
       "plain_summary": "This paper discusses a scenario where autonomous killer robots are used in warfare without human intervention. These robots can make decisions about who to target based on AI algorithms trained to recognize certain uniforms. If one of these drones targets and kills an enemy soldier who is surrendering, it would violate international laws. Another concern is if the robot makes a mistake by attacking another similar system, leading to unintended conflicts."
     },
@@ -249,7 +267,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-09-23T09:19:19.303068+00:00",
+      "published_at": "2026-09-24T06:37:57.392119+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how public service motivation can lead to noble cause corruption in Lebanon, where there's a lot of social and economic hardship. The research found that feelings like compassion and selflessness often push people into doing good deeds for noble causes, but these actions sometimes involve corrupt practices. This leads to internal conflicts as the person feels both guilty and supported by their work environment. Factors like physical exchanges, personal space in the workplace, and close relationships with users can make it easier for this type of corruption to happen."
     },
@@ -258,7 +276,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-09-23T09:19:19.302848+00:00",
+      "published_at": "2026-09-24T06:37:57.391908+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how public service motivation can lead to corruption for a noble cause in Lebanon, where corruption is prevalent and social issues are challenging. Based on interviews with 32 Lebanese public servants, the research explores how feelings of compassion and self-sacrifice related to public service motivation might encourage them to engage in corrupt behavior for what they see as a good cause. The study highlights that these motivations can lead to behaviors like providing extra support or shielding users from punishment. This can create internal conflicts within the public servant due to their emotional connection with those affected."
     },
@@ -267,9 +285,18 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-09-23T09:19:19.302514+00:00",
+      "published_at": "2026-09-24T06:37:57.391572+00:00",
       "sentiment": "negative",
       "plain_summary": null
+    },
+    {
+      "title": "Time-adjusted direct medical costs of moderate-to-severe chronic graft-versus-host disease: a retrospective two-center cost analysis in T\u00fcrkiye",
+      "short_title": "Time-adjusted direct medical costs of moderate-to-severe chronic graft-versus-host disease: a\u2026",
+      "url": "https://doi.org/10.3389/fpubh.2026.1934364",
+      "source": "Frontiers in Public Health",
+      "published_at": "2026-09-24T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study analyzed the costs associated with moderate to severe chronic graft-versus-host disease (cGVHD) in two private transplant centers in Turkey. The total average cost was about $53,000, with medications accounting for the most, followed by inpatient and outpatient expenses. The daily cost was higher for male patients and lower for older patients. Severity of the disease did not affect the daily cost, but it did increase the total cost by extending the treatment duration."
     },
     {
       "title": "Digital transformation in e-government services: exploring the role of public trust, transparency, accountability and citizen satisfaction in real-time service delivery",
@@ -297,24 +324,6 @@
       "published_at": "2026-09-22T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "This paper discusses how to improve the ranking of items in online learning systems to ensure users click on at least one item. These systems can be manipulated by bots or fake users who provide fake feedback. The researchers developed a new algorithm called M 2 UCB-V, which is designed to handle this manipulation. This algorithm uses a special method to filter out fake feedback, ensuring that the system continues to learn accurately even when some feedback is incorrect."
-    },
-    {
-      "title": "Mali Yerelle\u015fme ve Yolsuzluk Alg\u0131s\u0131 \u0130li\u015fkisi: Harcama, Gelir ve Vergi Yerelle\u015fmesinin Kar\u015f\u0131la\u015ft\u0131rmal\u0131 Analizi",
-      "short_title": "Mali Yerelle\u015fme ve Yolsuzluk Alg\u0131s\u0131 \u0130li\u015fkisi: Harcama, Gelir ve Vergi Yerelle\u015fmesinin Kar\u015f\u0131la\u015f\u2026",
-      "url": "https://doi.org/10.63556/tisej.2026.1899",
-      "source": "\u00dc\u00e7\u00fcnc\u00fc Sekt\u00f6r Sosyal Ekonomi Dergisi",
-      "published_at": "2026-09-22T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "Fiscal decentralization means sharing more of the government's money-making and spending responsibilities between national and local governments to make services better and more local needs are met. Corruption is when people use their power to get personal benefits instead of helping the public. This study looked at how dividing money differently between the national and local levels affects corruption. They found that spreading out spending, raising more money, and letting local areas collect taxes all seem to increase corruption."
-    },
-    {
-      "title": "Does gender matter in combating corruption? A comparative analysis of Chinese manufacturing companies",
-      "short_title": "Does gender matter in combating corruption? A comparative analysis of Chinese manufacturing co\u2026",
-      "url": "https://doi.org/10.20897/femenc/19324",
-      "source": "Feminist Encounters: A Journal of Critical Studies in Culture and Politics",
-      "published_at": "2026-09-22T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This study looked at how attitudes towards cooperation with others affect efforts to stop bribery in manufacturing companies in China. It found that having a cooperative attitude helps employees resist unethical behaviors like bribery. Importantly, the research showed that women play a bigger role in reducing unethical attitudes among employees compared to men. This highlights the importance of considering gender when creating ethical policies and practices."
     },
     {
       "title": "Vertical and horizontal accountability: determinants of government transparency in China",
@@ -425,15 +434,6 @@
       "plain_summary": "This study looked at how adopting International Public Sector Accounting Standards (IPSAS) in Nigeria improved financial transparency in the public sector. It surveyed 400 public sector officials across different levels of government to see how well they disclosed financial information. The study found that when IPSAS was adopted, financial transparency, disclosure quality, accountability, and comparability all improved. IPSAS also seemed to reduce corruption."
     },
     {
-      "title": "Corruption and Human Rights Violations: The Role of Local Government in Curbing Corruption and Its Effects on Citizens\u2019 Access to Rights",
-      "short_title": "Corruption and Human Rights Violations: The Role of Local Government in Curbing Corruption and\u2026",
-      "url": "https://doi.org/10.35293/srsa.v48i1.7467",
-      "source": "The Strategic Review for Southern Africa",
-      "published_at": "2026-09-14T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "Local governments are supposed to deliver essential services and uphold human rights, but often struggle with corruption, weak controls, and institutional capture. This can lead to inequality and undermine the rule of law. The article looks at how corruption affects human rights in South Africa and suggests that strong anti-corruption systems can improve rights outcomes. It found that in some localities, like Midvaal, these systems can make a difference, while others like Madibeng show how corruption can lead to specific human rights violations."
-    },
-    {
       "title": "Prospects for the development of anti-corruption policy in the Russian Federation.",
       "short_title": "Prospects for the development of anti-corruption policy in the Russian Federation.",
       "url": "https://doi.org/10.26425/2309-3633-2026-14-2-119-129",
@@ -450,15 +450,6 @@
       "published_at": "2026-09-08T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "This paper discusses how integrity management systems (IMSs) are used to promote ethical conduct and prevent corruption. Despite their promotion, there's little understanding of how these systems work in practice. The study developed a framework that looks at four key areas: belief, boundary, diagnostic, and interaction systems of control. It analyzed four major corruption cases in different sectors like infrastructure, healthcare, banking, and defense."
-    },
-    {
-      "title": "Legislative Oversight and Public Accountability in Indonesia\u2019s Strategic Sector Governance: An Administrative Governance Perspective",
-      "short_title": "Legislative Oversight and Public Accountability in Indonesia\u2019s Strategic Sector Governance: An\u2026",
-      "url": "https://doi.org/10.70062/greensocial.v3i3.346",
-      "source": "Green Social: International Journal of Law and Civil Affairs",
-      "published_at": "2026-09-08T00:00:00+00:00",
-      "sentiment": "positive",
-      "plain_summary": "This study looks at how the Indonesian House of Representatives, specifically Commission VII, oversees strategic sectors like industry, tourism, and media. It identifies four main challenges in this oversight, such as not having enough information, unclear responsibilities, not following up on recommendations, and politics influencing the process. To address these issues, the study proposes a framework called LOAA, which includes gathering information, evaluating performance, assessing public value, giving corrective advice, and ensuring follow-up. This framework can help improve how the government manages these important sectors and ensure they are run responsibly."
     },
     {
       "title": "Transparent budget: the idea of deep transparency",
@@ -488,30 +479,12 @@
       "plain_summary": "This study focuses on improving financial integrity in the Nigerian public sector by examining how real-time internal control practices can prevent fraud. It found that real-time authorisation significantly reduces unauthorized activities and enhances compliance. Periodic checks also help in detecting irregularities promptly. However, biometric authentication like fingerprint scanning and facial recognition did not show a clear benefit in this context."
     },
     {
-      "title": "The Role of Ethics in the Implementation of Anti-Corruption Standards for Civil Servants in Russia and China",
-      "short_title": "The Role of Ethics in the Implementation of Anti-Corruption Standards for Civil Servants in Ru\u2026",
-      "url": "https://doi.org/10.18572/1812-3910-2026-3-42-46",
-      "source": "Public International and Private International Law",
-      "published_at": "2026-09-03T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "Corruption damages trust in government by civil servants. To fight it effectively, we need strong ethical standards alongside institutional changes. Russia and China have taken different approaches to this; studying their methods can help create better systems globally. Understanding both universal principles and cultural specifics is key for creating effective anti-corruption measures."
-    },
-    {
       "title": "Accountability, Integrity: AI Policy in Public Libraries",
       "short_title": "Accountability, Integrity: AI Policy in Public Libraries",
       "url": "https://doi.org/10.1080/01616846.2026.2725502",
       "source": "Public Library Quarterly",
       "published_at": "2026-09-02T00:00:00+00:00",
       "sentiment": "positive",
-      "plain_summary": null
-    },
-    {
-      "title": "Corrigendum to \u201cThe effects of education on corruption: Evidence from Vietnam\u2019s university expansion\u201d [J. Public Econ. 262 (2026) 105763]",
-      "short_title": "Corrigendum to \u201cThe effects of education on corruption: Evidence from Vietnam\u2019s university exp\u2026",
-      "url": "https://doi.org/10.1016/j.jpubeco.2026.105776",
-      "source": "Journal of Public Economics",
-      "published_at": "2026-09-01T00:00:00+00:00",
-      "sentiment": "negative",
       "plain_summary": null
     },
     {
@@ -540,6 +513,33 @@
       "published_at": "2026-09-01T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": null
+    },
+    {
+      "title": "Corruption And Black Economic Empowerment (Bee): Does Bee Influence Corruption?",
+      "short_title": "Corruption And Black Economic Empowerment (Bee): Does Bee Influence Corruption?",
+      "url": "https://doi.org/10.31920/2753-3182/2026/v5n3a3",
+      "source": "African Journal of Public Administration and Environmental Studies",
+      "published_at": "2026-09-01T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": null
+    },
+    {
+      "title": "Strategic Planning Practices and Accountability for Accomplishment in Ethiopian Public Sector: Trajectory Probing",
+      "short_title": "Strategic Planning Practices and Accountability for Accomplishment in Ethiopian Public Sector:\u2026",
+      "url": "https://doi.org/10.46404/panjogov.v7i2.7216",
+      "source": "PanAfrican Journal of Governance and Development (PJGD)",
+      "published_at": "2026-08-31T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": "This study looked at how Ethiopian public sector organizations prepare and implement strategic plans, and how they hold themselves accountable for achieving their goals. It found that while the overall level of strategic planning is moderate, the implementation and evaluation parts are weaker. The main factors affecting the success of these plans are organizational culture, leadership, and communication. The study suggests that improving accountability and providing necessary resources are key for successful strategic planning."
+    },
+    {
+      "title": "Working Paper 63: Anticipating future corruption",
+      "short_title": "Working Paper 63: Anticipating future corruption",
+      "url": "https://doi.org/10.12685/bigwp.2026.63.1-31",
+      "source": "Basel Institute on Governance Working Papers",
+      "published_at": "2026-08-31T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This working paper from the Basel Institute on Governance discusses how understanding corruption in complex systems can help improve anti-corruption efforts. It introduces foresight and anticipatory governance approaches to anticipate potential issues and opportunities before they happen, making strategies more effective against corruption. Practitioners can use these insights to develop proactive plans that are less reactive and better equipped to handle future challenges."
     }
   ],
   "nonprofit": [
