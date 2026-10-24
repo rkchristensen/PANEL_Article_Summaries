@@ -1,14 +1,23 @@
 {
-  "updated_at": "2026-10-23T13:35:59.676603+00:00",
+  "updated_at": "2026-10-24T22:21:33.666889+00:00",
   "government": [
     {
-      "title": "Institutional Legitimacy and Standard-Form Construction Contracts: Governance Lessons from NZS 3910",
-      "short_title": "Institutional Legitimacy and Standard-Form Construction Contracts: Governance Lessons from NZS\u2026",
-      "url": "https://doi.org/10.1061/jladah.ladr-1648",
-      "source": "Journal of Legal Affairs and Dispute Resolution in Engineering and Construction",
-      "published_at": "2027-02-01T00:00:00+00:00",
-      "sentiment": "positive",
-      "plain_summary": "This study looks at how standard form construction contracts in New Zealand, like NZS 3910, influence how projects are managed and who makes decisions. These contracts are used by both private companies and the government. The research suggests that because the government both creates and frequently uses these contracts, there might be concerns about fairness and trust. The study also found that even when there are changes to how these contracts are used, the core issue of whether the government is properly overseeing the process remains."
+      "title": "The Determinants of Voter Turnout in Croatian Local Government Elections",
+      "short_title": "The Determinants of Voter Turnout in Croatian Local Government Elections",
+      "url": "https://doi.org/10.20899/jpna.gdmpzd87",
+      "source": "Journal of Public and Nonprofit Affairs",
+      "published_at": "2026-09-15T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study looked at why people vote in local government elections in Croatia from 2014 to 2021. It found that if fewer people voted last time, they're likely to vote less again. Issues like whether the city provides good services and benefits also affect how many people show up to vote. The main parties aren't doing a good job of getting their supporters to participate."
+    },
+    {
+      "title": "Social Norms, State Punishment, and Motivation Crowding in Anti\u2010Corruption Messaging: Experimental Evidence From China",
+      "short_title": "Social Norms, State Punishment, and Motivation Crowding in Anti\u2010Corruption Messaging: Experime\u2026",
+      "url": "https://doi.org/10.1111/gove.70151",
+      "source": "Governance",
+      "published_at": "2026-08-30T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study examines how people's beliefs about corruption influence their attitudes towards fighting it. In a large survey experiment conducted in China, researchers found that when people were told the actual level of tolerance for corruption is much lower than they thought, it made them more likely to want to fight corruption. However, if this information was paired with suggestions of punishment, it seemed to weaken the effect. This shows that simply telling people about how corrupt others are might not be as effective as also showing what actions can be taken against it."
     },
     {
       "title": "An Examination of Government Methods for Compensating Damage Resulting from Infringement of Public Rights",
@@ -159,16 +168,25 @@
       "short_title": "AI Regulation and Its Social Impacts on Public Policy",
       "url": "https://doi.org/10.55737/rl.v5i1.26181",
       "source": "Regional Lens",
-      "published_at": "2026-10-23T13:12:35.178108+00:00",
+      "published_at": "2026-10-24T21:04:35.960032+00:00",
       "sentiment": "positive",
       "plain_summary": "AI is now a key part of how governments make decisions in many areas like healthcare, policing, and welfare. As more AI systems are used, it's important to have rules to make sure they work fairly and don't cause problems. These rules help ensure that AI doesn't lead to unfair treatment or less democracy. By carefully watching how AI is used, we can make sure it helps people and doesn't hurt them."
+    },
+    {
+      "title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bilan d\u2019une recherche immersive en Police Judiciaire fran\u00e7aise",
+      "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
+      "url": "https://doi.org/10.3917/gmp.pr1.0009",
+      "source": "Gestion et management public",
+      "published_at": "2026-10-24T20:13:35.476780+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This research focuses on understanding the emotional risks in police work and how they manage their emotions to improve job satisfaction. It was conducted by observing various police units like forensic science, digital investigation, financial division, criminal division, anti-terrorism unit, and more over 26 days. The study found two key emotions that are hard for them to express: interest and frustration. These emotions make it difficult for officers to discuss their work-related feelings openly, leading to invisible or undiscussed labor."
     },
     {
       "title": "A Policy Analysis of PFAS Regulations in Maine and the US Federal Government",
       "short_title": "A Policy Analysis of PFAS Regulations in Maine and the US Federal Government",
       "url": "https://doi.org/10.53558/wsmtdy02",
       "source": "Maine Policy Review",
-      "published_at": "2026-10-23T13:12:30.108440+00:00",
+      "published_at": "2026-10-24T20:13:33.813151+00:00",
       "sentiment": "positive",
       "plain_summary": "Per- and polyfluoroalkyl substances (PFAS) are harmful chemicals found in many products that have contaminated the environment. The US government has not uniformly addressed PFAS issues, but some states like Maine have taken strong actions. Maine has implemented various measures such as education, labeling requirements, and bans on certain agricultural practices. They also have unique regulations like banning the use of PFAS in food products like beef, dairy, and eggs."
     },
@@ -177,7 +195,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-10-23T13:12:30.108148+00:00",
+      "published_at": "2026-10-24T20:13:33.813036+00:00",
       "sentiment": "positive",
       "plain_summary": "Data science has become crucial as we generate vast amounts of information daily. It helps transform this data into useful insights for better decision-making across various sectors. For audit institutions, integrating data science can enhance their ability to manage public funds more effectively and improve accountability. By using data science, audits can provide clearer and more accurate reports that recommend improvements faster, which benefits the overall administration and improves citizens' quality of life."
     },
@@ -186,7 +204,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-10-23T13:12:30.107891+00:00",
+      "published_at": "2026-10-24T20:13:33.812934+00:00",
       "sentiment": "positive",
       "plain_summary": null
     },
@@ -195,7 +213,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-10-23T13:12:30.107854+00:00",
+      "published_at": "2026-10-24T20:13:33.812920+00:00",
       "sentiment": "positive",
       "plain_summary": "This paper discusses a scenario where autonomous killer robots are used in warfare without human intervention. These robots can make decisions about who to target based on AI algorithms trained to recognize certain uniforms. If one of these drones targets and kills an enemy soldier who is surrendering, it would violate international laws. Another concern is if the robot makes a mistake by attacking another similar system, leading to unintended conflicts."
     },
@@ -204,7 +222,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-10-23T13:12:30.107430+00:00",
+      "published_at": "2026-10-24T20:13:33.812763+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how public service motivation can lead to noble cause corruption in Lebanon, where there's a lot of social and economic hardship. The research found that feelings like compassion and selflessness often push people into doing good deeds for noble causes, but these actions sometimes involve corrupt practices. This leads to internal conflicts as the person feels both guilty and supported by their work environment. Factors like physical exchanges, personal space in the workplace, and close relationships with users can make it easier for this type of corruption to happen."
     },
@@ -213,7 +231,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-10-23T13:12:30.107225+00:00",
+      "published_at": "2026-10-24T20:13:33.812680+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how public service motivation can lead to corruption for a noble cause in Lebanon, where corruption is prevalent and social issues are challenging. Based on interviews with 32 Lebanese public servants, the research explores how feelings of compassion and self-sacrifice related to public service motivation might encourage them to engage in corrupt behavior for what they see as a good cause. The study highlights that these motivations can lead to behaviors like providing extra support or shielding users from punishment. This can create internal conflicts within the public servant due to their emotional connection with those affected."
     },
@@ -222,7 +240,7 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-10-23T13:12:30.106869+00:00",
+      "published_at": "2026-10-24T20:13:33.812523+00:00",
       "sentiment": "negative",
       "plain_summary": null
     },
@@ -272,15 +290,6 @@
       "plain_summary": "Spoofing attacks misuse trusted digital identities to cause financial fraud and operational disruptions. This study found that higher levels of information security maturity and better cybersecurity strategies were linked to fewer spoofing incidents and less financial loss. The stronger the maturity and strategy, the fewer spoofing events and financial losses an organization reported. For cybersecurity providers and public buyers, these findings suggest pairing technical controls with verified organizational readiness and outcomes is valuable."
     },
     {
-      "title": "The \u2018formidable inspector\u2019: visual imagery, transparency, and the critique of government corruption in &lt;italic&gt;A Picture of the Treasury&lt;/italic&gt;",
-      "short_title": "The \u2018formidable inspector\u2019: visual imagery, transparency, and the critique of government corru\u2026",
-      "url": "https://doi.org/10.14324/111.2045-757x.061",
-      "source": "Journal of Bentham Studies",
-      "published_at": "2026-10-21T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "In his work \"A Picture of the Treasury,\" Jeremy Bentham used visual imagery to expose corruption within the government. He argued that transparency is crucial for preventing misconduct and misrule, and he applied this idea through the concept of the inspection principle. This principle suggests that the public should have access to information about how institutions operate, allowing them to hold officials accountable. Bentham's \"Picture\" portrays him as a \"formidable inspector,\" highlighting a conspiracy to hide corruption and advocating for public scrutiny."
-    },
-    {
       "title": "Building Integrity in the Global South: Lessons from Pakistan\u2019s Struggle Against Public Sector Corruption",
       "short_title": "Building Integrity in the Global South: Lessons from Pakistan\u2019s Struggle Against Public Sector\u2026",
       "url": "https://doi.org/10.1080/01900692.2026.2741072",
@@ -308,6 +317,15 @@
       "plain_summary": "This article discusses the challenges of preventing fraud and corruption in emergency grants, using South Africa's COVID-19 relief program as an example. It highlights that when funds are disbursed quickly, there's a higher risk of misuse. The study found that fraud, including identity theft and misuse of unemployment benefits, occurred. These issues affected many people who were trying to survive during the pandemic."
     },
     {
+      "title": "Corruption pathways and governance failures in Thailand\u2019s public construction projects: Phases, mechanisms, and stakeholders",
+      "short_title": "Corruption pathways and governance failures in Thailand\u2019s public construction projects: Phases\u2026",
+      "url": "https://doi.org/10.22495/jgrv15i4art3",
+      "source": "Journal of Governance and Regulation",
+      "published_at": "2026-10-16T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study examines corruption in Thailand's public construction projects, looking at seven main ways corruption happens across all phases of a project. It found that corruption is most common during the planning, bidding, and execution stages. The study also shows that corruption is supported by interactions among government officials, contractors, and other stakeholders. It suggests that to prevent corruption, it's important to address issues like government transparency, fair bidding processes, and better oversight."
+    },
+    {
       "title": "AN INVESTIGATION OF THE EFFECTIVENESS OF THE CODE OF CONDUCT BUREAU IN COMBATING ADMINISTRATIVE CORRUPTION IN NIGERIA",
       "short_title": "AN INVESTIGATION OF THE EFFECTIVENESS OF THE CODE OF CONDUCT BUREAU IN COMBATING ADMINISTRATIV\u2026",
       "url": "https://doi.org/10.57233/fujpam.2026.v05i02.009",
@@ -324,6 +342,24 @@
       "published_at": "2026-10-15T00:00:00+00:00",
       "sentiment": "positive",
       "plain_summary": "This study looks at how local governments manage their finances and how they are accountable to voters. When a city relies on taxes that affect people who don't live there, like commuters or travelers, it's harder for those who pay the taxes to hold the government accountable. The research found that cities that can shift some of these costs to nonvoters end up spending more money. This happens more in cities near big areas with lots of traffic."
+    },
+    {
+      "title": "Negotiating power and trust: digital government communication in India\u2019s risk-driven networked public sphere",
+      "short_title": "Negotiating power and trust: digital government communication in India\u2019s risk-driven networked\u2026",
+      "url": "https://doi.org/10.1108/jices-02-2026-0077",
+      "source": "Journal of Information, Communication and Ethics in Society",
+      "published_at": "2026-10-14T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study examines how Indian government officials use digital communication to engage citizens, build trust, and manage crises. It found a model where the government's digital power is balanced by publics and systemic risks. Despite efforts to improve efficiency and legitimacy, there are ongoing tensions between control and dialogue, and between using digital tools for governance and fostering genuine responsiveness. This research provides a new model called negotiated digital governmentality to explain how digital practices shape policy and citizen involvement in Indian democracy."
+    },
+    {
+      "title": "Thermodynamic analysis of charged anti-de Sitter black holes with cloud of strings in Einstein-bumblebee gravity via Bekenstein\u2013Hawking and Tsallis entropies",
+      "short_title": "Thermodynamic analysis of charged anti-de Sitter black holes with cloud of strings in Einstein\u2026",
+      "url": "https://doi.org/10.1098/rspa.2026.0337",
+      "source": "Proceedings of the Royal Society A Mathematical Physical and Engineering Science",
+      "published_at": "2026-10-14T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study examines the thermodynamics of black holes in a special type of gravity called Einstein-bumblebee gravity. These black holes have a cloud of strings surrounding them. The researchers looked at how the temperature, energy, and other properties of these black holes change. They found that the presence of the string cloud and the special gravity can cause the black hole to behave differently, with a phase transition similar to how water turns into ice."
     },
     {
       "title": "When Corruption Becomes the Norm: Bangladesh\u2019s Enduring Governance Crisis",
@@ -353,6 +389,24 @@
       "plain_summary": "This study looks at how transparency and corruption affect people's support for a sports league in Bangladesh. It found that when events are transparent, people trust the government and organizers more. But when people think there's corruption, their trust goes down. People also feel better about their lives when they think the event will bring benefits to their area."
     },
     {
+      "title": "Govern, Map, Measure, Absorb: The Legibility Trap in Public Sector Participatory AI Governance",
+      "short_title": "Govern, Map, Measure, Absorb: The Legibility Trap in Public Sector Participatory AI Governance",
+      "url": "https://doi.org/10.1609/aies.v9i3.43285",
+      "source": "Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society",
+      "published_at": "2026-10-11T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This paper discusses how public sector agencies use participatory design to prevent algorithmic harm, but often overlooks real community input that could limit state power. The authors introduce the concept of the \"legibility trap,\" where institutions document participation in ways that only show inputs that fit their categories, excluding dissent and demands for not using systems. This trap is similar to how states simplify complex situations to control information. The study analyzed documents from three AI projects and found that participation is often filtered to avoid challenging state power."
+    },
+    {
+      "title": "From Visibility to Accountability: Designing Actionable Transparency Infrastructures for Public-Sector AI",
+      "short_title": "From Visibility to Accountability: Designing Actionable Transparency Infrastructures for Publi\u2026",
+      "url": "https://doi.org/10.1609/aies.v9i4.43367",
+      "source": "Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society",
+      "published_at": "2026-10-11T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "Transparency in AI systems for public sector has become important, but it often just gives people information about AI systems without allowing them to hold the government accountable. This can be seen in things like algorithmic registers where details about AI systems are available, but they don't easily help civil society or the media check on how the government is using AI. Our research found that these registers often have issues like data being split up in different places, making it hard to compare information, and not having ways for the public to easily use the data. To fix this, we created design principles and a prototype platform called PublicAlgo that aims to make it easier for the public to use the information provided by these registers."
+    },
+    {
       "title": "DIGITAL GOVERNANCE AND TRANSPARENCY: LEVERAGING E-GOVERNMENT SYSTEMS TO COMBAT CORRUPTION IN SOUTH AFRICA",
       "short_title": "DIGITAL GOVERNANCE AND TRANSPARENCY: LEVERAGING E-GOVERNMENT SYSTEMS TO COMBAT CORRUPTION IN S\u2026",
       "url": "https://doi.org/10.69778/2709-8338/2026/5.3/a12",
@@ -369,15 +423,6 @@
       "published_at": "2026-10-09T00:00:00+00:00",
       "sentiment": "positive",
       "plain_summary": "This paper discusses a model for visible integrity in public leadership, focusing on how senior officials can maintain honesty and accountability in their work. It explores how they can tell the truth even when it's difficult, like when they face pressure from their boss or when they're unsure about the right thing to do. The model includes five key areas: being honest under pressure, showing clear ethical behavior, limiting their own actions when necessary, and holding their institution accountable to the public. The study also introduces a concept from Indonesia called jiwa ketok, which helps explain how public officials can be transparent about their actions."
-    },
-    {
-      "title": "From research to education to policy: Building a global field of sport ethics and integrity",
-      "short_title": "From research to education to policy: Building a global field of sport ethics and integrity",
-      "url": "https://doi.org/10.56367/oag-052-12832",
-      "source": "Open Access Government",
-      "published_at": "2026-10-09T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This article discusses how a Master's program and a Doctoral program are creating a global field of sport ethics and integrity. The program uses research to develop educational materials and professional development programs. It also supports policy development by providing a strong evidence base. Through international collaboration, these programs have created a network of over 70 countries, and they support 17 doctoral researchers looking at integrity issues in sports from different perspectives."
     },
     {
       "title": "Citizen Trust and Digital Governance Transformation: Ethical Challenges and Artificial Intelligence Governance in the Public Sector",
@@ -405,15 +450,6 @@
       "published_at": "2026-10-08T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "This study investigates how government capability and benevolence influence public trust in cyber risk governance. It used a survey experiment with 683 participants, manipulating government capability and benevolence as high or low, and varying the risk scenario between low and high. The results showed that government capability had a stronger impact on trust than benevolence. When both were high, trust increased."
-    },
-    {
-      "title": "Ethical Foundations of Anti-Corruption in the Civil Service System of the People\u2019s Republic of China",
-      "short_title": "Ethical Foundations of Anti-Corruption in the Civil Service System of the People\u2019s Republic of\u2026",
-      "url": "https://doi.org/10.18572/1813-1247-2026-10-43-48",
-      "source": "State power and local self-government",
-      "published_at": "2026-10-08T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This summary explains the ethical foundations of anti-corruption in China's civil service system. Unlike many countries that rely solely on formal laws, China uses a combination of official virtue shaped by Confucian tradition and socialist ideology. This approach balances party discipline with legal responsibility. The Chinese model shows how ethical principles are integrated into a system that includes traditional values, ideology, and centralized control."
     },
     {
       "title": "&lt;b&gt;Government Accounting Reform and Public Accountability: A Systematic Review of Themes, Methods, and Institutional Conditions&lt;/b&gt;",
@@ -461,70 +497,61 @@
       "plain_summary": "This paper discusses how corruption is a significant issue in Nigeria's power sector, affecting economic development. Despite efforts, nearly 87 million Nigerians still lack electricity. The study suggests that promoting ethical behavior could help combat corruption. It proposes that all sectors, including the power sector, should follow codes of ethics."
     },
     {
-      "title": "How digital portfolios become governable: a venture design research study of public sector digital development",
-      "short_title": "How digital portfolios become governable: a venture design research study of public sector dig\u2026",
-      "url": "https://doi.org/10.1108/tg-02-2026-0086",
-      "source": "Transforming Government: People, Process and Policy",
-      "published_at": "2026-09-18T00:00:00+00:00",
-      "sentiment": "positive",
-      "plain_summary": "This study explores how public sector organizations can better govern digital development projects. It suggests that instead of relying on existing tools, digital solutions should be designed to make governance more visible, comparable, and subject to collective decision-making. The research found that by actively specifying governance through design, digital solutions can lead to more transparent discussions and decisions. However, long-term outcomes like strategic alignment and public value creation are harder to measure."
+      "title": "Reengineering trust: E-public procurement and government transparency",
+      "short_title": "Reengineering trust: E-public procurement and government transparency",
+      "url": "https://doi.org/10.22495/jgrv15i3art26",
+      "source": "Journal of Governance and Regulation",
+      "published_at": "2026-10-02T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study looks at how e-procurement, which is using digital technology for buying goods and services, can help make government buying more fair, transparent, and honest. It shows that e-procurement can reduce opportunities for corruption by limiting direct contact between officials and contractors. However, it also points out that there are challenges like not having enough technology or support from institutions. The main idea is that while e-procurement is important, it needs to be supported by fixing these issues to work well."
     },
     {
-      "title": "Responsible AI beyond compliance: governing everyday use in the public sector",
-      "short_title": "Responsible AI beyond compliance: governing everyday use in the public sector",
-      "url": "https://doi.org/10.1108/tg-06-2026-0318",
-      "source": "Transforming Government: People, Process and Policy",
-      "published_at": "2026-09-18T00:00:00+00:00",
-      "sentiment": "positive",
-      "plain_summary": "This study examines how public sector organizations manage the use of AI, focusing on how they align everyday practices with governance and accountability requirements. Despite formal structures, employees often use AI in ways that don't align with these structures, leading to a governance-practice gap. To address this, governance evolves through various mechanisms like technical controls, human oversight, and informal guidance. The findings suggest that AI use doesn't replace human judgement but rather intensifies it, requiring more verification and training."
-    },
-    {
-      "title": "Data Spaces - Public Sector Implementation of Sovereign Data Collaboration",
-      "short_title": "Data Spaces - Public Sector Implementation of Sovereign Data Collaboration",
-      "url": "https://doi.org/10.1145/3831597",
-      "source": "Digital Government: Research and Practice",
-      "published_at": "2026-09-18T00:00:00+00:00",
-      "sentiment": "positive",
-      "plain_summary": "This article discusses how governments can collaborate securely on data, especially in a world where data ownership is important. It looks at how public sector organizations in Germany are setting up controlled environments for sharing data, like the Gaia-X initiative. The study found that for these data spaces to work well, organizations need to have strong capabilities, be innovative, and trust each other. It's also important to have clear standards and good governance."
-    },
-    {
-      "title": "ETHICAL LEADERSHIP AND PUBLIC SECTOR GOVERNANCE: AN EMPIRICAL STUDY OF MALAYSIAN CIVIL SERVANTS",
-      "short_title": "ETHICAL LEADERSHIP AND PUBLIC SECTOR GOVERNANCE: AN EMPIRICAL STUDY OF MALAYSIAN CIVIL SERVANTS",
-      "url": "https://doi.org/10.35631/ijlgc.1145003",
-      "source": "International Journal of Law Government and Communication",
-      "published_at": "2026-09-10T00:00:00+00:00",
-      "sentiment": "positive",
-      "plain_summary": "This study looked at ethical leadership among civil servants in northern Malaysia. It found that having a strong organizational culture is the biggest factor in promoting ethical behavior. Factors like empathy, personal integrity, and influence from peers also play a role, but not as much as the culture. This means that creating a culture that values ethics can make a big difference in how public servants behave."
-    },
-    {
-      "title": "An Iterative Framework for AI Adoption in the Public Sector: Insights from a Swiss Case Study",
-      "short_title": "An Iterative Framework for AI Adoption in the Public Sector: Insights from a Swiss Case Study",
-      "url": "https://doi.org/10.29379/jedem.v18i1.1158",
-      "source": "JeDEM - eJournal of eDemocracy and Open Government",
-      "published_at": "2026-09-05T00:00:00+00:00",
-      "sentiment": "positive",
-      "plain_summary": "This study looked at how to use AI in public sector projects, specifically in a Swiss healthcare cost verification chatbot. The research found that using an iterative framework helped navigate challenges and made the AI system more user-friendly. By doing many small improvements and getting feedback, they could keep the project moving forward even when faced with public sector constraints. This framework helped the team learn and adapt, leading to better AI systems that could be used in government."
-    },
-    {
-      "title": "Strengthening e-government's impact on corruption perception: The moderating role of Financial Management Information Systems (FMIS)",
-      "short_title": "Strengthening e-government's impact on corruption perception: The moderating role of Financial\u2026",
-      "url": "https://doi.org/10.1016/j.giq.2026.102167",
-      "source": "Government Information Quarterly",
-      "published_at": "2026-09-01T00:00:00+00:00",
+      "title": "Corruption and public healthcare quality in the European Union: Evidence from Europe\u2019s regions",
+      "short_title": "Corruption and public healthcare quality in the European Union: Evidence from Europe\u2019s regions",
+      "url": "https://doi.org/10.1016/j.healthpol.2026.105693",
+      "source": "Health Policy",
+      "published_at": "2026-10-01T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": null
     },
     {
-      "title": "AI for integrity: Predicting public servants' susceptibility to corruption via supervised machine learning",
-      "short_title": "AI for integrity: Predicting public servants' susceptibility to corruption via supervised mach\u2026",
-      "url": "https://doi.org/10.1016/j.giq.2026.102158",
-      "source": "Government Information Quarterly",
-      "published_at": "2026-09-01T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": null
+      "title": "Ownership and efficiency in municipal waste management: evidence from a fragmented local government system",
+      "short_title": "Ownership and efficiency in municipal waste management: evidence from a fragmented local gover\u2026",
+      "url": "https://doi.org/10.1108/ijpsm-12-2025-0637",
+      "source": "International Journal of Public Sector Management",
+      "published_at": "2026-10-01T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": "This study examines how the ownership of waste collection providers affects the efficiency of municipal waste management in Croatia. It uses a two-stage analysis, first looking at cost and environmental service efficiency, and then examining the relationship between ownership types and these efficiencies while controlling for other factors. The findings suggest that having internal ownership, where the municipality owns the waste collection company, is not associated with efficiency. However, mixed ownership, where the municipality and other public entities share ownership, is negatively related to cost efficiency."
+    },
+    {
+      "title": "Electronic Governance and Transparency at the Local Government Level: The Role of Research",
+      "short_title": "Electronic Governance and Transparency at the Local Government Level: The Role of Research",
+      "url": "https://doi.org/10.56201/jpaswr.v11.no8.2026.pg101.110",
+      "source": "JOURNAL OF PUBLIC ADMINISTRATION AND SOCIAL WELFARE RESEARCH",
+      "published_at": "2026-09-24T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": "This research looks at how local governments can use technology to be more transparent and efficient. With advancements in technology, local governments can reduce costs by not needing physical offices and less paper. However, the study also found that not everyone is literate enough to use these technologies, and governments need to provide the necessary infrastructure. The study suggests that there needs to be strong support from leaders and government should allocate funds to make e-governance work effectively."
+    },
+    {
+      "title": "Digital transformation in e-government services: exploring the role of public trust, transparency, accountability and citizen satisfaction in real-time service delivery",
+      "short_title": "Digital transformation in e-government services: exploring the role of public trust, transpare\u2026",
+      "url": "https://doi.org/10.1108/jstpm-10-2025-0487",
+      "source": "Journal of Science and Technology Policy Management",
+      "published_at": "2026-09-23T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": "This study looks at how e-government services can be improved by making them more transparent, accountable, and trusted. It found that when people believe the government is open and honest about what it does, and that it follows rules fairly, they are more likely to use these services. The study also shows that if people feel their efforts are worth it and that the service helps them, they are more likely to use it. This research helps governments create better e-government services by making them more transparent and accountable, which in turn makes people more willing to use them."
     }
   ],
   "nonprofit": [
+    {
+      "title": "The Determinants of Voter Turnout in Croatian Local Government Elections",
+      "short_title": "The Determinants of Voter Turnout in Croatian Local Government Elections",
+      "url": "https://doi.org/10.20899/jpna.gdmpzd87",
+      "source": "Journal of Public and Nonprofit Affairs",
+      "published_at": "2026-09-15T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study looked at why people vote in local government elections in Croatia from 2014 to 2021. It found that if fewer people voted last time, they're likely to vote less again. Issues like whether the city provides good services and benefits also affect how many people show up to vote. The main parties aren't doing a good job of getting their supporters to participate."
+    },
     {
       "title": "THE CYBERNETIC DIAGNOSTIC OF ANTI-NARCOTIC SYSTEM: MODEL RAS-VI AS A TOOL OF SYSTEMIC EVALUATION",
       "short_title": "THE CYBERNETIC DIAGNOSTIC OF ANTI-NARCOTIC SYSTEM: MODEL RAS-VI AS A TOOL OF SYSTEMIC EVALUATI\u2026",
@@ -571,6 +598,15 @@
       "plain_summary": "Public trust in government institutions is crucial for effective governance, especially among educated youth in Muslim-majority societies. This study found that university students' trust in government is influenced by factors like religiosity, administrative transparency, and service quality. The research showed that service quality has the most significant impact on students' trust, more so than transparency or religious values. The study suggests that improving service quality is the most effective strategy for building trust in government institutions among young people."
     },
     {
+      "title": "From Visibility to Accountability: Designing Actionable Transparency Infrastructures for Public-Sector AI",
+      "short_title": "From Visibility to Accountability: Designing Actionable Transparency Infrastructures for Publi\u2026",
+      "url": "https://doi.org/10.1609/aies.v9i4.43367",
+      "source": "Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society",
+      "published_at": "2026-10-11T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "Transparency in AI systems for public sector has become important, but it often just gives people information about AI systems without allowing them to hold the government accountable. This can be seen in things like algorithmic registers where details about AI systems are available, but they don't easily help civil society or the media check on how the government is using AI. Our research found that these registers often have issues like data being split up in different places, making it hard to compare information, and not having ways for the public to easily use the data. To fix this, we created design principles and a prototype platform called PublicAlgo that aims to make it easier for the public to use the information provided by these registers."
+    },
+    {
       "title": "Citizen Trust and Digital Governance Transformation: Ethical Challenges and Artificial Intelligence Governance in the Public Sector",
       "short_title": "Citizen Trust and Digital Governance Transformation: Ethical Challenges and Artificial Intelli\u2026",
       "url": "https://doi.org/10.31000/jgcs.v10i2.16509",
@@ -596,6 +632,15 @@
       "published_at": "2026-10-08T00:00:00+00:00",
       "sentiment": "positive",
       "plain_summary": "This study examines how international human rights laws and anti-discrimination norms work in African countries, especially regarding laws that discriminate against LGBTQ+ individuals. It finds that while these international standards provide a strong legal foundation to protect people from discrimination, their effectiveness varies. States often resist these norms, either through their own laws or by prioritizing religious or cultural values. However, when domestic courts, regional bodies, and civil society groups actively push for these international standards, it can lead to better protections for LGBTQ+ people."
+    },
+    {
+      "title": "The Accountability Architecture: Linking Robust Financial Controls to Institutional Advancement in the NGO Sector",
+      "short_title": "The Accountability Architecture: Linking Robust Financial Controls to Institutional Advancemen\u2026",
+      "url": "https://doi.org/10.47941/ijecop.4000",
+      "source": "International Journal of Economic Policy",
+      "published_at": "2026-09-23T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study looked at how strong financial controls affect the growth of non-governmental organizations (NGOs) in East Africa. It found that having good financial controls, especially strong internal systems, helps NGOs grow. The research used surveys and interviews to gather data. The key takeaway is that NGOs need to focus on their financial controls to grow and be successful."
     }
   ]
 }
