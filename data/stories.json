@@ -1,5 +1,196 @@
 {
-  "updated_at": "2026-11-10T20:22:22.480615+00:00",
-  "government": [],
-  "nonprofit": []
+  "updated_at": "2026-11-11T18:07:04.814068+00:00",
+  "government": [
+    {
+      "title": "An Examination of Government Methods for Compensating Damage Resulting from Infringement of Public Rights",
+      "short_title": "An Examination of Government Methods for Compensating Damage Resulting from Infringement of Pu\u2026",
+      "url": "https://doi.org/10.61838/jhrlp.258",
+      "source": "Journal of Historical Research, Law and Policy",
+      "published_at": "2027-01-01T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": "This study looks at how governments in Iran handle situations where their actions harm collective interests or public rights. It examines legal systems that provide ways to compensate for such harms and restore balance. The research finds there are different types of compensation depending on whether the government acted wrongfully or not, and it also covers cases where they did something lawful but still caused damage. Challenges like unclear laws, difficulty proving harm in collective situations, and lack of coordination between different parts of the system can make these mechanisms less effective even if the basic rules are clear."
+    },
+    {
+      "title": "The Legal Foundations for the Evolving Role of Oversight Bodies in Combating Corruption in Iraq",
+      "short_title": "The Legal Foundations for the Evolving Role of Oversight Bodies in Combating Corruption in Iraq",
+      "url": "https://doi.org/10.61838/kman.isslp.564",
+      "source": "Interdisciplinary Studies in Society, Law, and Politics",
+      "published_at": "2027-01-01T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This research looks at how the legal system in Iraq supports oversight bodies in fighting corruption. It examines the laws and constitution that give these bodies their powers and how they've grown stronger over time. The study also looks at international agreements that have influenced Iraq's approach. The main goal is to make sure these bodies can effectively monitor and prevent corruption."
+    },
+    {
+      "title": "Evaluation of the Policymaking System and Institutions for Combating Administrative Corruption in Afghanistan during the Republican Period (2004\u20132021)",
+      "short_title": "Evaluation of the Policymaking System and Institutions for Combating Administrative Corruption\u2026",
+      "url": "https://doi.org/10.61838/jhrlp.383",
+      "source": "Journal of Historical Research, Law and Policy",
+      "published_at": "2027-01-01T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "During the Republican period in Afghanistan (2004-2021), administrative corruption was a major issue affecting governance. The government worked with international support to create laws, anti-corruption strategies, and institutions. However, despite progress in these areas, corruption did not significantly decrease. The study found that while there were improvements in legislation and institution building, the effectiveness of policies weakened at implementation stages."
+    },
+    {
+      "title": "Prevention of Conflicts of Interest in Integrated Territorial Development in Moscow: Implementation of CSTO Anti-Corruption Standards in Urban Planning Zoning",
+      "short_title": "Prevention of Conflicts of Interest in Integrated Territorial Development in Moscow: Implement\u2026",
+      "url": "https://doi.org/10.18572/2500-0292-2026-4-9-14",
+      "source": "Town-Planning Law",
+      "published_at": "2026-12-24T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This article talks about how to prevent corruption in Moscow's urban planning. It identifies risks like changing land use and giving out plots to developers, which can lead to corruption. The author suggests a four-level system to stop this from happening. This system helps ensure that projects are done fairly and without favoritism."
+    },
+    {
+      "title": "Control of corruption in Emerging Asian Economies: The influence of GDP, freedom and speech, rule of law, and women in parliament",
+      "short_title": "Control of corruption in Emerging Asian Economies: The influence of GDP, freedom and speech, r\u2026",
+      "url": "https://doi.org/10.1016/j.ssaho.2026.103357",
+      "source": "Social Sciences &amp; Humanities Open",
+      "published_at": "2026-12-01T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": null
+    },
+    {
+      "title": "Perceptions of government and health-sector corruption and inappropriate professional conduct during the COVID-19 pandemic among workers in 13 Latin American countries: a multicountry cross-sectional study",
+      "short_title": "Perceptions of government and health-sector corruption and inappropriate professional conduct\u2026",
+      "url": "https://doi.org/10.1016/j.ssaho.2026.103479",
+      "source": "Social Sciences &amp; Humanities Open",
+      "published_at": "2026-12-01T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": null
+    },
+    {
+      "title": "The role of public sector corruption, informal economy and agricultural employment on the load capacity factor: Testing the LCC hypothesis for Ecuador",
+      "short_title": "The role of public sector corruption, informal economy and agricultural employment on the load\u2026",
+      "url": "https://doi.org/10.1016/j.indic.2026.101565",
+      "source": "Environmental and Sustainability Indicators",
+      "published_at": "2026-12-01T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": null
+    },
+    {
+      "title": "Corporate corruption under local government financial stress: The role of land finance in China",
+      "short_title": "Corporate corruption under local government financial stress: The role of land finance in China",
+      "url": "https://doi.org/10.1016/j.jcae.2026.100583",
+      "source": "Journal of Contemporary Accounting &amp; Economics",
+      "published_at": "2026-12-01T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": null
+    },
+    {
+      "title": "AI Regulation and Its Social Impacts on Public Policy",
+      "short_title": "AI Regulation and Its Social Impacts on Public Policy",
+      "url": "https://doi.org/10.55737/rl.v5i1.26181",
+      "source": "Regional Lens",
+      "published_at": "2026-11-11T18:06:36.428458+00:00",
+      "sentiment": "positive",
+      "plain_summary": "AI is now a key part of how governments make decisions in many areas like healthcare, policing, and welfare. As more AI systems are used, it's important to have rules to make sure they work fairly and don't cause problems. These rules help ensure that AI doesn't lead to unfair treatment or less democracy. By carefully watching how AI is used, we can make sure it helps people and doesn't hurt them."
+    },
+    {
+      "title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bilan d\u2019une recherche immersive en Police Judiciaire fran\u00e7aise",
+      "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
+      "url": "https://doi.org/10.3917/gmp.pr1.0009",
+      "source": "Gestion et management public",
+      "published_at": "2026-11-11T18:06:00.234094+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This research focuses on understanding the emotional risks in police work and how they manage their emotions to improve job satisfaction. It was conducted by observing various police units like forensic science, digital investigation, financial division, criminal division, anti-terrorism unit, and more over 26 days. The study found two key emotions that are hard for them to express: interest and frustration. These emotions make it difficult for officers to discuss their work-related feelings openly, leading to invisible or undiscussed labor."
+    },
+    {
+      "title": "A Policy Analysis of PFAS Regulations in Maine and the US Federal Government",
+      "short_title": "A Policy Analysis of PFAS Regulations in Maine and the US Federal Government",
+      "url": "https://doi.org/10.53558/wsmtdy02",
+      "source": "Maine Policy Review",
+      "published_at": "2026-11-11T18:05:55.734010+00:00",
+      "sentiment": "positive",
+      "plain_summary": "Per- and polyfluoroalkyl substances (PFAS) are harmful chemicals found in many products that have contaminated the environment. The US government has not uniformly addressed PFAS issues, but some states like Maine have taken strong actions. Maine has implemented various measures such as education, labeling requirements, and bans on certain agricultural practices. They also have unique regulations like banning the use of PFAS in food products like beef, dairy, and eggs."
+    },
+    {
+      "title": "Data Science as a Catalyst for Audit Transformation",
+      "short_title": "Data Science as a Catalyst for Audit Transformation",
+      "url": "https://doi.org/10.56251/clyp9463",
+      "source": "International Journal of Government Auditing",
+      "published_at": "2026-11-11T18:05:55.733284+00:00",
+      "sentiment": "positive",
+      "plain_summary": "Data science has become crucial as we generate vast amounts of information daily. It helps transform this data into useful insights for better decision-making across various sectors. For audit institutions, integrating data science can enhance their ability to manage public funds more effectively and improve accountability. By using data science, audits can provide clearer and more accurate reports that recommend improvements faster, which benefits the overall administration and improves citizens' quality of life."
+    },
+    {
+      "title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
+      "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
+      "url": "https://doi.org/10.56251/tydf1981",
+      "source": "International Journal of Government Auditing",
+      "published_at": "2026-11-11T18:05:55.732995+00:00",
+      "sentiment": "positive",
+      "plain_summary": null
+    },
+    {
+      "title": "Killer Robots \u2013 A Case for SAIs",
+      "short_title": "Killer Robots \u2013 A Case for SAIs",
+      "url": "https://doi.org/10.56251/ojyp9121",
+      "source": "International Journal of Government Auditing",
+      "published_at": "2026-11-11T18:05:55.732829+00:00",
+      "sentiment": "positive",
+      "plain_summary": "This paper discusses a scenario where autonomous killer robots are used in warfare without human intervention. These robots can make decisions about who to target based on AI algorithms trained to recognize certain uniforms. If one of these drones targets and kills an enemy soldier who is surrendering, it would violate international laws. Another concern is if the robot makes a mistake by attacking another similar system, leading to unintended conflicts."
+    },
+    {
+      "title": "The dark side of public service motivation : Analysis of noble cause corruption based on the Lebanese case",
+      "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
+      "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
+      "source": "Gestion et management public",
+      "published_at": "2026-11-11T18:05:55.732421+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study examines how public service motivation can lead to noble cause corruption in Lebanon, where there's a lot of social and economic hardship. The research found that feelings like compassion and selflessness often push people into doing good deeds for noble causes, but these actions sometimes involve corrupt practices. This leads to internal conflicts as the person feels both guilty and supported by their work environment. Factors like physical exchanges, personal space in the workplace, and close relationships with users can make it easier for this type of corruption to happen."
+    },
+    {
+      "title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause noble \u00e0 partir du cas libanais",
+      "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
+      "url": "https://doi.org/10.3917/gmp.pr1.0018",
+      "source": "Gestion et management public",
+      "published_at": "2026-11-11T18:05:55.732209+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study examines how public service motivation can lead to corruption for a noble cause in Lebanon, where corruption is prevalent and social issues are challenging. Based on interviews with 32 Lebanese public servants, the research explores how feelings of compassion and self-sacrifice related to public service motivation might encourage them to engage in corrupt behavior for what they see as a good cause. The study highlights that these motivations can lead to behaviors like providing extra support or shielding users from punishment. This can create internal conflicts within the public servant due to their emotional connection with those affected."
+    },
+    {
+      "title": "Market Failure or Government Failure? A Response to Jaworski",
+      "short_title": "Market Failure or Government Failure? A Response to Jaworski",
+      "url": "https://doi.org/10.12747/bejr2013.01.08",
+      "source": "Business Ethics Journal Review",
+      "published_at": "2026-11-11T18:05:55.731835+00:00",
+      "sentiment": "negative",
+      "plain_summary": null
+    },
+    {
+      "title": "Economic Coordination, Political Regime and Sustainability Outcomes: Cross-National Evidence on Corruption, Inflation and Growth",
+      "short_title": "Economic Coordination, Political Regime and Sustainability Outcomes: Cross-National Evidence o\u2026",
+      "url": "https://doi.org/10.3390/su182211488",
+      "source": "Sustainability",
+      "published_at": "2026-11-11T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study looks at how different types of economic coordination, like how much the government manages things, relate to corruption, inflation, and economic growth in various countries. They found that countries with more coordinated economies tend to have lower levels of corruption and are more likely to be democratic. However, once they controlled for the level of democracy, the link between economic coordination and corruption didn't hold up. They also found a small positive link between economic coordination and inflation, but this only remained significant when they accounted for democracy."
+    },
+    {
+      "title": "Governance Transformation of the Free Nutritious Meal (MBG) Program",
+      "short_title": "Governance Transformation of the Free Nutritious Meal (MBG) Program",
+      "url": "https://doi.org/10.62885/improsci.v4i2.1362",
+      "source": "Jurnal Improsci",
+      "published_at": "2026-11-10T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "The Free Nutritious Meal (MBG) program faced a major change after corruption allegations led to the resignation of key officials. The new leadership introduced new rules like limiting the number of schools that can offer meals and focusing on vulnerable communities. This shift aims to save money and improve efficiency, but faces challenges because existing laws don't recognize school canteens as official meal providers. This change affects different groups, including schools that were previously allowed to offer meals, schools still waiting for permission to start, and new businesses that might want to enter the market."
+    },
+    {
+      "title": "SPIRITUALITY, POWER, AND CORRUPTION: UNDERSTANDING THE PARADOXOF HIGHLY RELIGIOUS AFRICAN SOCIETIES",
+      "short_title": "SPIRITUALITY, POWER, AND CORRUPTION: UNDERSTANDING THE PARADOXOF HIGHLY RELIGIOUS AFRICAN SOCI\u2026",
+      "url": "https://doi.org/10.68653/na13xj72",
+      "source": "PLASU Journal of Religion, Cultural and Humanities",
+      "published_at": "2026-11-10T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study explores how spirituality, power, and corruption interact in African societies, particularly in Nigeria. Despite high levels of religiosity, these countries often struggle with corruption and weak governance. The research suggests that while religion provides moral guidance, it can also be used as a tool for political gain. This leads to ethical relativism and corruption."
+    }
+  ],
+  "nonprofit": [
+    {
+      "title": "Governing the lithium boom in Ghana, South Africa and Zimbabwe: civil society and social accountability in critical minerals governance",
+      "short_title": "Governing the lithium boom in Ghana, South Africa and Zimbabwe: civil society and social accou\u2026",
+      "url": "https://doi.org/10.1016/j.exis.2026.102098",
+      "source": "The Extractive Industries and Society",
+      "published_at": "2027-03-01T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": null
+    }
+  ]
 }
