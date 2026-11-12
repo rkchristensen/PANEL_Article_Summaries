@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T01:51:59.721039+00:00",
+  "updated_at": "2026-11-12T23:31:07.634762+00:00",
   "government": [
     {
       "title": "Anti-corruption policies: examining and evaluating the integration of agencies and whistleblower systems",
@@ -11,6 +11,15 @@
       "plain_summary": null
     },
     {
+      "title": "The Determinants of Voter Turnout in Croatian Local Government Elections",
+      "short_title": "The Determinants of Voter Turnout in Croatian Local Government Elections",
+      "url": "https://doi.org/10.20899/jpna.gdmpzd87",
+      "source": "Journal of Public and Nonprofit Affairs",
+      "published_at": "2026-09-15T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study looked at why people vote in local government elections in Croatia from 2014 to 2021. It found that if fewer people voted last time, they're likely to vote less again. Issues like whether the city provides good services and benefits also affect how many people show up to vote. The main parties aren't doing a good job of getting their supporters to participate."
+    },
+    {
       "title": "Social Norms, State Punishment, and Motivation Crowding in Anti\u2010Corruption Messaging: Experimental Evidence From China",
       "short_title": "Social Norms, State Punishment, and Motivation Crowding in Anti\u2010Corruption Messaging: Experime\u2026",
       "url": "https://doi.org/10.1111/gove.70151",
@@ -18,15 +27,6 @@
       "published_at": "2026-08-30T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how people's beliefs about corruption influence their attitudes towards fighting it. In a large survey experiment conducted in China, researchers found that when people were told the actual level of tolerance for corruption is much lower than they thought, it made them more likely to want to fight corruption. However, if this information was paired with suggestions of punishment, it seemed to weaken the effect. This shows that simply telling people about how corrupt others are might not be as effective as also showing what actions can be taken against it."
-    },
-    {
-      "title": "An Examination of Government Methods for Compensating Damage Resulting from Infringement of Public Rights",
-      "short_title": "An Examination of Government Methods for Compensating Damage Resulting from Infringement of Pu\u2026",
-      "url": "https://doi.org/10.61838/jhrlp.258",
-      "source": "Journal of Historical Research, Law and Policy",
-      "published_at": "2027-01-01T00:00:00+00:00",
-      "sentiment": "positive",
-      "plain_summary": "This study looks at how governments in Iran handle situations where their actions harm collective interests or public rights. It examines legal systems that provide ways to compensate for such harms and restore balance. The research finds there are different types of compensation depending on whether the government acted wrongfully or not, and it also covers cases where they did something lawful but still caused damage. Challenges like unclear laws, difficulty proving harm in collective situations, and lack of coordination between different parts of the system can make these mechanisms less effective even if the basic rules are clear."
     },
     {
       "title": "The Legal Foundations for the Evolving Role of Oversight Bodies in Combating Corruption in Iraq",
@@ -128,11 +128,20 @@
       "plain_summary": null
     },
     {
+      "title": "AI Regulation and Its Social Impacts on Public Policy",
+      "short_title": "AI Regulation and Its Social Impacts on Public Policy",
+      "url": "https://doi.org/10.55737/rl.v5i1.26181",
+      "source": "Regional Lens",
+      "published_at": "2026-11-12T23:25:39.978270+00:00",
+      "sentiment": "positive",
+      "plain_summary": "AI is now a key part of how governments make decisions in many areas like healthcare, policing, and welfare. As more AI systems are used, it's important to have rules to make sure they work fairly and don't cause problems. These rules help ensure that AI doesn't lead to unfair treatment or less democracy. By carefully watching how AI is used, we can make sure it helps people and doesn't hurt them."
+    },
+    {
       "title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bilan d\u2019une recherche immersive en Police Judiciaire fran\u00e7aise",
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-11-12T00:32:55.305831+00:00",
+      "published_at": "2026-11-12T23:20:53.694560+00:00",
       "sentiment": "negative",
       "plain_summary": "This research focuses on understanding the emotional risks in police work and how they manage their emotions to improve job satisfaction. It was conducted by observing various police units like forensic science, digital investigation, financial division, criminal division, anti-terrorism unit, and more over 26 days. The study found two key emotions that are hard for them to express: interest and frustration. These emotions make it difficult for officers to discuss their work-related feelings openly, leading to invisible or undiscussed labor."
     },
@@ -141,7 +150,7 @@
       "short_title": "A Policy Analysis of PFAS Regulations in Maine and the US Federal Government",
       "url": "https://doi.org/10.53558/wsmtdy02",
       "source": "Maine Policy Review",
-      "published_at": "2026-11-12T00:32:53.531523+00:00",
+      "published_at": "2026-11-12T23:20:51.548654+00:00",
       "sentiment": "positive",
       "plain_summary": "Per- and polyfluoroalkyl substances (PFAS) are harmful chemicals found in many products that have contaminated the environment. The US government has not uniformly addressed PFAS issues, but some states like Maine have taken strong actions. Maine has implemented various measures such as education, labeling requirements, and bans on certain agricultural practices. They also have unique regulations like banning the use of PFAS in food products like beef, dairy, and eggs."
     },
@@ -150,7 +159,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-11-12T00:32:53.531226+00:00",
+      "published_at": "2026-11-12T23:20:51.548346+00:00",
       "sentiment": "positive",
       "plain_summary": "Data science has become crucial as we generate vast amounts of information daily. It helps transform this data into useful insights for better decision-making across various sectors. For audit institutions, integrating data science can enhance their ability to manage public funds more effectively and improve accountability. By using data science, audits can provide clearer and more accurate reports that recommend improvements faster, which benefits the overall administration and improves citizens' quality of life."
     },
@@ -159,7 +168,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-11-12T00:32:53.530966+00:00",
+      "published_at": "2026-11-12T23:20:51.548085+00:00",
       "sentiment": "positive",
       "plain_summary": null
     },
@@ -168,7 +177,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-11-12T00:32:53.530931+00:00",
+      "published_at": "2026-11-12T23:20:51.548048+00:00",
       "sentiment": "positive",
       "plain_summary": "This paper discusses a scenario where autonomous killer robots are used in warfare without human intervention. These robots can make decisions about who to target based on AI algorithms trained to recognize certain uniforms. If one of these drones targets and kills an enemy soldier who is surrendering, it would violate international laws. Another concern is if the robot makes a mistake by attacking another similar system, leading to unintended conflicts."
     },
@@ -177,7 +186,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-11-12T00:32:53.530532+00:00",
+      "published_at": "2026-11-12T23:20:51.547647+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how public service motivation can lead to noble cause corruption in Lebanon, where there's a lot of social and economic hardship. The research found that feelings like compassion and selflessness often push people into doing good deeds for noble causes, but these actions sometimes involve corrupt practices. This leads to internal conflicts as the person feels both guilty and supported by their work environment. Factors like physical exchanges, personal space in the workplace, and close relationships with users can make it easier for this type of corruption to happen."
     },
@@ -186,7 +195,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-11-12T00:32:53.530330+00:00",
+      "published_at": "2026-11-12T23:20:51.547443+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines how public service motivation can lead to corruption for a noble cause in Lebanon, where corruption is prevalent and social issues are challenging. Based on interviews with 32 Lebanese public servants, the research explores how feelings of compassion and self-sacrifice related to public service motivation might encourage them to engage in corrupt behavior for what they see as a good cause. The study highlights that these motivations can lead to behaviors like providing extra support or shielding users from punishment. This can create internal conflicts within the public servant due to their emotional connection with those affected."
     },
@@ -195,9 +204,27 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-11-12T00:32:53.529970+00:00",
+      "published_at": "2026-11-12T23:20:51.547103+00:00",
       "sentiment": "negative",
       "plain_summary": null
+    },
+    {
+      "title": "Institutional corruption and the architecture of divergence: purpose\u2013outcome misalignment in a Haitian regional public university",
+      "short_title": "Institutional corruption and the architecture of divergence: purpose\u2013outcome misalignment in a\u2026",
+      "url": "https://doi.org/10.1080/23322969.2026.2761356",
+      "source": "Policy Reviews in Higher Education",
+      "published_at": "2026-11-12T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": null
+    },
+    {
+      "title": "Accountability and Transparency of Public Servants in Tanzania: Reflections on Successes and Challenges towards Socio-economic Development",
+      "short_title": "Accountability and Transparency of Public Servants in Tanzania: Reflections on Successes and C\u2026",
+      "url": "https://doi.org/10.56201/jafm.v10.no6.2024.pg51.64",
+      "source": "JOURNAL OF ACCOUNTING AND FINANCIAL MANAGEMENT",
+      "published_at": "2026-11-12T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": "This paper discusses how public servants in Tanzania are expected to be accountable and transparent in their work to improve the lives of the people. Good leaders at all levels of government are responsible for ensuring this happens. The study looks at how well this is being done and what challenges are preventing it from being fully effective. It aims to find ways to make public servants more accountable and open about their work to better serve the public."
     },
     {
       "title": "Economic Coordination, Political Regime and Sustainability Outcomes: Cross-National Evidence on Corruption, Inflation and Growth",
@@ -234,24 +261,6 @@
       "published_at": "2026-11-11T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "The study discusses how to prevent corruption in institutions by using reputation systems. It suggests that having both public and private reputation systems can help maintain cooperation. Public systems work by giving honest umpires good reputations and corrupt ones bad reputations. This helps reduce corruption."
-    },
-    {
-      "title": "Governance Transformation of the Free Nutritious Meal (MBG) Program",
-      "short_title": "Governance Transformation of the Free Nutritious Meal (MBG) Program",
-      "url": "https://doi.org/10.62885/improsci.v4i2.1362",
-      "source": "Jurnal Improsci",
-      "published_at": "2026-11-10T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "The Free Nutritious Meal (MBG) program faced a major change after corruption allegations led to the resignation of key officials. The new leadership introduced new rules like limiting the number of schools that can offer meals and focusing on vulnerable communities. This shift aims to save money and improve efficiency, but faces challenges because existing laws don't recognize school canteens as official meal providers. This change affects different groups, including schools that were previously allowed to offer meals, schools still waiting for permission to start, and new businesses that might want to enter the market."
-    },
-    {
-      "title": "SPIRITUALITY, POWER, AND CORRUPTION: UNDERSTANDING THE PARADOXOF HIGHLY RELIGIOUS AFRICAN SOCIETIES",
-      "short_title": "SPIRITUALITY, POWER, AND CORRUPTION: UNDERSTANDING THE PARADOXOF HIGHLY RELIGIOUS AFRICAN SOCI\u2026",
-      "url": "https://doi.org/10.68653/na13xj72",
-      "source": "PLASU Journal of Religion, Cultural and Humanities",
-      "published_at": "2026-11-10T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This study explores how spirituality, power, and corruption interact in African societies, particularly in Nigeria. Despite high levels of religiosity, these countries often struggle with corruption and weak governance. The research suggests that while religion provides moral guidance, it can also be used as a tool for political gain. This leads to ethical relativism and corruption."
     },
     {
       "title": "Challenges of Auditing in the Public Sector and Their Implications on Accountability",
@@ -335,6 +344,15 @@
       "plain_summary": "This article looks at how China fights corruption without using democratic methods. It combines different ideas about corruption and governance to explain how China manages this issue. The study found that China uses four main strategies: balancing power between the central government and local areas, dealing with both punishment and prevention, focusing on both big and small corruption cases, and balancing anti-corruption efforts with economic development. While these strategies work well against petty and grand corruption, they are less effective against corruption involving access to power."
     },
     {
+      "title": "When drugs speak: an exploratory convergent mixed-methods study of a first-person creative narrative activity for anti-seizure medication pharmacology in undergraduate medical education",
+      "short_title": "When drugs speak: an exploratory convergent mixed-methods study of a first-person creative nar\u2026",
+      "url": "https://doi.org/10.1186/s12909-026-10671-3",
+      "source": "BMC Medical Education",
+      "published_at": "2026-11-06T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study evaluated a creative writing activity called \"When Drugs Speak\" for teaching anti-seizure medications to medical students. The activity involved students writing from the perspective of an anti-seizure medication, giving it a personality and story based on its pharmacological properties. Over 90% of students preferred this activity over traditional revision methods and reported improved retention and interest in pharmacology. The writing showed students engaged with various aspects of pharmacology, though less so with pharmacokinetic information."
+    },
+    {
       "title": "Algorithmic Authority in Practice: Generative AI, Decision-Making, and Accountability in Public Administration",
       "short_title": "Algorithmic Authority in Practice: Generative AI, Decision-Making, and Accountability in Publi\u2026",
       "url": "https://doi.org/10.1145/3859490",
@@ -344,15 +362,6 @@
       "plain_summary": "This study explores how generative AI (GenAI) is changing how public officials make decisions and hold each other accountable. It found that GenAI can concentrate decision-making authority in officials who don't understand it, leading to some decisions being automatically accepted and others overridden. GenAI's outputs can also make officials feel less accountable, as responsibility is spread out. The study suggests that while GenAI can improve performance, it can also make it harder for officials to maintain trust with the public."
     },
     {
-      "title": "Anti-HBc seropositivity among women of childbearing age in Indonesia: a nationally representative cross-sectional study",
-      "short_title": "Anti-HBc seropositivity among women of childbearing age in Indonesia: a nationally representat\u2026",
-      "url": "https://doi.org/10.3389/fpubh.2026.1848955",
-      "source": "Frontiers in Public Health",
-      "published_at": "2026-11-04T00:00:00+00:00",
-      "sentiment": "positive",
-      "plain_summary": "This study looked at how many Indonesian women aged 15 to 49 have been exposed to the hepatitis B virus. It found that women over 35 years old, those with less education, who work, live in rural areas, or use birth control are more likely to have this exposure. The main finding is that many women in this age group are still at risk for hepatitis B. This means healthcare providers should pay extra attention to these women, offering them tests, vaccines, and other preventive measures."
-    },
-    {
       "title": "Government Transparency Increases Trust in Government: Disentangling Effects of Government Transparency From Effects of Information",
       "short_title": "Government Transparency Increases Trust in Government: Disentangling Effects of Government Tra\u2026",
       "url": "https://doi.org/10.1177/07349149261493129",
@@ -360,6 +369,15 @@
       "published_at": "2026-11-04T00:00:00+00:00",
       "sentiment": "positive",
       "plain_summary": "The study found that government transparency generally increases trust in government, but this relationship can be explained by different theories. Government transparency can make people trust the government more, which aligns with the idea that government acts help citizens understand and participate in decision-making (deliberative democracy theory). However, it also shows that the information disclosed can either increase or decrease trust, depending on how the information is presented. This means that when the government discloses information, it can either build or break trust, not just because of the transparency itself but also because of the information provided."
+    },
+    {
+      "title": "Anti-HBc seropositivity among women of childbearing age in Indonesia: a nationally representative cross-sectional study",
+      "short_title": "Anti-HBc seropositivity among women of childbearing age in Indonesia: a nationally representat\u2026",
+      "url": "https://doi.org/10.3389/fpubh.2026.1848955",
+      "source": "Frontiers in Public Health",
+      "published_at": "2026-11-04T00:00:00+00:00",
+      "sentiment": "positive",
+      "plain_summary": "This study looked at how many Indonesian women aged 15 to 49 have been exposed to the hepatitis B virus. It found that women over 35 years old, those with less education, who work, live in rural areas, or use birth control are more likely to have this exposure. The main finding is that many women in this age group are still at risk for hepatitis B. This means healthcare providers should pay extra attention to these women, offering them tests, vaccines, and other preventive measures."
     },
     {
       "title": "Lobbying Regulation, Anti-Corruption, and the Fight Against Foreign Influence in the European Union after Qatargate: Coherent Approach or Double Standards?",
@@ -497,6 +515,15 @@
       "plain_summary": null
     },
     {
+      "title": "Public Sector Corruption and Accountability in Anambra State Ministry of Education, 2015\u20132025",
+      "short_title": "Public Sector Corruption and Accountability in Anambra State Ministry of Education, 2015\u20132025",
+      "url": "https://doi.org/10.56201/jpslr.vol.12.no10.2026.pg87.99",
+      "source": "JOURNAL OF POLITICAL SCIENCE AND LEADERSHIP RESEARCH",
+      "published_at": "2026-10-27T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study looked at corruption and accountability issues in the Anambra State Ministry of Education from 2015 to 2025. It found that misuse of funds and favoritism were major problems. Misuse of funds included things like inflated contracts, incomplete deliveries, and discrepancies between what was planned and what was actually done. Favoritism meant that people with connections got more benefits."
+    },
+    {
       "title": "\u201cNobody Wants a Trailer That Had Dead Bodies in It\u201d: A Descriptive Study of the Ethics of Public Sector Deathcare",
       "short_title": "\u201cNobody Wants a Trailer That Had Dead Bodies in It\u201d: A Descriptive Study of the Ethics of Publ\u2026",
       "url": "https://doi.org/10.1177/07349149261495968",
@@ -513,36 +540,18 @@
       "published_at": "2026-10-23T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "This study looks at how following or not following rules when buying things for public projects in Ghana affects corruption and how much value those projects provide. It found that not following the rules, especially in areas like choosing bidders fairly, keeping proper records, and checking on projects after they start, leads to more corruption and less value for money. Stronger oversight and better training for people who handle these projects can help reduce corruption. The research helps policymakers understand what works best to stop corruption in Ghana's infrastructure projects."
-    },
-    {
-      "title": "Not All Protections are Equal: A Review of U.S. Anti-Bullying Laws",
-      "short_title": "Not All Protections are Equal: A Review of U.S. Anti-Bullying Laws",
-      "url": "https://doi.org/10.1177/10442073261495520",
-      "source": "Journal of Disability Policy Studies",
-      "published_at": "2026-10-23T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "Bullying is a common issue in schools, but there isn't a federal law that directly addresses it. States are responsible for creating their own laws and policies about bullying. While many states now have definitions of bullying, there are still big gaps in how they handle issues like power imbalances, repeated bullying, and bullying based on someone's identity. These differences mean some students might not get the same level of protection depending on where they go to school."
-    },
-    {
-      "title": "DIGITAL FORENSIC ACCOUNTING: INTEGRATING DIGITAL EVIDENCE, ADVANCED ANALYTICS AND PROFESSIONAL JUDGEMENT FOR FRAUD DETECTION AND FINANCIAL INTEGRITY",
-      "short_title": "DIGITAL FORENSIC ACCOUNTING: INTEGRATING DIGITAL EVIDENCE, ADVANCED ANALYTICS AND PROFESSIONAL\u2026",
-      "url": "https://doi.org/10.55829/j76a5g02",
-      "source": "International Journal of Management, Public Policy and Research",
-      "published_at": "2026-10-22T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "Digital forensic accounting is becoming crucial as financial systems increasingly rely on digital technology. This field combines accounting knowledge with investigative methods, digital forensics, and advanced technologies to detect fraud and maintain financial integrity. Tools like digital evidence, data analytics, AI, and machine learning can help identify suspicious transactions and examine financial data. However, there are challenges such as technological complexity, privacy concerns, legal and ethical issues, and the need for specialized skills."
-    },
-    {
-      "title": "Building Integrity in the Global South: Lessons from Pakistan\u2019s Struggle Against Public Sector Corruption",
-      "short_title": "Building Integrity in the Global South: Lessons from Pakistan\u2019s Struggle Against Public Sector\u2026",
-      "url": "https://doi.org/10.1080/01900692.2026.2741072",
-      "source": "International Journal of Public Administration",
-      "published_at": "2026-10-20T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": null
     }
   ],
   "nonprofit": [
+    {
+      "title": "The Determinants of Voter Turnout in Croatian Local Government Elections",
+      "short_title": "The Determinants of Voter Turnout in Croatian Local Government Elections",
+      "url": "https://doi.org/10.20899/jpna.gdmpzd87",
+      "source": "Journal of Public and Nonprofit Affairs",
+      "published_at": "2026-09-15T00:00:00+00:00",
+      "sentiment": "negative",
+      "plain_summary": "This study looked at why people vote in local government elections in Croatia from 2014 to 2021. It found that if fewer people voted last time, they're likely to vote less again. Issues like whether the city provides good services and benefits also affect how many people show up to vote. The main parties aren't doing a good job of getting their supporters to participate."
+    },
     {
       "title": "Governing the lithium boom in Ghana, South Africa and Zimbabwe: civil society and social accountability in critical minerals governance",
       "short_title": "Governing the lithium boom in Ghana, South Africa and Zimbabwe: civil society and social accou\u2026",
@@ -614,15 +623,6 @@
       "published_at": "2026-10-09T00:00:00+00:00",
       "sentiment": "negative",
       "plain_summary": "This study examines corruption in the Bank BJB advertising procurement case, analyzing eight news reports from different media sources. The findings show that corruption was sustained through patronage, mutual benefit relationships, brokers, and informal networks. These practices led to financial losses for the state, policy distortions, reduced oversight, and declining accountability. The study highlights how actor configurations and relational mechanisms support organized corruption, offering insights for improving transparency and governance in public procurement."
-    },
-    {
-      "title": "The Accountability Architecture: Linking Robust Financial Controls to Institutional Advancement in the NGO Sector",
-      "short_title": "The Accountability Architecture: Linking Robust Financial Controls to Institutional Advancemen\u2026",
-      "url": "https://doi.org/10.47941/ijecop.4000",
-      "source": "International Journal of Economic Policy",
-      "published_at": "2026-09-23T00:00:00+00:00",
-      "sentiment": "negative",
-      "plain_summary": "This study looked at how strong financial controls affect the growth of non-governmental organizations (NGOs) in East Africa. It found that having good financial controls, especially strong internal systems, helps NGOs grow. The research used surveys and interviews to gather data. The key takeaway is that NGOs need to focus on their financial controls to grow and be successful."
     }
   ]
 }
